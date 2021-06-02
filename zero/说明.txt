@@ -1,0 +1,4 @@
+原站点：
+http://homepages.conceptera.com/zero/
+
+该本地站点经过修改，去掉了每个页面下的评论回复框，并有部分同人创作页面没有包含。

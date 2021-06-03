@@ -1,96 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: home-page
+---
+{% include calculate_relative_base.html %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-        content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
-
-    <title>本本子的个人页</title>
- 
-    <link rel="stylesheet" type="text/css" href="css/FiraCode.css">
-    <link rel="stylesheet" type="text/css" href="css/benbenzi.css">
-    <link rel="icon" href="/favicon.ico">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-</head>
-
-<body>
-    <div id="box">
-        <!-- 个人资料卡片 -->
-        <div class="meBox">
-            <!-- 头像 -->
-            <div class="headPhoto"></div>
-            <!-- 介绍 -->
-            <div class="meBox-title">
-                <p>这里是，本本子</p>
-                <div class="fg"></div>
-            </div>
-            <div class="meBox-text">
-                <p>一条咸鱼</p>
-            </div>
-            <!-- 两个按钮 -->
-            <div class="meBox-Button">
-                <a href="https://benbenzi.github.io">关于</a>
-                <a href="https://benbenzi.github.io">联系</a>
-            </div>
-        </div>
-
-        <!-- 伪终端介绍 -->
-        <div id="cmdBox">
-            <!-- 第一个终端 -->
-            <div class="cmd">
-                <!-- 三个按钮 -->
-                <div class="click">
-                    <div class="red"></div>
-                    <div class="yellow"></div>
-                    <div class="green"></div>
-                </div>
-                <!-- 顶部标题 -->
-                <div class="title">
-                    <span>benbenzi - bash</span>
-                </div>
-                <!-- 终端内文字 -->
-                <div class="cmdText">
-                    <span style="color: rgb(0, 190, 0);">root@benbenzi</span>
-                    <span style="color: blue;">~</span>
-                    <span style="color: rgb(39, 39, 39);">cat /me.txt</span>
-                    <p>来点色图？</p>
-                </div>
-            </div>
-            <!-- 第二个终端 -->
-            <div class="cmd cmd2">
-                <!-- 三个按钮 -->
-                <div class="click">
-                    <div class="red"></div>
-                    <div class="yellow"></div>
-                    <div class="green"></div>
-                </div>
-                <!-- 顶部标题 -->
-                <div class="title">
-                    <span>benbenzi - bash</span>
-                </div>
-                <!-- 终端内文字 -->
-                <div class="cmdText">
-                    <span style="color: rgb(0, 190, 0);">root@benbenzi</span>
-                    <span style="color: blue;">~</span>
-                    <span style="color: rgb(39, 39, 39);">./links.sh</span>
-                    <p>其他林克：</p>
-                    <ul class="ul">
-                        <li><a href="https://weibo.com/flamebeam">微博</a></li>
-                        <li><a href="https://benbenzi.github.io/Miiverse/index.html">Miiverse</a></li>
-                        <li><a href="https://benbenzi.github.io/zero/zero.html">零Zero民间站</a></li>
-                    </ul>
-                    <span style="color: rgb(0, 190, 0);">root@benbenzi</span>
-                    <span style="color: blue;">~</span>
-                </div>
-            </div>
-        </div>
+<ol class="post-card-box clearfix">
+  {% for post in paginator.posts %}
+  {% include remove_double_slash.html %}
+  <li>
+    <div class="post-card">
+      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+      </a>
+      <div class="post-card-body">
+        <p class="post-card-title-and-meta">
+          
+          <a href="{{ post_url }}" class="post-card-link">
+          {{ post.title }}
+          </a>
+          {% include post_meta.html type="post-card-meta" date="none" %}
+        </p>
+      </div>
     </div>
-
-    <!-- 页脚 -->
-    <div id="footer">
-        <p>© 2021 BBZ | <a href="https://benbenzi.github.io">本本子</a></p>
-    </div>
-</body>
-
-</html>
+  </li>
+  {% endfor %}
+</ol>

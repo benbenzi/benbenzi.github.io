@@ -5,7 +5,7 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://benbenzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.png"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
+logo-icon: "/assets/img/branding/MVM-symbol.png"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
 # Night/Dark mode
@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 本本子 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: 一条咸鱼。
+about-author: 咸鱼肥宅一条。虽然学的是开发，但目前还是随着自己的喜好，做着游戏自媒体工作。平时主要都是主机游戏，以任天堂为主。这个博客主要就是用于记录自己的一些日常或者随笔。
 
 # Contact links
 email: flamebeam0131@gmail.com # Add your Email address

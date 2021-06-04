@@ -8,11 +8,10 @@ description: 【通关记录】植物大战僵尸
 img: posts/2021-06-05/Screenshot_20210605-010859.png
 tags: [通关记录, Android, 植物大战僵尸, EA]
 author: 本本子
-# github:  amaynez/Perceptron/
 mathjax: yes
 ---
 
-Android《植物大战僵尸》通关
+## Android《植物大战僵尸》通关
 <center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-010859.png'></center>
 啊，每天坐在马桶上打两关，打了一个月，终于通关了…
 <center><img src='./assets/img/posts/2021-06-05/Screenshot_20210509-013651.png'></center>

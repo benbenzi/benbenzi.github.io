@@ -5,7 +5,7 @@ show_date: true
 title:  游戏抽象度(A Certain Level of Abstraction)
 date:   2007-09-28 12:15:20 -0900
 description: 译者：陈佶 
-img: posts/2021-06-04/cover2.jpg
+img: posts/2007-09-28/jjlogo_800x800.png
 tags: [转载, 游戏研究]
 author: Jesper Juul
 mathjax: yes

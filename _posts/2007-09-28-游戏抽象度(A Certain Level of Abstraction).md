@@ -46,7 +46,7 @@ Translated by Ji Chen.
 《料理妈妈（Cooking Mama）》（图1, 2006年，Office Create出品）是一款有关烹调的游戏：要做出一道道佳肴，玩家必须准备作料、切蔬菜以及控制炉子的火力。 
 这款游戏有着双重含义：游戏呈现了一个厨房，厨房里的一个人，一些作料——亦即一个虚拟世界；然而游戏又显示这不是真正的厨房。并非所有能在厨房里做的事情，玩家都可以做到：《料理妈妈》允许玩家切黄瓜，但是只能切成特定的形状；玩家可以煮饭做菜，但却不能订外卖。 
 正如其它模拟类游戏，《料理妈妈》也有一定的抽象程度——玩家只能进行某些特定操作，除此之外，现实世界要么粗略地嵌入游戏规则（例如作料），要么被简化地呈现（例如桌布），要么干脆不出现在游戏中（例如厨房外的世界）。 
-如果我们假设游戏由两个互补的部分即“规则（rules）”和“意象（fiction）”组成[5]，那么游戏内容只可能有三种：纯粹而未被嵌入规则的意象（例如游戏的过关故事），纯粹而未用意象诠释的规则（例如玩家的多条生命），或者是两者之间，即被具体的意象赋予了意义的规则（汽车可以驾驶，鸟可以飞等）。（图2）规则和意象的结合，有时被称为“虚拟”（virtual）或者“模拟”（simulation）<a id="text1" href=”#note1”>[1]</a>。 
+如果我们假设游戏由两个互补的部分即“规则（rules）”和“意象（fiction）”组成[5]，那么游戏内容只可能有三种：纯粹而未被嵌入规则的意象（例如游戏的过关故事），纯粹而未用意象诠释的规则（例如玩家的多条生命），或者是两者之间，即被具体的意象赋予了意义的规则（汽车可以驾驶，鸟可以飞等）。（图2）规则和意象的结合，有时被称为“虚拟”（virtual）或者“模拟”（simulation）[1]。 
 ![image002](assets/img/posts/2007-09-28/image002.jpg)
 <center>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -173,32 +173,32 @@ Lantz所说“迷上这个世界里的某个游戏”，讲的是为了创造一
 #### 参考文献
 
 
-<a id="note1" href=”#text1”>1. Aarseth, Espen: "Doors and Perception: Fiction vs. Simulation in Games". Digital Arts and Culture Conference, Copenhagen 2005.</a> 
+1. Aarseth, Espen: "Doors and Perception: Fiction vs. Simulation in Games". Digital Arts and Culture Conference, Copenhagen 2005.
 2. Gingold, Chaim. Miniature Gardens & Magic Crayons: Games, Spaces, & Worlds. Master's thesis, Georgia Institute of Technology 2003, pp. 7-8.
 http://www.slackworks.com/~cog/writing/thesis/
-1. Haider, Hilde, and Frensch, Peter A. "The Role of Information Reduction in Skill Acquisition". Cognitive Psychology no. 30 (1996), pp. 340-337.
-2. Huizinga, Johan. Homo Ludens. Boston: The Beacon Press, 1950, p.10.
-3. Juul, Jesper. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, Massachusetts: MIT Press 2005.
-4. Klevjer, Rune. What is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games. Ph.D. dissertation. University of Bergen, 2006, p. 61.
-5. Murray, Janet. Hamlet on the Holodeck. New York: The Free Press, 1997.
-6. Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002.http://www.gamestudies.org/0102/pearce/
-7. Retaux, Xavier and Juliette Rouchier. "Realism vs. Surprise and Coherence: Different Aspect of Playability in Computer Games". Paper presented at the Playing With the Future conference, Manchester, April 5th-7th 2002.
+3. Haider, Hilde, and Frensch, Peter A. "The Role of Information Reduction in Skill Acquisition". Cognitive Psychology no. 30 (1996), pp. 340-337.
+4. Huizinga, Johan. Homo Ludens. Boston: The Beacon Press, 1950, p.10.
+5. Juul, Jesper. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, Massachusetts: MIT Press 2005.
+6. Klevjer, Rune. What is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games. Ph.D. dissertation. University of Bergen, 2006, p. 61.
+7. Murray, Janet. Hamlet on the Holodeck. New York: The Free Press, 1997.
+8. Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002.http://www.gamestudies.org/0102/pearce/
+9. Retaux, Xavier and Juliette Rouchier. "Realism vs. Surprise and Coherence: Different Aspect of Playability in Computer Games". Paper presented at the Playing With the Future conference, Manchester, April 5th-7th 2002.
 Abstract: <http://www.cric.ac.uk/cric/events/PWF/abstracts/retaux.htm> (accessed February 1st, 2007)
-1. Salen, Katie and Eric Zimmerman,. Rules of Play - Game Design Fundamentals. Cambridge, Massachusetts: MIT Press, 2004, p. 138.
-2. Wonderland. "GDC: Game Developers Rant II". Blog posting, March 24, 2006. (Accessed January 2nd 2007)http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html
+10. Salen, Katie and Eric Zimmerman,. Rules of Play - Game Design Fundamentals. Cambridge, Massachusetts: MIT Press, 2004, p. 138.
+11. Wonderland. "GDC: Game Developers Rant II". Blog posting, March 24, 2006. (Accessed January 2nd 2007)http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html
 
 #### 参考游戏
 
-1. Blizzard Entertainment. StarCraft. Blizzard Entertainment, 1998. (PC)
-2. Capcom. Street Fighter. 1987. (Arcade)
-3. Data East. Karate Champ. 1984. (Arcade)
-4. EA Canada. SSX 3. EA Sports Big 2003. (Xbox)
-5. Ensemble Studios. Age of Empires II. Microsoft, 1999. (PC)
-6. Humble, Rod. The Marriage. 2006. (PC).http://www.rodvik.com/rodgames/ (Accessed June 1st 2007.)
-7. Infogrames. North & South. 1989. (Amiga)
-8. Maxis. The Sims 2. Electronic Arts, 2004. (PC)
-9. Office Create. Cooking Mama. Majesco, 2006. (Nintendo DS)
-10. PlayFirst. Diner Dash: Flo on the Go. PlayFirst, 2006. (PC)
+12. Blizzard Entertainment. StarCraft. Blizzard Entertainment, 1998. (PC)
+13. Capcom. Street Fighter. 1987. (Arcade)
+14. Data East. Karate Champ. 1984. (Arcade)
+15. EA Canada. SSX 3. EA Sports Big 2003. (Xbox)
+16. Ensemble Studios. Age of Empires II. Microsoft, 1999. (PC)
+17. Humble, Rod. The Marriage. 2006. (PC).http://www.rodvik.com/rodgames/ (Accessed June 1st 2007.)
+18. Infogrames. North & South. 1989. (Amiga)
+19. Maxis. The Sims 2. Electronic Arts, 2004. (PC)
+20. Office Create. Cooking Mama. Majesco, 2006. (Nintendo DS)
+21. PlayFirst. Diner Dash: Flo on the Go. PlayFirst, 2006. (PC)
 22. Tecmo. Dead or Alive 4. 2005. (Xbox 360)
 
 i 即便人类通常不会关心走路时使用的肌肉。 

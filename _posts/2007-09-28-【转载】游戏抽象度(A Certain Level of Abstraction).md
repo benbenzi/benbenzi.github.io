@@ -169,7 +169,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
 
 另一种关于技巧习得的理论则探究了用户如何学习把任务相关信息从任务无关信息中分辨出来： 
 
->[…]我们认为人们通过实践，会学习如何把任务相关信息从任务无关信息中分离出来，并且只处理与任务有关方面的信息。因此，在技能获得过程中的早期处理的信息可能与晚期处理的信息有着质的不同。[^表现的进步]可能至少部分反映了处理的信息量的减少而非任务的各环节的执行效率提升。[^3]
+>[…]我们认为人们通过实践，会学习如何把任务相关信息从任务无关信息中分离出来，并且只处理与任务有关方面的信息。因此，在技能获得过程中的早期处理的信息可能与晚期处理的信息有着质的不同。[表现的进步]可能至少部分反映了处理的信息量的减少而非任务的各环节的执行效率提升。[^3]
 
 任何强调目标的或竞技性强的游戏都会驱使玩家提升其表现，因而推动玩家接受更少的信息，以便只思考与当下任务相关的东西。如果游戏的意象与玩家的任务不相关，玩家把游戏当作一款抽象的游戏来玩是有可能的。 
 
@@ -239,7 +239,7 @@ Lantz所说“迷上这个世界里的某个游戏”，讲的是为了创造一
 [^5]: Juul, Jesper. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, Massachusetts: MIT Press 2005.
 [^6]: Klevjer, Rune. What is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games. Ph.D. dissertation. University of Bergen, 2006, p. 61.
 [^7]: Murray, Janet. Hamlet on the Holodeck. New York: The Free Press, 1997.
-[^8]: Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002. <http://www.gamestudies.org/0102/pearce/>
+[^8]:Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002. <http://www.gamestudies.org/0102/pearce/>
 [^9]: Retaux, Xavier and Juliette Rouchier. "Realism vs. Surprise and Coherence: Different Aspect of Playability in Computer Games". Paper presented at the Playing With the Future conference, Manchester, April 5th-7th 2002.Abstract:  <http://www.cric.ac.uk/cric/events/PWF/abstracts/retaux.htm> (accessed February 1st, 2007)
 [^10]: Salen, Katie and Eric Zimmerman,. Rules of Play - Game Design Fundamentals. Cambridge, Massachusetts: MIT Press, 2004, p. 138.
 [^11]: Wonderland. "GDC: Game Developers Rant II". Blog posting, March 24, 2006. (Accessed January 2nd 2007) <http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html>

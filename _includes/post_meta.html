@@ -11,7 +11,7 @@
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <{% if include.type == "recent-item-meta" %}p{% else %}span{% endif %} class="page_meta-date">
-        <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>
+        <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%Y年%B %-d日" }}</time>
       </{% if include.type == "recent-item-meta" %}p{% else %}span{% endif %}>
     {% endif %}
     {% unless include.type == "recent-item-meta" %}

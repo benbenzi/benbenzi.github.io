@@ -1,3 +1,16 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  游戏抽象度(A Certain Level of Abstraction)
+date:   2007-09-28 12:15:20 -0900
+description: 译者：陈佶 
+img: posts/2021-06-04/cover2.jpg
+tags: [转载, 游戏研究]
+author: Jesper Juul
+mathjax: yes
+---
+
 ### 游戏抽象度 
 作者：Jesper Juul        译者：陈佶 
 发表于2007年9月24-28日东京数码游戏研究协会（DiGRA）大会 

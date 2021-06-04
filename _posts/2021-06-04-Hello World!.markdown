@@ -5,7 +5,7 @@ show_date: true
 title:  Hello World!
 date:   2021-06-24 11:50:20 -0600
 description: 这是测试哟！
-img: posts/2021-06-24/cover.png 
+img: posts/2021-06-24/bg.jpg
 tags: [测试用tag]
 author: 本本子
 # github:  amaynez/Perceptron/

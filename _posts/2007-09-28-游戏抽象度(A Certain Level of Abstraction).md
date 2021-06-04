@@ -40,7 +40,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图1.《料理妈妈（Cooking Mama）》（2006年，Office Create出品）</div>
 </center>
 
@@ -55,7 +55,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图2. 抽象度：纯粹意象和嵌入规则的意象的分界线 </div>
 </center>
 
@@ -70,7 +70,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图3.美女餐厅：忙碌的菲奥（2006年PlayFirst出品）</div>
 </center>
 
@@ -85,7 +85,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图4. 《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代2》（1999年Ensemble Studios出品）</div>
 </center>
 
@@ -112,7 +112,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图5. 《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）：三维世界中的二维游戏</div>
 </center>
 
@@ -123,7 +123,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图6. 《空手道冠军（Karate Champ）》（图6,1984年Data East出品）：2D世界中的2D游戏.</div>
 </center>
 
@@ -137,7 +137,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图7. （2006年Humble出品）</div>
 </center>
 
@@ -158,7 +158,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图8. 《模拟人生2（Sims 2）》（2004年Maxis出品）</div>
 </center>
 
@@ -171,7 +171,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:12px;
+    font-size:14px;
     padding: 2px;">图9. 《极限滑雪3 （SSX3）》（2003年EA Canada出品）</div>
 </center>
 

@@ -1,5 +1,5 @@
 # Site settings
-title: 本天堂 - 本本子的个人博客
+title: 本天堂
 description: '欢迎来逛一逛哦' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog

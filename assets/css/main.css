@@ -589,6 +589,7 @@ svg {
   position: relative;
   text-align: center;
   color:var(--main);
+  opacity: 0.0;
 }
 .main-header .logo a {
   text-decoration: none;

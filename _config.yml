@@ -1,6 +1,6 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: 本本子的个人博客
+description: '欢迎来逛一逛哦' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://benbenzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com

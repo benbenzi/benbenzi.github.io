@@ -19,7 +19,7 @@
     {% endunless %}
   {% endunless %}
   {% if document.read_time %}
-    {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 200 %}
+    {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 100 %}
     {% assign words = document.content | strip_html | number_of_words %}
     <{% if include.type == "recent-item-meta" %}p{% else %}span{% endif %} class="page_meta-readtime">
       {% if words < words_per_minute %}

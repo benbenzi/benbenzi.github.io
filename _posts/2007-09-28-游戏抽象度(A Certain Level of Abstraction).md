@@ -17,7 +17,8 @@ mathjax: yes
 发表于2007年9月24-28日东京数码游戏研究协会（DiGRA）大会 
 
 Jesper Juul: "A Certain Level of Abstraction". In Situated Play: DiGRA 2007 Conference Proceedings, edited by Akira Baba, 510-515. Tokyo: DiGRA Japan, 2007.
-http://www.jesperjuul.net/text/acertainlevel
+
+<http://www.jesperjuul.net/text/acertainlevel>
 
 Translated by Ji Chen.
 
@@ -39,7 +40,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图1.《料理妈妈（Cooking Mama）》（2006年，Office Create出品）</div>
 </center>
 
@@ -54,7 +55,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图2. 抽象度：纯粹意象和嵌入规则的意象的分界线 </div>
 </center>
 
@@ -69,7 +70,7 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图3.美女餐厅：忙碌的菲奥（2006年PlayFirst出品）</div>
 </center>
 
@@ -84,13 +85,14 @@ Translated by Ji Chen.
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图4. 《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代2》（1999年Ensemble Studios出品）</div>
 </center>
 
 这两款游戏给玩家的第一印象大相径庭，并且取决于玩家玩即时战略类游戏的经验。
 
 **新手玩家**会倾向基于某些他们已经知道的东西（在这里即指游戏的意象）对游戏做出猜测。玩家可以从其他媒体中认识到《帝国时代2》中的单位和设置：骑士被猜测为具有某种战斗功能的单位；投石机则可能用于攻击城堡。游戏中有城镇，还有农田。农田上的人大概可以通过某种方式采集食物。通过这些设置，玩家可以猜测游戏的规则。然而，对于不熟悉即时战略的玩家而言，《星际争霸》（尤其是图中的虫族）只提供了极有限的关于规则的信息：那些蓝色的晶体是什么？那些小生物是干什么的？这使得《帝国时代II》更容易上手，因为玩家可以通过其意象领会游戏规则。 
+
 **有经验的玩家**则可以通过单位的数量、资源的布置、第三人称视角以及熟悉的操作界面，识别这两款游戏的游戏类型。也就是说，老玩家开始游戏时，已经对游戏的规则和普遍的可操作点有所认识：指派单位移动时应选择目的地，但不需设置具体路径；把精力放在战斗上，而不是生产军粮上；接受人能够在几分钟内被“建造”出来的设定。然而，即使是老玩家也不会知道一款新游戏的抽象度到底有多少。或许这款游戏中增加了政治或者社会结构(对即时战略游戏而言的新元素)？或许在这款游戏中，采集资源的单位会变得疲劳？ 
 这表明，当玩家玩游戏时，他们对游戏的观点是随着时间不断改变的。制作者或者理论家的观点却是对游戏的回顾，即一个花了足够时间发掘出游戏所有秘密的“理想玩家”的观点。
 
@@ -110,7 +112,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图5. 《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）：三维世界中的二维游戏</div>
 </center>
 
@@ -121,7 +123,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图6. 《空手道冠军（Karate Champ）》（图6,1984年Data East出品）：2D世界中的2D游戏.</div>
 </center>
 
@@ -135,7 +137,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图7. （2006年Humble出品）</div>
 </center>
 
@@ -156,7 +158,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图8. 《模拟人生2（Sims 2）》（2004年Maxis出品）</div>
 </center>
 
@@ -169,7 +171,7 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    font-size:2;
+    font-size:12px;
     padding: 2px;">图9. 《极限滑雪3 （SSX3）》（2003年EA Canada出品）</div>
 </center>
 
@@ -190,32 +192,30 @@ Lantz所说“迷上这个世界里的某个游戏”，讲的是为了创造一
 
 
 1. Aarseth, Espen: "Doors and Perception: Fiction vs. Simulation in Games". Digital Arts and Culture Conference, Copenhagen 2005.
-2. Gingold, Chaim. Miniature Gardens & Magic Crayons: Games, Spaces, & Worlds. Master's thesis, Georgia Institute of Technology 2003, pp. 7-8.
-http://www.slackworks.com/~cog/writing/thesis/
+2. Gingold, Chaim. Miniature Gardens & Magic Crayons: Games, Spaces, & Worlds. Master's thesis, Georgia Institute of Technology 2003, pp. 7-8. <http://www.slackworks.com/~cog/writing/thesis/>
 3. Haider, Hilde, and Frensch, Peter A. "The Role of Information Reduction in Skill Acquisition". Cognitive Psychology no. 30 (1996), pp. 340-337.
 4. Huizinga, Johan. Homo Ludens. Boston: The Beacon Press, 1950, p.10.
 5. Juul, Jesper. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, Massachusetts: MIT Press 2005.
 6. Klevjer, Rune. What is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games. Ph.D. dissertation. University of Bergen, 2006, p. 61.
 7. Murray, Janet. Hamlet on the Holodeck. New York: The Free Press, 1997.
-8. Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002.http://www.gamestudies.org/0102/pearce/
-9. Retaux, Xavier and Juliette Rouchier. "Realism vs. Surprise and Coherence: Different Aspect of Playability in Computer Games". Paper presented at the Playing With the Future conference, Manchester, April 5th-7th 2002.
-Abstract: <http://www.cric.ac.uk/cric/events/PWF/abstracts/retaux.htm> (accessed February 1st, 2007)
+8. Pearce, Celia. "Sims, BattleBots, Cellular Automata God and Go. A Conversation with Will Wright". Game Studies, volume 2, issue 1. 2002. <http://www.gamestudies.org/0102/pearce/>
+9. Retaux, Xavier and Juliette Rouchier. "Realism vs. Surprise and Coherence: Different Aspect of Playability in Computer Games". Paper presented at the Playing With the Future conference, Manchester, April 5th-7th 2002.Abstract:  <http://www.cric.ac.uk/cric/events/PWF/abstracts/retaux.htm> (accessed February 1st, 2007)
 10. Salen, Katie and Eric Zimmerman,. Rules of Play - Game Design Fundamentals. Cambridge, Massachusetts: MIT Press, 2004, p. 138.
-11. Wonderland. "GDC: Game Developers Rant II". Blog posting, March 24, 2006. (Accessed January 2nd 2007)http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html
+11. Wonderland. "GDC: Game Developers Rant II". Blog posting, March 24, 2006. (Accessed January 2nd 2007) <http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html>
 
 #### 参考游戏
 
-12. Blizzard Entertainment. StarCraft. Blizzard Entertainment, 1998. (PC)
-13. Capcom. Street Fighter. 1987. (Arcade)
-14. Data East. Karate Champ. 1984. (Arcade)
-15. EA Canada. SSX 3. EA Sports Big 2003. (Xbox)
-16. Ensemble Studios. Age of Empires II. Microsoft, 1999. (PC)
-17. Humble, Rod. The Marriage. 2006. (PC).http://www.rodvik.com/rodgames/ (Accessed June 1st 2007.)
-18. Infogrames. North & South. 1989. (Amiga)
-19. Maxis. The Sims 2. Electronic Arts, 2004. (PC)
-20. Office Create. Cooking Mama. Majesco, 2006. (Nintendo DS)
-21. PlayFirst. Diner Dash: Flo on the Go. PlayFirst, 2006. (PC)
-22. Tecmo. Dead or Alive 4. 2005. (Xbox 360)
+1. Blizzard Entertainment. StarCraft. Blizzard Entertainment, 1998. (PC)
+2. Capcom. Street Fighter. 1987. (Arcade)
+3. Data East. Karate Champ. 1984. (Arcade)
+4. EA Canada. SSX 3. EA Sports Big 2003. (Xbox)
+5. Ensemble Studios. Age of Empires II. Microsoft, 1999. (PC)
+6. Humble, Rod. The Marriage. 2006. (PC). <http://www.rodvik.com/rodgames/> (Accessed June 1st 2007.)
+7. Infogrames. North & South. 1989. (Amiga)
+8. Maxis. The Sims 2. Electronic Arts, 2004. (PC)
+9. Office Create. Cooking Mama. Majesco, 2006. (Nintendo DS)
+10. PlayFirst. Diner Dash: Flo on the Go. PlayFirst, 2006. (PC)
+11. Tecmo. Dead or Alive 4. 2005. (Xbox 360)
 
 i 即便人类通常不会关心走路时使用的肌肉。 
 ii 某些游戏允许玩家选择其抽象度：在《南方与北方（North & South）》（1989年Infogrames出品）中，玩家在策略地图上移动单位，然后选择参加某场战斗或者让战果由机运决定。 

@@ -15,7 +15,7 @@
     <div class="post-date">
       {% capture foobar %}
         {%- unless site.hydejack.hide_dates -%}
-          {%- assign post_format = site.data.strings.date_formats.post | default:"%d %b %Y" -%}
+          {%- assign post_format = site.data.strings.date_formats.post | default:"%Y年%-m月%-d日" -%}
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time>
         {%- else -%}
           {{- site.data.strings.posted | default:"Posted" -}}

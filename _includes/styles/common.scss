@@ -5,7 +5,7 @@
   content: "{{ site.data.strings.description | default:'Description' }}";
 }
 #markdown-toc:before {
-  content: "{{ site.data.strings.toc | default:'Table of Contents' }}";
+  content: "{{ site.data.strings.toc | default:'目录' }}";
 }
 .layout-resume .note-sm:before {
   content: "{{ site.data.strings.resume.summary | default:'Summary' }}";

@@ -31,14 +31,14 @@ permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
-toc:                   Table of Contents
+toc:                   目录
 note:                  Note
 description:           简介
 search:                搜索
 search_placeholder:    请输入...
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               读取中...
+redirecting:           重定向...
 
 continue_reading:      >
   继续阅读 <!--post_title-->

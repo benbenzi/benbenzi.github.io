@@ -48,13 +48,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             博客
     url:               /blog/
-  - title:             Projects
+  - title:             项目
     url:               /projects/
-  - title:             Résumé*
+  - title:             简历
     url:               /resume/
-  - title:             Documentation
+  - title:             文档
     url:               /docs/
 
 # Add links to the footer.

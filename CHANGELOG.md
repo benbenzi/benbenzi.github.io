@@ -108,7 +108,7 @@ Version 9.1 provides minor design changes, new features, and closes multiple iss
 
     You can remove this element by setting `hide_last_modified` in the front matter. You can disable it for all posts by setting `hydejack.hide_last_modified` in the config file. Setting `hydejack.hide_dates` (PRO version only) will also remove it, together with all other time-related UI elements.
 
-    You can customize the hover text, icon, and date format in `_data/strings.yml` using the following keys: `last_modified_at` (hover text), `last_modified_at_icon` (icon name, default: `icon-history`) and `date_formats.last_modified_at` (date format, default: `%Y-%m-%d`).
+    You can customize the hover text, icon, and date format in `_data/strings.yml` using the following keys: `last_modified_at` (hover text), `last_modified_at_icon` (icon name, default: `icon-history`) and `date_formats.last_modified_at` (date format, default: `%Y年%-m月%-d日`).
 
 * Added option to "invert" / darken the font colors in the sidebar. This enables use of bright sidebar images. 
   Set `invert_sidebar: true` in the font matter to enable. Use `defaults` in the config file to enable this for all pages.

@@ -16,7 +16,7 @@ posts:                 帖子
 about:                 关于
 related_posts:         相关帖子
 other_projects:        其他项目
-comments:              Comments
+comments:              注释
 jump_to:               跳转至
 navigation:            Navigation
 social:                社交
@@ -86,7 +86,7 @@ breadcrumbs_separator: '/'
 # ---------------------------------------------------------------------------------------
 date_formats:
   post:                '%d %b %Y'
-  last_modified_at:    '%Y-%m-%d'
+  last_modified_at:    '%Y年%-m月%-d日'
   related_post:        '%d %b %Y'
   list_group_by:       '%Y'
   list_entry:          '%d %b'

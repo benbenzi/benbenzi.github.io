@@ -10,32 +10,32 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
+home:                  主页
 pages:                 Pages
 posts:                 Posts
-about:                 About
+about:                 关于
 related_posts:         Related Posts
 other_projects:        Other Projects
 comments:              Comments
-jump_to:               Jump to
+jump_to:               跳转至
 navigation:            Navigation
-social:                Social
-links:                 Links
+social:                社交
+links:                 链接
 links_icon:            'icon-link'
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
+newer:                 最新
+older:                 老的
+forward:               前进
+back:                  返回
 permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
+description:           简介
+search:                搜索
+search_placeholder:    请输入...
 
 loading:               Loading…
 redirecting:           Redirecting…

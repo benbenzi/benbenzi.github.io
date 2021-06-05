@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Thank You!
+title: 欢迎！
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+欢迎你来到本本子的个人网站【本天堂】 🎉
 
 More than one year ago I was looking for a blogging platform but couldn't find it:
 One that would let me write posts in markdown with my own editor,

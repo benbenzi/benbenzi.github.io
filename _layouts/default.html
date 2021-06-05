@@ -1,12 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-    {{ content }}
-    <div class="top" title="Top">
-      <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" class="svg-inline--fa fa-angle-up fa-w-8 fa-2x"><path fill="currentColor" d="M136.5 185.1l116 117.8c4.7 4.7 4.7 12.3 0 17l-7.1 7.1c-4.7 4.7-12.3 4.7-17 0L128 224.7 27.6 326.9c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17l116-117.8c4.7-4.6 12.3-4.6 17 .1z" class=""></path></svg>
-    </div>
-    {% include javascripts.html %}
-    {% include analytics.html %}
-  </body>
-</html>
+---
+# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+layout: base
+---
+
+{% assign strings = site.data.strings %}
+
+<article class="page" role="article">
+  <header>
+    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
+    {% include components/message.html text=page.description hide=page.hide_description %}
+  </header>
+
+  {{ content }}
+
+  <hr class="dingbat related"/>
+
+  {% if site.posts.size > 0 %}
+    <h2 class="hr-bottom">{{ strings.posts | default:"Posts" }}</h2>
+    <ul class="related-posts">
+      {% for post in site.posts limit:5 %}
+        {% include_cached components/post-list-item.html post=post %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
+  {% if pages.size > 0 %}
+    <h2 class="hr-bottom">{{ strings.pages | default:"Pages" }}</h2>
+    <ul class="related-posts">
+      {% for page in pages limit:5 %}
+        {% if page.layout == 'page' %}
+          <li class="h4">
+            <a href="{{ page.url | relative_url }}" class="flip-title">
+              <span>{{ page.title }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>

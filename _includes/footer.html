@@ -1,17 +1,7 @@
 {% include calculate_relative_base.html %}
 {% include escape-404.html %}
 
-<script>
-    // 检测浏览器是否支持SW
-if(navigator.serviceWorker != null){
-    navigator.serviceWorker.register('/service-worker.js')
-        .then(function(registartion){
-            console.log('支持sw:',registartion.scope)
-        })
-} else {
-    console.log('不支持sw')
-}
-</script>
+
 <footer class="main-footer">
     <div class="footer-wrapper">
         <div class="logo-symbol">

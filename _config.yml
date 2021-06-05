@@ -52,7 +52,7 @@ fbadmin: ar.maybach
 # Paginate
 paginate: 6
 paginate_path: 'page:num'
-words_per_minute: 100
+words_per_minute: 70
 
 # Build settings
 markdown: kramdown

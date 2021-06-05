@@ -10,6 +10,11 @@
       {% include components/social-list-item.html platform="twitter" username=twitter_username %}
     {% endif %}
 
+    {% assign sina-weibo_username = author.sina-weibo.username | default: author.sina-weibo | default:site.sina-weibo.username | default:site.sina-weibo | default:site.sina-weibo_username %}
+    {% if sina-weibo_username %}
+      {% include components/social-list-item.html platform="sina-weibo" username=sina-weibo_username %}
+    {% endif %}
+
     {% assign github_username = author.github.username | default: author.github | default:site.github.username | default:site.github | default:site.github_username %}
     {% if github_username %}
       {% include components/social-list-item.html platform="github" username=github_username %}

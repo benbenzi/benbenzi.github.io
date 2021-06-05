@@ -20,7 +20,7 @@ layout: base
 {% assign strings = site.data.strings %}
 
 <div class="page">
-  <h1 class="page-title">{{ page.title | default:strings.not_found.title | default: "404: Page Not Found" }}</h1>
+  <h1 class="page-title">{{ page.title | default:strings.not_found.title | default: "404: 没这个页面哦～" }}</h1>
   <div class="hr pb0"></div>
 
   {% assign test = page.content | strip_newlines %}

@@ -49,14 +49,14 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: 没这个页面哦～'
   message:             |
     这儿什么也没有。要不检查一下链接是否出错了？
     不如点击这里<!--home_link-->吧！
   home_link:           返回首页
 
 offline:
-  title:               'You are Offline'
+  title:               '好像掉线了'
   message:             |
     你丫网炸了吧？快检查下自己路由器或者话费余额吧！
     点击这里<!--home_link-->！

@@ -34,14 +34,10 @@ invert_sidebar: true
 
 ### 行有所止
 ![](/assets/img/posts/2007-09-28/image001.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图1.《料理妈妈（Cooking Mama）》（2006年，Office Create出品）</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图1.《料理妈妈（Cooking Mama）》（2006年，Office Create出品）
+{:.figcaption}
 
 《料理妈妈（Cooking Mama）》（图1, 2006年，Office Create出品）是一款有关烹调的游戏：要做出一道道佳肴，玩家必须准备作料、切蔬菜以及控制炉子的火力。 
 
@@ -52,14 +48,10 @@ invert_sidebar: true
 如果我们假设游戏由两个互补的部分即“规则（rules）”和“意象（fiction）”组成[^5]，那么游戏内容只可能有三种：纯粹而未被嵌入规则的意象（例如游戏的过关故事），纯粹而未用意象诠释的规则（例如玩家的多条生命），或者是两者之间，即被具体的意象赋予了意义的规则（汽车可以驾驶，鸟可以飞等）。（图2）规则和意象的结合，有时被称为“虚拟”（virtual）或者“模拟”（simulation）[^1]。 
 
 ![](/assets/img/posts/2007-09-28/image002.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图2. 抽象度：纯粹意象和嵌入规则的意象的分界线 </div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图2. 抽象度：纯粹意象和嵌入规则的意象的分界线 
+{:.figcaption}
 所谓“抽象度”，关乎游戏中的纯意象和嵌入规则的意象的划分。
 
 ### 设计中的抽象性 
@@ -68,14 +60,10 @@ invert_sidebar: true
 这表明，对于某个动作，并没有一个理所当然的细述程度。仍以烹饪为例，任何水平的细节，从选择餐盘到控制拿刀的手的肌肉，都是可以想象得到的。然而，改变抽象度会使得料理妈妈成为不同的游戏：抽象度确定了特定的游戏及其类型。举例来说，休闲游戏《美女餐厅：忙碌的菲奥》（图6, 2006年PlayFirst出品）是经营一家餐厅的游戏。我们可以相信，这游戏里的厨师也如《料理妈妈》里一样炒菜做饭，但是这个行为却不由玩家操作。尽管这两款游戏可以被认为都是同一个虚拟世界的一部分，它们却是完全不同的两款游戏，而这恰恰因为其抽象度不同。
 
 ![](/assets/img/posts/2007-09-28/image003.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图3.美女餐厅：忙碌的菲奥（2006年PlayFirst出品）</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图3.美女餐厅：忙碌的菲奥（2006年PlayFirst出品）
+{:.figcaption}
 抽象度就是玩家可操作的程度：所有玩家可以实现的行为[^ii]。
 
 ### 抽象概念的识别 
@@ -118,39 +106,27 @@ Aarseth[^1]提出，游戏中可开的门和不可开的门之间，有重要的
 Gingold的观点将“抽象”描述为一种有效的重现世界的方法。作为补充，一个观点认为既然游戏可以同时既是抽象的又是具象的，当任何素材被转换为游戏的形式，我们都可以看到抽象性的存在。考察图5所示的格斗游戏《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）。 
 
 ![](/assets/img/posts/2007-09-28/image006.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图5. 《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）：三维世界中的二维游戏</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图5. 《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）：三维世界中的二维游戏
+{:.figcaption}
 即便在这精美的三维游戏世界中，格斗仍然被限制在一条轴线上，玩家与玩家永远正面相对。这是有多种理由的——由于玩家只能够从对手的正前方或正后方发动攻击，使得动作种类有限，因此更易于掌握，这使得游戏更容易上手。更重要的是，二维的游戏机制是这类游戏的传统，这可以追溯至《街头霸王（Street Fighter）》（1987年Capcom出品）或《空手道冠军（Karate Champ）》（图6,1984年Data East出品）。 
 
 ![](/assets/img/posts/2007-09-28/image007.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图6. 《空手道冠军（Karate Champ）》（图6,1984年Data East出品）：2D世界中的2D游戏.</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图6. 《空手道冠军（Karate Champ）》（图6,1984年Data East出品）：2D世界中的2D游戏.
+{:.figcaption}
 这是格斗类游戏中保留的抽象性的例子——即便科技发展使得在游戏中取消这一抽象成为可能。游戏设计和游戏体验都不仅仅追求现实、逼真，也同样会向游戏的历史和特定游戏类型的传统看齐。格斗类游戏保持着在一条轴线上对打的传统，因此证明了游戏发展史并非简单地被技术的发展而驱动的。实际上，一个被游戏玩家和游戏设计师所熟悉的游戏类型，可以稳定长久地留存下去。
 
 ### 抽象的是什么？ 
 在《料理妈妈》的例子中，我曾说这是“一款有关烹饪的游戏”：如果我们假设真的如此，可以很轻易地指出大量在现实厨房中可能，在游戏中却不存在的动作。从玩家的角度来看，这要求能够把对虚拟世界的预期和游戏实际提供的可能性做对比。换句话说，把游戏作为某种抽象的体验，取决于玩家对“游戏所抽象的是什么”的识别。考察图7的游戏。此款游戏中有许多不同颜色的几何体。 
 
 ![](/assets/img/posts/2007-09-28/image008_0000.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图7. （2006年Humble出品）</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图7. （2006年Humble出品）
+{:.figcaption}
 这款Rod Humble制作的实验性游戏叫做《婚姻（The Marriage）》，它被设计来表现婚姻的紧张关系和发展。两个方块代表夫妻，圆形则表示外界对此关系的影响。如作者所说，玩家无法仅凭观看游戏对此获得直观认识。 
 
 >这是一款需要解释的游戏。这已经保证它会是失败的游戏。然而，任何人面对一种新的艺术形式，至少也总有个开始，而且让受众无理由地抛弃一个作品（即便它并不成功）也是不道德的。而这理由，大概是因为玩这么一个小游戏，还需要阅读上百字的说明。[^12]
@@ -171,27 +147,19 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
 忽略意象是指当你想到这款游戏时，你仅仅通过思考游戏规则而不会利用你从意象中得到的讯息来制定游戏策略。在国际象棋这样的游戏中，这一点非常明显：在不关心每个棋子的社会角色的条件下玩象棋是可能的，而且即便想到了棋子的社会角色，似乎也不会对玩象棋有什么帮助。从另一方面来说，尽管《模拟人生2（Sims 2）》（图8，2004年Maxis出品）理论上可以被当作一款拥有大量包含了可优化的数值的实体的抽象游戏来玩，不用感性的方式理解游戏人物的玩法仍然是难以想象的[^iv]。 
 
 ![](/assets/img/posts/2007-09-28/image009.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图8. 《模拟人生2（Sims 2）》（2004年Maxis出品）</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图8. 《模拟人生2（Sims 2）》（2004年Maxis出品）
+{:.figcaption}
 最后，玩家对游戏的态度也不能被简单地归一为“优化策略”：玩家也可能会对意象有某种追求——很多玩家渴望沉浸在虚拟世界中。
 
 ### 空间：无法抽象的东西 
 
 ![](/assets/img/posts/2007-09-28/image010_0000.jpg)
-<center>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图9. 《极限滑雪3 （SSX3）》（2003年EA Canada出品）</div>
-</center>
+{:.border.lead width="1776" height="258" loading="lazy"}
 
+图9. 《极限滑雪3 （SSX3）》（2003年EA Canada出品）
+{:.figcaption}
 在滑雪游戏《极限滑雪3 （SSX3）》（图9，2003年EA Canada出品）的里面，并没有真的空间，也没有真的雪、滑雪者和山。这类东西，诸如山脉的空间分布和自然的物理定律的一定程度的抽象版本，只不过是被嵌入在游戏规则中。关于空间的论题，Klevjer提出：“规则与意象的模式面临被打破的危险。”[^6]
 
 Klevjer有一个观点：通过分析，我们可以解释为什么这里的空间是一个虚拟的意象，但是却难以在玩游戏时不把它看成空间。电子游戏中的空间是特殊的，因为多数电子游戏都会在一个空间中展开，也因为通常空间既是游戏意象中的一部分，也深植于规则当中。《模拟人生2》可以被当作一个抽象的数字游戏来玩，同样，《极限滑雪3》也可以：这会涉及一长串的计算，以便求解哪几个变量在数值上相近等问题。这实际上会让游戏变得非常难玩。 

@@ -6,42 +6,10 @@ sitemap: false
 
 欢迎你来到本本子的个人网站【本天堂】 🎉
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+希望你能在这里收获一些帮助或者快乐。
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## 关于我
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+咸鱼肥宅一条。虽然学的是开发，但目前还是随着自己的喜好，做着游戏自媒体工作。平时主要都是主机游戏，以任天堂为主。这个博客主要就是用于记录自己的一些日常或者随笔。
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md

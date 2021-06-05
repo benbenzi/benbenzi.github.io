@@ -1,9 +1,8 @@
 ---
 layout: projects
-title: Projects
-show_collection: projects
+title: 项目
+show_collection: 项目
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  我的一些项目都在这儿了。
 no_groups: true
 ---

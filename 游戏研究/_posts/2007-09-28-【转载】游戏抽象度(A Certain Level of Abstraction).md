@@ -14,6 +14,11 @@ invert_sidebar: true
 
 # 【转载】游戏抽象度(A Certain Level of Abstraction)
 
+
+* toc
+{:toc}
+
+
 ### 摘要 
 本文旨在研究游戏的抽象度(levels of abstraction)：模拟类游戏（representational games）展现了一个虚拟世界，然而在这个世界中，玩家只能进行有限的特定动作；虚拟世界所展现的细节是有限的。 
 

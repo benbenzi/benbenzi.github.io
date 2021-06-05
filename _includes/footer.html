@@ -1,0 +1,33 @@
+{% include calculate_relative_base.html %}
+{% include escape-404.html %}
+
+
+<footer class="main-footer">
+    <div class="footer-wrapper">
+        <div class="logo-symbol">
+            <a class="logo-link" title="{{ site.title }}" href="{{ relativebase }}">
+                <svg width="45px" height="45px" class="logo-symbol" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="0 0 649 649"><g fill="currentColor" stroke="none"></g></svg>
+            </a>
+        </div>
+        <div class="copyright">
+          <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+        </div>
+        <div class="footer-nav">
+            <div>
+                <a href="{{ relativebase }}archive.html">
+                    博文
+                </a>
+            </div>
+            <div>
+                <a href="{{ relativebase }}tags.html">
+                    标签
+                </a>
+            </div>
+            <div>
+                <a href="{{ relativebase }}about.html">
+                    关于
+                </a>
+            </div>
+        </div>
+    </div>
+</footer> <!-- End Footer -->

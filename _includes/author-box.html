@@ -1,0 +1,25 @@
+{% include calculate_relative_base.html %}
+{% include escape-404.html %}
+<section class="author-box">
+  <div class="narrow-column">
+    <a href='{{ site.website }}'><img src="{{ relativebase }}assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{ site.author }}" class="author-img"></a>
+    <ul class="contact-icons">
+      {% if site.twitter %}
+      <li class="twitter"><a class="twitter" href="https://twitter.com/flamebeam0131" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      {% endif %}
+      {% if site.weibo %}
+        <li class="weibo"><a class="weibo" href="https://weibo.com/flamebeam" target="_blank"><i class="fa fa-weibo"></i></a></li>
+      {% endif %}
+      {% if site.github %}
+      <li class="github"><a class="github" href="https://github.com/benbenzi" target="_blank"><i class="fa fa-github"></i></a></li>
+      {% endif %}
+      {% if site.email %}
+      <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
+    </ul>
+  </div>
+  <div class="author-desc">
+    <h3>{{site.author}}</h3>
+    <p>{{site.about-author}}</p>
+  </div>
+</section>

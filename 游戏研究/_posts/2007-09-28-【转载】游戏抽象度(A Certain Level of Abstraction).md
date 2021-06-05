@@ -72,14 +72,11 @@ invert_sidebar: true
 这里对于《料理妈妈》和《美女餐厅：忙碌的菲奥》的讨论，是玩过游戏之后才有的事后观感。然而实际上，“玩游戏”本身就是探索抽象概念的过程。作为玩家，当我们开始新游戏，尤其是新类型的游戏时，我们并不知道其抽象度。考察两款经典的即时战略游戏，《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代》（1999年Ensemble Studios出品）（图4）。 
 
 ![](/assets/img/blog/2007-09-28/image004.jpg)
-<center>
-<img src='./assets/img/blog/2007-09-28/image005.jpg'>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    font-size:14px;
-    padding: 2px;">图4. 《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代2》（1999年Ensemble Studios出品）</div>
-</center>
+![](/assets/img/blog/2007-09-28/image005.jpg)
+{:.border.lead width="1776" height="258" loading="lazy"}
+
+图4. 《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代2》（1999年Ensemble Studios出品）
+{:.figcaption}
 
 这两款游戏给玩家的第一印象大相径庭，并且取决于玩家玩即时战略类游戏的经验。
 

@@ -23,8 +23,8 @@ social:                社交
 links:                 链接
 links_icon:            'icon-link'
 pagination:            Pagination
-newer:                 最新
-older:                 老的
+newer:                 上一页
+older:                 下一页
 forward:               前进
 back:                  返回
 permalink:             Permalink

@@ -17,19 +17,18 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  cn
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jin Lee
+title:                 本本子
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:            >
-  42Seoul Cadet (21.04 ~ now)
-  Pursuing Bachelor's Degree in Electric Engineering
+  你好，这里是本本子的个人主页（测试版）
 
 # A shorter description for the sidebar.
-tagline:               42Seoul Cadet (21.04 ~ now)
+tagline:               任天堂就是世界的主宰
 
 # A list of keywords for your blog
 keywords:              [C, Electric Engineering]
@@ -42,10 +41,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Jin> <Lee>
-  email:               <42.4.jinwolee@gmail.com>
+  name:                <小早川> <本本子>
+  email:               <flamebeam0131@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  twitter:           <jinlee0108>
+  twitter:           <flamebeam0131>
 
 # Add links to the sidebar.
 menu:

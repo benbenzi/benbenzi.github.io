@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  发表于2007年9月24-28日东京数码游戏研究协会（DiGRA）大会Jesper Juul: "A Certain Level of Abstraction". In Situated Play: DiGRA 2007 Conference Proceedings, edited by Akira Baba, 510-515. Tokyo: DiGRA Japan, 2007.
+  发表于2007年9月24-28日东京数码游戏研究协会（DiGRA）大会
 invert_sidebar: true
 ---
 

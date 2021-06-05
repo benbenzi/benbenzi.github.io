@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  标题
+title:  如何买到3DS大使机
 date:   2019-11-10 14:53:00 -0900
 description: 简介
 img: posts/2019-11-10/cover2.jpg

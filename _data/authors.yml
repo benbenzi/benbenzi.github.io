@@ -12,11 +12,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://benbenzi.games/assets/icons/icon-128x128.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            https://benbenzi.games/assets/icons/icon-128x128.png
+      2x:            https://benbenzi.games/assets/icons/icon-512x512.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -74,6 +74,6 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
+  picture:           https://benbenzi.games/assets/icons/icon-128x128.png
   twitter:           <username>
   github:            <username>

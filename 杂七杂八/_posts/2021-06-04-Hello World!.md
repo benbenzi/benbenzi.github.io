@@ -24,7 +24,6 @@ invert_sidebar: true
 
 然后是插图测试：
 
-![](/assets/img/posts/2021-06-04/bg.jpg)
-<center></center>
+![](/assets/img/blog/2021-06-04/bg.jpg)
 
 以上就是首次测试内容。

@@ -14,7 +14,7 @@ invert_sidebar: true
 
 # 真正的标题
 
-![](./assets/img/posts/)
+![](./assets/img/blog/)
 <center>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;

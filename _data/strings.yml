@@ -12,10 +12,10 @@
 # ---------------------------------------------------------------------------------------
 home:                  主页
 pages:                 Pages
-posts:                 Posts
+posts:                 帖子
 about:                 关于
-related_posts:         Related Posts
-other_projects:        Other Projects
+related_posts:         相关帖子
+other_projects:        其他项目
 comments:              Comments
 jump_to:               跳转至
 navigation:            Navigation

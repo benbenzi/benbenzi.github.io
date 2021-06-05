@@ -51,10 +51,10 @@ author:
 menu:
   - title:             博客
     url:               /blog/
-  - title:             项目
-    url:               /projects/
-  - title:             简历
-    url:               /resume/
+  # - title:             项目
+  #   url:               /projects/
+  # - title:             简历
+  #   url:               /resume/
   - title:             文档
     url:               /docs/
   - title:             Miiverse

@@ -6,7 +6,7 @@ title:  捡破烂心得-游戏硬件篇
 date:   2019-11-10 13:53:00 -0900
 description: 你需要运气，时间，和一点点钱。
 img: posts/2019-11-10/cover.jpg
-tags: [任天堂, 购 物, 攻 略]
+tags: [任天堂, 购物, 攻略]
 author: 本本子
 mathjax: yes
 ---

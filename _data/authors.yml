@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <小早川> <本本子>
-  email:             <flamebeam0131@gmail.com>
+  name:              小早川 本本子
+  email:             flamebeam0131@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -22,8 +22,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <flamebeam0131>
-    github:          <benbenzi>
+    twitter:         flamebeam0131
+    github:          benbenzi
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -64,8 +64,8 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <小早川> <本本子>
-  email:             <flamebeam0131@gmail.com>
+  name:              小早川 本本子
+  email:             flamebeam0131@gmail.com
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

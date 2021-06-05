@@ -52,6 +52,7 @@ renren:
 sina-weibo:
   name: Sina Weibo
   icon: icon-sina-weibo
+  prepend: "https://weibo.com/"
 rss:
   name: RSS
   icon: icon-rss2

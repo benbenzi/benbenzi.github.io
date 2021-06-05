@@ -29,7 +29,7 @@ layout: base
   {% else %}
     {% capture home_link %}<a href="{{ '/' | relative_url }}">{{ strings.not_found.home_link | default:"Head back home" }}</a>{% endcapture %}
     {% assign text = strings.not_found.message
-      | default:"Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <!--home_link--> to try finding it again." %}
+      | default:"    这儿什么也没有。要不检查一下链接是否出错了？不如点击这里<!--home_link-->吧！" %}
     <p class="lead">
       {{ text | replace:"<!--home_link-->", home_link }}
     </p>

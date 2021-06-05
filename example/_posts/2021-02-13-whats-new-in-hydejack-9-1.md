@@ -12,7 +12,7 @@ description: >
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# 中文测试
 
 What's New in Hydejack 9.1?
 

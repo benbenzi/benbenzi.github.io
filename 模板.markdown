@@ -1,0 +1,24 @@
+---
+layout: post
+title: 真正的标题
+image: /assets/img/blog/2018-11-30/cover.jpg
+accent_image: 
+  background: url('/assets/img/blog/2018-11-30/cover.jpg') center/cover
+  overlay: false
+accent_color: '#ccc'
+theme_color: '#ccc'
+description: >
+  并不专业，超业余的，仅供参考。
+invert_sidebar: true
+---
+
+# 真正的标题
+
+<center>
+<img src='./assets/img/posts/'>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    font-size:14px;
+    padding: 2px;">简介</div>
+</center>

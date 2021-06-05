@@ -1,0 +1,34 @@
+---
+layout: post
+title: 《植物大战僵尸》
+image: /assets/img/blog/2021-06-05/Screenshot_20210605-010859.png
+accent_image: 
+  background: url('/assets/img/blog/2021-06-05/Screenshot_20210605-010859.png') center/cover
+  overlay: false
+accent_color: '#ccc'
+theme_color: '#ccc'
+description: >
+  《植物大战僵尸》（英语：Plants vs. Zombies）是一款塔防游戏，由宝开游戏为Windows、Mac OS X、xbox 360及iOS系统开发。游戏于2009年5月5日发售。目前在PC上同时有普通版、年度版、Adobe Flash动画缩减版及人人网社区版等多个版本。其续作《植物大战僵尸2》在2013年8月15日登陆iOS系统。
+invert_sidebar: true
+---
+
+# 《植物大战僵尸》
+
+### Android《植物大战僵尸》通关
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-010859.png'></center>
+啊，每天坐在马桶上打两关，打了一个月，终于通关了…
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210509-013651.png'></center>
+2010年我才初二，这游戏刚发售我就玩了，但直到今天我才第一次真正通关。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210525-225735.png'></center>
+已经记不清当年到底是太笨了，还是没耐心，又或者是还没理解游戏的魅力，总之初中的时候基本就是全程修改器虐过去的。虽然那时候觉得很爽，但实际上完全没有体会到它的精髓。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210529-231241.png'></center>
+几年前在DSi上买了DSi Ware版。明明电阻屏的操作也蛮舒服的，自我感觉脑子也没坏，不知道为啥就被卡在黑夜池塘了。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-004237.png'></center>
+可能电阻屏的“单线程”确实增强了难度吧，总之手机上玩起来很舒服，很多时候捡能量和放置都是同步的。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-005814.png'></center>
+可惜如今这个手机版，已经被司马EA改了很多地方了。虽然不至于面目全非，但还是有太多令人不爽的坑爹设计。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-010509.png'></center>
+其实本来一直在等Steam版打折，虽然原价也才二十块，但不史低购入的话我还是血亏。也不盼着Steam版能去原生适配M1了，不可能的了。
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-010532.png'></center>
+最后还是那句话，EA你没有马！
+<center><img src='./assets/img/posts/2021-06-05/Screenshot_20210605-010551.png'></center>

@@ -95,7 +95,7 @@ deviantart:
 steam:
   name: Steam
   icon: icon-steam
-  prepend: "http://steamcommunity.com/profiles/"
+  prepend: "http://steamcommunity.com/id/"
 dropbox:
   name: Dropbox
   icon: icon-dropbox

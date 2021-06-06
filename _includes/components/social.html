@@ -15,6 +15,11 @@
       {% include components/social-list-item.html platform="sina-weibo" username=sina-weibo_username %}
     {% endif %}
 
+    {% assign steam_username = author.steam.username | default: author.steam | default:site.steam.username | default:site.steam | default:site.steam_username %}
+    {% if steam_username %}
+      {% include components/social-list-item.html platform="steam" username=steam_username %}
+    {% endif %}
+
     {% assign github_username = author.github.username | default: author.github | default:site.github.username | default:site.github | default:site.github_username %}
     {% if github_username %}
       {% include components/social-list-item.html platform="github" username=github_username %}

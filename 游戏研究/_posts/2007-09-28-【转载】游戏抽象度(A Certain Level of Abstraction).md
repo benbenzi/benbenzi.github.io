@@ -36,7 +36,6 @@ invert_sidebar: true
 
 ### 行有所止
 ![](/assets/img/blog/2007-09-28/image001.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图1.《料理妈妈（Cooking Mama）》（2006年，Office Create出品）
 {:.figcaption}
@@ -50,7 +49,6 @@ invert_sidebar: true
 如果我们假设游戏由两个互补的部分即“规则（rules）”和“意象（fiction）”组成[^5]，那么游戏内容只可能有三种：纯粹而未被嵌入规则的意象（例如游戏的过关故事），纯粹而未用意象诠释的规则（例如玩家的多条生命），或者是两者之间，即被具体的意象赋予了意义的规则（汽车可以驾驶，鸟可以飞等）。（图2）规则和意象的结合，有时被称为“虚拟”（virtual）或者“模拟”（simulation）[^1]。 
 
 ![](/assets/img/blog/2007-09-28/image002.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图2. 抽象度：纯粹意象和嵌入规则的意象的分界线 
 {:.figcaption}
@@ -62,7 +60,6 @@ invert_sidebar: true
 这表明，对于某个动作，并没有一个理所当然的细述程度。仍以烹饪为例，任何水平的细节，从选择餐盘到控制拿刀的手的肌肉，都是可以想象得到的。然而，改变抽象度会使得料理妈妈成为不同的游戏：抽象度确定了特定的游戏及其类型。举例来说，休闲游戏《美女餐厅：忙碌的菲奥》（图6, 2006年PlayFirst出品）是经营一家餐厅的游戏。我们可以相信，这游戏里的厨师也如《料理妈妈》里一样炒菜做饭，但是这个行为却不由玩家操作。尽管这两款游戏可以被认为都是同一个虚拟世界的一部分，它们却是完全不同的两款游戏，而这恰恰因为其抽象度不同。
 
 ![](/assets/img/blog/2007-09-28/image003.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图3.美女餐厅：忙碌的菲奥（2006年PlayFirst出品）
 {:.figcaption}
@@ -73,7 +70,6 @@ invert_sidebar: true
 
 ![](/assets/img/blog/2007-09-28/image004.jpg)
 ![](/assets/img/blog/2007-09-28/image005.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图4. 《星际争霸（StarCraft）》（1998年Blizzard出品）和《帝国时代2》（1999年Ensemble Studios出品）
 {:.figcaption}
@@ -105,14 +101,12 @@ Aarseth[^1]提出，游戏中可开的门和不可开的门之间，有重要的
 Gingold的观点将“抽象”描述为一种有效的重现世界的方法。作为补充，一个观点认为既然游戏可以同时既是抽象的又是具象的，当任何素材被转换为游戏的形式，我们都可以看到抽象性的存在。考察图5所示的格斗游戏《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）。 
 
 ![](/assets/img/blog/2007-09-28/image006.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图5. 《死或生4（Dead Or Alive 4）》（2005年Tecmo出品）：三维世界中的二维游戏
 {:.figcaption}
 即便在这精美的三维游戏世界中，格斗仍然被限制在一条轴线上，玩家与玩家永远正面相对。这是有多种理由的——由于玩家只能够从对手的正前方或正后方发动攻击，使得动作种类有限，因此更易于掌握，这使得游戏更容易上手。更重要的是，二维的游戏机制是这类游戏的传统，这可以追溯至《街头霸王（Street Fighter）》（1987年Capcom出品）或《空手道冠军（Karate Champ）》（图6,1984年Data East出品）。 
 
 ![](/assets/img/blog/2007-09-28/image007.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图6. 《空手道冠军（Karate Champ）》（图6,1984年Data East出品）：2D世界中的2D游戏.
 {:.figcaption}
@@ -122,7 +116,6 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
 在《料理妈妈》的例子中，我曾说这是“一款有关烹饪的游戏”：如果我们假设真的如此，可以很轻易地指出大量在现实厨房中可能，在游戏中却不存在的动作。从玩家的角度来看，这要求能够把对虚拟世界的预期和游戏实际提供的可能性做对比。换句话说，把游戏作为某种抽象的体验，取决于玩家对“游戏所抽象的是什么”的识别。考察图7的游戏。此款游戏中有许多不同颜色的几何体。 
 
 ![](/assets/img/blog/2007-09-28/image008_0000.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图7. （2006年Humble出品）
 {:.figcaption}
@@ -146,7 +139,6 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
 忽略意象是指当你想到这款游戏时，你仅仅通过思考游戏规则而不会利用你从意象中得到的讯息来制定游戏策略。在国际象棋这样的游戏中，这一点非常明显：在不关心每个棋子的社会角色的条件下玩象棋是可能的，而且即便想到了棋子的社会角色，似乎也不会对玩象棋有什么帮助。从另一方面来说，尽管《模拟人生2（Sims 2）》（图8，2004年Maxis出品）理论上可以被当作一款拥有大量包含了可优化的数值的实体的抽象游戏来玩，不用感性的方式理解游戏人物的玩法仍然是难以想象的[^iv]。 
 
 ![](/assets/img/blog/2007-09-28/image009.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图8. 《模拟人生2（Sims 2）》（2004年Maxis出品）
 {:.figcaption}
@@ -155,7 +147,6 @@ Gingold的观点将“抽象”描述为一种有效的重现世界的方法。�
 ### 空间：无法抽象的东西 
 
 ![](/assets/img/blog/2007-09-28/image010_0000.jpg)
-{:.border.lead width="1776" height="258" loading="lazy"}
 
 图9. 《极限滑雪3 （SSX3）》（2003年EA Canada出品）
 {:.figcaption}

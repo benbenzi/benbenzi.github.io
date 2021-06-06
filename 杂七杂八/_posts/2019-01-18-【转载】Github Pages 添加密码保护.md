@@ -5,7 +5,7 @@ image: /assets/img/blog/2019-01-18/cover.jpg
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  转载自Soptq<br>如何对一篇静态博文做密码保护, 查看密码为 testpassword
+  转载自：<https://soptq.me/2019/01/18/add-pswd/><br>如何对一篇静态博文做密码保护, 查看密码为 testpassword
 invert_sidebar: true
 ---
 

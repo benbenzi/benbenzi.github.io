@@ -25,7 +25,7 @@ title:                 本本子
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:            >
-  你好，这里是本本子的个人主页（测试版）
+  你好，这里是本本子的个人主页
 
 # A shorter description for the sidebar.
 tagline:               任天堂就是世界的主宰
@@ -55,8 +55,8 @@ menu:
   #   url:               /projects/
   # - title:             简历
   #   url:               /resume/
-  - title:             文档
-    url:               /docs/
+  # - title:             文档
+  #   url:               /docs/
   - title:             Miiverse
     url:               /Miiverse/index.html
   - title:             Zero

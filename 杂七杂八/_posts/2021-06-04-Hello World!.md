@@ -18,11 +18,9 @@ invert_sidebar: true
 
 ## 什么鸡掰标题？
 
-好哦好好！
+[任天堂](https://www.nintendo.co.jp/index.html) 就你妈是世界的主宰！
 
-首先，[任天堂](https://www.nintendo.co.jp/index.html) 就你妈是世界的主宰！
-
-然后是插图测试：
+插图测试：
 
 ![](/assets/img/blog/2021-06-04/bg.jpg)
 

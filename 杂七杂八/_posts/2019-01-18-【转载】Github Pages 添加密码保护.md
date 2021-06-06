@@ -81,7 +81,7 @@ if (typeof MathJax !== 'undefined') {
         console.log('Can\'t render with MathJax');
     }
 }
-~~~js
+~~~
 
 ### Catalog
 

@@ -6,20 +6,50 @@ hide_description: true
 sitemap: false
 permalink: /docs/
 ---
-
-<form
-      action="#"
-      method="post"
-      onsubmit="window.open('https://tinyletter.com/{{ site.tinyletter }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
-      >
+<div id="mc_embed_signup">
+  <form action="{{ site.mailchimp.action }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+      <h2>Subscribe to our mailing list</h2>
+      <div class="mc-field-group form-group">
+        <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+        <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL">
+        <small class="indicates-required form-text text-muted"><span class="asterisk">*</span> indicates required</small>
+      </div>
       <div class="form-row">
-        <div class="col col-sm-6">
-          <label class="sr-only" for="tlemail">{{ site.data.strings.tinyletter.label | default:"Email" }}</label>
-          <input class="form-control" type="email" name="email" id="tlemail" placeholder="{{ site.data.strings.tinyletter.placeholder | default:'mail@example.com' }}" />
+        <div class="col-6">
+          <div class="mc-field-group form-group">
+            <label for="mce-FNAME">First Name </label>
+            <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME">
+          </div>
         </div>
-        <div class="col-auto">
-          <input class="btn btn-primary" type="submit" value="{{ site.data.strings.tinyletter.button | default:'Subscribe' }}" />
+        <div class="col-6">
+          <div class="mc-field-group form-group">
+            <label for="mce-LNAME">Last Name </label>
+            <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME">
+          </div>
         </div>
       </div>
-      <input type="hidden" value="1" name="embed"/>
-</form>    
+      <div class="mc-field-group form-group">
+        <div>Email Format </div>
+        <div class="form-check form-check-inline">
+          <label class="form-check-label">
+            <input class="form-check-input" type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"> HTML
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <label class="form-check-label">
+            <input class="form-check-input" type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"> Text
+          </label>
+        </div>
+      </div>
+      <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ site.mailchimp.hidden_input }}" tabindex="-1" value=""></div>
+      <div class="clear">
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary">
+      </div>
+    </div>
+  </form>
+</div>

@@ -52,7 +52,7 @@ permalink: /docs/
 
         var plainHTML = decrypt(encryptedHTML, passphrase);
 
-        document.getElementsByClassName("post-content")[0].innerHTML = plainHTML;
+        document.getElementById("post-content")[0].innerHTML = plainHTML;
         // document.write(plainHTML);
         document.close();
     });

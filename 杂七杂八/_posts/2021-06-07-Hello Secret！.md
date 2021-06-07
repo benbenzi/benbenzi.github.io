@@ -35,6 +35,8 @@ var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025
         return decrypted;
     }
     function onbtnDecrypto(){
+        content = content.substr(1);
+        content = content..substring(0, str.length-1);
         var passphrase = document.getElementById('inputkey').value,
             encryptedMsg = content,
             encryptedHMAC = encryptedMsg.substring(0, 64),

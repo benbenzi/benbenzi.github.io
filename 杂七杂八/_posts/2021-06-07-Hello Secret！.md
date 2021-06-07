@@ -14,6 +14,8 @@ invert_sidebar: true
 
 # Hello Secret！
 
+这是我的第一份加密博客，输入****就可以看到内容啦～
+
 <div id="pwinput">
   <div class="form-group">
     <label for="inputkey">请输入密码</label>

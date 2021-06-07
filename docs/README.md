@@ -18,7 +18,7 @@ permalink: /docs/
 
 <hr class="staticrypt-hr">
 
-<form id="staticrypt-form" action="#" method="get">
+<form id="staticrypt-form" action="#">
 <input id="staticrypt-password" type="password" name="password" placeholder="输入密码" autofocus/>
 
 <input type="submit"  value="解锁"/>

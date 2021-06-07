@@ -57,6 +57,7 @@ var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025
 <p>除正文内特殊允许外，任何加密内容禁止复制、转载，谢谢！</p>
 <br>
 </div>
+<hr>
 <div id="output"></div>
 <div id="pwinput">
     <div class="form-group">

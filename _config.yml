@@ -58,6 +58,8 @@ menu:
   #   url:               /resume/
   - title:             测试文档
     url:               /docs/
+  - title:             测试网页
+    url:               /encrypt.html
   - title:             Miiverse
     url:               /Miiverse/index.html
   - title:             Zero

@@ -51,10 +51,6 @@ layout: base
 
 <script>
 
-    /**
-     * Decrypt a salted msg using a password.
-     * Inspired by https://github.com/adonespitogo
-     */
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {
@@ -91,8 +87,8 @@ layout: base
 
         var plainHTML = decrypt(encryptedHTML, passphrase);
 
-        // document.write(plainHTML);
-        // document.close();
+        document.write(plainHTML);
+        document.close();
     });
 </script>
 </article>

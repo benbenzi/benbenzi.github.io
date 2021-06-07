@@ -51,8 +51,7 @@ permalink: /docs/
         }
 
         var plainHTML = decrypt(encryptedHTML, passphrase);
-
-        document.getElementById("post-content").write(plainHTML);
+        console.log(plainHTML);
         // document.write(plainHTML);
         document.close();
     });

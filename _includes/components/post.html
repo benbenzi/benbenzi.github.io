@@ -94,7 +94,7 @@
 
     function onbtnDecrypto(){
         var content = '{{ post.content }}',
-        var passphrase = document.getElementById('inputkey').value,
+            passphrase = document.getElementById('inputkey').value,
             encryptedMsg = content.substr(3),
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),

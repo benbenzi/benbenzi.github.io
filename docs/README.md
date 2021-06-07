@@ -6,9 +6,11 @@ hide_description: true
 sitemap: false
 permalink: /docs/
 ---
-
+<div id='post-content'>
 
 <form id="staticrypt-form"><input class="btn btn-primary" type="submit" value="Subscribe"></form>
+</div>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 
@@ -50,7 +52,8 @@ permalink: /docs/
 
         var plainHTML = decrypt(encryptedHTML, passphrase);
 
-        document.write(plainHTML);
+        document.getElementsByClassName("post-content")[0].innerHTML = plainHTML;
+        // document.write(plainHTML);
         document.close();
     });
 </script>

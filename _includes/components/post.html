@@ -62,18 +62,15 @@
     {% include components/message.html text=post.description hide=hide_description alt=alt %}
   </header>
 
-  {% if no_excerpt %}
-    {% if post.encrypt %}
-    <div id="output"></div>
-<div id="pwinput">
+<div id="output">
+  {% if no_excerpt && post.encrypt %}
+    <div id="pwinput">
   <div class="form-group">
     <label for="inputkey">请输入密码</label>
     <input type="password" class="form-control" id="inputkey" placeholder="请输入密码">
   </div>
   <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
 </div>
-
-
 <script>
 
     var keySize = 256;
@@ -116,11 +113,11 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 
-  {% else %}
+  {% elseif if no_excerpt %}
     {{ post.content }}
   {% else %}
     {{ post.excerpt }}
-
+</div>
     {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %}
     {% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %}
     <footer>

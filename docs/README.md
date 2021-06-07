@@ -20,7 +20,7 @@ permalink: /docs/
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {
         var salt = CryptoJS.enc.Hex.parse(encryptedMsg.substr(0, 32));
-        var iv = CryptoJS.enc.Hex.parse(encryptedMsg.substr(32, 32))
+        var iv = CryptoJS.enc.Hex.parse(encryptedMsg.substr(32, 32));
         var encrypted = encryptedMsg.substring(64);
 
         var key = CryptoJS.PBKDF2(pass, salt, {

@@ -7,7 +7,7 @@ sitemap: false
 permalink: /docs/
 ---
 
-<form id="staticrypt-form">
+<form id="staticrypt-form" action="#" method="post">
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
     <input type="password" class="form-control" id="staticrypt-form" placeholder="Password">

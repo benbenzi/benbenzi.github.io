@@ -13,12 +13,9 @@ invert_sidebar: true
 encrypt: true
 ---
 
+
 <script>
-var content = '
-8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025f881846a2e8f48c98bfdaed5e440ea8d2ff05f12cd307426acf7fd64df10681fLNP0eX/9tqFj9QIIHNPtrGSYG5L6fh3RJQY44eDX5x4MYqdvGXfxvEMn2alyY0lf6aDt0IVdI1Vijxn1eCnTKn4tpFb+XPGqFDToqljWYCbDrRvcctvgEvJMgvynjKF7cCFdwghFPOqJqm4gwErtUnMeO2lWSrtMX4c48A/PFfOAliDJHRcH4xFKXnrTSSYHsPwryJYEr9yMH+HD8k7mlGy64C4pUhvBE0njGKV9AOUxKkKDcf7FkQqGBd0flycquv8hd3upifNneLRdmykl9aGZNLz+HUCARzjtHCWVUCb8LH3YpYub5n+rx7W1xhaZWwH0nBn0A23BaZeiPE9UOalr89rlp9MTziljPGkuEalwPMTonArV/lT4b18saYGqapHvz+acizvkVlR+d2gmndK4ENJcAH6/s2vW6v/Xp4=
-';
-</script>
-<script>
+var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025f881846a2e8f48c98bfdaed5e440ea8d2ff05f12cd307426acf7fd64df10681fLNP0eX/9tqFj9QIIHNPtrGSYG5L6fh3RJQY44eDX5x4MYqdvGXfxvEMn2alyY0lf6aDt0IVdI1Vijxn1eCnTKn4tpFb+XPGqFDToqljWYCbDrRvcctvgEvJMgvynjKF7cCFdwghFPOqJqm4gwErtUnMeO2lWSrtMX4c48A/PFfOAliDJHRcH4xFKXnrTSSYHsPwryJYEr9yMH+HD8k7mlGy64C4pUhvBE0njGKV9AOUxKkKDcf7FkQqGBd0flycquv8hd3upifNneLRdmykl9aGZNLz+HUCARzjtHCWVUCb8LH3YpYub5n+rx7W1xhaZWwH0nBn0A23BaZeiPE9UOalr89rlp9MTziljPGkuEalwPMTonArV/lT4b18saYGqapHvz+acizvkVlR+d2gmndK4ENJcAH6/s2vW6v/Xp4=';
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {
@@ -37,8 +34,6 @@ var content = '
         return decrypted;
     }
     function onbtnDecrypto(){
-        content = content.substr(1);
-        content = content.substring(0, str.length-1);
         var passphrase = document.getElementById('inputkey').value,
             encryptedMsg = content,
             encryptedHMAC = encryptedMsg.substring(0, 64),
@@ -56,7 +51,7 @@ var content = '
     }
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
-<div id="output"></div>
+<div id="output"><h2>！这是一篇加密文档！</h2></div>
 <div id="pwinput">
     <div class="form-group">
         <label for="inputkey">请输入密码</label>

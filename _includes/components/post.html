@@ -72,7 +72,7 @@
   <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
 </div>
 <script>
-
+    var content = {{ post.content }};
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {
@@ -95,7 +95,7 @@
 
     function onbtnDecrypto(){
         var passphrase = document.getElementById('inputkey').value,
-            encryptedMsg = '{{ post.content }}'.substr(3),
+            encryptedMsg = content.substr(3),
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();

@@ -16,17 +16,7 @@ permalink: /docs/
 </form>
  -->
 
-<form action="#" method="post" id="staticrypt-form">
-  <div class="form-row">
-    <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="staticrypt-form" placeholder="Password">
-  </div>
-      <div class="col-auto"> <input class="btn btn-primary" type="submit" value="Subscribe">
-      </div>
-    </div>
-      <input type="hidden" value="1" name="embed"> 
-    </form>
+<form action="#" method="post"><div class="form-row"><div class="col col-sm-6"> <label class="sr-only" for="tlemail">Email</label> <input class="form-control" type="email" name="email" id="tlemail" placeholder="Enter your email address"></div><div class="col-auto"> <input class="btn btn-primary" type="submit" value="Subscribe"></div></div><input type="hidden" value="1" name="embed"> </form>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 

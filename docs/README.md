@@ -9,13 +9,11 @@ permalink: /docs/
 
 
 <div id="pwinput">
-<form>
   <div class="form-group">
     <label for="inputkey">请输入密码</label>
-    <input type="password" class="form-control" id="inputkey" placeholder="Password">
+    <input type="password" class="form-control" id="inputkey" placeholder="请输入密码">
   </div>
-  <button type="submit" class="btn btn-primary" onclick="onbtnDecrypto()">Submit</button>
-</form>
+  <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
 </div>
 <div id="output"></div>
 

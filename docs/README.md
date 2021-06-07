@@ -7,8 +7,15 @@ sitemap: false
 permalink: /docs/
 ---
 
-<div id="pwinput">请输入密码<br>
-   <input id="inputkey" type="password"> <button onclick="onbtnDecrypto()">解密</button>
+
+<div id="pwinput">
+<form>
+  <div class="form-group">
+    <label for="inputkey">请输入密码</label>
+    <input type="password" class="form-control" id="inputkey" placeholder="Password">
+  </div>
+  <button type="submit" class="btn btn-primary" onclick="onbtnDecrypto()">Submit</button>
+</form>
 </div>
 <div id="output"></div>
 

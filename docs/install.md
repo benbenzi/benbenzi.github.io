@@ -7,138 +7,54 @@ description: >
 hide_description: true
 ---
 
-How you install Hydejack depends on whether you [start a new site](#new-sites), 
-or change the theme of [an existing site](#existing-sites).
-
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
-
-## New sites
-For new sites, the best way to get started with Hydejack is via the Starter Kit. 
-It comes with a documented config file and example content that gets you started quickly.
-
-If you have a GitHub account, fork the [Hydejack Starter Kit][hsc] repository. 
-Otherwise [download the Starter Kit][src] and unzip them somewhere on your machine.
-
-If you bought the __PRO Version__ of Hydejack, use the contents of the `starter-kit` folder instead.
-
-In addition to the docs here, you can follow the quick start guide in the Starter Kit.
-{:.note}
-
-You can now jump to [running locally](#running-locally).
-
-You can now also [![Deploy to Netlify][dtn]][nfy]{:.no-mark-external} directly.
-{:.note}
-
-[hsc]: https://github.com/hydecorp/hydejack-starter-kit
-[src]: https://github.com/hydecorp/hydejack-starter-kit/archive/v9.1.4.zip
-[nfy]: https://app.netlify.com/start/deploy?repository=https://github.com/hydecorp/hydejack-starter-kit
-[dtn]: https://www.netlify.com/img/deploy/button.svg
+<div id="pwinput">
+  <div class="form-group">
+    <label for="inputkey">请输入密码</label>
+    <input type="password" class="form-control" id="inputkey" placeholder="请输入密码">
+  </div>
+  <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
+</div>
+<div id="output"></div>
 
 
-## Existing sites
-If you have an existing site that you'd like to upgrade to Hydejack you can install the theme via bundler.
-Add the following to your `Gemfile`:
+<script>
 
-~~~ruby
-# file: `Gemfile`
-gem "jekyll-theme-hydejack"
-~~~
+    var keySize = 256;
+    var iterations = 1000;
+    function decrypt (encryptedMsg, pass) {
+        var salt = CryptoJS.enc.Hex.parse(encryptedMsg.substr(0, 32));
+        var iv = CryptoJS.enc.Hex.parse(encryptedMsg.substr(32, 32));
+        var encrypted = encryptedMsg.substring(64);
 
-If you bought the __PRO Version__ of Hydejack, copy the `#jekyll-theme-hydejack` folder into the root folder of your site,
-and add the following to your `Gemfile` instead:
+        var key = CryptoJS.PBKDF2(pass, salt, {
+            keySize: keySize/32,
+            iterations: iterations
+        });
 
-~~~ruby
-# file: `Gemfile`
-gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
-~~~
+        var decrypted = CryptoJS.AES.decrypt(encrypted, key, {
+            iv: iv,
+            padding: CryptoJS.pad.Pkcs7,
+            mode: CryptoJS.mode.CBC
+        }).toString(CryptoJS.enc.Utf8);
+        return decrypted;
+    }
 
-The folder is prefixed with a `#` to indicate that this folder is different from regular Jekyll content. 
-The `#` char was choosen specifically because it is on of the four characters ignored by Jekyll by default (`.`, `_` , `#`, `~`).
-{:.note}
+    function onbtnDecrypto(){
+        var passphrase = document.getElementById('inputkey').value,
+            encryptedMsg = '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',
+            encryptedHMAC = encryptedMsg.substring(0, 64),
+            encryptedHTML = encryptedMsg.substring(64),
+            decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
 
-In your config file, change the `theme` to Hydejack:
+        if (decryptedHMAC !== encryptedHMAC) {
+            alert('密码错误！');
+            return;
+        }
 
-~~~yml
-# file: `_config.yml`
-theme: jekyll-theme-hydejack
-~~~
+        var plainHTML = decrypt(encryptedHTML, passphrase);
+    document.getElementById("output").innerHTML = plainHTML;
+    document.getElementById("pwinput").style.display = "none";
+    }
+</script>
 
-Hydejack comes with a default configuration file that takes care most of the configuration,
-but it pays off to check out the example config file in the Starter Kit to see what's available.
-
-You can now jump to [running locally](#running-locally).
-
-### Troubleshooting
-If your existing site combines theme files with your content (as did previous verisons of Hydejack/PRO),
-make sure to delete the following folders:
-
-- `_layouts`
-- `_includes` 
-- `_sass` 
-- `assets`
-
-The `assets` folder most likely includes theme files as well as your personal/content files. 
-Make sure to only delete files that belong to the old theme!
-
-
-## GitHub Pages
-If you want to build your site on [GitHub Pages][ghp], check out the [`gh-pages` branch][gpb] in the Hydejack Starter Kit repo.
-
-[ghp]: https://jekyllrb.com/docs/github-pages/
-[gpb]: https://github.com/hydecorp/hydejack-starter-kit/tree/gh-pages
-
-For existing sites, you can instead set the `remote_theme` key as follows:
-
-```yml
-# file: `_config.yml`
-remote_theme: hydecorp/hydejack@v9.1.4
-```
-
-Make sure the `plugins` list contains `jekyll-include-cache` (create if it doesn't exist):
-{:.note title="Important"}
-
-```yml
-# file: `_config.yml`
-plugins:
-  - jekyll-include-cache
-```
-
-To run this configuration locally, make sure the following is part of your `Gemfile`:
-
-```ruby
-# file: `Gemfile`
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-```
-
-Note that Hydejack has a reduced feature set when built on GitHub Pages. 
-Specifically, using KaTeX math formulas doesn't work when built in this way.
-{:.note}
-
-
-## Running locally
-Make sure you've `cd`ed into the directory where `_config.yml` is located.
-Before running for the first time, dependencies need to be fetched from [RubyGems](https://rubygems.org/):
-
-~~~bash
-$ bundle install
-~~~
-
-If you are missing the `bundle` command, you can install Bundler by running `gem install bundler`.
-{:.note}
-
-Now you can run Jekyll on your local machine:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-and point your browser to <http://localhost:4000> to see Hydejack in action.
-
-
-Continue with [Config](config.md){:.heading.flip-title}
-{:.read-more}
-
-
-[upgrade]: upgrade.md
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>

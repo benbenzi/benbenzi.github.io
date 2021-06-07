@@ -56,7 +56,7 @@ menu:
   #   url:               /projects/
   # - title:             简历
   #   url:               /resume/
-  - title:             测试文档
+  - title:             测试版
     url:               /docs/
   - title:             Miiverse
     url:               /Miiverse/index.html

@@ -14,7 +14,7 @@ invert_sidebar: true
 
 # Hello Secret！
 
-这是我的第一份加密博客，输入********就可以看到内容啦～
+这是我的第一份加密博客，输入******就可以看到内容啦～
 
 <div id="output"></div>
 <div id="pwinput">

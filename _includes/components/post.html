@@ -72,8 +72,8 @@
   <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
 </div>
 <script>
-    var content = {{ post.content }};
-    console.log(content);
+    var content = '{{ post.content }}';
+    console.log(content.substr(3));
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {

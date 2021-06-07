@@ -22,7 +22,9 @@ layout: base
     <h1 class="page-title">{{ page.title }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
   </header>
-{{ content }}
+
+  {{ content }}
 </article>
+
 {% include components/dingbat.html %}
 {% include body/comments.html %}

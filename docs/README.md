@@ -8,7 +8,7 @@ permalink: /docs/
 ---
 
 <form>
-  <div class="form-group">
+  <div class="form-group" action="#" method="post">
     <label for="exampleInputPassword1">Password</label>
     <input type="password" class="form-control" id="staticrypt-form" placeholder="Password">
   </div>
@@ -20,10 +20,6 @@ permalink: /docs/
 
 <script>
 
-    /**
-     * Decrypt a salted msg using a password.
-     * Inspired by https://github.com/adonespitogo
-     */
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {

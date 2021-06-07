@@ -7,10 +7,56 @@ sitemap: false
 permalink: /docs/
 ---
 
-<form>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="staticrypt-form" placeholder="Password">
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+<div id="pwinput">请输入Mayx<br>
+   <input id="inputkey" type="password"> <button onclick="onbtnDecrypto()">解密</button>
+</div>
+<div id="output"></div>
+
+<script>
+function getByteLen(val) {
+    var len = 0;
+    for (var i = 0; i < val.length; i++) {
+        if (val[i].match(/[^\x00-\xff]/ig) != null) len += 3;
+        else len += 1;
+    }
+    return len;
+}
+
+function onbtnDecrypto() {
+    var encryptedData = "bbb68859d4e2a8a508932f48a440c894858154b96b3d5113a4488dd2425a709caf3795dcbd4aac25d9ab0f1628b85944cd69b28aae96bdb59a0c792cd9d93bf833e126f474642909164907daef803ecac7753ea5e85000521f80b85fa787e49d8b51faaef35ee728e007253b1a97880987127df248818f295da374a7c7d30950e3ad696f5ccb8c59fe274d4c3a5a3da65c35802d5c00d11be0936498ff4130fb61853bf9f0e8f28d446d612478edf050ebf826a293cd6941dacf40aea5482b74555c1daf052903e7cf6e5d5084842a47e80f31a11d3d542d3cdb4fa9dc20c9ce27f9b2c04fd31a79e1affd503316852073336dd8f446690c08335a93f8e19777ae4441d2d1dd37acd8039fae938f7eaf1a3173c5bd21e1b507d9522b517cd3dc0709bbbad11e0a7ca1f7bc7b8c40ecc20d765227b34d46d9c00c3ce928c1c561f4147f7e4ab975c9a8dc6bb1e10dea990b9a88abecf32046c5d52ea9f8025ce657d91ef35670c516df3d8e1c4f34fa6c4c90a3bb067981d380b3af65bf3273be699ff3831c62ce85de36f03b51f5e767";
+    var keyword = document.getElementById("inputkey").value;
+
+    if (keyword.replace(/(^\s*)|(\s*$)/g, "") == '') {
+        alert("请输入密码！");
+        return;
+    }
+    while (getByteLen(keyword) % 8 != 0) {
+        keyword = keyword + "\0";
+    }
+
+    var key = CryptoJS.enc.Utf8.parse(keyword);
+    var encryptedHexStr = CryptoJS.enc.Hex.parse(encryptedData);
+    var encryptedBase64Str = CryptoJS.enc.Base64.stringify(encryptedHexStr);
+
+    var decryptedData = CryptoJS.AES.decrypt(encryptedBase64Str, key, {
+        mode: CryptoJS.mode.ECB,
+        padding: CryptoJS.pad.Pkcs7
+    });
+
+    if (decryptedData.sigBytes < 0) {
+        document.getElementById("output").innerHTML = "解密失败！密文或者key错误!";
+        return;
+    }
+    try {
+        decryptedData.toString(CryptoJS.enc.Utf8)
+    } catch(e) {
+        document.getElementById("output").innerHTML = "解密失败！密文或者key错误!";
+        return;
+    }
+    var decryptedStr = decryptedData.toString(CryptoJS.enc.Utf8);
+    document.getElementById("output").innerHTML = decryptedStr;
+    document.getElementById("pwinput").style.display = "none";
+}
+</script>
+
+<script src="/assets/js/aes.js"></script>

@@ -29,9 +29,8 @@ permalink: /docs/
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 
 <script>
-
- var keySize = 256;
- var iterations = 1000;
+var keySize = 256;
+var iterations = 1000;
  function decrypt (encryptedMsg, pass) {
   var salt = CryptoJS.enc.Hex.parse(encryptedMsg.substr(0, 32));
   var iv = CryptoJS.enc.Hex.parse(encryptedMsg.substr(32, 32))
@@ -59,15 +58,13 @@ encryptedHMAC = encryptedMsg.substring(0, 64),
 encryptedHTML = encryptedMsg.substring(64),
 decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
 
-  if (decryptedHMAC !== encryptedHMAC) {
+if (decryptedHMAC !== encryptedHMAC) {
 alert('密码错误！');
 return;
-  }
-
-  var plainHTML = decrypt(encryptedHTML, passphrase);
-
-  document.write(plainHTML);
-  document.close();
- });
+}
+var plainHTML = decrypt(encryptedHTML, passphrase);
+document.write(plainHTML);
+document.close();
+});
 </script>
-</article>
+

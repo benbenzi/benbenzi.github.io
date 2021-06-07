@@ -49,11 +49,6 @@ layout: base
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 
 <script>
-
-    /**
-     * Decrypt a salted msg using a password.
-     * Inspired by https://github.com/adonespitogo
-     */
     var keySize = 256;
     var iterations = 1000;
     function decrypt (encryptedMsg, pass) {
@@ -78,7 +73,7 @@ layout: base
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
-            encryptedMsg = {{ content }},
+            encryptedMsg = {{ content }} , 
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
@@ -93,6 +88,17 @@ layout: base
         document.write(plainHTML);
         document.close();
     });
+    if (typeof MathJax !== 'undefined') {
+     try {
+        MathJax.Hub.Queue(
+            ['resetEquationNumbers', MathJax.InputJax.TeX, ],
+            ['PreProcess', MathJax.Hub, ],
+            ['Reprocess', MathJax.Hub, ]
+        );
+    }  catch (e) {
+        console.log('Can\'t render with MathJax');
+    }
+}
 </script>
 
 </article>

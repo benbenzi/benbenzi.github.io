@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Hello Secret！
-image: /assets/img/blog/2019-01-18/cover.jpg
-accent_image: 
-  background: url('/assets/img/blog/2021-06-04/bg.jpg') center/cover
-  overlay: false
+image: /assets/img/blog/2021-06-07/cover.jpg
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  这是第一个秘密哦～
+  这是我的第一篇加密文档测试，密码：haha
 invert_sidebar: true
 encrypt: true
 ---

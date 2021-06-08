@@ -54,8 +54,8 @@ menu:
     url:               /blog/
   # - title:             项目
   #   url:               /projects/
-  # - title:             简历
-  #   url:               /resume/
+  - title:             标签
+    url:               /tags/
   - title:             测试版
     url:               /docs/
   - title:             Miiverse

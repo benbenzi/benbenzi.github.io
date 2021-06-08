@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【转载】游戏抽象度(A Certain Level of Abstraction)
-image: /assets/img/blog/2007-09-28/jjlogo_800x800.png
+image: /assets/img/blog/2007-09-28/cover.jpg
 accent_image: 
   background: url('/assets/img/blog/2007-09-28/bg.jpg') center/cover
   overlay: false

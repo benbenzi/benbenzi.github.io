@@ -1,48 +1,26 @@
 ---
-title: Documentation
+title: 测试
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  测试
 hide_description: true
 sitemap: false
 permalink: /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
+## 堵塞式
+Html 代码是完全透明的，而显示一个部分的前提条件是这个部分会加载进 html 源码中。也就是说，只要这个部分最终会显示出来，那么用户就一定可以在源代码中找到这个部分的代码。静态网页的加密难点就主要在对这部分代码的隐藏。另一方面，网页的代码又是解释性的，即运行到哪里才编译哪里。那么我们就很容易想到，有没有代码可以让网页“卡”在那条代码上，后面的都先不解释，也就无法展现在源代码中，这样就解决了加密部分的源代码隐藏了。这就是我们的 `prompt` 方法。
 
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
+> `prompt()` 方法用于显示可提示用户进行输入的对话框。
+> `prompt(text,defaultText)`
+> 如果用户单击提示框的取消按钮，则返回 null。如果用户单击确认按钮，则返回输入字段当前显示的文本。
+> *在用户点击确定按钮或取消按钮把对话框关闭之前，它将阻止用户对浏览器的所有输入。在调用 prompt() 时，将暂停对 JavaScript 代码的执行，在用户作出响应之前，不会执行下一条语句。*
 
+于是，很简单的代码逻辑就出来了。
 
-## Getting started
-* [秘密基地]{:.heading.flip-title} --- 秘密基地
-* [游戏研究]{:.heading.flip-title} --- 游戏研究
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-{:.related-posts.faded}
-
-## Using Hydejack
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-{:.related-posts.faded}
-
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
-
-[秘密基地]: ../blog/秘密基地/
-[游戏研究]: ../blog/游戏研究/
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+~~~js
+if (prompt('input','') == YOURPASSWORD){
+	  unlock();
+}else {
+    alert('bad password');
+}
+~~~

@@ -58,7 +58,7 @@ var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025
             return;
         }
         var plainHTML = decrypt(encryptedHTML, passphrase);
-    document.getElementById("output").value = plainHTML;
+    document.getElementById("output").innerHTML = plainHTML;
     document.getElementById("pwinput").style.display = "none";
     }
 </script>

@@ -62,6 +62,8 @@ menu:
     url:               /Miiverse/index.html
   - title:             Zero
     url:               /zero/zero.html
+  - title:             加密
+    url:               /doEncrypt.html
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

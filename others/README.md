@@ -7,6 +7,7 @@ sitemap: false
 permalink: /others/
 ---
 
+该板块下包含了一些特殊页面，以及本网站的其他子站点。
 
 ## 主站功能
 * [测试板块]{:.heading.flip-title} --- 用于测试自己开发调试的新功能。

@@ -1,5 +1,5 @@
 ---
-title: 代码高亮测试！
+title: 代码高亮测试！2
 description: >
   密码2333
 hide_description: true
@@ -43,7 +43,7 @@ var content = '8023f5a8bd3009dcfa6e8213a81a4370ece14410aa8569ded59966142c3a40cd4
     document.getElementById("pwinput").style.display = "none";
 }
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
+<script src="/assets/js/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 <script type="text/javascript" src="/assets/highlight.js"></script>
 <script>hljs.highlightAll();</script>
 <link rel="stylesheet" href="/assets/styles/default.min.css">

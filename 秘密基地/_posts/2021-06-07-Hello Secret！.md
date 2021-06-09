@@ -46,7 +46,7 @@ var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025
     document.getElementById("pwinput").style.display = "none";
     }
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
+<script src="/assets/js/crypto-js.min.js" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7" crossorigin="anonymous"></script>
 
 ## ！这是一篇加密文档！
 

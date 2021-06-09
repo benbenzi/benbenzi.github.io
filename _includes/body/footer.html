@@ -3,7 +3,7 @@
   <hr/>
   {% if site.copyright.size > 0 %}
     <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
-    <div id="aplayer" style="z-index:999;position:fixed;"></div>
+
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -19,13 +19,18 @@
   {% endif %}
   <hr class="sr-only"/>
 
+
+<div id="aplayer" style="z-index:999;position:fixed;">     
+    <script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+    <meting-js server="netease" type="playlist" id="574373829" fixed="true" mini="true" listFolded="true"></meting-js>
+</div>
+
+
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
-<meting-js server="netease" type="playlist" id="574373829" fixed="true" mini="true" listFolded="true"></meting-js>
 {% endif %}

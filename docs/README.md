@@ -25,6 +25,7 @@ if (prompt('input','') == YOURPASSWORD){
 }
 ~~~-->
 
+<link rel="stylesheet" href="/assets/styles/default.css">
 <script type="text/javascript" src="/assets/highlight.js"></script>
 <script> hljs.initHighlightingOnLoad() </script>
 <script>

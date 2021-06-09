@@ -2,7 +2,7 @@
 <footer class="content" role="contentinfo">
   <hr/>
   {% if site.copyright.size > 0 %}
-    <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
+    <p><small class="copyright"><div id="aplayer"></div>{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -17,7 +17,7 @@
     <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">9.1.4</span></small></p>
   {% endif %}
   <hr class="sr-only"/>
-<div {float:right} id="aplayer"></div>
+
 <script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>

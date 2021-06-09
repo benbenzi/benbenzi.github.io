@@ -3,6 +3,7 @@
   <hr/>
   {% if site.copyright.size > 0 %}
     <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
+    <div id="aplayer" style="z-index:auto;position:fixed;float:right;"></div>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -11,7 +12,6 @@
       <a class="heading flip-title" href="{% include_cached smart-url url=url %}">{{ node.name | default:node.title }}</a>
       {% unless forloop.last %}{{ site.data.strings.separator | default:'|' }}{% endunless %}
     {% endfor %}
-    <div id="aplayer" style="z-index:auto;position:fixed;float:right;"></div>
     </small></nav>
   {% endif %}
   {% if site.hydejack.advertise %}

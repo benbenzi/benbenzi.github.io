@@ -206,12 +206,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id7">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="7010" y="4152"/><tspan class="TextPosition" x="7010" y="4152"><tspan fill="rgb(35,31,32)" stroke="none">1. Fixed rules </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="7010" y="4152"/><tspan class="TextPosition" x="7010" y="4152"><tspan fill="rgb(35,31,32)" stroke="none">1. 固定规则 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id8">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="5803"/><tspan class="TextPosition" x="9273" y="5803"><tspan fill="rgb(35,31,32)" stroke="none">2. Variable </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="5803"/><tspan class="TextPosition" x="9273" y="5803"><tspan fill="rgb(35,31,32)" stroke="none">2. 结果的 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -226,12 +226,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id11">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="6216"/><tspan class="TextPosition" x="9273" y="6216"><tspan fill="rgb(35,31,32)" stroke="none">outcome </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="6216"/><tspan class="TextPosition" x="9273" y="6216"><tspan fill="rgb(35,31,32)" stroke="none">多变性 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id12">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="7835"/><tspan class="TextPosition" x="9273" y="7835"><tspan fill="rgb(35,31,32)" stroke="none">3. Valorization </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="7835"/><tspan class="TextPosition" x="9273" y="7835"><tspan fill="rgb(35,31,32)" stroke="none">3. 结果的 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -241,12 +241,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id14">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="8248"/><tspan class="TextPosition" x="9273" y="8248"><tspan fill="rgb(35,31,32)" stroke="none">of outcome </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="9273" y="8248"/><tspan class="TextPosition" x="9273" y="8248"><tspan fill="rgb(35,31,32)" stroke="none">价值性 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id15">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="5803"/><tspan class="TextPosition" x="4957" y="5803"><tspan fill="rgb(35,31,32)" stroke="none">6. Negotiable </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="5803"/><tspan class="TextPosition" x="4957" y="5803"><tspan fill="rgb(35,31,32)" stroke="none">6. 可协商性 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -266,17 +266,17 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id19">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="6216"/><tspan class="TextPosition" x="4957" y="6216"><tspan fill="rgb(35,31,32)" stroke="none">consequences </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="6216"/><tspan class="TextPosition" x="4957" y="6216"><tspan fill="rgb(35,31,32)" stroke="none">结果 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id20">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="538" y="1942"/><tspan class="TextPosition" x="538" y="1942"><tspan fill="rgb(35,31,32)" stroke="none">Traffic, </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="538" y="1942"/><tspan class="TextPosition" x="538" y="1942"><tspan fill="rgb(35,31,32)" stroke="none">交通， </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id21">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="538" y="2266"/><tspan class="TextPosition" x="538" y="2266"><tspan fill="rgb(35,31,32)" stroke="none">Noble war </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="538" y="2266"/><tspan class="TextPosition" x="538" y="2266"><tspan fill="rgb(35,31,32)" stroke="none">战争 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -301,7 +301,7 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id26">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13741" y="1434"/><tspan class="TextPosition" x="13741" y="1434"><tspan fill="rgb(35,31,32)" stroke="none">Hypertext fiction </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13741" y="1434"/><tspan class="TextPosition" x="13741" y="1434"><tspan fill="rgb(35,31,32)" stroke="none">超文本虚构 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -321,12 +321,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id30">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13593" y="7301"/><tspan class="TextPosition" x="13593" y="7301"><tspan fill="rgb(35,31,32)" stroke="none">Open-ended </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13593" y="7301"/><tspan class="TextPosition" x="13593" y="7301"><tspan fill="rgb(35,31,32)" stroke="none">开放式 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id31">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13593" y="7627"/><tspan class="TextPosition" x="13593" y="7627"><tspan fill="rgb(35,31,32)" stroke="none">simulations </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13593" y="7627"/><tspan class="TextPosition" x="13593" y="7627"><tspan fill="rgb(35,31,32)" stroke="none">模拟 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -351,17 +351,17 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id36">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="14896"/><tspan class="TextPosition" x="7137" y="14896"><tspan fill="rgb(35,31,32)" stroke="none">Conway&apos;s game of </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="14896"/><tspan class="TextPosition" x="7137" y="14896"><tspan fill="rgb(35,31,32)" stroke="none">康威生命游戏，</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id37">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="15220"/><tspan class="TextPosition" x="7137" y="15220"><tspan fill="rgb(35,31,32)" stroke="none">life, </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="15220"/><tspan class="TextPosition" x="7137" y="15220"><tspan fill="rgb(35,31,32)" stroke="none">看壁炉游戏</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id38">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="15543"/><tspan class="TextPosition" x="7137" y="15543"><tspan fill="rgb(35,31,32)" stroke="none">watching a fireplace </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="7137" y="15543"/><tspan class="TextPosition" x="7137" y="15543"><tspan fill="rgb(35,31,32)" stroke="none">[÷3, 4, 5]</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -376,17 +376,17 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id41">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="7137" y="15878"/><tspan class="TextPosition" x="7137" y="15878"><tspan fill="rgb(35,31,32)" stroke="none">[÷3, 4, 5]</tspan></tspan><tspan class="TextPosition" x="8208" y="15878"><tspan font-family="TimesNewRomanPS, serif" font-style="italic" fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="7137" y="15878"/><tspan class="TextPosition" x="7137" y="15878"><tspan fill="rgb(35,31,32)" stroke="none"></tspan></tspan><tspan class="TextPosition" x="8208" y="15878"><tspan font-family="TimesNewRomanPS, serif" font-style="italic" fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id42">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="3702" y="11418"/><tspan class="TextPosition" x="3702" y="11418"><tspan fill="rgb(35,31,32)" stroke="none">Games of pure </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="3702" y="11418"/><tspan class="TextPosition" x="3702" y="11418"><tspan fill="rgb(35,31,32)" stroke="none">纯粹变化</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id43">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="3702" y="11744"/><tspan class="TextPosition" x="3702" y="11744"><tspan fill="rgb(35,31,32)" stroke="none">chance </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="3702" y="11744"/><tspan class="TextPosition" x="3702" y="11744"><tspan fill="rgb(35,31,32)" stroke="none">游戏 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -411,12 +411,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id48">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="8915" y="2317"/><tspan class="TextPosition" x="8915" y="2317"><tspan fill="rgb(35,31,32)" stroke="none">Pen &amp; paper role-</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="8915" y="2317"/><tspan class="TextPosition" x="8915" y="2317"><tspan fill="rgb(35,31,32)" stroke="none">笔纸RPG</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id49">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="8915" y="2643"/><tspan class="TextPosition" x="8915" y="2643"><tspan fill="rgb(35,31,32)" stroke="none">playing </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="8915" y="2643"/><tspan class="TextPosition" x="8915" y="2643"><tspan fill="rgb(35,31,32)" stroke="none">游戏 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -451,12 +451,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id56">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1088" y="6937"/><tspan class="TextPosition" x="1088" y="6937"><tspan fill="rgb(35,31,32)" stroke="none">Skill-based </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1088" y="6937"/><tspan class="TextPosition" x="1088" y="6937"><tspan fill="rgb(35,31,32)" stroke="none">基于技巧的 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id57">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1088" y="7261"/><tspan class="TextPosition" x="1088" y="7261"><tspan fill="rgb(35,31,32)" stroke="none">gambling </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1088" y="7261"/><tspan class="TextPosition" x="1088" y="7261"><tspan fill="rgb(35,31,32)" stroke="none">赌博 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -476,12 +476,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id61">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1740" y="9323"/><tspan class="TextPosition" x="1740" y="9323"><tspan fill="rgb(35,31,32)" stroke="none">Chance-based </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1740" y="9323"/><tspan class="TextPosition" x="1740" y="9323"><tspan fill="rgb(35,31,32)" stroke="none">基于变化 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id62">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1740" y="9647"/><tspan class="TextPosition" x="1740" y="9647"><tspan fill="rgb(35,31,32)" stroke="none">gambling </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="1740" y="9647"/><tspan class="TextPosition" x="1740" y="9647"><tspan fill="rgb(35,31,32)" stroke="none">的赌博 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -511,12 +511,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id68">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="7733"/><tspan class="TextPosition" x="4957" y="7733"><tspan fill="rgb(35,31,32)" stroke="none">5. Player </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="7733"/><tspan class="TextPosition" x="4957" y="7733"><tspan fill="rgb(35,31,32)" stroke="none">5. 玩家 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id69">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="8140"/><tspan class="TextPosition" x="4957" y="8140"><tspan fill="rgb(35,31,32)" stroke="none">attached to </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="8140"/><tspan class="TextPosition" x="4957" y="8140"><tspan fill="rgb(35,31,32)" stroke="none">依赖结果 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -536,12 +536,12 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id73">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="8557"/><tspan class="TextPosition" x="4957" y="8557"><tspan fill="rgb(35,31,32)" stroke="none">outcome </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="4957" y="8557"/><tspan class="TextPosition" x="4957" y="8557"><tspan fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id74">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="4274" y="386"/><tspan class="TextPosition" x="4274" y="386"><tspan fill="rgb(35,31,32)" stroke="none">Free-form play </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="4274" y="386"/><tspan class="TextPosition" x="4274" y="386"><tspan fill="rgb(35,31,32)" stroke="none">自由形式游戏 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -571,22 +571,22 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id80">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="7243" y="9877"/><tspan class="TextPosition" x="7243" y="9877"><tspan fill="rgb(35,31,32)" stroke="none">4. Player effort</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="7243" y="9877"/><tspan class="TextPosition" x="7243" y="9877"><tspan fill="rgb(35,31,32)" stroke="none">4. 玩家的努力</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id81">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="11201" y="14134"/><tspan class="TextPosition" x="11201" y="14134"><tspan fill="rgb(35,31,32)" stroke="none">Movies / </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="11201" y="14134"/><tspan class="TextPosition" x="11201" y="14134"><tspan fill="rgb(35,31,32)" stroke="none">电影/叙事</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id82">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="11201" y="14458"/><tspan class="TextPosition" x="11201" y="14458"><tspan fill="rgb(35,31,32)" stroke="none">storytelling </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="11201" y="14458"/><tspan class="TextPosition" x="11201" y="14458"><tspan fill="rgb(35,31,32)" stroke="none">[÷2, 4, 5]</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id83">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="11201" y="14788"/><tspan class="TextPosition" x="11201" y="14788"><tspan fill="rgb(35,31,32)" stroke="none">[÷2, 4, 5]</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="11201" y="14788"/><tspan class="TextPosition" x="11201" y="14788"><tspan fill="rgb(35,31,32)" stroke="none"></tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
@@ -601,17 +601,17 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id86">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="4305" y="2730"/><tspan class="TextPosition" x="4305" y="2730"><tspan fill="rgb(35,31,32)" stroke="none">BORDERLINE </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="4305" y="2730"/><tspan class="TextPosition" x="4305" y="2730"><tspan fill="rgb(35,31,32)" stroke="none">六大游戏特征 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id87">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="5044" y="3227"/><tspan class="TextPosition" x="5044" y="3227"><tspan fill="rgb(35,31,32)" stroke="none">CASES </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="5044" y="3227"/><tspan class="TextPosition" x="5044" y="3227"><tspan fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id88">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="14666" y="12744"/><tspan class="TextPosition" x="14666" y="12744"><tspan fill="rgb(35,31,32)" stroke="none">NOT </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="14666" y="12744"/><tspan class="TextPosition" x="14666" y="12744"><tspan fill="rgb(35,31,32)" stroke="none">非游戏 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -626,22 +626,22 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id91">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="14349" y="13241"/><tspan class="TextPosition" x="14349" y="13241"><tspan fill="rgb(35,31,32)" stroke="none">GAMES </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="423px" font-weight="700"><tspan class="TextPosition" x="14349" y="13241"/><tspan class="TextPosition" x="14349" y="13241"><tspan fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id92">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="125" y="12650"/><tspan class="TextPosition" x="125" y="12650"><tspan fill="rgb(35,31,32)" stroke="none">Note:</tspan></tspan><tspan class="TextPosition" x="951" y="12650"><tspan font-family="TimesNewRoman, serif" font-weight="400" fill="rgb(35,31,32)" stroke="none"> Arrows </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="125" y="12650"/><tspan class="TextPosition" x="125" y="12650"><tspan fill="rgb(35,31,32)" stroke="none">注：</tspan></tspan><tspan class="TextPosition" x="951" y="12650"><tspan font-family="TimesNewRoman, serif" font-weight="400" fill="rgb(35,31,32)" stroke="none"> 箭头 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id93">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13052"/><tspan class="TextPosition" x="125" y="13052"><tspan fill="rgb(35,31,32)" stroke="none">indicate the </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13052"/><tspan class="TextPosition" x="125" y="13052"><tspan fill="rgb(35,31,32)" stroke="none">表示特征</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id94">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13458"/><tspan class="TextPosition" x="125" y="13458"><tspan fill="rgb(35,31,32)" stroke="none">removal of a </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13458"/><tspan class="TextPosition" x="125" y="13458"><tspan fill="rgb(35,31,32)" stroke="none">的移动变化</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.PolyPolygonShape">
@@ -656,17 +656,17 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id97">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13863"/><tspan class="TextPosition" x="125" y="13863"><tspan fill="rgb(35,31,32)" stroke="none">feature. </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRoman, serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="125" y="13863"/><tspan class="TextPosition" x="125" y="13863"><tspan fill="rgb(35,31,32)" stroke="none"> </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id98">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="15847" y="3301"/><tspan class="TextPosition" x="15847" y="3301"><tspan fill="rgb(35,31,32)" stroke="none">Ring-a-ring-a-</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="15847" y="3301"/><tspan class="TextPosition" x="15847" y="3301"><tspan fill="rgb(35,31,32)" stroke="none">环绕玫瑰花 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id99">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="15847" y="3627"/><tspan class="TextPosition" x="15847" y="3627"><tspan fill="rgb(35,31,32)" stroke="none">roses </tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="TimesNewRomanPS, serif" font-size="282px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="15847" y="3627"/><tspan class="TextPosition" x="15847" y="3627"><tspan fill="rgb(35,31,32)" stroke="none">游戏 </tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">

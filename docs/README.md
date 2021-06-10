@@ -1,11 +1,16 @@
 ---
-title: 视频插入链接测试
+title: 图片描述测试
 description: >
-  视频插入测试
+  测试
 hide_description: true
 sitemap: false
 permalink: /docs/
 ---
+
+
+![图1：游戏本体论的游戏分割次阶序结构](/assets/img/blog/2016-08-01/1.png)
+
+-----------------
 
 ## 这才是真正的《宝可梦 珍珠钻石》！
 

@@ -32,13 +32,14 @@
   {% if site.hydejack.dark_mode.icon %}
     {% include templates/pro/dark-mode.html %}
   {% endif %}
-  {% unless site.hydejack.no_search %}
-    {% include templates/pro/search.html %}
-  {% endunless %}
-<button id="cn-translate" class="nav-btn no-hover" onclick="zh_tran('t');">
+  <button id="cn-translate" class="nav-btn no-hover" onclick="zh_tran('t');">
   <span class="sr-only">简繁转换</span>
   <span class="icon-earth"></span> 
 </button>
+  {% unless site.hydejack.no_search %}
+    {% include templates/pro/search.html %}
+  {% endunless %}
+
 </div>
 
 <script src="/assets/js/cn-translate.js"></script>

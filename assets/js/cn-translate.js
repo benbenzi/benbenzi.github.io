@@ -21,15 +21,9 @@
     String.prototype.tran = function() {
         var s1,s2;
         if (zh_choose == 't') {
-            document.getElementById('name').onclick = function(){ 
-            zh_tran('s'); 
-            };
             s1 = zh_s;
             s2 = zh_t;
         }else if(zh_choose == 's') {
-            document.getElementById('name').onclick = function(){ 
-            zh_tran('t'); 
-            };
             s1 = zh_t;
             s2 = zh_s;
         }else {
@@ -96,6 +90,15 @@
     function zh_tran(go) {
         if (go) zh_choose = go;
         setCookie('zh_choose', zh_choose, zh_expires);
+        if (go == 't'){
+            document.getElementById('_cn-translate').onclick = function(){ 
+            zh_tran('s'); 
+            };
+        }else if (go == 's'){
+            document.getElementById('_cn-translate').onclick = function(){ 
+            zh_tran('t'); 
+            };
+        } 
         if (go == 'n') {
             window.location.reload();
         }else {

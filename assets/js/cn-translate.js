@@ -90,15 +90,6 @@
     function zh_tran(go) {
         if (go) zh_choose = go;
         setCookie('zh_choose', zh_choose, zh_expires);
-        if (go == 't'){
-            document.getElementById('_cn-translate').onclick = function(){ 
-            zh_tran('s'); 
-            };
-        }else if (go == 's'){
-            document.getElementById('_cn-translate').onclick = function(){ 
-            zh_tran('t'); 
-            };
-        } 
         if (go == 'n') {
             window.location.reload();
         }else {

@@ -561,8 +561,8 @@ Dark mode can be enabled in `config.yml` under the `hydejack` key and has three 
 hydejack:
   dark_mode:
     dynamic: true
-    sunrise: 6
-    sunset:  18
+    sunrise: 8
+    sunset:  19
     icon:    true
     always:  false
 ```

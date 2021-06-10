@@ -67,10 +67,12 @@
     {{ post.content }}
   {% else %}
 
+<!--     {{ post.excerpt }}
+    {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %} -->
          <!--  显示阅读时间 -->
     {% assign words_per_minute = 150 %}
     {% assign words = post.content | strip_html | strip_newlines | size %}
-    <span class="page_meta-readtime">
+    
       {% if words < words_per_minute %}
         {{ '阅读大约需要' }} 1 {{ '分钟' }}
       {% elsif words == words_per_minute %}
@@ -78,12 +80,8 @@
       {% else %}
         {{ '阅读大约需要' }} {{ words | divided_by: words_per_minute }} {{ '分钟' }}
       {% endif %}
-    </span>
 
-
-<!--     {{ post.excerpt }}
-    {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %} -->
-    {% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %}
+{% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %}
     <footer>
       <p class="read-more">
         {{ text | replace:"<!--post_title-->", post_title }}

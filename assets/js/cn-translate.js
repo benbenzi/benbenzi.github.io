@@ -21,9 +21,15 @@
     String.prototype.tran = function() {
         var s1,s2;
         if (zh_choose == 't') {
+            document.getElementById('_cn-translate').onclick = function(){ 
+            zh_tran('s'); 
+            };
             s1 = zh_s;
             s2 = zh_t;
         }else if(zh_choose == 's') {
+            document.getElementById('_cn-translate').onclick = function(){ 
+            zh_tran('t'); 
+            };
             s1 = zh_t;
             s2 = zh_s;
         }else {

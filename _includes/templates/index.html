@@ -32,16 +32,14 @@
   {% if site.hydejack.dark_mode.icon %}
     {% include templates/pro/dark-mode.html %}
   {% endif %}
-<!--    {% if site.hydejack.dark_mode.icon %}
-    {% include templates/pro/cn-translate.html %}
-  {% endif %} -->
-  {% unless site.hydejack.no_search %}
-    {% include templates/pro/search.html %}
-  {% endunless %}
-
-  {% if site.hydejack.dark_mode.icon %}
+   {% if site.hydejack.dark_mode.icon %}
     {% include templates/pro/cn-translate.html %}
   {% endif %}
+  {% unless site.hydejack.no_search %}
+    {% include templates/pro/search.html %}
+    {% include templates/pro/cn-translate.html %}
+  {% endunless %}
+
 
 </div>
 

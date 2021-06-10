@@ -21,24 +21,6 @@ layout: base
   <header>
     <h1 class="page-title">{{ page.title }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
-
-  {% if document.read_time %}
-    {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 150 %}
-
-    {% assign words = document.content | strip_html | strip_newlines | size %}
-    <{% if include.type == "recent-item-meta" %}p{% else %}span{% endif %} class="page_meta-readtime">
-      {% if words < words_per_minute %}
-        {{ site.data.ui-text[site.locale].less_than | default: '阅读大约需要' }} 1 {{ site.data.ui-text[site.locale].minute_read | default: '分钟' }}
-      {% elsif words == words_per_minute %}
-        {{ site.data.ui-text[site.locale].less_than | default: '阅读大约需要' }} 1 {{ site.data.ui-text[site.locale].minute_read | default: '分钟' }}
-      {% else %}
-        {{ site.data.ui-text[site.locale].less_than | default: '阅读大约需要' }} {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: '分钟' }}
-      {% endif %}
-    </{% if include.type == "recent-item-meta" %}p{% else %}span{% endif %}>
-  {% endif %}
-
-
-    
   </header>
 
   {{ content }}

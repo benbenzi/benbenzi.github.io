@@ -21,7 +21,7 @@
     border-radius: $input-border-radius;
   } @else {
     // Otherwise undo the iOS default
-    border-radius: 0;
+    border-radius: 20;
   }
 
   @include box-shadow($input-box-shadow);

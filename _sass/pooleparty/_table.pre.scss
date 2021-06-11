@@ -17,7 +17,7 @@
 table:not(.rouge-table) {
   @extend .figure-base;
   border-collapse: collapse;
-  border-radius: 0!important;
+  border-radius: 20!important;
   display: block;
   margin-bottom: 1.5rem;
 

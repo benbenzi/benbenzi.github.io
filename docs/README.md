@@ -1,14 +1,15 @@
 ---
-title: 图片描述测试
+layout: post
+title: 测试中的post
+image: /assets/img/blog/2021-06-07/cover.jpg
 description: >
   测试
-hide_description: true
-sitemap: false
 permalink: /docs/
 ---
 
+# 测试中的post
 
-![图1：游戏本体论的游戏分割次阶序结构](/assets/img/blog/2016-08-01/1.png)
+![](/assets/img/blog/2016-08-01/1.png)
 
 -----------------
 

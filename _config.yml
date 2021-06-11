@@ -54,6 +54,8 @@ menu:
     url:               /blog/
   - title:             访谈测试
     url:               /interview/
+  - title:             项目
+    url:               /projects/
   - title:             标签
     url:               /tags/
   - title:             其他

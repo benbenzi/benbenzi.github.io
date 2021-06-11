@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 测试中的post
+date: 1 Jun 2021
 image: /assets/img/blog/2021-06-07/cover.jpg
 description: >
   测试
@@ -9,9 +10,11 @@ permalink: /docs/
 
 # 测试中的post
 
+？？？
+
 ![](/assets/img/blog/2016-08-01/1.png)
 
------------------
+---
 
 ## 这才是真正的《宝可梦 珍珠钻石》！
 

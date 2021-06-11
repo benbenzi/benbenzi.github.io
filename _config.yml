@@ -53,7 +53,7 @@ menu:
   - title:             博客
     url:               /blog/
   - title:             访谈测试
-    url:               /interview/
+    url:               /interviews/
   - title:             项目
     url:               /projects/
   - title:             标签

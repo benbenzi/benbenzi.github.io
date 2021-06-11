@@ -10,6 +10,8 @@ permalink: /interviews/
 ## Wii U
 
 [『Splatoon（スプラトゥーン）』]{:.heading.flip-title}（2015年5月21日公開）
+[『XenobladeX（ゼノブレイドクロス）』]{:.heading.flip-title}（2015年4月28日公開）
 {:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: jp/WiiU/agmj/vol1/1.md
+[『XenobladeX（ゼノブレイドクロス）』]: jp/WiiU/ax5j/vol1/1.md

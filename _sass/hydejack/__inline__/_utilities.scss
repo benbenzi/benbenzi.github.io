@@ -60,7 +60,7 @@
 }
 
 .border {
-  border: 1px solid var(--border-color); 
+  @extend .border-radius;  border: 1px solid var(--border-color); 
 //   transition: border-color 1s ease; 
 }
 

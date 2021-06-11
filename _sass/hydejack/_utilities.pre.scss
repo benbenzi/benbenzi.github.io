@@ -61,7 +61,7 @@
 }
 
 .border {
-  border: 1px solid var(--border-color); // inline
+  @extend .border-radius;  border: 1px solid var(--border-color); // inline
   transition: border-color 1s ease; // link
 }
 

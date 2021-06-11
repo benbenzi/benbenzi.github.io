@@ -10,6 +10,7 @@ permalink: /interviews/
 
 点击下面的标签，即可查看该标签下的所有文章。
 
+[test]测试
 
 ## Wii U
 
@@ -17,3 +18,4 @@ permalink: /interviews/
 {:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: jp/WiiU/agmj/vol1/2015-05-21-【1】はじめは豆腐.md
+[test]: test.md

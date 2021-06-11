@@ -6,11 +6,11 @@ hide_description: false
 sitemap: false
 ---
 
-
+1
 ## Wii U
 
 [『Splatoon（スプラトゥーン）』]{:.heading.flip-title}（2015年5月21日公開）
 {:.related-posts.faded}
 
-[『Splatoon（スプラトゥーン）』]: jp/WiiU/agmj/vol1/2015-05-21-【1】はじめは豆腐.md
+[『Splatoon（スプラトゥーン）』]: ../interviews/jp/WiiU/agmj/vol1/2015-05-21-【1】はじめは豆腐
 

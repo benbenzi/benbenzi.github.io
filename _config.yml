@@ -52,14 +52,14 @@ author:
 menu:
   - title:             博客
     url:               /blog/
-  - title:             访谈测试
-    url:               /interviews/
   # - title:             项目
   #   url:               /projects/
   - title:             标签
     url:               /tags/
   - title:             其他
     url:               /others/
+  - title:             任天堂社长问
+    url:               /interviews/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

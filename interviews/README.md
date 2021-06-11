@@ -11,4 +11,4 @@ sitemap: false
 [『Splatoon（スプラトゥーン）』]{:.heading.flip-title}（2015年5月21日公開）
 {:.related-posts.faded}
 
-[『Splatoon（スプラトゥーン）』]: ../interviews/jp/WiiU/agmj/vol1/2015-05-21-はじめは豆腐
+[『Splatoon（スプラトゥーン）』]: ../interviews/jp/WiiU/agmj/vol1/はじめは豆腐

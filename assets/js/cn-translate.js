@@ -38,30 +38,30 @@
         }
         return a;
     }
-    function setCookie(name, value) {
-        var argv = setCookie.arguments;
-        var argc = setCookie.arguments.length;
-        var expires = (argc > 2) ? argv[2] : null;
-        if (expires != null) {
-            var LargeExpDate = new Date ();
-            LargeExpDate.setTime(LargeExpDate.getTime() + (expires*1000*3600*24));
-        }
-        document.cookie = name + "=" + escape (value)+((expires == null) ? "" : ("; expires=" +LargeExpDate.toGMTString()));
-    }
-    function getCookie(Name) {
-        var search = Name + "="
-        if (document.cookie.length > 0) {
-            offset = document.cookie.indexOf(search);
-            if(offset != -1) {
-                offset += search.length;
-                end = document.cookie.indexOf(";", offset);
-                if(end == -1) end = document.cookie.length;
-                return unescape(document.cookie.substring(offset, end));
-            }else {
-                return '';
-            }
-        }
-    }
+    // function setCookie(name, value) {
+    //     var argv = setCookie.arguments;
+    //     var argc = setCookie.arguments.length;
+    //     var expires = (argc > 2) ? argv[2] : null;
+    //     if (expires != null) {
+    //         var LargeExpDate = new Date ();
+    //         LargeExpDate.setTime(LargeExpDate.getTime() + (expires*1000*3600*24));
+    //     }
+    //     document.cookie = name + "=" + escape (value)+((expires == null) ? "" : ("; expires=" +LargeExpDate.toGMTString()));
+    // }
+    // function getCookie(Name) {
+    //     var search = Name + "="
+    //     if (document.cookie.length > 0) {
+    //         offset = document.cookie.indexOf(search);
+    //         if(offset != -1) {
+    //             offset += search.length;
+    //             end = document.cookie.indexOf(";", offset);
+    //             if(end == -1) end = document.cookie.length;
+    //             return unescape(document.cookie.substring(offset, end));
+    //         }else {
+    //             return '';
+    //         }
+    //     }
+    // }
     function zh_tranBody(obj) {
         var o = (typeof(obj) == "object") ? obj.childNodes : document.body.childNodes;
         for (var i = 0; i < o.length; i++) {
@@ -89,7 +89,7 @@
     }
     function zh_tran(go) {
         if (go) zh_choose = go;
-        setCookie('zh_choose', zh_choose, zh_expires);
+        // setCookie('zh_choose', zh_choose, zh_expires);
         if (go == 't'){
             document.getElementById('_cn-translate').onclick = function(){ 
             zh_tran('s'); 
@@ -106,12 +106,12 @@
         }
     }
     function zh_getLang() {
-        if (getCookie('zh_choose')) {
-            zh_choose = getCookie('zh_choose');
-            return true;
-        }
+        // if (getCookie('zh_choose')) {
+        //     zh_choose = getCookie('zh_choose');
+        //     return true;
+        // }
         if (!zh_autoLang_t && !zh_autoLang_s) return false;
-        if (getCookie('zh_autoLang_checked')) return false;
+        // if (getCookie('zh_autoLang_checked')) return false;
         if (navigator.language) {
             zh_browserLang = navigator.language;
         }else if (navigator.browserLanguage) {
@@ -123,27 +123,27 @@
             zh_choose = 's';
         }
         zh_autoLang_checked = 1;
-        setCookie('zh_choose', zh_choose, zh_expires);
+        // setCookie('zh_choose', zh_choose, zh_expires);
         if (zh_choose == zh_default) return false;
         return true;
     }
-    function zh_init() {
-        zh_getLang();
-        c = document.getElementById(zh_class + '_' + zh_choose);
-        if (zh_choose != zh_default) {
-            if (window.onload) {
-                window.onload_before_zh_init = window.onload;
-                window.onload = function() {
-                    zh_tran(zh_choose);
-                    if (getCookie('zh_autoLang_check')) {alert(zh_autoLang_msg);};
-                    window.onload_before_zh_init();
-                };
-            }else {
-                window.onload = function() {
-                    zh_tran(zh_choose);
-                    if (getCookie('zh_autoLang_check')) {alert(zh_autoLang_msg);};
-                };
-            }
-        }
-    }
-    zh_init();
+    // function zh_init() {
+    //     zh_getLang();
+    //     c = document.getElementById(zh_class + '_' + zh_choose);
+    //     if (zh_choose != zh_default) {
+    //         if (window.onload) {
+    //             window.onload_before_zh_init = window.onload;
+    //             window.onload = function() {
+    //                 zh_tran(zh_choose);
+    //                 if (getCookie('zh_autoLang_check')) {alert(zh_autoLang_msg);};
+    //                 window.onload_before_zh_init();
+    //             };
+    //         }else {
+    //             window.onload = function() {
+    //                 zh_tran(zh_choose);
+    //                 if (getCookie('zh_autoLang_check')) {alert(zh_autoLang_msg);};
+    //             };
+    //         }
+    //     }
+    // }
+    // zh_init();

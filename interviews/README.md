@@ -6,6 +6,7 @@ hide_description: false
 sitemap: false
 ---
 
+[test]测试
 1
 ## Wii U
 
@@ -13,4 +14,4 @@ sitemap: false
 {:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: ../interviews/jp/WiiU/agmj/vol1/2015-05-21-【1】はじめは豆腐
-
+[test]: install.md

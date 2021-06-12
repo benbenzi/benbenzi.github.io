@@ -1,0 +1,15 @@
+<div class="screen-only">
+  {% if page.buttons.wii-u %}
+    {% assign wii-u = page.buttons.wii-u %}
+      <a href="{% include smart-url url=wii-u %}" class="btn btn-sm btn-primary mt1">
+        Wii U
+      </a>
+  {% endif %}
+
+  {% if page.buttons.3ds %}
+    {% assign 3ds = page.buttons.3ds %}
+      <a href="{% include smart-url url=3ds %}" class="btn btn-sm btn-primary mt1">
+        3DS
+      </a>
+  {% endif %}
+</div>

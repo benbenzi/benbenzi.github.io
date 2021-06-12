@@ -8,6 +8,8 @@ hide_description: ture
 
 ### 4. 子どもも大人も、女性も男性も
 
+![](/interviews/jp/nds/XXXX/vol1/img/mainvisual4.jpg){:.border.lead loading="lazy"}
+
 岩田
 : シアトルの田島さん、不安を残して旅立ったと思うんですけど、<br>実際に試作品をプレイして、どんな感想を持ちましたか？
 

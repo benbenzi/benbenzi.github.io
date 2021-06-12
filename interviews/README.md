@@ -5,6 +5,9 @@ description: >
 hide_description: false
 sitemap: false
 permalink: /interviews/
+buttons:
+  Wii U: #wii-u
+  3DS: #3ds
 ---
 
 ## Wii U

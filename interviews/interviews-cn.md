@@ -8,4 +8,6 @@ buttons:
   wii: true
 ---
 
+![](/interviews/title_iwataasks.png)
+
 ## 尚未填充

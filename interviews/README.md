@@ -11,6 +11,8 @@ buttons:
   cn: true
 ---
 
+![](/interviews/title_iwataasks.png)
+
 ## Wii U
 
 * [『Splatoon（スプラトゥーン）』]{:.heading.flip-title}（2015年5月21日公開）

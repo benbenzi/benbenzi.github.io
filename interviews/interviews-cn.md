@@ -5,7 +5,7 @@ description: >
 hide_description: false
 sitemap: false
 buttons:
-  jp: true
+  wii: true
 ---
 
 ## 尚未填充

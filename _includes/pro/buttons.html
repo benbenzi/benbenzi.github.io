@@ -12,4 +12,25 @@
         3DS
       </a>
   {% endif %}
+
+  {% if page.buttons.wii %}
+    {% assign wii = page.buttons.wii %}
+      <a href="{% include smart-url url=wii %}" class="btn btn-sm btn-primary mt1">
+        Wii
+      </a>
+  {% endif %}
+
+  {% if page.buttons.nds %}
+    {% assign nds = page.buttons.nds %}
+      <a href="{% include smart-url url=nds %}" class="btn btn-sm btn-primary mt1">
+        NDS
+      </a>
+  {% endif %}
+
+  {% if page.buttons.other %}
+    {% assign other = page.buttons.other %}
+      <a href="{% include smart-url url=other %}" class="btn btn-sm btn-primary mt1">
+        其他
+      </a>
+  {% endif %}
 </div>

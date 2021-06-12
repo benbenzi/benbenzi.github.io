@@ -8,6 +8,7 @@ permalink: /interviews/
 buttons:
   wii-u: true
   3ds: true
+  cn: true
 ---
 
 ## Wii U

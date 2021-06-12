@@ -78,6 +78,7 @@ permalink: /interviews/
 * [『ニンテンドー3DS』 本体機構設計 篇]{:.heading.flip-title}（2011年2月3日公開）
 * [『ニンテンドー3DS』 本体コンセプト 篇]{:.heading.flip-title}（2011年1月27日公開）
 * [「そういうわけで、ニンテンドー3DSはできた。」]{:.heading.flip-title}（2011年1月7日公開）
+{:.related-posts.faded}
 
 
 [『Splatoon（スプラトゥーン）』]: jp/wiiu/agmj/vol1/1.md

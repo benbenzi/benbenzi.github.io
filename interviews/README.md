@@ -8,10 +8,12 @@ permalink: /interviews/
 buttons:
   wii-u: true
   3ds: true
+  nds: true
+  wii: true
   cn: true
 ---
 
-![](/interviews/title_iwataasks.png)
+![](/interviews/title_iwataasks.png){:.border.border-radius}
 
 ## Wii U
 
@@ -110,6 +112,34 @@ buttons:
 * [「そういうわけで、ニンテンドー3DSはできた。」]{:.heading.flip-title}（2011年1月7日公開）
 {:.related-posts.faded}
 
+## Wii
+
+尚未整理
+
+## NDS
+
+* [『ポケットモンスターブラック２・ホワイト２』]{:.heading.flip-title}（2012年6月14日公開）
+* [『バトル＆ゲット ポケモンタイピングDS』]{:.heading.flip-title}（2011年4月22日公開）
+* [『えいごで旅する リトル・チャロ』]{:.heading.flip-title}（2011年1月19日公開）
+* [DSiウェア『じぶんでつくる ニンテンドーDS ガイド』]{:.heading.flip-title}（2010年11月17日公開）
+* [『ポケットモンスターブラック・ホワイト』]{:.heading.flip-title}（2010年9月10日公開）
+* [『ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～』]{:.heading.flip-title}（2010年7月14日公開）
+* [『ニンテンドーDSi LL』]{:.heading.flip-title}（2009年12月14日公開）
+* [『ゼルダの伝説　大地の汽笛』]{:.heading.flip-title}（2009年11月19日公開）
+* [『ポケットモンスター　ハートゴールド・ソウルシルバー』]{:.heading.flip-title}（2009年9月4日公開）
+* [『知らないままでは損をする「モノやお金のしくみ」DS』]{:.heading.flip-title}（2009年8月20日公開）
+* [『ドラゴンクエストIX　星空の守り人』]{:.heading.flip-title}（2009年7月3日公開）
+* [『トモダチコレクション』]{:.heading.flip-title}（2009年6月11日公開）
+* [『メイドイン俺』]{:.heading.flip-title}（2009年4月22日公開）
+* [『歩いてわかる 生活リズムDS』]{:.heading.flip-title}（2008年10月27日公開）
+* [『ニンテンドーDSi』]{:.heading.flip-title}（2008年10月24日公開）
+* [『わがままファッション ガールズモード』]{:.heading.flip-title}（2008年10月17日公開）
+* [『ファイアーエムブレム 新・暗黒竜と光の剣』]{:.heading.flip-title}（2008年8月1日公開）
+* [『リズム天国ゴールド』]{:.heading.flip-title}（2008年7月11日公開）
+* [『大合奏！バンドブラザーズDX』]{:.heading.flip-title}（2008年6月11日公開）
+
+
+
 
 [『Splatoon（スプラトゥーン）』]: jp/wiiu/agmj/vol1/1.md
 [『XenobladeX（ゼノブレイドクロス）』]: jp/wiiu/ax5j/vol1/1.md
@@ -200,3 +230,23 @@ buttons:
 [第22回：『エクストルーパーズ』]: jp/3ds/creators/vol22/1.md
 [第23回：『レイトン教授VS逆転裁判』]: jp/3ds/creators/vol23/1.md
 [第24回：『ドラゴンクエストVII エデンの戦士たち』]: jp/3ds/creators/vol24/1.md
+
+[『ポケットモンスターブラック２・ホワイト２』]: jp/nds/irej/vol1/1.md
+[『バトル＆ゲット ポケモンタイピングDS』]: jp/nds/uzpj/intro/1.md
+[『えいごで旅する リトル・チャロ』]: jp/nds/b3lj/vol1/1.md
+[DSiウェア『じぶんでつくる ニンテンドーDS ガイド』]: jp/nds/kg3j/vol1/1.md
+[『ポケットモンスターブラック・ホワイト』]: jp/nds/irbj/vol1/1.md
+[『ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～』]: jp/nds/vi2j/vol1/1.md
+[『ニンテンドーDSi LL』]: jp/nds/dsiLL/vol1/1.md
+[『ゼルダの伝説　大地の汽笛』]: jp/nds/bkij/1.md
+[『ポケットモンスター　ハートゴールド・ソウルシルバー』]: jp/nds/ipkj/vol1/1.md
+[『知らないままでは損をする「モノやお金のしくみ」DS』]: jp/nds/betj/vol1/1.md
+[『ドラゴンクエストIX　星空の守り人』]: jp/nds/ydqj/vol1/1.md
+[『トモダチコレクション』]: jp/nds/ccuj/vol1/1.md
+[『メイドイン俺』]: jp/nds/uorj/vol1/1.md
+[『歩いてわかる 生活リズムDS』]: jp/nds/imwj/vol1/1.md
+[『ニンテンドーDSi』]: jp/nds/dsi/vol1/1.md
+[『わがままファッション ガールズモード』]: jp/nds/azlj/vol1/1.md
+[『ファイアーエムブレム 新・暗黒竜と光の剣』]: jp/nds/yfej/vol1/1.md
+[『リズム天国ゴールド』]: jp/nds/ylzj/vol1/1.md
+[『大合奏！バンドブラザーズDX』]: jp/nds/axbj/vol1/1.md

@@ -86,7 +86,7 @@ permalink: /interviews/
     * [第12回：『鉄拳3D プライムエディション』]{:.heading.flip-title}（2012年2月9日公開）
     * [第13回：『THEATRHYTHM FINAL FANTASY』]{:.heading.flip-title}（2012年2月13日公開）
     * [第14回：『初音ミク and Future Stars Project mirai』]{:.heading.flip-title}（2012年2月28日公開）
-    * [第15回：『KINGDOM HEARTS 3D \[Dream Drop Distance』\]{:.heading.flip-title}（2012年4月3日公開）
+    * [第15回：『KINGDOM HEARTS 3D Dream Drop Distance』]{:.heading.flip-title}（2012年4月3日公開）
     * [第16回：『真・三國無双 VS』]{:.heading.flip-title}（2012年4月26日公開）
     * [第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]{:.heading.flip-title}（2012年5月17日公開）
     * [第18回：『世界樹の迷宮IV 伝承の巨神』]{:.heading.flip-title}（2012年6月12日公開）
@@ -184,7 +184,7 @@ permalink: /interviews/
 [第12回：『鉄拳3D プライムエディション』]: jp/3ds/creators/vol12/1.md
 [第13回：『THEATRHYTHM FINAL FANTASY』]: jp/3ds/creators/vol13/1.md
 [第14回：『初音ミク and Future Stars Project mirai』]: jp/3ds/creators/vol14/1.md
-[第15回：『KINGDOM HEARTS 3D \[Dream Drop Distance\]』]: jp/3ds/creators/vol15/1.md
+[第15回：『KINGDOM HEARTS 3D Dream Drop Distance』]: jp/3ds/creators/vol15/1.md
 [第16回：『真・三國無双 VS』]: jp/3ds/creators/vol16/1.md
 [第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]: jp/3ds/creators/vol17/1.md
 [第18回：『世界樹の迷宮IV 伝承の巨神』]: jp/3ds/creators/vol18/1.md

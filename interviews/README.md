@@ -7,7 +7,7 @@ sitemap: false
 permalink: /interviews/
 buttons:
   wii-u: #wii-u
-  3DS: #3ds
+  3ds: #3ds
 ---
 
 ## Wii U

@@ -72,6 +72,30 @@ permalink: /interviews/
 * [『ゼルダの伝説 時のオカリナ 3D』]{:.heading.flip-title}（2011年5月26日公開）
 * [『スティールダイバー』]{:.heading.flip-title}（2011年5月10日公開）
 * [『ニンテンドー3DS』ソフトメーカークリエーター 篇]
+    * [第1回：『レイトン教授と奇跡の仮面』]{:.heading.flip-title}（2011年2月10日公開）
+    * [第2回：『戦国無双 Chronicle』]{:.heading.flip-title}（2011年2月15日公開）
+    * [第3回：『ウイニングイレブン 3DSoccer』]{:.heading.flip-title}（2011年2月17日公開）
+    * [第4回：『リッジレーサー３Ｄ』]{:.heading.flip-title}（2011年2月22日公開）
+    * [第5回：『スーパーストリートファイターIV 3D EDITION』]{:.heading.flip-title}（2011年2月24日公開）
+    * [第6回：『Project ラブプラス for Nintendo 3DS（仮称）』]{:.heading.flip-title}（2011年4月27日公[開）
+    * [第7回：『DEAD OR ALIVE Dimensions』]{:.heading.flip-title}（2011年5月12日公開）
+    * [第8回：『バイオハザード ザ・マーセナリーズ 3D』/『バイオハザード リベレーションズ』]{:.heading.flip-title}（2011年5月19日公開）
+    * [第9回：『テイルズ オブ ジ アビス』]{:.heading.flip-title}（2011年6月23日公開）
+    * [第10回：『モンスターハンター３（トライ）Ｇ』]{:.heading.flip-title}（2011年12月5日公開）
+    * [第11回：『BIOHAZARD REVELATIONS』]{:.heading.flip-title}（2012年1月19日公開）
+    * [第12回：『鉄拳3D プライムエディション』]{:.heading.flip-title}（2012年2月9日公開）
+    * [第13回：『THEATRHYTHM FINAL FANTASY』]{:.heading.flip-title}（2012年2月13日公開）
+    * [第14回：『初音ミク and Future Stars Project mirai』]{:.heading.flip-title}（2012年2月28日公開）
+    * [第15回：『KINGDOM HEARTS 3D \[Dream Drop Distance』\]{:.heading.flip-title}（2012年4月3日公開）
+    * [第16回：『真・三國無双 VS』]{:.heading.flip-title}（2012年4月26日公開）
+    * [第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]{:.heading.flip-title}（2012年5月17日公開）
+    * [第18回：『世界樹の迷宮IV 伝承の巨神』]{:.heading.flip-title}（2012年6月12日公開）
+    * [第19回：『ルーンファクトリー４』]{:.heading.flip-title}（2012年6月28日公開）
+    * [第20回：『BRAVELY DEFAULT -FLYING FAIRY-』]{:.heading.flip-title}（2012年9月18日公開）
+    * [第21回：『PROJECT X ZONE』]{:.heading.flip-title}（2012年10月10日公開）
+    * [第22回：『エクストルーパーズ』]{:.heading.flip-title}（2012年10月25日公開）
+    * [第23回：『レイトン教授VS逆転裁判』]{:.heading.flip-title}（2012年11月22日公開）
+    * [第24回：『ドラゴンクエストVII エデンの戦士たち』]{:.heading.flip-title}（2013年1月31日公開）
 * [『ニンテンドー3DS』 内蔵ソフト 篇]{:.heading.flip-title}（2011年3月10日公開）
 * [『ニンテンドー3DS』 発売前に宮本さんに、訊いておきたいこと。]{:.heading.flip-title}（2011年2月25日公開）
 * [『ニンテンドー3DS』 nintendogs + cats 篇]{:.heading.flip-title}（2011年2月8日公開）
@@ -146,5 +170,27 @@ permalink: /interviews/
 [『ニンテンドー3DS』 本体機構設計 篇]: jp/3ds/hardware/vol3/1.md
 [『ニンテンドー3DS』 本体コンセプト 篇]: jp/3ds/hardware/vol2/1.md
 [「そういうわけで、ニンテンドー3DSはできた。」]: jp/3ds/hardware/vol1/1.md
-
-
+[第1回：『レイトン教授と奇跡の仮面』]: jp/3ds/creators/vol1/1.md
+[第2回：『戦国無双 Chronicle』]: jp/3ds/creators/vol2/1.md
+[第3回：『ウイニングイレブン 3DSoccer』]: jp/3ds/creators/vol3/1.md
+[第4回：『リッジレーサー３Ｄ』]: jp/3ds/creators/vol4/1.md
+[第5回：『スーパーストリートファイターIV 3D EDITION』]: jp/3ds/creators/vol5/1.md
+[第6回：『Project ラブプラス for Nintendo 3DS（仮称）』]: jp/3ds/creators/vol6/1.md
+[第7回：『DEAD OR ALIVE Dimensions』]: jp/3ds/creators/vol7/1.md
+[第8回：『バイオハザード ザ・マーセナリーズ 3D』/『バイオハザード リベレーションズ』]: jp/3ds/creators/vol8/1.md
+[第9回：『テイルズ オブ ジ アビス』]: jp/3ds/creators/vol9/1.md
+[第10回：『モンスターハンター３（トライ）Ｇ』]: jp/3ds/creators/vol10/1.md
+[第11回：『BIOHAZARD REVELATIONS』]: jp/3ds/creators/vol11/1.md
+[第12回：『鉄拳3D プライムエディション』]: jp/3ds/creators/vol12/1.md
+[第13回：『THEATRHYTHM FINAL FANTASY』]: jp/3ds/creators/vol13/1.md
+[第14回：『初音ミク and Future Stars Project mirai』]: jp/3ds/creators/vol14/1.md
+[第15回：『KINGDOM HEARTS 3D \[Dream Drop Distance\]』]: jp/3ds/creators/vol15/1.md
+[第16回：『真・三國無双 VS』]: jp/3ds/creators/vol16/1.md
+[第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]: jp/3ds/creators/vol17/1.md
+[第18回：『世界樹の迷宮IV 伝承の巨神』]: jp/3ds/creators/vol18/1.md
+[第19回：『ルーンファクトリー４』]: jp/3ds/creators/vol19/1.md
+[第20回：『BRAVELY DEFAULT -FLYING FAIRY-』]: jp/3ds/creators/vol20/1.md
+[第21回：『PROJECT X ZONE』]: jp/3ds/creators/vol21/1.md
+[第22回：『エクストルーパーズ』]: jp/3ds/creators/vol22/1.md
+[第23回：『レイトン教授VS逆転裁判』]: jp/3ds/creators/vol23/1.md
+[第24回：『ドラゴンクエストVII エデンの戦士たち』]: jp/3ds/creators/vol24/1.md

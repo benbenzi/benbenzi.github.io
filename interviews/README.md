@@ -72,30 +72,30 @@ permalink: /interviews/
 * [『ゼルダの伝説 時のオカリナ 3D』]{:.heading.flip-title}（2011年5月26日公開）
 * [『スティールダイバー』]{:.heading.flip-title}（2011年5月10日公開）
 * [『ニンテンドー3DS』ソフトメーカークリエーター 篇]
-    * [第1回：『レイトン教授と奇跡の仮面』]{:.heading.flip-title}（2011年2月10日公開）
-    * [第2回：『戦国無双 Chronicle』]{:.heading.flip-title}（2011年2月15日公開）
-    * [第3回：『ウイニングイレブン 3DSoccer』]{:.heading.flip-title}（2011年2月17日公開）
-    * [第4回：『リッジレーサー３Ｄ』]{:.heading.flip-title}（2011年2月22日公開）
-    * [第5回：『スーパーストリートファイターIV 3D EDITION』]{:.heading.flip-title}（2011年2月24日公開）
-    * [第6回：『Project ラブプラス for Nintendo 3DS（仮称）』]{:.heading.flip-title}（2011年4月27日公[開）
-    * [第7回：『DEAD OR ALIVE Dimensions』]{:.heading.flip-title}（2011年5月12日公開）
-    * [第8回：『バイオハザード ザ・マーセナリーズ 3D』/『バイオハザード リベレーションズ』]{:.heading.flip-title}（2011年5月19日公開）
-    * [第9回：『テイルズ オブ ジ アビス』]{:.heading.flip-title}（2011年6月23日公開）
-    * [第10回：『モンスターハンター３（トライ）Ｇ』]{:.heading.flip-title}（2011年12月5日公開）
-    * [第11回：『BIOHAZARD REVELATIONS』]{:.heading.flip-title}（2012年1月19日公開）
-    * [第12回：『鉄拳3D プライムエディション』]{:.heading.flip-title}（2012年2月9日公開）
-    * [第13回：『THEATRHYTHM FINAL FANTASY』]{:.heading.flip-title}（2012年2月13日公開）
-    * [第14回：『初音ミク and Future Stars Project mirai』]{:.heading.flip-title}（2012年2月28日公開）
-    * [第15回：『KINGDOM HEARTS 3D Dream Drop Distance』]{:.heading.flip-title}（2012年4月3日公開）
-    * [第16回：『真・三國無双 VS』]{:.heading.flip-title}（2012年4月26日公開）
-    * [第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]{:.heading.flip-title}（2012年5月17日公開）
-    * [第18回：『世界樹の迷宮IV 伝承の巨神』]{:.heading.flip-title}（2012年6月12日公開）
-    * [第19回：『ルーンファクトリー４』]{:.heading.flip-title}（2012年6月28日公開）
-    * [第20回：『BRAVELY DEFAULT -FLYING FAIRY-』]{:.heading.flip-title}（2012年9月18日公開）
-    * [第21回：『PROJECT X ZONE』]{:.heading.flip-title}（2012年10月10日公開）
-    * [第22回：『エクストルーパーズ』]{:.heading.flip-title}（2012年10月25日公開）
-    * [第23回：『レイトン教授VS逆転裁判』]{:.heading.flip-title}（2012年11月22日公開）
-    * [第24回：『ドラゴンクエストVII エデンの戦士たち』]{:.heading.flip-title}（2013年1月31日公開）
+    * [第1回：『レイトン教授と奇跡の仮面』]（2011年2月10日公開）
+    * [第2回：『戦国無双 Chronicle』]（2011年2月15日公開）
+    * [第3回：『ウイニングイレブン 3DSoccer』]（2011年2月17日公開）
+    * [第4回：『リッジレーサー３Ｄ』]（2011年2月22日公開）
+    * [第5回：『スーパーストリートファイターIV 3D EDITION』]（2011年2月24日公開）
+    * [第6回：『Project ラブプラス for Nintendo 3DS（仮称）』]（2011年4月27日公[開）
+    * [第7回：『DEAD OR ALIVE Dimensions』]（2011年5月12日公開）
+    * [第8回：『バイオハザード ザ・マーセナリーズ 3D』/『バイオハザード リベレーションズ』]（2011年5月19日公開）
+    * [第9回：『テイルズ オブ ジ アビス』]（2011年6月23日公開）
+    * [第10回：『モンスターハンター３（トライ）Ｇ』]（2011年12月5日公開）
+    * [第11回：『BIOHAZARD REVELATIONS』]（2012年1月19日公開）
+    * [第12回：『鉄拳3D プライムエディション』]（2012年2月9日公開）
+    * [第13回：『THEATRHYTHM FINAL FANTASY』]（2012年2月13日公開）
+    * [第14回：『初音ミク and Future Stars Project mirai』]（2012年2月28日公開）
+    * [第15回：『KINGDOM HEARTS 3D Dream Drop Distance』]（2012年4月3日公開）
+    * [第16回：『真・三國無双 VS』]（2012年4月26日公開）
+    * [第17回：『ドラゴンクエストモンスターズ テリーのワンダーランド3D』]（2012年5月17日公開）
+    * [第18回：『世界樹の迷宮IV 伝承の巨神』]（2012年6月12日公開）
+    * [第19回：『ルーンファクトリー４』]（2012年6月28日公開）
+    * [第20回：『BRAVELY DEFAULT -FLYING FAIRY-』]（2012年9月18日公開）
+    * [第21回：『PROJECT X ZONE』]（2012年10月10日公開）
+    * [第22回：『エクストルーパーズ』]（2012年10月25日公開）
+    * [第23回：『レイトン教授VS逆転裁判』]（2012年11月22日公開）
+    * [第24回：『ドラゴンクエストVII エデンの戦士たち』]（2013年1月31日公開）
 * [『ニンテンドー3DS』 内蔵ソフト 篇]{:.heading.flip-title}（2011年3月10日公開）
 * [『ニンテンドー3DS』 発売前に宮本さんに、訊いておきたいこと。]{:.heading.flip-title}（2011年2月25日公開）
 * [『ニンテンドー3DS』 nintendogs + cats 篇]{:.heading.flip-title}（2011年2月8日公開）

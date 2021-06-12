@@ -1,35 +1,30 @@
 <div class="screen-only">
-<!--   {% if page.buttons.wii-u %} -->
-    {% assign wii-u = page.buttons.wii-u %}
-      <a href="{% include smart-url url=wii-u %}" class="btn btn-sm btn-primary mt1">
+  {% if page.buttons.wii-u %}
+      <a href="#wii-u" class="btn btn-sm btn-primary mt1">
         Wii U
       </a>
-<!--   {% endif %} -->
+  {% endif %}
 
-<!--   {% if page.buttons.3ds %} -->
-    {% assign 3ds = page.buttons.3ds %}
-      <a href="{% include smart-url url=3ds %}" class="btn btn-sm btn-primary mt1">
+  {% if page.buttons.3ds %}
+      <a href="#3ds" class="btn btn-sm btn-primary mt1">
         3DS
       </a>
-<!--   {% endif %} -->
+  {% endif %}
 
   {% if page.buttons.wii %}
-    {% assign wii = page.buttons.wii %}
-      <a href="{% include smart-url url=wii %}" class="btn btn-sm btn-primary mt1">
+      <a href="#wii" class="btn btn-sm btn-primary mt1">
         Wii
       </a>
   {% endif %}
 
   {% if page.buttons.nds %}
-    {% assign nds = page.buttons.nds %}
-      <a href="{% include smart-url url=nds %}" class="btn btn-sm btn-primary mt1">
+      <a href="#nds" class="btn btn-sm btn-primary mt1">
         NDS
       </a>
   {% endif %}
 
   {% if page.buttons.other %}
-    {% assign other = page.buttons.other %}
-      <a href="{% include smart-url url=other %}" class="btn btn-sm btn-primary mt1">
+      <a href="#other" class="btn btn-sm btn-primary mt1">
         其他
       </a>
   {% endif %}

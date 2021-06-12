@@ -6,8 +6,8 @@ hide_description: false
 sitemap: false
 permalink: /interviews/
 buttons:
-  wii-u: #wii-u
-  3ds: #3ds
+  wii-u: true
+  3ds: true
 ---
 
 ## Wii U

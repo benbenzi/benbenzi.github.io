@@ -196,5 +196,5 @@ hide_description: ture
 
 
 『バンブラDX』＝2008年6月発売のニンテンドーDS用ソフト『大合奏！バンドブラザーズDX』。JASRACの登録曲の楽譜をつくり、投稿したものをダウンロードしてその曲を楽しむことができる。
-{:.note .faded title="※4"}
+{:.note-sm .faded title="※4"}
 

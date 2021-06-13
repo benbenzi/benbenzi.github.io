@@ -114,7 +114,47 @@ buttons:
 
 ## Wii
 
-尚未整理
+* [『ドラゴンクエストX 目覚めし五つの種族 オンライン』]{:.heading.flip-title}（2012年7月23日公開）
+* [『零 ～眞紅の蝶～』]{:.heading.flip-title}（2012年4月5日公開）
+* [『キキトリック』]{:.heading.flip-title}（2011年12月27日公開）
+* [『マリオ＆ソニック ＡＴ ロンドンオリンピック』]{:.heading.flip-title}（2011年12月6日公開）
+* [『星のカービィ Wii』]{:.heading.flip-title}（2011年10月21日公開）
+* [『GO VACATION』]{:.heading.flip-title}（2011年10月20日公開）
+* [『ゼルダの伝説 スカイウォードソード』]{:.heading.flip-title}（2011年10月18日公開）
+* [『みんなのリズム天国』]{:.heading.flip-title}（2011年7月20日公開）
+* [『Wiiリモコンプラス バラエティパック』]{:.heading.flip-title}（2011年6月30日公開）
+* [『パンドラの塔　君のもとへ帰るまで』]{:.heading.flip-title}（2011年5月23日公開）
+* [坂口博信×高橋哲哉]{:.heading.flip-title}（2011年1月25日公開）
+* [『ドンキーコング リターンズ』]{:.heading.flip-title}（2010年12月1日公開）
+* [『スーパーマリオコレクション スペシャルパック』]{:.heading.flip-title}（2010年10月21日公開）
+* [『毛糸のカービィ』]{:.heading.flip-title}（2010年10月7日公開）
+* [坂口博信×坂本賀勇]{:.heading.flip-title}（2010年8月26日公開）
+* [『ラストストーリー』]{:.heading.flip-title}（2010年8月17日公開）
+* [『Wii Party』]{:.heading.flip-title}（2010年8月5日公開）
+* [『METROID　Other M』]{:.heading.flip-title}（2010年7月29日公開）
+* [『ゼノブレイド』]{:.heading.flip-title}（2010年5月19日公開）
+* [『スーパーマリオギャラクシー 2』]{:.heading.flip-title}（2010年5月11日公開）
+* [『安藤ケンサク』]{:.heading.flip-title}（2010年4月22日公開）
+* [『斬撃のREGINLEIV』]{:.heading.flip-title}（2010年2月4日公開）
+* [『ＮＨＫ紅白クイズ合戦』]{:.heading.flip-title}（2009年12月25日公開）
+* [『Wiiの間』]{:.heading.flip-title}（2009年11月20日公開）
+* [『New スーパーマリオブラザーズ Wii』]{:.heading.flip-title}（2009年11月13日公開）
+* [ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
+* [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]{:.heading.flip-title}（2009年10月22日公開）
+* [『Wii Fit Plus』]{:.heading.flip-title}（2009年9月29日公開）
+* [『モンスターハンター3（トライ）』]{:.heading.flip-title}（2009年7月30日公開）
+* [『PUNCH-OUT!!』]{:.heading.flip-title}（2009年7月13日公開）
+* [『Wii Sports Resort』]{:.heading.flip-title}（2009年6月4日公開）
+* [『Wiiモーションプラス』]{:.heading.flip-title}（2009年5月18日公開）
+* [『街へいこうよ どうぶつの森』]{:.heading.flip-title}（2008年11月13日公開）
+* [ 『Wii Music』]{:.heading.flip-title}（2008年9月25日公開）
+* [ 『リンクのボウガントレーニング＋Wiiザッパー』]{:.heading.flip-title}（2008年4月24日公開）
+* [ 『マリオカートWii』]{:.heading.flip-title}（2008年4月3日公開）
+* [ 『メトロイドプライム3　コラプション』]{:.heading.flip-title}（2008年2月29日公開）
+* [『大乱闘スマッシュブラザーズX』]{:.heading.flip-title}（2008年1月30日公開）
+* [『Wii Fit』]{:.heading.flip-title}（2007年11月8日公開）
+* [『スーパーマリオギャラクシー』]{:.heading.flip-title}（2007年10月4日公開）
+{:.related-posts.faded}
 
 ## NDS
 
@@ -137,7 +177,7 @@ buttons:
 * [『ファイアーエムブレム 新・暗黒竜と光の剣』]{:.heading.flip-title}（2008年8月1日公開）
 * [『リズム天国ゴールド』]{:.heading.flip-title}（2008年7月11日公開）
 * [『大合奏！バンドブラザーズDX』]{:.heading.flip-title}（2008年6月11日公開）
-
+{:.related-posts.faded}
 
 
 
@@ -250,3 +290,46 @@ buttons:
 [『ファイアーエムブレム 新・暗黒竜と光の剣』]: jp/nds/yfej/vol1/1.md
 [『リズム天国ゴールド』]: jp/nds/ylzj/vol1/1.md
 [『大合奏！バンドブラザーズDX』]: jp/nds/axbj/vol1/1.md
+
+[『ドラゴンクエストX 目覚めし五つの種族 オンライン』]: jp/wii/s4mj/vol1/1.md
+[『零 ～眞紅の蝶～』]: jp/wii/sl2j/vol1/1.md
+[『キキトリック』]: jp/wii/st3j/vol1/1.md
+[『マリオ＆ソニック ＡＴ ロンドンオリンピック』]: jp/wii/siij/vol1/1.md
+[『星のカービィ Wii』]: jp/wii/sukj/vol1/1.md
+[『GO VACATION』]: jp/wii/sgvj/vol1/1.md
+[『ゼルダの伝説 スカイウォードソード』]: jp/wii/souj/vol1/1.md
+[『みんなのリズム天国』]: jp/wii/somj/vol1/1.md
+[『Wiiリモコンプラス バラエティパック』]: jp/wii/sc8j/vol1/1.md
+[『パンドラの塔　君のもとへ帰るまで』]: jp/wii/sx3j/vol1/1.md
+[坂口博信×高橋哲哉]: jp/wii/slsjsx4j/vol1/1.md
+[『ドンキーコング リターンズ』]: jp/wii/sf8j/vol1/1.md
+[『スーパーマリオコレクション スペシャルパック』]: jp/wii/svmj/vol1/1.md
+[『毛糸のカービィ』]: jp/wii/rk5j/vol1/1.md
+[坂口博信×坂本賀勇]: jp/wii/slsjr3oj/vol1/1.md
+[『ラストストーリー』]: jp/wii/slsj/vol1/1.md
+[『Wii Party』]: jp/wii/supj/vol1/1.md
+[『METROID　Other M』]: jp/wii/r3oj/vol1/1.md
+[『ゼノブレイド』]: jp/wii/sx4j/vol1/1.md
+[『スーパーマリオギャラクシー 2』]: jp/wii/sb4j/vol1/1.md
+[『安藤ケンサク』]: jp/wii/rk3j/vol1/1.md
+[『斬撃のREGINLEIV』]: jp/wii/rznj/vol1/1.md
+[『ＮＨＫ紅白クイズ合戦』]: jp/wii/rqij/vol1/1.md
+[『Wiiの間』]: jp/wii/wiinoma/vol1/1.md
+[『New スーパーマリオブラザーズ Wii』]: jp/wii/smnj/vol1/1.md
+[ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]: jp/wii/rfcj/vol1/1.md
+[『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]: jp/wii/r2vj/vol1/1.md
+[『Wii Fit Plus』]: jp/wii/rfpj/vol1/1.md
+[『モンスターハンター3（トライ）』]: jp/wii/rmhj/vol1/1.md
+[『PUNCH-OUT!!』]: jp/wii/r7pj/vol1/1.md
+[『Wii Sports Resort』]: jp/wii/rztj/vol1/1.md
+[『Wiiモーションプラス』]: jp/wii/wii_motion_plus/vol1/1.md
+[『街へいこうよ どうぶつの森』]: jp/wii/ruuj/vol1/1.md
+[ 『Wii Music』]: jp/wii/r64j/vol1/1.md
+[ 『リンクのボウガントレーニング＋Wiiザッパー』]: jp/wii/rzpj/vol1/1.md
+[ 『マリオカートWii』]: jp/wii/rmcj/vol1/1.md
+[ 『メトロイドプライム3　コラプション』]: jp/wii/rm3j/vol1/1.md
+[『大乱闘スマッシュブラザーズX』]: jp/wii/rsbj/vol1/1.md
+[『Wii Fit』]: jp/wii/rfnj/vol1/1.md
+[『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
+
+

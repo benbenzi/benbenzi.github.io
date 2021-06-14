@@ -9,6 +9,16 @@ sitemap: false
 * 该列表将自动更新
 {:toc .large-only}
 
+## v1.2.3
+2021年6月14日
+{:.heading.post-date}
+
+### 新增
+
+* 任天堂社长问- Wii 和 其他 日版访谈
+    
+    由于所有内容均需要从HTML转换成Markdown，部分文本格式仍存在错误，且原文中所有连接尚不可用，有待注意校准与修复。
+
 ## v1.2.2
 2021年6月13日
 {:.heading.post-date}

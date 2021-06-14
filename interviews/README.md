@@ -183,6 +183,8 @@ buttons:
 
 ## 其他
 * [「プラチナゲームズ」]{:.heading.flip-title}（2013年1月25日公開）
+* [「スーパーマリオ25周年」]{:.heading.flip-title}（2010年9月13日公開）
+* [「ゲーム＆ウオッチ」]{:.heading.flip-title}（2010年4月15日公開）
 {:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: jp/wiiu/agmj/vol1/1.md
@@ -337,3 +339,5 @@ buttons:
 [『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
 
 [「プラチナゲームズ」]: jp/etc/platinumgames/vol1/1.md
+[「スーパーマリオ25周年」]: jp/etc/mario25th/vol1/1.md
+[「ゲーム＆ウオッチ」]: jp/etc/game_and_watch/vol1/1.md

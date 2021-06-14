@@ -10,6 +10,7 @@ buttons:
   3ds: true
   nds: true
   wii: true
+  etc: true
   cn: true
 ---
 
@@ -180,6 +181,9 @@ buttons:
 {:.related-posts.faded}
 
 
+## 其他
+* [「プラチナゲームズ」]{:.heading.flip-title}（2013年1月25日公開）
+{:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: jp/wiiu/agmj/vol1/1.md
 [『XenobladeX（ゼノブレイドクロス）』]: jp/wiiu/ax5j/vol1/1.md
@@ -332,4 +336,4 @@ buttons:
 [『Wii Fit』]: jp/wii/rfnj/vol1/1.md
 [『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
 
-
+[「プラチナゲームズ」]: jp/etc/platinumgames/vol1.md

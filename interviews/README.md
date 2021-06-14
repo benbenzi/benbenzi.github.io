@@ -336,4 +336,4 @@ buttons:
 [『Wii Fit』]: jp/wii/rfnj/vol1/1.md
 [『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
 
-[「プラチナゲームズ」]: jp/etc/platinumgames/vol1.md
+[「プラチナゲームズ」]: jp/etc/platinumgames/vol/1.md

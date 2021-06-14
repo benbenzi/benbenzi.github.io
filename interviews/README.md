@@ -12,6 +12,7 @@ buttons:
   wii: true
   etc: true
   cn: true
+  en: true
 ---
 
 ![](/interviews/title_iwataasks.png){:.border.border-radius}

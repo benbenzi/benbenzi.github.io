@@ -5,9 +5,18 @@ description: >
 hide_description: false
 sitemap: false
 buttons:
+  3ds: true
   wii: true
 ---
 
 ![](/interviews/title_iwataasks.png){:.border.border-radius}
 
-## 尚未填充
+## 3DS
+
+* [星際火狐64 3D]{:.heading.flip-title}（2011年7月5日公開）
+
+## Wii
+
+还没做。
+
+[星際火狐64 3D]: cht-hk/3ds/starfox64_3d/1.md

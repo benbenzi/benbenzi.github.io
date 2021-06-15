@@ -19,4 +19,4 @@ buttons:
 
 还没做。
 
-[星際火狐64 3D]: ../cht-hk/3ds/starfox64_3d/vol1/1.md
+[星際火狐64 3D]: ../cht-hk/3ds/starfox64_3d/vol1/1/

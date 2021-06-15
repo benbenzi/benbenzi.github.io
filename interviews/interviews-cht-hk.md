@@ -13,7 +13,7 @@ buttons:
 
 ## 3DS
 
-* [星際火狐64 3D]{:.heading.flip-title}（2011年7月5日公開）
+* [星際火狐64 3D]{:.heading.flip-title}（2011年7月5日公開）(港任版)
 
 ## Wii
 

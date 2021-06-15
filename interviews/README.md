@@ -11,7 +11,7 @@ buttons:
   nds: true
   wii: true
   etc: true
-  cn: true
+  cht-hk: true
   en: true
 ---
 

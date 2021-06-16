@@ -49,7 +49,7 @@
         {% endif %}
 
        <!--  显示阅读时间 -->
-    {% assign words_per_minute = 150 %}
+    {% assign words_per_minute = 250 %}
     {% assign words = post.content | strip_html | strip_newlines | size %}
     <span class="page_meta-readtime">
       {% if words < words_per_minute %}

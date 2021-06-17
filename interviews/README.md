@@ -184,10 +184,10 @@ buttons:
 
 ## 其他
 * [「プラチナゲームズ」]{:.heading.flip-title}（2013年1月25日公開）
-* [「スーパーマリオ25周年」]{:.heading.flip-title}（2010年9月13日公開）
+* [「スーパーマリオ２５周年」]{:.heading.flip-title}（2010年9月13日公開）
 * [「ゲーム＆ウオッチ」]{:.heading.flip-title}（2010年4月15日公開）
-* [ゲームセミナー2009 ～『トモダチコレクション』ができるまで～]{:.heading.flip-title}（2010年1月15日公開）
-* [ゲームセミナー2008 ～『どうぶつの森』ができるまで～]{:.heading.flip-title}（2009年1月26日公開）
+* [ゲームセミナー２００９〜『トモダチコレクション』ができるまで〜]{:.heading.flip-title}（2010年1月15日公開）
+* [ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]{:.heading.flip-title}（2009年1月26日公開）
 * [ニンテンドーWi-Fiネットワークアダプタ]{:.heading.flip-title}（2008年10月15日公開）
 {:.related-posts.faded}
 
@@ -343,8 +343,8 @@ buttons:
 [『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
 
 [「プラチナゲームズ」]: jp/etc/platinumgames/vol1/1.md
-[「スーパーマリオ25周年」]: jp/etc/mario25th/vol1/1.md
+[「スーパーマリオ２５周年」]: jp/etc/mario25th/vol1/1.md
 [「ゲーム＆ウオッチ」]: jp/etc/game_and_watch/vol1/1.md
-[ゲームセミナー2009 ～『トモダチコレクション』ができるまで～]: jp/etc/seminar2009/vol1/1.md
-[ゲームセミナー2008 ～『どうぶつの森』ができるまで～]: jp/etc/seminar2008/vol1/1.md
+[ゲームセミナー２００９〜『トモダチコレクション』ができるまで〜]: jp/etc/seminar2009/vol1/1.md
+[ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]: jp/etc/seminar2008/vol1/1.md
 [ニンテンドーWi-Fiネットワークアダプタ]: jp/etc/wap/vol1/1.md

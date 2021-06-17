@@ -188,7 +188,7 @@ buttons:
 * [「ゲーム＆ウオッチ」]{:.heading.flip-title}（2010年4月15日公開）
 * [ゲームセミナー２００９〜『トモダチコレクション』ができるまで〜]{:.heading.flip-title}（2010年1月15日公開）
 * [ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]{:.heading.flip-title}（2009年1月26日公開）
-* [ニンテンドーWi-Fiネットワークアダプタ]{:.heading.flip-title}（2008年10月15日公開）
+* [「ニンテンドーWi-Fiネットワークアダプタ」]{:.heading.flip-title}（2008年10月15日公開）
 {:.related-posts.faded}
 
 [『Splatoon（スプラトゥーン）』]: jp/wiiu/agmj/vol1/1.md
@@ -347,4 +347,4 @@ buttons:
 [「ゲーム＆ウオッチ」]: jp/etc/game_and_watch/vol1/1.md
 [ゲームセミナー２００９〜『トモダチコレクション』ができるまで〜]: jp/etc/seminar2009/vol1/1.md
 [ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]: jp/etc/seminar2008/vol1/1.md
-[ニンテンドーWi-Fiネットワークアダプタ]: jp/etc/wap/vol1/1.md
+[「ニンテンドーWi-Fiネットワークアダプタ」]: jp/etc/wap/vol1/1.md

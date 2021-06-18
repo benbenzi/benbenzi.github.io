@@ -181,7 +181,6 @@ buttons:
 * [『大合奏！バンドブラザーズDX』]{:.heading.flip-title}（2008年6月11日公開）
 {:.related-posts.faded}
 
-
 ## 其他
 * [「プラチナゲームズ」]{:.heading.flip-title}（2013年1月25日公開）
 * [「スーパーマリオ２５周年」]{:.heading.flip-title}（2010年9月13日公開）

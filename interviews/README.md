@@ -13,6 +13,7 @@ buttons:
   etc: true
   cht-hk: true
   en: true
+  new: true
 ---
 
 ![](/interviews/title_iwataasks.png){:.border.border-radius}

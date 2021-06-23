@@ -11,8 +11,6 @@ buttons:
   nds: true
   wii: true
   etc: true
-  cht-hk: true
-  en: true
   new: true
 ---
 
@@ -79,6 +77,7 @@ buttons:
 * [『スーパーポケモンスクランブル』]{:.heading.flip-title}（2011年8月9日公開）
 * [『ポケモン立体図鑑BW』]{:.heading.flip-title}（2011年8月9日公開）
 * [『スターフォックス６４ ３Ｄ』]{:.heading.flip-title}（2011年7月5日公開）
+        * [星際火狐64 3D]{:.heading.flip-title}（2011年7月5日公開）(港任版)
 * [『ニンテンドーeショップ』]{:.heading.flip-title}（2011年6月2日公開）
 * [『ゼルダの伝説 時のオカリナ 3D』]{:.heading.flip-title}（2011年5月26日公開）
 * [『スティールダイバー』]{:.heading.flip-title}（2011年5月10日公開）
@@ -142,6 +141,7 @@ buttons:
 * [『ＮＨＫ紅白クイズ合戦』]{:.heading.flip-title}（2009年12月25日公開）
 * [『Wiiの間』]{:.heading.flip-title}（2009年11月20日公開）
 * [『New スーパーマリオブラザーズ Wii』]{:.heading.flip-title}（2009年11月13日公開）
+        * [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}（2009年11月13日公開）(港任版)
 * [ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
 * [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]{:.heading.flip-title}（2009年10月22日公開）
 * [『Wii Fit Plus』]{:.heading.flip-title}（2009年9月29日公開）
@@ -348,3 +348,9 @@ buttons:
 [ゲームセミナー２００９〜『トモダチコレクション』ができるまで〜]: jp/etc/seminar2009/vol1/1.md
 [ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]: jp/etc/seminar2008/vol1/1.md
 [「ニンテンドーWi-Fiネットワークアダプタ」]: jp/etc/wap/vol1/1.md
+
+[星際火狐64 3D]: ../cht-hk/3ds/starfox64_3d/vol1/1/
+[『新 超級瑪利歐兄弟 Wii』]: ../cht-hk/wii/nsmb/vol1/1/
+
+
+

@@ -142,15 +142,19 @@ buttons:
 * [『ＮＨＫ紅白クイズ合戦』]{:.heading.flip-title}（2009年12月25日公開）
 * [『Wiiの間』]{:.heading.flip-title}（2009年11月20日公開）
 * [『New スーパーマリオブラザーズ Wii』]{:.heading.flip-title}（2009年11月13日公開）
-    * 【中文版】
-        * [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}（2009年11月13日公開）(港任版)
+    * 【中文版-港任】
+        * [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}
 * [ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
 * [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]{:.heading.flip-title}（2009年10月22日公開）
 * [『Wii Fit Plus』]{:.heading.flip-title}（2009年9月29日公開）
 * [『モンスターハンター3（トライ）』]{:.heading.flip-title}（2009年7月30日公開）
 * [『PUNCH-OUT!!』]{:.heading.flip-title}（2009年7月13日公開）
 * [『Wii Sports Resort』]{:.heading.flip-title}（2009年6月4日公開）
+    * 【中文版-港任】
+        * [『Wii Sports Resort』]{:.heading.flip-title}
 * [『Wiiモーションプラス』]{:.heading.flip-title}（2009年5月18日公開）
+    * 【中文版-港任】
+        * [『Wii動感強化器』]{:.heading.flip-title}
 * [『街へいこうよ どうぶつの森』]{:.heading.flip-title}（2008年11月13日公開）
 * [ 『Wii Music』]{:.heading.flip-title}（2008年9月25日公開）
 * [ 『リンクのボウガントレーニング＋Wiiザッパー』]{:.heading.flip-title}（2008年4月24日公開）
@@ -353,6 +357,6 @@ buttons:
 
 [星際火狐64 3D]: cht-hk/3ds/starfox64_3d/vol1/1/
 [『新 超級瑪利歐兄弟 Wii』]: cht-hk/wii/nsmb/vol1/1/
-
-
+[『Wii Sports Resort』]: cht-hk/wii/wiisportsresort/vol2/1/
+[『Wii動感強化器』]: cht-hk/wii/nsmwiisportsresortb/vol1/1/
 

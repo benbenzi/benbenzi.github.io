@@ -77,6 +77,7 @@ buttons:
 * [『スーパーポケモンスクランブル』]{:.heading.flip-title}（2011年8月9日公開）
 * [『ポケモン立体図鑑BW』]{:.heading.flip-title}（2011年8月9日公開）
 * [『スターフォックス６４ ３Ｄ』]{:.heading.flip-title}（2011年7月5日公開）
+    * 【中文版】
         * [星際火狐64 3D]{:.heading.flip-title}（2011年7月5日公開）(港任版)
 * [『ニンテンドーeショップ』]{:.heading.flip-title}（2011年6月2日公開）
 * [『ゼルダの伝説 時のオカリナ 3D』]{:.heading.flip-title}（2011年5月26日公開）
@@ -141,6 +142,7 @@ buttons:
 * [『ＮＨＫ紅白クイズ合戦』]{:.heading.flip-title}（2009年12月25日公開）
 * [『Wiiの間』]{:.heading.flip-title}（2009年11月20日公開）
 * [『New スーパーマリオブラザーズ Wii』]{:.heading.flip-title}（2009年11月13日公開）
+    * 【中文版】
         * [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}（2009年11月13日公開）(港任版)
 * [ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
 * [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]{:.heading.flip-title}（2009年10月22日公開）

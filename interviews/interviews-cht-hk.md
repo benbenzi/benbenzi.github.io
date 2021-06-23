@@ -17,6 +17,7 @@ buttons:
 
 ## Wii
 
-还没做。
+* [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}（2009年11月13日公開）(港任版)
 
 [星際火狐64 3D]: ../cht-hk/3ds/starfox64_3d/vol1/1/
+[『新 超級瑪利歐兄弟 Wii』]: ../cht-hk/wii/nsmb/vol1/1/

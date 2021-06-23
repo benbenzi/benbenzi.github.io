@@ -1,7 +1,7 @@
 ---
-title: 任天堂社长问
+title: 任天堂社长提问
 description: >
-  前任天堂社长 岩田聪，向开发人员询问任天堂各种项目的经过、背景等的采访企划“社长问”的链接集。<br>本页面下链接均转载自任天堂官网：<br><https://www.nintendo.co.jp/corporate/links/index.html>
+  前任天堂社长 岩田聪，向开发人员询问任天堂各种项目的经过、背景等的采访企划“社长提问”的链接集。<br>本页面下链接均转载自任天堂官网：<br><https://www.nintendo.co.jp/corporate/links/index.html>
 hide_description: false
 sitemap: false
 permalink: /interviews/
@@ -84,7 +84,7 @@ buttons:
 * [『スティールダイバー』]{:.heading.flip-title}（2011年5月10日公開）
 * [『ニンテンドー3DS』ソフトメーカークリエーター 篇]
     * [第1回：『レイトン教授と奇跡の仮面』]（2011年2月10日公開）
-    * [第2回：『戦国無双 Chronicle』]（2011年2月15日公開）
+        * [第2回：『戦国無双 Chronicle』]（2011年2月15日公開）
     * [第3回：『ウイニングイレブン 3DSoccer』]（2011年2月17日公開）
     * [第4回：『リッジレーサー３Ｄ』]（2011年2月22日公開）
     * [第5回：『スーパーストリートファイターIV 3D EDITION』]（2011年2月24日公開）

@@ -351,8 +351,8 @@ buttons:
 [ゲームセミナー２００８〜『どうぶつの森』ができるまで〜]: jp/etc/seminar2008/vol1/1.md
 [「ニンテンドーWi-Fiネットワークアダプタ」]: jp/etc/wap/vol1/1.md
 
-[星際火狐64 3D]: ../cht-hk/3ds/starfox64_3d/vol1/1/
-[『新 超級瑪利歐兄弟 Wii』]: ../cht-hk/wii/nsmb/vol1/1/
+[星際火狐64 3D]: cht-hk/3ds/starfox64_3d/vol1/1/
+[『新 超級瑪利歐兄弟 Wii』]: cht-hk/wii/nsmb/vol1/1/
 
 
 

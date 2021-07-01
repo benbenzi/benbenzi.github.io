@@ -163,6 +163,7 @@ buttons:
 * [『大乱闘スマッシュブラザーズX』]{:.heading.flip-title}（2008年1月30日公開）
 * [『Wii Fit』]{:.heading.flip-title}（2007年11月8日公開）
 * [『スーパーマリオギャラクシー』]{:.heading.flip-title}（2007年10月4日公開）
+
 ***＜社長が訊く Wiiプロジェクト＞***
 * [Vol.6 『おどる メイド イン ワリオ』編]{:.heading.flip-title}（2006年11月22日公開）
 * [Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]{:.heading.flip-title}（2006年10月26日公開）

@@ -1,0 +1,14 @@
+www.nintendo.tw/images/wiifit_vol3_06.jpg
+www.nintendo.tw/images/wiifit_vol3_07.jpg
+www.nintendo.tw/images/wiifit_vol3_08.jpg
+www.nintendo.tw/images/wiifit_vol3_09.jpg
+www.nintendo.tw/images/wiifit_vol3_10.jpg
+www.nintendo.tw/images/wiifit_vol3_11.jpg
+www.nintendo.tw/images/wiifit_vol3_12.jpg
+www.nintendo.tw/images/wiifit_vol3_13.jpg
+www.nintendo.tw/images/wiifit_vol3_14.jpg
+www.nintendo.tw/images/wiifit_vol3_15.jpg
+www.nintendo.tw/images/wiifit_vol3_16.jpg
+www.nintendo.tw/images/wiifit_vol3_17.jpg
+www.nintendo.tw/images/wiifit_vol3_18.jpg
+www.nintendo.tw/images/wiifit_vol3_19.jpg

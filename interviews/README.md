@@ -369,7 +369,7 @@ buttons:
 [星際火狐64 3D]: cht-hk/3ds/starfox64_3d/vol1/1/
 [『新 超級瑪利歐兄弟 Wii』]: cht-hk/wii/nsmb/vol1/1/
 [『Wii Sports Resort』]: cht-hk/wii/wiisportsresort/vol2/1/
-[『Wii動感強化器』]: cht-hk/wii/nsmwiisportsresortb/vol1/1/
+[『Wii動感強化器』]: cht-hk/wii/nsmwiisportsresort/vol1/1/
 
 [Vol.6 『おどる メイド イン ワリオ』編]: /
 [Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]: /

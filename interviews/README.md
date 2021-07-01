@@ -144,9 +144,11 @@ buttons:
 * [『New スーパーマリオブラザーズ Wii』]{:.heading.flip-title}（2009年11月13日公開）
     * 【中文版-港任】
         * [『新 超級瑪利歐兄弟 Wii』]{:.heading.flip-title}
-* [ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
+* [『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]{:.heading.flip-title}（2009年11月6日公開）
 * [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]{:.heading.flip-title}（2009年10月22日公開）
 * [『Wii Fit Plus』]{:.heading.flip-title}（2009年9月29日公開）
+    * 【中文版-台任】
+        * [『Wii Fit Plus』 ]{:.heading.flip-title}
 * [『モンスターハンター3（トライ）』]{:.heading.flip-title}（2009年7月30日公開）
 * [『PUNCH-OUT!!』]{:.heading.flip-title}（2009年7月13日公開）
 * [『Wii Sports Resort』]{:.heading.flip-title}（2009年6月4日公開）
@@ -156,10 +158,10 @@ buttons:
     * 【中文版-港任】
         * [『Wii動感強化器』]{:.heading.flip-title}
 * [『街へいこうよ どうぶつの森』]{:.heading.flip-title}（2008年11月13日公開）
-* [ 『Wii Music』]{:.heading.flip-title}（2008年9月25日公開）
-* [ 『リンクのボウガントレーニング＋Wiiザッパー』]{:.heading.flip-title}（2008年4月24日公開）
-* [ 『マリオカートWii』]{:.heading.flip-title}（2008年4月3日公開）
-* [ 『メトロイドプライム3　コラプション』]{:.heading.flip-title}（2008年2月29日公開）
+* [『Wii Music』]{:.heading.flip-title}（2008年9月25日公開）
+* [『リンクのボウガントレーニング＋Wiiザッパー』]{:.heading.flip-title}（2008年4月24日公開）
+* [『マリオカートWii』]{:.heading.flip-title}（2008年4月3日公開）
+* [『メトロイドプライム3　コラプション』]{:.heading.flip-title}（2008年2月29日公開）
 * [『大乱闘スマッシュブラザーズX』]{:.heading.flip-title}（2008年1月30日公開）
 * [『Wii Fit』]{:.heading.flip-title}（2007年11月8日公開）
 * [『スーパーマリオギャラクシー』]{:.heading.flip-title}（2007年10月4日公開）<br><br>***＜社長が訊く Wiiプロジェクト＞***<br>
@@ -343,7 +345,7 @@ buttons:
 [『ＮＨＫ紅白クイズ合戦』]: jp/wii/rqij/vol1/1.md
 [『Wiiの間』]: jp/wii/wiinoma/vol1/1.md
 [『New スーパーマリオブラザーズ Wii』]: jp/wii/smnj/vol1/1.md
-[ 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]: jp/wii/rfcj/vol1/1.md
+[『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』]: jp/wii/rfcj/vol1/1.md
 [『罪と罰　宇宙の後継者（そらのこうけいしゃ）』]: jp/wii/r2vj/vol1/1.md
 [『Wii Fit Plus』]: jp/wii/rfpj/vol1/1.md
 [『モンスターハンター3（トライ）』]: jp/wii/rmhj/vol1/1.md
@@ -351,10 +353,10 @@ buttons:
 [『Wii Sports Resort』]: jp/wii/rztj/vol1/1.md
 [『Wiiモーションプラス』]: jp/wii/wii_motion_plus/vol1/1.md
 [『街へいこうよ どうぶつの森』]: jp/wii/ruuj/vol1/1.md
-[ 『Wii Music』]: jp/wii/r64j/vol1/1.md
-[ 『リンクのボウガントレーニング＋Wiiザッパー』]: jp/wii/rzpj/vol1/1.md
-[ 『マリオカートWii』]: jp/wii/rmcj/vol1/1.md
-[ 『メトロイドプライム3　コラプション』]: jp/wii/rm3j/vol1/1.md
+[『Wii Music』]: jp/wii/r64j/vol1/1.md
+[『リンクのボウガントレーニング＋Wiiザッパー』]: jp/wii/rzpj/vol1/1.md
+[『マリオカートWii』]: jp/wii/rmcj/vol1/1.md
+[『メトロイドプライム3　コラプション』]: jp/wii/rm3j/vol1/1.md
 [『大乱闘スマッシュブラザーズX』]: jp/wii/rsbj/vol1/1.md
 [『Wii Fit』]: jp/wii/rfnj/vol1/1.md
 [『スーパーマリオギャラクシー』]: jp/wii/rmgj/vol1/1.md
@@ -370,6 +372,7 @@ buttons:
 [『新 超級瑪利歐兄弟 Wii』]: cht-hk/wii/nsmb/vol1/1/
 [『Wii Sports Resort』]: cht-hk/wii/wiisportsresort/vol2/1/
 [『Wii動感強化器』]: cht-hk/wii/wiisportsresort/vol1/1/
+[『Wii Fit Plus』 ]: cht-tw/wii/wiifitplus/vol1/1/
 
 [Vol.6 『おどる メイド イン ワリオ』編]: #
 [Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]: #

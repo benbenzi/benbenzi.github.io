@@ -163,6 +163,18 @@ buttons:
 * [『大乱闘スマッシュブラザーズX』]{:.heading.flip-title}（2008年1月30日公開）
 * [『Wii Fit』]{:.heading.flip-title}（2007年11月8日公開）
 * [『スーパーマリオギャラクシー』]{:.heading.flip-title}（2007年10月4日公開）
+***＜社長が訊く Wiiプロジェクト＞***
+* [Vol.6 『おどる メイド イン ワリオ』編]{:.heading.flip-title}（2006年11月22日公開）
+* [Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]{:.heading.flip-title}（2006年10月26日公開）
+* [Vol.4 『Wii Sports』編]{:.heading.flip-title}（2006年10月12日公開）
+* [番外編]{:.heading.flip-title}（2006年10月5日公開）
+* [Vol.3 Wiiチャンネル編]{:.heading.flip-title}（2006年9月14日公開）
+* [Vol.2 Wiiリモコン編]{:.heading.flip-title}（2006年9月11日公開）
+    * 【中文版-港任】
+        * [Ｗｉｉ 遙控器篇]{:.heading.flip-title}
+* [Vol.1 Wiiハード編]{:.heading.flip-title}（2006年9月8日公開）
+    * 【中文版-港任】
+        * [Ｗｉｉ 主機篇]{:.heading.flip-title}
 {:.related-posts.faded}
 
 ## NDS
@@ -359,4 +371,14 @@ buttons:
 [『新 超級瑪利歐兄弟 Wii』]: cht-hk/wii/nsmb/vol1/1/
 [『Wii Sports Resort』]: cht-hk/wii/wiisportsresort/vol2/1/
 [『Wii動感強化器』]: cht-hk/wii/nsmwiisportsresortb/vol1/1/
+
+[Vol.6 『おどる メイド イン ワリオ』編]: /
+[Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]: /
+[Vol.4 『Wii Sports』編]: /
+[番外編]: /
+[Vol.3 Wiiチャンネル編]: /
+[Vol.2 Wiiリモコン編]: /
+[Vol.1 Wiiハード編]: /
+[Ｗｉｉ 主機篇]: cht-hk/wii/hardware/vol1/1/
+[Ｗｉｉ 遙控器篇]: cht-hk/wii/hardware/vol2/1/
 

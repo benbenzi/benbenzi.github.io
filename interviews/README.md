@@ -170,10 +170,10 @@ buttons:
 * [Vol.3 Wiiチャンネル編]{:.heading.flip-title}（2006年9月14日公開）
 * [Vol.2 Wiiリモコン編]{:.heading.flip-title}（2006年9月11日公開）
     * 【中文版-港任】
-        * [Ｗｉｉ 遙控器篇]{:.heading.flip-title}
+        * [Vol.2 Ｗｉｉ 遙控器篇]{:.heading.flip-title}
 * [Vol.1 Wiiハード編]{:.heading.flip-title}（2006年9月8日公開）
     * 【中文版-港任】
-        * [Ｗｉｉ 主機篇]{:.heading.flip-title}
+        * [Vol.1 Ｗｉｉ 主機篇]{:.heading.flip-title}
 {:.related-posts.faded}
 
 ## NDS
@@ -378,6 +378,6 @@ buttons:
 [Vol.3 Wiiチャンネル編]: /
 [Vol.2 Wiiリモコン編]: /
 [Vol.1 Wiiハード編]: /
-[Ｗｉｉ 主機篇]: cht-hk/wii/hardware/vol1/1/
-[Ｗｉｉ 遙控器篇]: cht-hk/wii/hardware/vol2/1/
+[Vol.1 Ｗｉｉ 主機篇]: cht-hk/wii/hardware/vol1/1/
+[Vol.2 Ｗｉｉ 遙控器篇]: cht-hk/wii/hardware/vol2/1/
 

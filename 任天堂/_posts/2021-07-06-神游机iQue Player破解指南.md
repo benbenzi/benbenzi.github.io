@@ -19,23 +19,29 @@ invert_sidebar: true
 
 ### 准备
 
-本指南假设您熟悉Windows命令行CMD工具（或您选择的操作系统上的类似工具），可以访问运行Windows XP 32位的虚拟机或辅助PC，在Windows XP上安装了iQue@Home驱动程序，并熟悉使用USB数据线将iQue Player连接到Windows XP。此外，熟悉在Windows XP和主操作系统之间传输文件将有所帮助。最后，下载并安装 **HxD** (Windows) 等十六进制编辑器，并熟悉其使用。
+本指南假设您熟悉Windows命令行CMD工具（或您选择的操作系统上的类似工具），可以访问运行Windows XP 32位的虚拟机或辅助PC，在Windows XP上安装了iQue@Home驱动程序，并熟悉使用USB数据线将iQue Player连接到Windows XP。
+
+此外，熟悉在Windows XP和主操作系统之间传输文件将有所帮助。最后，下载并安装 **HxD** (Windows) 等十六进制编辑器，并熟悉其使用。
+
 注意：该过程的第 4 步需要在您的主操作系统上安装**Python 3**。 如果您的主操作系统尚未安装它，请访问 [python.org](https://www.python.org/ "Python官网") 下载并安装它。
 
 ### 大体流程
 
 破解流程可以分为以下几个步骤：
+
 1. 通过Stuckpixel的**ique_cbc_attack**程序，在主机上实现初始代码执行
-2. 使用eSKape引导，来导出主机的密钥和相关信息，同时获取主机的 ticket.sys 文件
+2. 使用eSKape引导，来导出主机的密钥和相关信息，同时获取主机的ticket.sys文件
 3. 检查主机的固件版本，并相应地选择和安装系统菜单引导补丁
 4. 编辑对应你主机的ticket.sys文件，并覆盖到系统中
 
 下面将详细介绍每个步骤，一次一个。在执行每个步骤前，请确认你已经正确执行了前一个步骤。
+
 建议在通篇阅读本指南后，在进行实际操作。
 
-#### 第1步: 初始代码执行
+#### 第1步：初始代码执行
 
 在此步骤中，我们将使用Stuckpixel的**ique_cbc_attack**程序，给《马力欧医生》打上补丁，以实现代码执行。
+
 * 在执行该步骤之前，请确保主机中已有《马力欧医生》游戏，并至少打开过一次。
 * 在此步骤中，你的《马力欧医生》游戏存档将被覆盖。如果该存档对你很重要，可以按照[本指南](javascript:void(0))（原作者没有写）进行备份。
 * 该步骤某些部分的说明，是专门为Windows 10 64位准备的。如果你选择了其他操作系统，您可能需要更改一些东西，一遍顺利进行该流程。
@@ -47,14 +53,11 @@ invert_sidebar: true
 ```
 ique_cbc_attack -p 3C088001350818E03C09000135298ED0 -r 005d1870.rec -d 081F0000000000000000000000000000 -o 1000
 ```
-
 你应该能看到这样的提示：
-
 ```
 AES-CBC attack, by stuckpixel
 successfully injected 1 blocks!
 ```
-
 5. 在Windows XP上，将**005d1870.rec**文件从**ique_cbc_attack**所在文件夹，复制到**ique_diag**所在文件夹。
 6. 在**ique_diag**中输入`4 005d1870.rec`，以将修改后的《马力欧医生》加密文件传输回你的主机。 
 7. 在主系统中，将**v2_dump.sta**重命名为**005d1870.sta**。
@@ -63,7 +66,7 @@ successfully injected 1 blocks!
 10. 在**ique_diag**中输入`Q`以断开和主机的连接，但同时保持**ique_diag**窗口开启。
 11. 关闭你的主机，并将其与Windows XP断开连接。
 
-#### Step 2: Dumping your console’s keys
+#### 第2步：提取你的主机密钥
 
 1. Turn the console back on (without a USB cable inserted) to boot to the main iQue Menu.
 2. Open Dr. Mario (马力欧医生) from the games list (‘游戏’ on the main menu). The game should boot to a black screen.

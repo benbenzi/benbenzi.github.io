@@ -68,36 +68,41 @@ successfully injected 1 blocks!
 
 #### 第2步：提取你的主机密钥
 
-1. Turn the console back on (without a USB cable inserted) to boot to the main iQue Menu.
-2. Open Dr. Mario (马力欧医生) from the games list (‘游戏’ on the main menu). The game should boot to a black screen.
-3. After a few seconds, press the power button on the console **once** to return to the iQue Menu. When the main menu loads, press the power button on the console **once** to turn the console off.
-4. Connect your console back to your Windows XP PC with a USB cable and turn it on.
-5. In **ique_diag**, enter `B` to initialise the connection, then enter `3 005d1870.sta` to dump the save file containing your console’s keys to Windows XP.
-6. Copy **005d1870.sta** from the folder containing **ique_diag** on Windows XP to your main OS, and open it in a hex editor.
-7. Copy the bytes from **0x600** to **0x700** to a new file. Save it as **V2.bin** or similar in a known location on your main OS.
-8. In **ique_diag** on Windows XP, enter `3 ticket.sys` to dump your console’s ticket file.
-9. Copy **ticket.sys** from the folder containing **ique_diag** on Windows XP to a known location your main OS.
+1. 重新打开主机（不插入USB电缆），以启动到iQue主菜单页面。
+2. 启动游戏列表中的《马力欧医生》。游戏启动后应该是黑屏状态。
+3. 稍等几秒后，按下**一次**电源，返回到iQue菜单页面。当主菜单加载的时候，按下**一次**电源关闭主机。
+4. 使用USB线将主机连接到Windows XP，然后打开主机。
+5. 在**ique_diag**中输入`B`以初始化连接，然后输入`3 005d1870.sta`以将包含主机密钥的存档文件保存至Windows XP。
+6. 在Windows XP中，将**005d1870.sta**从**ique_diag**文件夹复制到你的主系统，并用16进制编辑器打开。
+7. 将从**0x600**到**0x700**的字节内容，复制到一个新文件中。将其保存为V2.bin或类似名字，放到主系统上你喜欢的路径。
+8. 在Windows XP的**ique_diag**中，输入`3 ticket.sys`以导出你主机的ticket文件。
+9. 从Windows XP上包含**ique_diag**的文件夹中，将**ticket.sys**复制到主系统上你喜欢的路径。
 
-#### Step 3: Installing Jbop’s HackIt Menu patcher
+#### 第3步：安装Jbop的HackIt系统菜单补丁
 
-There are several ways to determine your console’s firmware version. For the purposes of this guide, it is assumed that you have not made a NAND backup.
-There are exactly two SKSA versions that support USB. Both have the iQue@Home logo displayed in the top left of the main menu, in Chinese (神游在线). If the main menu of your console does not have this logo, it is not compatible with iQue@Home.
+有几种方法可以确定控制台的固件版本。
 
-1. Rename hackit_patcher.sta to 005d1870.sta.
-2. Copy 005d1870.sta to the folder containing ique_diag on Windows XP
-3. In ique_diag, enter 4 005d1870.sta to write the System Menu patcher to your console.
+就本指南而言，假设您尚未进行 NAND 备份。
 
-#### Step 4: Editing your console’s ticket.sys file
+支持USB的SKSA版本正好有两种。
 
-1. On your main OS, open **ticket.sys_editor.py** (using Python).
-2. Click *File*, *Open file*, then navigate to the **ticket.sys** file dumped from your console earlier, and click *Open*.
-3. As an initial test, choose **塞尔达的传说** from the list on the left. Click the *Ticket data* tab, then press *Ticket ID:* to bring up the ticket ID editor. Uncheck the box next to *Is trial ticket:*, then close the ticket ID editor window.
-4. Click *File*, *Save as*, then navigate to a known directory on your main OS, enter **hackit.sys** as the filename, then press *Save* to save the edited file.
-5. Copy **hackit.sys** from your main OS to the folder containing **ique_diag** on Windows XP.
-6. In **ique_diag**, enter `4 hackit.sys` to write the modified file to your console, then enter `Q` to close the connection to your console while keeping **ique_diag** open.
-7. Turn off your console and disconnect it from your Windows XP PC.
-8. Turn the console back on (without a USB cable inserted) to boot to the main iQue Menu.
-9. Open Dr. Mario (马力欧医生) from the games list (‘游戏’ on the main menu). The game should boot to a black screen.
-10. After a few seconds, press the power button on the console once to return to the iQue Menu. When the main menu loads, enter the games list (‘游戏’ on the main menu), and scroll down until you reach The Legend of Zelda: Ocarina of Time (塞尔达传说：时光之笛). Near the right-hand edge of the screen, the small box between the block indicator (114) and the icon displaying whether the game is on the console or PC should be red, indicating that the game is no longer a trial. This demonstrates that the patcher worked and the system menu’s signatures have successfully been patched.
+这亮着都在主菜单的左上角，显示有“神游在线”的标志。如果您的主机主菜单没有此标志，则它与神游在线不兼容。
 
-At this point, your console has successfully been hacked. You are now free to use **ticket.sys_editor.py** and **iQueCrypt** to add software to your console.
+1. 将**hackit_patcher.sta**重命名为**005d1870.sta**。
+2. 在Windows XP上，将**005d1870.sta**拷贝至**ique_diag**所在文件夹。
+3. 在**ique_diag**中输入`4 005d1870.sta`以将系统菜单补丁写入至你的主机。
+
+#### 第4步：编辑你主机的ticket.sys文件
+
+1. 在你的主系统上，用Python运行**ticket.sys_editor.py**。
+2. 单击*File*-*Open file*，然后找到刚才从你主机里导出的**ticket.sys**文件，并选择*Open*。
+3. 作为初步测试，我们从左侧的列表中，选择**塞尔达的传说**。点击*Ticket data*选项，并按下*Ticket ID:*以进入Ticket ID编辑器。将选项框中的*Is trial ticket:*（是试玩版）取消掉，然后关闭Ticket ID编辑器。
+4. 单击*File*-*Save as*，然后找一个你喜欢的路径，将**hackit.sys**作为文件名，并按下*Save*以保存编辑后的文件。
+5. 把你主系统中的**hackit.sys**文件，复制到Windows XP系统中的**ique_diag**所在文件夹。
+6. 在**ique_diag**中输入`4 hackit.sys`以将修改后的文件写入你的主机。然后输入`Q`以断开和主机的连接，但同时保持**ique_diag**窗口开启。
+7. 关闭你的主机，并将其与Windows XP断开连接。
+8. 重新打开主机（不插入USB电缆），以启动到iQue主菜单页面。
+9. 启动游戏列表中的《马力欧医生》。游戏启动后应该是黑屏状态。
+10. 稍等几秒后，按下**一次**电源，返回到iQue菜单页面。当主菜单加载完毕后，进入游戏列表，并下拉找到《塞尔达传说：时光之笛》。在屏幕右侧，显示游戏占用容量（114）和表示游戏所在位置的图标之间，有一个小方块。若该小方块是红色，则说明游戏已经从试玩版变成了正式版。这表明打补丁程序已经运行成功，系统菜单的签名已经成功打上了补丁。
+
+至此，你已成功完成神游机iQue Player的破解。现在，你可以使用免费的**ticket.sys_editor.py**和**iQueCrypt**两个工具，将软件添加至你的主机了。

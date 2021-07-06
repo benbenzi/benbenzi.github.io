@@ -3,7 +3,7 @@ layout: post
 title: 神游机iQue Player破解指南
 image: /assets/img/blog/2021-07-06/cover.jpg
 accent_image: 
-  background: url('/assets/img/blog/2021-07-06/8.jpg') center/cover
+  background: url('/assets/img/blog/2021-07-06/bg.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'

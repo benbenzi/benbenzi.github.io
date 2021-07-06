@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 神游机iQue Player破解后添加游戏指南
-image: /assets/img/blog/2021-07-06/cover.jpg
+image: /assets/img/blog/2021-07-06/cover-2.jpg
 accent_image: 
-  background: url('/assets/img/blog/2021-07-06/8.jpg') center/cover
+  background: url('/assets/img/blog/2021-07-06/bg-2.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'

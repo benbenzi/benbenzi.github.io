@@ -22,7 +22,7 @@ invert_sidebar: true
 1. ticket.sys编辑器
 2. 你想要添加的游戏的ticket（.dat），CMD（.cmd）或contentDesc（.cdesc）文件
 3. 你想要添加的游戏的.z64文件
-4. 在你的主机上已[安装HackIt补丁](2021-07-06-神游机iQue-Player破解指南.md)
+4. 在你的主机上已[安装HackIt补丁](../2021-07-06-神游机iQue-Player破解指南.md)
 5. 你主机的hackit.sys
 6. iQueCrypt v1.2.1
 

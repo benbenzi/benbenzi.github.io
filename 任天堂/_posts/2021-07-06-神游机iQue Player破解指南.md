@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  转载自<https://iquebrew.github.io/en/START.html>
+  转载自<https://iquebrew.github.io/en/START.html><br>翻译：本本子
 invert_sidebar: true
 ---
 

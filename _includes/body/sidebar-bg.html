@@ -10,8 +10,6 @@
   {% capture bg_style %}background-color:{{ bg_color }};{% if image != 'none' %}background-image:url({% include_cached smart-url url=image %}){% endif %}{% endcapture %}
   {% capture bg_class %}sidebar-bg {% if image != 'none' %}sidebar-overlay{% endif %}{% endcapture %}
 {% endif %}
-<div class="{{ bg_class }}" style="{{ bg_style }}">
-  
 
 <!-- 音乐播放器 -->
 <div id="aplayer" style="z-index:999;position:fixed;">     
@@ -25,4 +23,4 @@
 </div>
 <!-- 音乐播放器 -->
   
-</div>
+<div class="{{ bg_class }}" style="{{ bg_style }}"></div>

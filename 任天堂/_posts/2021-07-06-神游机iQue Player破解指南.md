@@ -12,18 +12,18 @@ description: >
 invert_sidebar: true
 ---
 
-# 神游机iQue Player破解教指南
+# 神游机iQue Player破解指南
 
 * toc
 {:toc}
 
 ### 准备
 
-本指南假设您熟悉Windows命令行CMD工具（或您选择的操作系统上的类似工具），可以访问运行Windows XP 32位的虚拟机或辅助PC，在Windows XP上安装了iQue@Home驱动程序，并熟悉使用USB数据线将iQue Player连接到Windows XP。
+本指南假设你熟悉Windows命令行CMD工具（或你选择的操作系统上的类似工具），可以访问运行Windows XP 32位的虚拟机或辅助PC，在Windows XP上安装了iQue@Home驱动程序，并熟悉使用USB数据线将iQue Player连接到Windows XP。
 
 此外，熟悉在Windows XP和主操作系统之间传输文件将有所帮助。最后，下载并安装 **HxD** (Windows) 等十六进制编辑器，并熟悉其使用。
 
-注意：该过程的第 4 步需要在您的主操作系统上安装**Python 3**。 如果您的主操作系统尚未安装它，请访问 [python.org](https://www.python.org/ "Python官网") 下载并安装它。
+注意：该过程的第 4 步需要在你的主操作系统上安装**Python 3**。 如果你的主操作系统尚未安装它，请访问 [python.org](https://www.python.org/ "Python官网") 下载并安装它。
 
 ### 大体流程
 
@@ -44,7 +44,7 @@ invert_sidebar: true
 
 * 在执行该步骤之前，请确保主机中已有《马力欧医生》游戏，并至少打开过一次。
 * 在此步骤中，你的《马力欧医生》游戏存档将被覆盖。如果该存档对你很重要，可以按照[本指南](javascript:void(0))（原作者没有写）进行备份。
-* 该步骤某些部分的说明，是专门为Windows 10 64位准备的。如果你选择了其他操作系统，您可能需要更改一些东西，一遍顺利进行该流程。
+* 该步骤某些部分的说明，是专门为Windows 10 64位准备的。如果你选择了其他操作系统，你可能需要更改一些东西，一遍顺利进行该流程。
 
 1. 将iQue Player连接到Windows XP，打开并**ique_diag**。输入`B`初始化连接。
 2. 输入`3 005d1870.rec`以提取《马力欧医生》的加密游戏文件到Windows XP。
@@ -82,11 +82,11 @@ successfully injected 1 blocks!
 
 有几种方法可以确定控制台的固件版本。
 
-就本指南而言，假设您尚未进行 NAND 备份。
+就本指南而言，假设你尚未进行 NAND 备份。
 
 支持USB的SKSA版本正好有两种。
 
-这亮着都在主菜单的左上角，显示有“神游在线”的标志。如果您的主机主菜单没有此标志，则它与神游在线不兼容。
+这亮着都在主菜单的左上角，显示有“神游在线”的标志。如果你的主机主菜单没有此标志，则它与神游在线不兼容。
 
 1. 将**hackit_patcher.sta**重命名为**005d1870.sta**。
 2. 在Windows XP上，将**005d1870.sta**拷贝至**ique_diag**所在文件夹。

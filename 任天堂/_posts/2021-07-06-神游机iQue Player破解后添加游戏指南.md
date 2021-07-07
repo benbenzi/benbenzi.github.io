@@ -17,38 +17,38 @@ invert_sidebar: true
 * toc
 {:toc}
 
-# Using the ticket.sys editor and iQueCrypt to add games
+### 准备条件
 
-### Prerequisites:
-
-1. ticket.sys editor
-2. the ticket (.dat), CMD (.cmd) or contentDesc (.cdesc) of the game you want to add
-3. the .z64 of the game you want to add
-4. HackIt Patcher setup on your console
-5. hackit.sys from your console
+1. ticket.sys编辑器
+2. 你想要添加的游戏的ticket（.dat），CMD（.cmd）或contentDesc（.cdesc）文件
+3. 你想要添加的游戏的.z64文件
+4. 在你的主机上已[安装HackIt补丁](2021-07-06-神游机iQue-Player破解指南.md)
+5. 你主机的hackit.sys
 6. iQueCrypt v1.2.1
 
-### Procedure:
+### 流程步骤
 
-1. Open ticket.sys editor, open hackit.sys in it
-2. If you only have a .cmd or .cdesc for the game you want to add, follow the bullet points following this. Otherwise, follow the other ones that are down a bit further.
-  * Create a new ticket (Edit → New ticket, shortcut Ctrl+N)
-  * In the General tab of the editor, click 'Replace ticket data'
-  * Select the .cmd or .cdesc of the game you wish to add and open it
-  * Now proceed to step 3
-  * This is a filler bullet point to try and fix formatting, hi!
-  * In the Edit tab, click 'Import ticket.dat' (shortcut Ctrl+I)
-  * Navigate to the .dat of the game you wish to add and open it
-  * Now proceed to step 3
+1. 在ticket.sys编辑器中，打开hackit.sys。
+2. 如果你想添加的游戏只有.cmd或.cdesc文件，则按照下面的步骤进行。否则就跳过该步骤，按照第三步操作。
+  * 创建一个新的ticket（Edit → New ticket，或用快捷键Ctrl+N）
+  * 在General标签下，点击“Replace ticket data”
+  * 选择你想要添加的游戏的.cmd或.cdesc文件，并打开它
+  * 现在进行第3步
+  * 下面是一个补充性的要点，试图修复格式化，注意了！
+  * 在Edit标签下，点击“Import ticket.dat”（快捷键Ctrl+I）
+  * 找到你想要添加的游戏的.dat文件，并打开它
+  * 现在进行第3步
 
-3. Come up with a cool CID and fill in the `CID:` box with it
-4. Save the edited hackit.sys (File → Save, shortcut Ctrl+S)
-5. Open a command prompt in the same folder as iQueCrypt
-6. Run this:
+3. 想一个你喜欢的CID，并将它填写入`CID:`框中
+4. 保存修改后的hackit.sys文件（File → Save，快捷键Ctrl+S）
+5. 打开命令行工具，并进入到iQueCrypt所在文件夹
+6. 运行以下命令：
 ```
 iquecrypt.exe encrypt -app <path to the .z64 of the game here> -key 00000000000000000000000000000000 -iv 00000000000000000000000000000000
 ```
-(replace <path to the .z64 of the game here> with the path to the .z64 of your game of choice)
-7. Rename `[enc]<game filename here>.z64` to `<CID from earlier>.app`
-8. Copy hackit.sys and `<CID>.app` to Windows XP and write them to your console with iQueDiagExtend
-9. On the console, launch the HackIt Patcher and enjoy your new game!
+(将上面命令行中的<path to the .z64 of the game here>替换为你想要添加的游戏的.z64文件路径)
+7. 将`[enc]<game filename here>.z64`重命名为`<CID from earlier>.app`
+8. 将hackit.sys和`<CID>.app`文件拷贝至Windows XP，并使用QueDiagExtend工具，将其写入你已破解的主机
+9. 至此，你已成功将喜欢的N64游戏添加进了神游机iQue Player，享受你的游戏之旅吧！
+
+

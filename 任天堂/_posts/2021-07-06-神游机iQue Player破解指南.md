@@ -17,7 +17,7 @@ invert_sidebar: true
 * toc
 {:toc}
 
-### 准备
+### 准备条件
 
 本指南假设你熟悉Windows命令行CMD工具（或你选择的操作系统上的类似工具），可以访问运行Windows XP 32位的虚拟机或辅助PC，在Windows XP上安装了iQue@Home驱动程序，并熟悉使用USB数据线将iQue Player连接到Windows XP。
 
@@ -25,7 +25,7 @@ invert_sidebar: true
 
 注意：该过程的第 4 步需要在你的主操作系统上安装**Python 3**。 如果你的主操作系统尚未安装它，请访问 [python.org](https://www.python.org/ "Python官网") 下载并安装它。
 
-### 大体流程
+### 流程步骤
 
 破解流程可以分为以下几个步骤：
 

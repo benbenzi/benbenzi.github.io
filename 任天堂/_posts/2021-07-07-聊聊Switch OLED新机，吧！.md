@@ -55,7 +55,7 @@ invert_sidebar: true
 
 以前总是提醒朋友，不要把NS直接平放在桌面或者被子上运行，会堵住入风口，导致Switch折寿！
 
-![](/assets/img/blog/2021-07-07/5.jpg){:.border.lead loading="lazy"}
+![](/assets/img/blog/2021-07-07/5.png){:.border.lead loading="lazy"}
 
 这次把入风口挪到了棱角处，并且看上去在两侧加入了一个垫脚，这样一来不论什么角度都可以保证入风稳定了。
 

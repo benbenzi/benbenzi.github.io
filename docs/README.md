@@ -7,105 +7,56 @@ description: >
   测试
 permalink: /docs/
 ---
-
-<link rel="stylesheet" href="/assets/styles/accordion.min.css">
-
-<details class="ui styled accordion">
-<summary class="accordion">
-展开查看
-</summary>
-<a href="#" class="content">测试</a>
-</details>
-------
-<div class="ui styled accordion">
-  <div class="active title">
-    <i class="dropdown icon"></i>
-    级别 1
-  </div>
-  <div class="active content">
-    <div class="accordion">
-      <div class="active title">
-          级别 1A
-      </div>
-      <div class="active content">
-        <p>级别 1A 内容</p>
-        <div class="accordion">
-          <div class="title">
-              <i class="dropdown icon"></i>
-              级别 1A-A
-          </div>
-          <div class="content">
-              级别 1A-A 内容
-          </div>
-          <div class="title">
-              <i class="dropdown icon"></i>
-              级别 1A-B
-          </div>
-          <div class="content">
-              级别 1A-B 内容
-          </div>
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" 
+                href="#collapseOne">
+                点击我进行展开，再次点击我进行折叠。第 1 部分
+                </a>
+            </h4>
         </div>
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          级别 1B
-      </div>
-      <div class="content">
-          级别 1B 内容
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          级别 1C
-      </div>
-      <div class="content">
-          级别 1C 内容
-      </div>
-    </div>
-  </div>
-  <div class="title">
-    <i class="dropdown icon"></i>
-    级别 2
-  </div>
-  <div class="content">
-    <p>Welcome to 级别 2</p>
-    <div class="accordion">
-      <div class="active title">
-        <i class="dropdown icon"></i>
-        级别 2A
-      </div>
-      <div class="active content">
-        <p>级别 2A 内容</p>
-        <div class="accordion">
-          <div class="title">
-              <i class="dropdown icon"></i>
-              级别 2A-A
-          </div>
-          <div class="content">
-              级别 2A-A 内容
-          </div>
-          <div class="title">
-              <i class="dropdown icon"></i>
-              级别 2A-B
-          </div>
-          <div class="content">
-              级别 2A-B 内容
-          </div>
+        <div id="collapseOne" class="panel-collapse collapse in">
+            <div class="panel-body">
+                Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
+                cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
+                vice lomo.
+            </div>
         </div>
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          级别 2B
-      </div>
-      <div class="content">
-          级别 2B 内容
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          级别 2C
-      </div>
-      <div class="content">
-          级别 2C 内容
-      </div>
     </div>
-  </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" 
+                href="#collapseTwo">
+                点击我进行展开，再次点击我进行折叠。第 2 部分
+            </a>
+            </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse">
+        <div class="panel-body">
+            Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
+            cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
+            vice lomo.
+        </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" 
+                href="#collapseThree">
+                点击我进行展开，再次点击我进行折叠。第 3 部分
+                </a>
+            </h4>
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse">
+            <div class="panel-body">
+                Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
+                cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
+                vice lomo.
+            </div>
+        </div>
+    </div>
 </div>

@@ -8,6 +8,8 @@ description: >
 permalink: /docs/
 ---
 
+<link rel="stylesheet" href="/assets/styles/accordion.min.css">
+
 <details class="ui styled accordion">
 <summary class="accordion">
 展开查看

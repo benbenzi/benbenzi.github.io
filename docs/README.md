@@ -9,6 +9,8 @@ permalink: /docs/
 ---
 <link rel="stylesheet" href="/assets/styles/accordion.min.css">
 
+<script src="/assets/js/accordion.min.js"></script>
+
 <div class="ui styled accordion">
   <div class="active title">
     <i class="dropdown icon"></i>

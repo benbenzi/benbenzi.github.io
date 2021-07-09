@@ -7,20 +7,22 @@ description: >
   测试
 permalink: /docs/
 ---
-<link rel="stylesheet" href="/assets/styles/accordion.min.css">
 
-<script src="/assets/js/accordion.min.js"></script>
-
+<details class="ui styled accordion">
+<summary class="accordion">
+展开查看
+</summary>
+<a href="#" class="content">测试</a>
+</details>
+------
 <div class="ui styled accordion">
   <div class="active title">
     <i class="dropdown icon"></i>
     级别 1
   </div>
   <div class="active content">
-    欢迎来到第一关
     <div class="accordion">
       <div class="active title">
-          <i class="dropdown icon"></i>
           级别 1A
       </div>
       <div class="active content">

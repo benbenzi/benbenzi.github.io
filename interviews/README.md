@@ -377,13 +377,13 @@ buttons:
 [『Wii Fit Plus』 ]: cht-tw/wii/wiifitplus/vol1/1/
 [『Wii Fit』 ]: cht-tw/wii/wiifit/vol1/1/
 
-[Vol.6 『おどる メイド イン ワリオ』編]: #
-[Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]: #
-[Vol.4 『Wii Sports』編]: #
-[番外編]: #
-[Vol.3 Wiiチャンネル編]: #
-[Vol.2 Wiiリモコン編]: #
-[Vol.1 Wiiハード編]: #
+[Vol.6 『おどる メイド イン ワリオ』編]: jp/wii/hardware/vol6/1.md
+[Vol.5 『ゼルダの伝説 トワイライトプリンセス』編]: jp/wii/hardware/vol5/1.md
+[Vol.4 『Wii Sports』編]: jp/wii/hardware/vol4/1.md
+[番外編]: jp/wii/hardware/vol_ext/1.md
+[Vol.3 Wiiチャンネル編]: jp/wii/hardware/vol3/1.md
+[Vol.2 Wiiリモコン編]: jp/wii/hardware/vol2/1.md
+[Vol.1 Wiiハード編]: jp/wii/hardware/vol1/1.md
 [Vol.1 Ｗｉｉ 主機篇]: cht-hk/wii/hardware/vol1/1/
 [Vol.2 Ｗｉｉ 遙控器篇]: cht-hk/wii/hardware/vol2/1/
 

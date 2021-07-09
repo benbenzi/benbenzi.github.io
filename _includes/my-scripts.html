@@ -5,6 +5,9 @@ CloudFlare will inject this on every page, but due to Hydejack's push state appr
 it will only run on the initial page.
 The snippet below will run the code on every `hy-push-state-load` event instead.
 -->
+
+<script src="/assets/js/cn-translate.js"></script>
+<script src="/assets/js/accordion.min.js"></script>
 <script>
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function (e) {
     function e(e){

@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  作者：Jesper Juul ｜ 译者：null<br>发表于2019年9月刊《Disputatio》杂质<br>Jesper Juul: "Virtual Reality: Fictional all the Way Down (and that’s OK)". Disputatio journal, 2019.<br><https://www.jesperjuul.net/text/fictionalalltheway/><br><https://doi.org/10.2478/disp-2019-0010/>Written in response to David Chalmer's 2017 paper "The Virtual and the Real".
+  作者：Jesper Juul ｜ 译者：null<br>发表于2019年9月刊《Disputatio》杂志<br>Jesper Juul: "Virtual Reality: Fictional all the Way Down (and that’s OK)". Disputatio journal, 2019.<br><https://www.jesperjuul.net/text/fictionalalltheway/><br><https://doi.org/10.2478/disp-2019-0010/>Written in response to David Chalmer's 2017 paper "The Virtual and the Real".
 invert_sidebar: true
 ---
 
@@ -64,7 +64,7 @@ If this sounds silly, it’s just because we take it for granted that a virtual 
 
 ## The impossibility of full-blown virtual counterparts
 
-![](/assets/img/blog/2019-09-15/img-2.jpg){:.border.lead loading="lazy"}
+![](/assets/img/blog/2019-09-15/img-2.png){:.border.lead loading="lazy"}
 
 **Figure 1: Unity3d VR shooting gallery tutorial (Unity n.d.)**
 {:.figcaption}

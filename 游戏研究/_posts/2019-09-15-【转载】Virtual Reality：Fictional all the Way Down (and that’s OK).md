@@ -21,8 +21,6 @@ invert_sidebar: true
 
 Are virtual objects real? I will claim that the question sets us up for the wrong type of conclusion: Chalmers (2017) argues that a virtual calculator (like other entities) is a real calculator when it is “organizationally invariant” with its non-virtual counterpart—when it performs calculation. However, virtual reality and games are defined by the fact that they always selectively implement their source material. Even the most detailed virtual car will still have an infinite range of details which are missing (gas, engines, pistons, fuel, chemical reactions, molecules, atoms). This means that even the most detailed virtual object will still have fictional aspects. Rather than argue that virtual objects are, or aren’t, real, it is preferable to think of overlaps and continuities between the fictional and the real, where even the most painstakingly detailed virtual reality implementation of a non-virtual object is still art: a human process of selection and interpretation. Virtual reality should therefore not be philosophically understood just as a technological implementation on a trajectory to perfection, but as a cultural artifact which derives its value in part from its simplification and difference from its source material.
 
- 
-
 ## Keywords
 
 Virtual reality, games, fiction, art.
@@ -54,7 +52,9 @@ Figure 1 shows three classes of objects/events in games and VR (Juul 2005, chap.
 It is then important to note that even objects and events that we can interact with will have aspects not implemented: we can rarely desert from a war, change the oil on a car, or disassemble a desktop calculator. Even in the middle case, when the fiction is implemented in rules, no object is ever “fully” implemented—rather game and VR development consist of creative choices about what aspects of an object to implement and what aspects of an object to omit. The level of abstraction (Juul 2007)is the line below which game or VR objects omit the properties or affordances that we would expect for the “full” object. (I will return to what would constitute “full” implementation.) VR has fictional aspects all the way down.
 
 ## Continuity or discontinuity?
+
 Is VR therefore fiction? There is a game to play, where we all choose our favorite definition of fiction, and thereby prove that VR is, or isn’t “fiction”. Let’s leave that aside.
+
 The more important question is whether there is continuity or discontinuity between the three classes of objects/events shown in Figure 1. In effect, Chalmers argues for discontinuity between the middle and the rightmost classes: the fact that we can interact, in specific prototypical ways, with VR objects, moves them from fiction into the realm of the real. But is that the whole story? Could they not be both?
 
 Consider Chalmers’ example of a calculator in virtual reality. Chalmers is of course right that a virtual calculator may perform the kinds of calculation that a non-virtual calculator may perform. However, this may be a too-narrow view of desktop calculators.
@@ -98,7 +98,8 @@ There are three lessons from this:
 
 We can compare this to the way fictional worlds are by necessity incomplete—Thomas Pavel notes that incompleteness is often seen as a distinctive feature of fictional worlds (Pavel 1989: 107), and though we know that Lady Macbeth has children, we do not know how many (Pavel 1989: 75). The game above is similarly incomplete. It has a laser beam, but it lacks the photons that comprise an actual laser beam, and even if it did include photons, these would lack the interactions that photons have with air particles, and even if they did interact with air particles, they would lack relativistic and quantum effects, and even if they did include those effects, and so on. Every virtual object will have fictional and unimplemented aspects compared to its non-virtual counterpart, but even the implemented aspects will in turn be simplified and contain purely fictional and unimplemented aspects, all the way down. If this is not a problem most of the time, it’s because we understand VR and game experiences to be intentionally designed for specific activities3. If we are playing an action game, we don’t expect to be able to pick flowers. In a more poetic game, we don’t expect to be able to break things.
 
-Half-real
+## Half-real
+
 There are thus arguments for seeing the relation between purely fictional objects and objects that we can interact with as one of continuity. This does not negate Chalmers’ argument about VR objects being real, it is just that they are real in a different special sense, where we as users understand that they are specific, stylized versions of their non-virtual counterparts. But where Chalmers argument for the reality of VR objects was based on their (relative) fidelity, I have here shown that they are always marked by simplification.
 
 Virtual reality, and games, may be seen as perfectly real to the extent that our actions can influence the underlying game state (rules/digital objects), but also like much art a different kind of real by virtue of corresponding more cleanly to human concepts and by being more easily understood. David Bordwell uses the term expressive amplification (Bordwell 2000: 232) to describe the way film is structured and edited in order to be more easily readable. And so it is with virtual reality.

@@ -1,0 +1,134 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/12/28;
+	Site Name : N.O.M Nintendo Online Magazine No.150;
+	About : N.O.M demae page1 SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.text-area01_a{
+	width:271px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.text-area01_b{
+	width:347px;
+	float:right;
+}
+
+.text-area01_b1{
+	width:347px;
+	float:right;
+	padding:6px 0 0 0; 
+}
+
+.text-area01_de_p1{
+	width:648px;
+	padding:0 20px 0 20px;
+}
+
+.img005_a{
+	width:688px;
+	text-align:center;
+}
+
+.img005_b{
+	width:688px;
+	padding:0 0 30px 0;
+	text-align:center;
+}
+
+.favorite-bg01{
+	width:648px;
+	background-image:url(https://www.nintendo.co.jp/nom/1101/demae-page1/img/favorite_bg02.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.favorite01{
+	width:615px;
+	padding:12px 18px 12px 15px;
+}
+
+.favorite01_a{
+	width:302px;
+	padding:4px 30px 0 0;
+	float:left;
+}
+
+.favorite01_a1{
+	width:302px;
+	padding:22px 0 0 14px;
+}
+
+.favorite01_b{
+	width:283px;
+	padding:0;
+	float:right;
+}
+
+.caption01_a{
+	padding:0;
+	text-align:center;
+}
+
+.text-area02_a{
+	width:408px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.text-area02_b{
+	width:210px;
+	float:right;
+}
+
+.text-area04{
+	width:648px;
+	padding:30px 20px 40px 20px;
+}

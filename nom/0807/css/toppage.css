@@ -1,0 +1,104 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓トップページ*/
+
+
+div#HEADER {/*固定タイトル部分*/
+	height:110px;
+	padding:40px 0 0;
+	}
+div#HEADER h1 {/*固定タイトル部分*/
+	width:780px;
+	height:110px;
+	float:none;
+	}
+
+div#MAIN {
+	text-align:center;
+	}
+
+div#TOPLINEUP {
+	width:780px;
+	height:auto;
+	margin:0 auto 20px;
+	padding:0;
+	clear:both;
+	}
+/*ここからハック*/
+div#TOPLINEUP:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div#TOPLINEUP {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+div#TOPLINEUP .leftside {
+	width:390px;
+	height:450px;
+	float:left;
+	}
+
+div#TOPLINEUP .rightside {
+	width:390px;
+	height:450px;
+	float:right;
+	}
+
+div#READ_BOX1 {
+	height:auto;
+	margin:0 auto;
+	text-align:left;
+	background-image:url(../img/read_bg.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	}
+
+p.read_text {
+	height:auto;
+	margin:0;
+	padding:80px 40px 0 70px;
+	padding-right:40px;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	}
+
+/*========================================↓コピーライト*/
+div.copyright {
+	width:780px;
+	height:auto;
+	margin:0;
+	padding:0;
+	}
+
+div.top_textlink {
+	width:700px;
+	height:auto;
+	margin:10px auto;
+	padding:0;
+	text-align:center;
+	}
+
+div.top_textlink p {
+	height:auto;
+	margin:0 10px;
+	padding:0;
+	font-size:10px;
+	line-height:1.2em;
+	display:inline;
+	}
+
+img.arrowimg {
+	margin:0 3px 0 0;
+	padding:0;
+	}
+
+
+/*========================================↑トップページ*/

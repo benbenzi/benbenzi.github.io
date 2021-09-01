@@ -1,0 +1,54 @@
+.text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 1.7; PADDING-TOP: 8px; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"; TEXT-DECORATION: none
+}
+.caption1 {
+	FONT-SIZE: 10px; COLOR: #009999; LINE-HEIGHT: 1.3; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"
+}
+.nom12_bold {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FF6600; LINE-HEIGHT: 1.4; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"
+}
+.nom22_bold {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #3399FF; LINE-HEIGHT: 1.4; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"
+}
+.nolink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #00a2e5; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"; TEXT-DECORATION: none
+}
+#navilink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666
+}
+#navilink A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; TEXT-DECORATION: none
+}
+#navilink A:hover {
+	FONT-SIZE: 10px; COLOR: #0066FF; TEXT-DECORATION: underline
+}
+#maplink {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666
+}
+#maplink A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+#maplink A:hover {
+	FONT-SIZE: 12px; COLOR: #0066FF; TEXT-DECORATION: underline
+}
+#sitelink {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+#sitelink A {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+#sitelink A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.loc_self {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #999999
+}
+.text11q {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; COLOR: #333333; LINE-HEIGHT: 1.5; PADDING-TOP: 3px; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"; TEXT-DECORATION: none
+}
+.cap {
+	TEXT-DECORATION: underline
+}
+.text10 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 10px; COLOR: #666666; LINE-HEIGHT: 1.4; PADDING-TOP: 3px; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", "Osaka"; TEXT-DECORATION: none
+}

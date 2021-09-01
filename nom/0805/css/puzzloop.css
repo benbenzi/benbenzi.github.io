@@ -1,0 +1,51 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓みんなでパズループ*/
+
+div#TOPMAIN {
+	height:385px;
+	margin-bottom:10px;
+	}
+
+div#TOPMAIN .leftside {
+	width:400px;
+	height:315px;
+	}
+
+div#TOPMAIN .rightside {
+	width:320px;
+	height:315px;
+	}
+
+div#TOPMAIN .leftside2 {
+	width:445px;
+	height:70px;
+	/*display:inline-table;*/
+	}
+
+div#TOPMAIN .rightside2 {
+	width:275px;
+	height:70px;
+	/*display:inline-table;
+	vertical-align:middle;*/
+	}
+
+H2 {
+	width:320px;
+	height:250px;
+	margin:0;
+	padding:0;
+	}
+
+div#TOPMAIN div.textlink {
+	width:255px;
+	}
+
+
+/*========================================↓リード文：固有設定*/
+
+div#READ p {
+	width:610px;
+	margin:5px auto;
+	}

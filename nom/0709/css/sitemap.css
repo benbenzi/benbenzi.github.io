@@ -1,0 +1,77 @@
+@charset "Shift_JIS";
+
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	color : #666666;
+	text-align: center;
+	}
+
+#SITEMAP {
+	width:720px;
+	height:744px;
+	background-image:url(../img_cmn/sitemap_bg.gif);
+ background-repeat: no-repeat;
+	}
+
+#NAVI_AREA02 {
+	width:100%;
+	background-color:#000033;
+	vertical-align:middle;
+	padding:8px 0 8 0;
+	}
+
+/*　image　*/
+img {
+	border:none;
+	margin:0;
+	padding:0;
+	}
+
+.nowrap_img { 
+	white-space: nowrap; 
+	} 
+
+/*　本文テキスト　*/
+
+.sitemap_text12 {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #0066CC;
+	line-height: 1.3;
+	text-align:left;
+	}
+
+
+/*  リンクテキスト  */
+
+A:link    {
+	color: #3366FF; text-decoration: underline;
+}
+A:visited { 
+	color: #6699CC; text-decoration: underline;
+}
+A:hover   { 
+	text-decoration:underline; color: #00CCFF;
+}
+
+
+.loc_self {
+ color: #0066FF; font-weight:bold;
+}
+
+
+table a:link {
+	color: #000066; text-decoration: none;
+	text-decoration:underline; 
+	}
+
+table a:visited{
+	color: #000066; text-decoration: none;
+	text-decoration:underline; 
+	}
+
+table a:hover {
+	text-decoration:underline; color: #0099ff;
+	}

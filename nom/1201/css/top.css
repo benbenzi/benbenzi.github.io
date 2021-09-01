@@ -1,0 +1,182 @@
+@charset "Shift_JIS";
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+.t-hard {
+	width:768px;
+	padding:0 0 40px 0;
+}
+
+.t-hard01 {
+	width:412px;
+	float:left;
+}
+
+.t-hard02 {
+	width:259px;
+	float:left;
+}
+
+.t-hard03 {
+	width:128px;
+	padding:0 25px 0 0;
+	float:right;
+}
+
+.t-offi {
+	display:block;
+	width:128px;
+	height:25px;
+	background-image:url(../img/t_offi.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-offi:hover {
+	background-position:0 -25px;
+}
+
+.t-brnarea {
+	width:315px;
+	padding:0 41px 0 0;
+	float:right;
+}
+
+.t-brnarea p {
+	margin:0;
+	padding:0;
+}
+
+.t-brn01 {
+	width:315px;
+	padding:0 0 3px 0;
+}
+
+.t-btn01a {
+	display:block;
+	width:315px;
+	height:70px;
+	background-image:url(../img/btn01.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}	
+
+.t-btn02a {
+	display:block;
+	width:315px;
+	height:70px;
+	background-image:url(../img/btn02.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03a {
+	display:block;
+	width:315px;
+	height:70px;
+	background-image:url(../img/btn03.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn04a {
+	display:block;
+	width:315px;
+	height:70px;
+	background-image:url(../img/btn04.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01a:hover , .t-btn02a:hover , .t-btn03a:hover , .t-btn04a:hover {
+	background-position:0 -70px;	
+}
+
+.t-line {
+	width:768px;
+	text-align:center;	
+}
+
+.t-leadarea {
+	width:768px;
+	text-align:center;
+}
+
+.t-lead {
+	width:686px;
+	text-align:left;
+	margin:0 41px 24px 41px;
+}
+
+.t-lead a {
+	color:#ce181e;
+}
+
+.t-lead01 {
+	width:686px;
+	text-align:left;
+	margin:0 41px 24px 41px;
+}
+
+.t-lead02 {
+	width:686px;
+	text-align:left;
+	margin:0 41px 28px 41px;
+}
+
+.t-captionarea {
+	width:768px;
+	text-align:center;	
+}
+
+.t-caption {
+	width:686px;
+	font-size:10px;
+	line-height:1.8;
+	margin:0 41px 26px 41px;
+	color:#8c8c8c;
+	text-align:left;	
+}
+
+.t-caption a {
+	color:#ce181e;	
+}

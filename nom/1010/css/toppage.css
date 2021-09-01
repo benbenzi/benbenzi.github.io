@@ -1,0 +1,268 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/09/28;
+	Site Name : N.O.M Nintendo Online Magazine No.147;
+	About : N.O.M toppage CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+#lead{
+ width:688px;
+ font-weight:bold;
+ padding:14px 40px 40px 40px;
+}
+
+#contents{
+ width:728px;
+ padding:0 20px 0 20px;
+}
+
+#menu{
+ width:728px;
+}
+
+.t-club-menu{
+ width:423px;
+ background-image:url(../img/menu_bg01.jpg);
+ background-repeat:repeat-y;
+ background-position:0 0;
+ float:left;
+}
+
+.t-anatousu-menu{
+ width:290px;
+ background-image:url(../img/menu_bg02.jpg);
+ background-repeat:repeat-y;
+ background-position:0 0;
+ float:right;
+}
+
+.t-menu01{
+ width:298px;
+ padding:0 105px 9px 20px;
+}
+
+.t-menu02{
+ width:223px;
+ padding:0 47px 81px 20px;
+}
+
+.t-c-page01{
+ width:232px;
+ padding:0 66px 5px 0;
+}
+
+.t-c-page02{
+ width:288px;
+ padding:0 10px 5px 0;
+}
+
+.t-c-page03{
+ width:298px;
+ padding:0 0 5px 0;
+}
+
+.t-c-page04{
+ width:255px;
+ padding:0 43px 5px 0;
+}
+
+.t-a-page01{
+ width:155px;
+ padding:0 68px 5px 0;
+}
+
+.t-a-page02{
+ width:223px;
+ padding:0 0 5px 0;
+}
+
+.t-c-btn01{
+ display:block;
+ width:232px;
+ height:30px;
+ background-image:url(../img/t_btn_1.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-c-btn02{
+ display:block;
+ width:288px;
+ height:30px;
+ background-image:url(../img/t_btn_2.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-c-btn03{
+ display:block;
+ width:298px;
+ height:30px;
+ background-image:url(../img/t_btn_3.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-c-btn04{
+ display:block;
+ width:255px;
+ height:30px;
+ background-image:url(../img/t_btn_4.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-a-btn01{
+ display:block;
+ width:155px;
+ height:30px;
+ background-image:url(../img/t_btn_5.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-a-btn02{
+ display:block;
+ width:223px;
+ height:30px;
+ background-image:url(../img/t_btn_6.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-c-btn01:hover{
+ background-position:0 -30px;
+}
+
+.t-c-btn02:hover{
+ background-position:0 -30px;
+}
+
+.t-c-btn03:hover{
+ background-position:0 -30px;
+}
+
+.t-c-btn04:hover{
+ background-position:0 -30px;
+}
+
+.t-a-btn01:hover{
+ background-position:0 -30px;
+}
+
+.t-a-btn02:hover{
+ background-position:0 -30px;
+}
+
+.official01{
+ width:423px;
+ padding:0;
+}
+
+.t-official01{
+ width:116px;
+ padding:0 18px 0 289px;
+}
+
+.t-official02{
+ width:116px;
+ padding:0 18px 0 156px;
+}
+
+.t-o-btn01{
+ display:block;
+ width:116px;
+ height:25px;
+ background-image:url(../img/c_official.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-o-btn02{
+ display:block;
+ width:116px;
+ height:25px;
+ background-image:url(../img/a_official.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+}
+
+.t-o-btn01:hover{
+ background-position:0 -25px;
+}
+
+.t-o-btn02:hover{
+ background-position:0 -25px;
+}
+
+.t-line01{
+ padding:30px 0 20px 0;
+}

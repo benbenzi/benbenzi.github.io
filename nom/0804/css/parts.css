@@ -1,0 +1,115 @@
+@charset "Shift_JIS";
+
+/*↓文字サイズ指定====================*/
+.small {
+	font-size:85%; line-height:1.6em;
+	}
+.normal {
+	font-size:100%; line-height:1.6em;
+	}
+.large {
+	font-size:120%; line-height:1.6em;
+	}
+.notes {
+	width:auto;
+	font-size:85%; line-height:1.6em;
+	text-indent:-1em;
+	padding-left:1em;
+	}
+
+
+/*↓画像に対する文字表示位置====================*/
+.imgalign {
+	vertical-align:middle;
+	}
+
+
+/* 画像枠とマージン ====================*/
+.border1 {
+	border:1px;
+	}
+.border2 {
+	border:2px;
+	}
+.margin5px {
+	margin:5px;
+	}
+.margin10px {
+	margin:10px;
+	}
+
+/* 要素位置揃え */
+.centering {
+	margin:0 auto;
+	text-align:center;
+	}
+.float_left {
+	float:left;
+	}
+.float_right {
+	float:right;
+	}
+
+/*画像回り込み用*/
+.img_left {
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+	}
+.img_left2 {
+	float:left;
+	margin:20px 20px 20px 0;
+	}
+.img_right {
+	float:right;
+	margin-bottom:20px;
+	margin-left:20px;
+	}
+.img_center {
+	margin:0 10px 20px 10px;
+	}
+
+br.cancel{
+	clear:both;
+	line-height:0;
+	}
+.nowraptext {
+	white-space:nowrap;
+	}
+
+/*Table表示関連*/
+.val_top {
+	vertical-align:top;
+	}
+.val_mid {
+	vertical-align:middle;
+	}
+.val_btm {
+	vertical-align:bottom;
+	}
+
+/*画像フレーム用*/
+.ssframe {
+	width:445px;
+	height:316px;
+	}
+.textframe {
+	width:245px;
+	height:316px;
+	}
+
+/* 要素非表示 */
+.none {
+	display:none;
+	margin:0;
+	padding:0;
+	line-height:0;
+	}
+
+/* リンク用インライン化 */
+
+p.toplink {
+	width:140px;
+	height:auto;
+	display:inline;
+	}

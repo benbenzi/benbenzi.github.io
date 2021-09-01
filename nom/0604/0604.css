@@ -1,0 +1,35 @@
+
+.maruc { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 15px; color:#444444 }
+.small2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px }
+.small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px }
+.small_b { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 16px; color:#BBFFFF }
+.normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.normal_y { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px; color:#F0E68C }
+
+.caption { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 15px }
+
+/*@ƒCƒ“ƒ^ƒrƒ…[—p@*/
+.int_normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px }
+.int_small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px }
+
+.nom_normal1 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#29325A ; font-weight: bold ;}
+.name_normal1 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#59AAB3 ; font-weight: bold ;}
+
+.nom_normal2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#B33E8D ; font-weight: bold ;}
+.name_normal2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#9062B3 ; font-weight: bold ;}
+
+.nom_normal3 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#095E80 ; font-weight: bold ;}
+.name_normal3 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#47A6CD ; font-weight: bold ;}
+
+.nom_normal4 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#29325A ; font-weight: bold ;}
+.name_normal4 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#59AAB3 ; font-weight: bold ;}
+
+A:link { text-decoration:underline;color:#404B80; }
+A:hover { text-decoration:underline;color:#26AEBF; }
+A:active { text-decoration:underline;color:#A5DDE3; }
+A:visited { text-decoration:none;color:#29325A; }
+
+A.color1:link { text-decoration:underline;color:#404B80; }
+A.color1:hover { text-decoration:underline;color:#26AEBF; }
+A.color1:active { text-decoration:underline;color:#A5DDE3; }
+A.color1:visited { text-decoration:none;color:#29325A; }

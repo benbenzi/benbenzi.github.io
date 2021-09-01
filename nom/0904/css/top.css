@@ -1,0 +1,168 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Date : 2009/03/30;
+
+	00.common
+	01.body 
+	02.container wrapper
+	03.header
+	04.logo
+	05.main
+	06.btn
+	07.info
+	08.link
+	09.footer
+	10.flash
+
+--------------------------------------------------------------------------
+*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+body {
+	font-size: 12px;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	line-height:1.5;
+	/*letter-spacing:0.2em;
+	word-spacing:0.5em;*/
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color: #34beed;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #000000;
+}
+
+
+/*--- 01.body
+--------------------------------------------------------------------------*/
+
+body {
+	background: url(../img/top_bg_002.jpg) repeat top left;
+	text-align:center;
+}
+
+/*--- 02.container wrapper
+--------------------------------------------------------------------------*/
+
+#container {
+	height: 100%;
+	background: transparent url(../img/top_bg_001.jpg) repeat-x top left;
+}
+
+#wrapper {
+	width:768px;
+	height: 100%;
+	min-height: 100%;
+	margin:0 auto;
+	text-align:left;
+	background-color: #9fc30d;
+}
+
+/*--- 03.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	padding-top: 32px;
+}
+
+/*--- 04.logo
+--------------------------------------------------------------------------*/
+
+
+/*--- 05.main
+--------------------------------------------------------------------------*/
+
+#main {
+	width:768px;
+	background: #9fc30d url(../img/top_bg_003.jpg) repeat-y top left;
+}
+
+/*--- 06.btn
+--------------------------------------------------------------------------*/
+.btn1, .btn2,
+.btn3, .btn4 {
+	float: left;
+}
+
+
+.text {
+	padding-top: 14px;
+	margin-left: 34px;
+	width: 700px;
+}
+
+.text p {
+	padding-bottom: 2em;
+	color: #4d4c43;
+}
+
+.copyright {
+	width: 700px;
+	text-align: center;
+}
+
+#footer {
+	background: #9fc30d;
+	padding: 0 34px 30px 34px;
+}
+
+#footer p a {
+	color: #4d4c43;
+	text-decoration:none;
+}
+
+#footer p a:hover {
+	text-decoration: underline;
+}
+
+
+/*--- 09.footer
+--------------------------------------------------------------------------*/
+
+.footer0 {
+	width:768px;
+}

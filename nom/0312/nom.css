@@ -1,0 +1,25 @@
+.TXT_W {
+	font-size: 12px;
+	line-height: 150%;
+	color: #FFFFFF;
+}
+.TXT_B {
+	font-size: 12px;
+	line-height: 120%;
+	color: #000000;
+}
+.TXT_BS {
+	font-size: 10px;
+	line-height: 120%;
+	color: #000000;
+}
+.TXT_BL {
+	font-size: 14px;
+	line-height: 150%;
+	color: #000000;
+}
+.TXT_B2 {
+	font-size: 12px;
+	line-height: 135%;
+	color: #000000;
+}

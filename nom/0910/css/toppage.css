@@ -1,0 +1,235 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/08/28;
+	Site Name : N.O.M Nintendo Online Magazine No.134;
+	About : N.O.M page CSS;
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+
+.imgh2 {
+	width:768px;
+	height:370px;
+}
+
+.readtext {
+	width:768px;
+	height:240px;
+}
+
+.imgct2 {
+	width:768px;
+	height:240px;
+}
+
+.menubox {
+	width:768px;
+	height:260px;
+	background-image:url(../img0/bg_menu.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	position:relative;
+}
+
+.menutxt {
+	width:180px;
+	height:50px;
+	position:absolute;
+	top:0;
+	left:74px;
+}
+
+.menubtn {
+	width:450px;
+	height:200px;
+	position:absolute;
+	top:58px;
+	left:74px;
+}
+
+.menubtn p {
+	display:inline;
+}
+
+.softinfobox {
+	width:184px;
+	height:180px;
+	position:absolute;
+	top:50px;
+	left:534px;
+}
+
+.btnofficialbox {
+	width:154px;
+	height:20px;
+	position:absolute;
+	top:230px;
+	left:534px;
+}
+
+.copyrightbox {
+	width:768px;
+	height:70px;
+	background-image:url(../img0/bg_footer.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	position:relative;
+}
+
+.copyright {
+	width:300px;
+	height:20px;
+	position:absolute;
+	top:30px;
+	left:234px;
+}
+
+
+/*--- 05.link
+--------------------------------------------------------------------------*/
+
+.menubtn1 {
+	display:block;
+	width:440px;
+	height:35px;
+	background-image:url(../img0/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+	float:left;
+}
+
+.menubtn1:hover {
+	background-position:-440px 0;
+}
+
+.menubtn2 {
+	display:block;
+	width:440px;
+	height:35px;
+	background-image:url(../img0/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -35px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+	float:left;
+}
+
+.menubtn2:hover {
+	background-position:-440px -35px;
+}
+
+.menubtn3 {
+	display:block;
+	width:440px;
+	height:35px;
+	background-image:url(../img0/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -70px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+	float:left;
+}
+
+.menubtn3:hover {
+	background-position:-440px -70px;
+}
+
+.menubtn4 {
+	display:block;
+	width:440px;
+	height:35px;
+	background-image:url(../img0/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -105px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+	float:left;
+}
+
+.menubtn4:hover {
+	background-position:-440px -105px;
+}
+
+.menubtn5 {
+	display:block;
+	width:440px;
+	height:35px;
+	background-image:url(../img0/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -140px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+	float:left;
+}
+
+.menubtn5:hover {
+	background-position:-440px -140px;
+}
+
+.btnofficial {
+	display:block;
+	width:154px;
+	height:20px;
+	background-image:url(../img0/btnofficial.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;*/
+}
+
+.btnofficial:hover {
+	background-position:0 -20px;
+}
+

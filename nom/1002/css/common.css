@@ -1,0 +1,214 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/09/28;
+	Site Name : N.O.M Nintendo Online Magazine No.135;
+	About : N.O.M‹¤’ÊCSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+body {
+	font-size:13px;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+hr {
+	clear:both;
+	height:0;
+	visibility:hidden;
+	border:0;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+a:link {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background-color:#f6f6f6;
+	color:#555;
+	text-align:center;
+	background-image:url(../imgcmn/bg.jpg);
+	background-position:left top;
+	background-repeat:repeat;
+}
+
+#container {
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background-image:url(../imgcmn/bg_base.jpg);
+	background-position:left top;
+	background-repeat:repeat-y;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	height:50px;
+	background-image:url(../imgcmn/bg_header.jpg);
+	background-position:left top;
+	background-repeat:repeat-y;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.main {
+	width:768px;
+	margin:0 auto;
+}
+
+.mainimg {
+	width:768px;
+	margin:0 auto;
+}
+
+.readbox {
+	width:768px;
+	margin:0 auto;
+}
+
+.readtext {
+	width:620px;
+	margin:0 auto;
+	font-size:107%;
+	line-height:1.7;
+	letter-spacing:0.03em;
+}
+
+
+/*--- 06.footer
+--------------------------------------------------------------------------*/
+
+.footer-link {
+	width:768px;
+	height:60px;
+	margin:0 auto;
+}
+
+.footer-link p {
+	font-size:93%;
+	text-align:left;
+	margin:0;
+	padding:5px 0 0 10px;
+}
+

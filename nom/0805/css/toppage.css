@@ -1,0 +1,124 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓トップページ*/
+
+div#TOPLINEUP {
+	width:720px;
+	height:385px;
+	margin:0;
+	padding:0;
+	clear:both;
+	}
+
+div#TOPLINEUP .leftside {
+	width:400px;
+	height:385px;
+	float:left;
+	}
+
+div#TOPLINEUP .rightside {
+	width:320px;
+	height:385px;
+	float:right;
+	}
+
+div#ARTICLES {
+	width:720px;
+	height:205px;
+	margin:0;
+	padding:0;
+	clear:both;
+	}
+
+div#ARTICLES p {
+	width:720px;
+	height:auto;
+	margin:4px auto;
+	padding:0;
+	}
+
+div#ARTICLES p.midashi {
+	width:720px;
+	margin:0 0 2px;
+	padding:0;
+	}
+
+/*========================================↓リード文固有設定*/
+div#READ_BOX {
+	Width:720px;
+	background-image:url(../img/bg_reimocon.jpg);
+	background-position:left top;
+	background-position-x:0;
+	background-position-y:0;
+	background-repeat:no-repeat;
+	margin:0;
+	clear:both;
+	}
+
+/*ここからハック*/
+div#READ_BOX:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div#READ_BOX {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+
+div.read_position {
+	width:530px;
+	margin:0 40px 20px auto;
+	padding:0;
+	float:right;
+	display:inline;/**/
+	}
+
+div#READ {
+	width:530px;
+	margin:0;
+	padding:0;
+	text-align:left;
+	}
+
+/*========================================↓コピーライト*/
+div.copyright {
+	width:440px;
+	height:auto;
+	margin:0 auto 0 280px;
+	padding:0 0 5px 0;
+	text-align:left;
+	}
+
+div.copyright p.copyright_text {
+	width:440px;
+	height:auto;
+	color:#555555;
+	font-size:10px;
+	line-height:12px;
+	text-align:left;
+	margin:0 auto 5px 0;
+	padding:0;
+	}
+
+/*========================================↑トップページ*/
+
+/*========================================↓サイトマップ*/
+
+DIV#SITEMAPAREA {
+	width:600px;
+	height:auto;
+	margin:0 auto 40px;
+	padding:0;
+	text-align:left;
+	font-size:12px;
+	line-height:1em;
+	}
+
+/*========================================↑サイトマップ*/

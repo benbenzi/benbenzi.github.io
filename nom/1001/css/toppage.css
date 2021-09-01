@@ -1,0 +1,204 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/12/29;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.header {
+	width:768px;
+	padding:0;
+}
+
+.main_box_title {
+	width:768px;
+	padding:0;
+}
+
+.main_box_read {
+	width:768px;
+	padding:0;
+}
+
+.info_btn_box {
+	width:768px;
+	height:300px;
+	margin:0 auto 60px;
+	padding:0;
+}
+
+.softinfo_box {
+	width:304px;
+	height:300px;
+	padding:0;
+	background-position:0 0;
+	background-repeat:no-repeat;
+	background-image:url(../img/bg_softinfo.jpg);
+	float:left;
+	position:relative;
+}
+
+.package_img {
+	width:126px;
+	height:113px;
+	position:absolute;
+	top:60px;
+	left:98px;
+}
+
+.softinfo_img {
+	width:220px;
+	height:65px;
+	position:absolute;
+	top:175px;
+	left:54px;
+}
+
+.link_official {
+	width:160px;
+	height:20px;
+	position:absolute;
+	top:240px;
+	left:54px;
+}
+
+.copyright {
+	width:200px;
+	height:20px;
+	position:absolute;
+	top:278px;
+	left:34px;
+}
+
+.link_official a {
+	display:block;
+	width:160px;
+	height:20px;
+	background-image:url(../img/btn_official.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.link_official a:hover {
+	background-position:0 -20px;
+}
+
+.btn_box {
+	width:440px;
+	height:300px;
+	position:relative;
+	float:left;
+}
+
+.midashi {
+	width:440px;
+	height:65px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.btn_01, .btn_02, .btn_03, .btn_04 {
+	width:440px;
+	height:40px;
+	position:absolute;
+	top:65px;
+	left:0;
+}
+
+.btn_02 {
+	top:127px;
+}
+
+.btn_03 {
+	top:189px;
+}
+
+.btn_04 {
+	top:251px;
+}
+
+.main_box_002 {/* overwrite */
+	padding:0 0 20px 0;
+}
+
+/*--- 04.main-btn
+--------------------------------------------------------------------------*/
+
+.btn_01 a, .btn_02 a, .btn_03 a, .btn_04 a {
+	display:block;
+	width:440px;
+	height:40px;
+	background-image:url(../img/btn01.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn_02 a {
+	background-image:url(../img/btn02.jpg);
+}
+
+.btn_03 a {
+	background-image:url(../img/btn03.jpg);
+}
+
+.btn_04 a {
+	background-image:url(../img/btn04.jpg);
+}
+
+.btn_01 a:hover, .btn_02 a:hover, .btn_03 a:hover, .btn_04 a:hover {
+	background-position:0 -40px;
+}
+

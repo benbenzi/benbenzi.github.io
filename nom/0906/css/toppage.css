@@ -1,0 +1,268 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------
+
+	Build Date : 2009/05/28;
+	Site Name : NOM2009年6月号;
+	URL : http://www.nintendo.co.jp/nom/0906/index.html;
+	About : NOM2009年6月号トップページ用CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background:#000 url(../img/topbg.jpg) top center no-repeat;
+}
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	height:50px;
+	margin:0 auto;
+	background:#000 url(../img/bg_header.jpg) 0 0 no-repeat;
+}
+
+h1 {
+	width:270px;
+	height:50px;
+	margin:0 auto 0 0;
+	background:#000 url(../img/img_h1.jpg) 0 0 no-repeat;
+	font-size:0.1px;
+	line-height:0.1;
+}
+
+h1 a {
+	display:block;
+	width:270px;
+	height:50px;
+	text-indent:-9999px;
+	font-size:0.1px;
+	line-height:0.1;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.h2img {
+	width:768px;
+	height:360px;
+	margin:0;
+}
+
+.read-text {
+	width:768px;
+	height:150px;
+	margin:0;
+}
+
+.menu-area {
+	width:768px;
+	height:350px;
+	background-image:url(../img/bg_mainmenu.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+	position:relative;
+}
+
+.contents-text {
+	width:180px;
+	height:35px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background-image:url(../img/img_contents.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+	position:absolute;
+	top:0;
+	left:74px;
+}
+
+.contentsbox {
+	width:320px;
+	height:250px;
+	position:absolute;
+	top:40px;
+	left:124px;
+}
+	
+.contentsbox a {
+	display:block;
+	width:320px;
+	height:30px;
+	margin:0 0 5px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background-image:url(../img/bt_contents.jpg);
+	background-repeat:no-repeat;
+}
+
+.page-btn1 {
+	background-position:0 0;
+}
+.page-btn1:hover {
+	background-position:-320px 0;
+}
+
+.page-btn2 {
+	background-position:0 -35px;
+}
+.page-btn2:hover {
+	background-position:-320px -35px;
+}
+
+.page-btn3 {
+	background-position:0 -70px;
+}
+.page-btn3:hover {
+	background-position:-320px -70px;
+}
+
+.page-btn4 {
+	background-position:0 -105px;
+}
+.page-btn4:hover {
+	background-position:-320px -105px;
+}
+
+.page-btn5 {
+	background-position:0 -140px;
+}
+.page-btn5:hover {
+	background-position:-320px -140px;
+}
+
+.page-btn6 {
+	background-position:0 -175px;
+}
+.page-btn6:hover {
+	background-position:-320px -175px;
+}
+
+.page-btn7 {
+	background-position:0 -210px;
+}
+.page-btn7:hover {
+	background-position:-320px -210px;
+}
+
+.softinfo-text {
+	width:160px;
+	height:90px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background-image:url(../img/softinfo.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+	position:absolute;
+	top:185px;
+	left:444px;
+}
+
+.bt-official {
+	width:150px;
+	height:20px;
+	position:absolute;
+	top:275px;
+	left:454px;
+}
+
+.bt-official a {
+	display:block;
+	width:150px;
+	height:20px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background-image:url(../img/bt_official.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+.bt-official a:hover {
+	background-position:0 -20px;
+}
+
+.package {
+	width:82px;
+	height:115px;
+	position:absolute;
+	top:185px;
+	left:604px;
+}
+
+
+#page-btm {
+	width:768px;
+	height:80px;
+	margin:0 auto;
+	padding:0;
+	background:#000 url(../img/bg_pagebtm.jpg) 0 0 no-repeat;
+	position:relative;
+}
+
+.copyright-text {
+	width:260px;
+	height:20px;
+	margin:0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:#000 url(../img/copyright.jpg) 0 0 no-repeat;
+	position:absolute;
+	top:10px;
+	left:254px;
+}
+
+
+/*--- 04.link
+--------------------------------------------------------------------------*/
+
+
+/*--- 05.footer
+--------------------------------------------------------------------------*/

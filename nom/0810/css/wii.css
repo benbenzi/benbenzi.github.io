@@ -1,0 +1,75 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	line-height:150%;
+	/*font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";*/
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	outline:none;
+}
+
+body {
+	background:#000 url(https://www.nintendo.co.jp/nom/0810/wii/img/wii_bg_001.jpg) no-repeat center top;
+	text-align:center;
+	margin:0;
+}
+
+#wcontainer {
+	width:780px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wwrapper {
+	width:780px;
+	margin:0 auto;
+	text-align:left;
+}
+
+p {
+	font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";
+}
+
+.wtext1 {
+	color:#FFF;
+	/*font-size:12px;*/
+	font-size:88%;
+}
+
+.tlink1 {
+	font-size:10px;
+	color:#FFF;
+}
+
+a:link {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#CC0;
+	text-decoration:underline;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}

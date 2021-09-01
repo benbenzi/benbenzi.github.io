@@ -1,0 +1,418 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/9/29;
+	Site Name : N.O.M Nintendo Online Magazine No.159;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* html body { text-align:center; }
+
+body {
+	font-size:13px;
+	background-image:url(../common-img/bg001.gif);
+	background-repeat:repeat-x;
+	background-position:top;
+	background-attachment:fixed;
+	background-color:#ffdc81;
+	color:#737373;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:13px;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img, div { behavior: url(https://www.nintendo.co.jp/nom/1110/css/iepngfix.htc); }
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	font-size:13px;
+	color:#ce181e;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#ce181e;
+	text-decoration:underline;
+}
+
+p {
+	font-aize:13px;
+	margin:0;
+	padding:0;
+}
+
+li {
+	color:#4b4b4b;
+	list-style:none;
+}
+
+li a {
+	color:#ce181e;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+#container {
+	width:772px;
+	margin:0 auto;
+	background-color:#ff7b09;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	_text-align:center;
+	background-color:#fff;
+}
+
+.header {
+	width:728px;
+	padding:20px 0 20px 0;
+	_padding:20px 0 8px 0;
+	margin:0 20px 0 20px;
+}
+
+.nom {
+	width:255px;
+	margin:0 253px 0 0;
+	float:left;
+}
+
+.threeds {
+	width:220px;
+	margin:0;
+	float:right;
+}
+
+.t-bg01 {
+	width:2px;
+	background-color:#ff7b09;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-bg02 {
+	width:2px;
+	background-color:#ff7b09;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btnarea {
+	width:175px;
+	margin:14px 16px 6px 0;
+	float:right;
+}
+
+.p-btn {
+	width:34px;
+	height:38px;
+	float:left;
+}
+
+.p-btn01 {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn01_now {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 -38px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn02 {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn02_now {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 -38px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn03 {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn03_now {
+	display:block;
+	width:34px;
+	height:38px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 -38px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p-btn01:hover , .p-btn02:hover , .p-btn03:hover {
+	background-position:0 -38px;
+}
+
+.totop {
+	width:48px;
+	height:14px;
+	padding:10px 0 14px 0;
+	float:right;
+}
+
+.totop_a {
+	display:block;
+	width:48px;
+	height:14px;
+	background-image:url(../common-img/totop.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.totop_a:hover {
+	background-position:0 -14px;
+}
+
+.main {
+	width:688px;
+	margin:0 auto;
+}
+
+.main p {
+	text-align:left;
+}
+
+.point01 {
+	width:688px;
+	margin:0 0 30px 0;
+}
+
+.point01_a {
+	width:688px;
+	margin:0 0 40px 0;
+}
+
+.point02 {
+	width:688px;
+	background-image:url(../common-img/bg005.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.point03 {
+	width:640px;
+	margin:0 auto;
+}
+
+.imgarea {
+	width:530px;
+	padding:0 0 20px 0;
+	_padding:0;
+	margin:0 auto;
+}
+
+.imgarea01 {
+	width:530px;
+	padding:0 0 16px 0;
+	_padding:0;
+	margin:0 auto;
+}
+
+.imgarea02 {
+	width:250px;
+	padding:16px 0 20px 0;
+	margin:0 auto;
+}
+
+.imgarea03 {
+	width:270px;
+	padding:0 0 20px 0;
+	margin:0 auto;
+}
+
+.img01 {
+	width:250px;
+	height:188px;
+	float:left;
+}
+
+.img02 {
+	width:250px;
+	height:188px;
+	float:right;
+}
+
+.camera01 {
+	width:626px;
+	padding:0 0 10px 0;
+	margin:0 auto;
+}
+
+.camera02 {
+	width:200px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.camera02_a {
+	width:200px;
+	padding:0 11px 0 0;
+	float:left;
+}
+
+.camera03 {
+	width:396px;
+	padding:0 0 20px 0;
+	font-aize:13px;
+	text-align:left;
+	float:right;
+}
+
+.caption01 {
+	width:20px;
+	font-size:10px;
+	float:left;
+}
+
+.caption02 {
+	width:376px;
+	font-size:10px;
+	float:right;
+}
+
+.caption03 {
+	width:606px;
+	font-size:10px;
+	float:right;
+}
+
+/*--- 04.footer
+--------------------------------------------------------------------------*/
+
+.footer {
+	padding:20px 0 50px 40px;
+	float:left;
+}
+
+.footer a {
+	color:#777777;
+}
+
+.p-footer01 {
+	width:300px;
+	padding:0 0 20px 0;
+	margin:0 auto;
+}
+
+.footer01 {
+	text-align:left;
+	padding:20px 0 50px 20px;
+}
+
+.footer01 a {
+	color:#737373;
+}

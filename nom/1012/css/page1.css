@@ -1,0 +1,146 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/11/29;
+	Site Name : N.O.M Nintendo Online Magazine No.148;
+	About : N.O.M TOP SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+.ct {
+	width:688px;
+	margin:0 auto;
+	padding:0 0 20px 0;
+}
+
+.box {
+	width:688px;
+	padding:0 40px 16px;
+}
+
+.midashi {
+	width:688px;
+	margin:0 0 30px;
+}
+
+.photo_l {
+	width:308px;
+	height:174px;
+	padding:0 0 0 24px;
+	float:left;
+}
+
+.photo_l1 {
+	width:308px;
+	height:174px;
+	margin:0;
+	padding:0 0 0 24px;
+	display:inline;
+	float:left;
+}
+
+.photo_r {
+	width:308px;
+	height:174px;
+	padding:0 24px 0 0;
+	float:right;
+}
+
+.text_r1 {
+	width:241px;
+	padding:0 91px 0 24px;
+	line-height:1.7;
+	float:right;
+}
+
+.text_r2 {
+	width:259px;
+	padding:0 73px 0 24px;
+	line-height:1.7;
+	float:right;
+}
+
+.text_c {
+	width:640px;
+	margin:0 24px 24px 24px;
+	line-height:1.7;
+}
+
+.text_c1 {
+	width:640px;
+	padding:24px 24px 24px 24px;
+	line-height:1.7;
+}
+
+
+#boxbg1, #boxbg2, #boxbg3, #boxbg4, #boxbg5 {
+	background-position:372px 74px;
+	background-repeat:no-repeat;
+	background-image:url(https://www.nintendo.co.jp/nom/1012/page1/img/box_bg01.jpg);
+}
+
+#boxbg2 {
+	background-image:url(https://www.nintendo.co.jp/nom/1012/page1/img/box_bg02.jpg);
+}
+
+#boxbg3 {
+	background-image:url(https://www.nintendo.co.jp/nom/1012/page1/img/box_bg03.jpg);
+}
+
+#boxbg4 {
+	background-image:url(https://www.nintendo.co.jp/nom/1012/page1/img/box_bg04.jpg);
+}
+
+#boxbg5 {
+	background-image:url(https://www.nintendo.co.jp/nom/1012/page1/img/box_bg05.jpg);
+}
+
+em {
+	font-style:normal;
+	font-weight:bold;
+}
+
+.p1-new{
+	width:688px;
+	padding:0 0 24px 0;
+}

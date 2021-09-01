@@ -1,0 +1,68 @@
+@charset "Shift_JIS";
+
+.navi-btn001{
+	width:290px;
+	height:40px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(https://www.nintendo.co.jp/nom/0907/img/navi-btn-p.jpg) 0 0 no-repeat;
+	right:24px;
+	top:8px;
+}
+	
+a.navi-btn001:hover{background-position:-290px 0;}
+
+.btn001-here{background-position:-290px 0;}
+
+
+.navi-btn002{
+	width:290px;
+	height:40px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(https://www.nintendo.co.jp/nom/0907/img/navi-btn-p.jpg) 0 -40px no-repeat;
+	right:24px;
+	top:48px;
+}
+	
+a.navi-btn002:hover{background-position:-290px -40px;}
+
+.btn002-here{background-position:-290px -40px;}
+
+.btn-area001{
+	width:768px;
+	height:261px;
+	display:block;
+	margin:0;
+	padding:0;
+	background:url(https://www.nintendo.co.jp/nom/0907/guide/img/guide-page-title-bg.jpg) 0 0 no-repeat;
+	position:relative;
+}
+
+.ikspiari-hp{
+	width:322px;
+	height:50px;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(https://www.nintendo.co.jp/nom/0907/guide/img/ikspiari-hp.jpg) 0 0 no-repeat;
+	float:right;
+}
+
+a.ikspiari-hp:hover{background-position:0 -50px;}
+
+.guide-foot{
+	height:250px;
+	background:url(https://www.nintendo.co.jp/nom/0907/guide/img/guide-page-footer.jpg) 0 bottom no-repeat;
+}

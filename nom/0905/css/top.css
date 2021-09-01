@@ -1,0 +1,149 @@
+@charset "shift_jis";
+/* CSS Document */
+
+
+/* top */
+
+body {
+	background:url(../img/top-main-bg.jpg) top center no-repeat;
+	text-align:center;
+}
+
+#wrapper{
+	width:768px;
+	text-align:center;
+	margin:0 auto;
+	/*width:1000px;
+	display:block;*/
+}
+
+.contents{
+	width:768px;
+	display:block;
+	padding:0;
+	margin:0 auto;
+}
+
+.main-img{
+	width:768px;
+	height:406px;
+	margin:0;
+	padding:0;
+	display:block;
+	background:url(../img/dummy_bg.jpg) 0 0 no-repeat;
+}
+	
+.left-area{
+	width:384px;
+	float:left;
+	margin:0;
+	padding:0;
+}
+
+.right-area{
+	width:384px;
+	float:right;
+	margin:0;
+	padding:0;
+}
+
+.center-area{
+	width:768px;
+	display:block;
+	margin:0;
+	padding:0;
+	clear:both;
+	background-image:url(../img/top-main-repeat-bg.jpg) top center repeat-y;
+}
+
+.btn-hp-area{
+	width:768px;
+	height:60px;
+	position:relative;
+	margin:0;
+	padding:0;
+	display:block;
+	clear:both;
+	background:url(../img/btn_hp_bg.jpg) 0 0 no-repeat;
+}
+
+.btn-hp{
+	width:148px;
+	height:22px;
+	position:absolute;
+	top:4px;
+	margin:0;
+	padding:0;
+	line-height:0.1%;
+	font-size:0.1%;
+	text-indent:-9999px;
+	display:block;
+}
+
+.kiradeco-hp{background:url(../img/hp_btn.jpg) 0 0 no-repeat; left:169px;}
+a.kiradeco-hp:hover{background-position:0 -22px;}
+
+.goo-hp{background:url(../img/hp_btn.jpg) -148px 0 no-repeat; right:93px;}
+a.goo-hp:hover{background-position:-148px -22px;}
+
+.btn-page-area{
+	width:768px;
+	height:93px;
+	position:relative;
+	margin:0;
+	padding:0;
+	display:block;
+	clear:both;
+	background:url(../img/btn_page_bg.jpg) 0 0 no-repeat;
+}
+
+.btn-page{
+	height:80px;
+	position:absolute;
+	top:0px;
+	margin:0;
+	padding:0;
+	line-height:0.1%;
+	font-size:0.1%;
+	text-indent:-9999px;
+	display:block;
+}
+
+.kiradeco-page{width:335px; background:url(../img/page_btn.jpg) 0 0 no-repeat; left:43px;}
+a.kiradeco-page:hover{background-position:0 -80px;}
+
+.goo-page{width:307px; background:url(../img/page_btn.jpg) -335px 0 no-repeat; right:50px;}
+a.goo-page:hover{background-position:-335px -80px;}
+
+.foot-txt-link{
+	width:744px;
+	display:block;
+	padding:16px 0 20px 24px;
+	margin:0;
+	clear:both;
+	color:#666666;
+	font-size:10px;
+	text-decoration:none;
+	text-align:left;
+	background-image:url(../img/top-main-repeat-bg.jpg) top center repeat-y;
+}
+
+a {
+	color:#000;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#000;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+
+/*a:focus {
+	color:#00479D;
+	text-decoration:none;
+}*/

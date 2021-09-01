@@ -1,0 +1,134 @@
+@charset "Shift_JIS";
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+body {
+	text-align:center;
+	font-size:13px;
+	background-image:url(../imgcmn/bg.gif);
+	background-repeat:repeat;
+	background-position:0 0;
+	background-color:#f3f3f3;
+	color:#727272;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";
+	font-weight:normal;
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+p {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+	text-decoration:underline;
+	color:#20ab4b;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+.clear {
+	clear:both;
+}
+
+h1 {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+h2 {
+	margin:0;
+	padding:0 0 14px 0;
+	border:0;
+}
+
+
+#container{
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper{
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background-color:#fff;
+	background-image:url(../imgcmn/bg_base.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+
+
+/* footer */
+
+.footer {
+	width:768px;
+}
+
+.p-footer {
+	width:768px;
+	padding:20px 0 0 0;
+}
+
+.footer-link01 {
+	width:600px;
+	padding:10px 0 0 160px;
+	float:left;
+}
+
+.footer-link02 {
+	padding:10px 0 40px 20px;
+}
+
+.footer01 {
+	padding:0 0 40px 20px;
+}

@@ -1,0 +1,96 @@
+@charset "Shift_JIS";
+
+/*↓ブラウザ初期化====================*/
+/* * {
+	margin:0;
+	padding:0;
+	border:none;
+	background-color:transparent;
+	font:normal normal normal 100%/1.6 "ＭＳ ゴシック",Osaka;
+	}
+*/
+
+/* 初期化*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, 
+dl, dt, dd, ul, ol, li,
+form,fieldset, legend, input, textarea,
+th,td {
+    margin:0;
+    padding:0;
+    outline:0;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+fieldset, img {  
+    border:0; 
+} 
+
+em, strong, th, var {
+    font-style:normal;
+    font-weight:normal;
+}
+
+caption, th {
+    text-align:left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+ol, ul {
+	list-style:none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline:0;
+}
+
+
+/*↓基本設定====================*/
+body {
+	background-color:#ffffff;
+	color:#000000;
+	text-align:center;
+}
+
+li {
+	line-height:1em;
+}
+
+strong {
+	font-weight:bold;
+}
+
+/*Hides from IE5-mac ￥*/
+* html ul li {
+	height:auto;
+}
+/*End hide from IE5-mac */
+
+/*↓基本リンク指定====================*/
+a, a:link {
+	color:#eeeeee;
+	/*color: #FFF;*/
+	text-decoration:none;
+}
+
+a:visited {
+	color:#878787;
+}
+
+a:hover {
+	color:#00e9ff;
+}
+
+a:active {
+	color:#eeeeee;
+}

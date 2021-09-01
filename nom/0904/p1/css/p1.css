@@ -1,0 +1,96 @@
+@charset "Shift_JIS";
+
+/*--- fukidashi
+--------------------------------------------------------------------------*/
+
+#main {
+	background: transparent url(https://www.nintendo.co.jp/nom/0904/p1/img/p1_mainbg.jpg) repeat-y top left;
+	text-align: center;
+	/*padding-bottom:10px;*/
+}
+
+.fukidashi-list {
+	width: 660px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.person-left {
+	float: left;
+}
+
+.person-right {
+	float: right;
+}
+
+.fukidashi0 {
+	padding-left: 45px;
+	margin-bottom: 20px;
+}
+
+.fukidashi1 {
+	padding-bottom: 20px;
+	/*margin-bottom: 20px;*/
+}
+
+.fukidashi1 table {
+	float: left;
+}
+
+.fukidashi2 table {
+	float: right;
+}
+
+.fukidashi2 {
+	padding-left: 70px;
+	padding-bottom: 20px;
+	/*margin-bottom: 20px;*/
+}
+
+.fukidashi3 {
+	padding-bottom: 20px;
+	/*margin-bottom: 20px;*/
+}
+
+.fukidashi3 table {
+	float: left;
+}
+
+.name0 {
+	color: #8cb504;
+	font-weight: bold;
+}
+
+.name1 {
+	color: #248aa8;
+	font-weight: bold;
+}
+
+.name2 {
+	color: #ffb400;
+	font-weight: bold;
+}
+
+.name3 {
+	color: #bf753c;
+	font-weight: bold;
+}
+
+.name4 {
+	color: #0cd0d2;
+	font-weight: bold;
+}
+
+.name5 {
+	color: #f33510;
+	font-weight: bold;
+}
+
+.name6 {
+	color: #f970bc;
+	font-weight: bold;
+}
+
+p {
+	color: #4d4c43;
+}

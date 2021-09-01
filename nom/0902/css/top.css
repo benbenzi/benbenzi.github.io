@@ -1,0 +1,79 @@
+@charset "Shift_JIS";
+
+/* Feature title - overwrite */
+h2 {
+	width:768px;
+	height:360px;
+}
+
+
+/* For Page link */
+.link_box {
+	width:768px;
+	height:160px;
+	margin:0 auto  30px;
+	background:#006b73 url(../img/bg_bt.jpg) no-repeat left top;
+}
+
+.bt_table {
+	width:668px;
+	height:160px;
+	margin:0 50px;
+}
+
+/* Link: Go to Page*/
+.bt_1, .bt_2, .bt_3, .bt_4, .bt_5, .bt_6, .bt_7 {
+	display:block;
+	width:334px;
+	height:40px;
+	background-image:url(../img/bt_1.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.bt_2 {
+	background-image:url(../img/bt_2.jpg);
+}
+
+.bt_3 {
+	background-image:url(../img/bt_3.jpg);
+}
+
+.bt_4 {
+	background-image:url(../img/bt_4.jpg);
+}
+
+.bt_5 {
+	background-image:url(../img/bt_5.jpg);
+}
+
+.bt_6 {
+	background-image:url(../img/bt_6.jpg);
+}
+
+.bt_7 {
+	background-image:url(../img/bt_7.jpg);
+}
+
+.bt_1:hover, .bt_2:hover, .bt_3:hover, .bt_4:hover, .bt_5:hover, .bt_6:hover, .bt_7:hover {
+	background-position:0 -40px;
+}
+
+
+/* Copyright text*/
+.maruc {
+	width:768px;
+}
+
+.maruc_text {
+	width:768px;
+	height:auto;
+	margin:0 auto;
+	text-align:center;
+	font-size:10px;
+	line-height:1.2em;
+}

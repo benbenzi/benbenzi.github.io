@@ -1,0 +1,11 @@
+
+.ssmall { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 10px; line-height: 15px }
+.small { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 12px; line-height: 18px }
+.normal { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 14px; line-height: 20px }
+.normal_y { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 14px; line-height: 20px; color:#F0E68C }
+.normal_w { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 14px; line-height: 20px; color:#EEEEEE }
+
+A.colorA:link { text-decoration:none;color:#CCFF00; }
+A.colorA:hover { text-decoration:underline;color:#33FFFF; }
+A.colorA:active { text-decoration:underline;color:#99FFFF; }
+A.colorA:visited { text-decoration:none;color:#999999; }

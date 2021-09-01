@@ -1,0 +1,132 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓突撃!!ファミコンウォーズＶＳ*/
+
+div#TOPMAIN {
+	height:195px;
+	}
+
+div#TOPMAIN .leftside {
+	width:460px;
+	height:195px;
+	}
+
+div#TOPMAIN .rightside {
+	width:260px;
+	height:195px;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/famicomwars/cmn_img/topbg2.jpg);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	}
+
+H2 {
+	width:337px;
+	height:195px;
+	margin:0;
+	padding:0;
+	display:inline;
+	}
+
+H3 {
+	width:670px;
+	height:55px;
+	margin:0 auto 5px;
+	padding:0;
+	}
+
+div#TOPMAIN div.textlink {
+	width:245px;
+	}
+
+
+/*========================================↓リード文：固有設定*/
+
+div#READ p {
+	width:610px;
+	margin:5px auto;
+	}
+
+/*========================================↓インタビュー：固有設定*/
+
+div#READ_BOX {
+	margin:0 25px 10px;
+	padding:0;
+	}
+
+div#PARTICIPANT {/*参加者*/
+	width:670px;
+	margin:0 auto 5px;
+	padding:0;
+	}
+
+p.dotline {
+	width:670px;
+	height:20px;
+	margin:10px auto 0;
+	padding:0;
+	clear:both;
+	}
+
+
+div#DETAIL {
+	width:670px;
+	height:auto;
+	margin-bottom:20px;
+	}
+
+div#DETAIL div.detail_text {
+	margin:0 auto 5px;
+	padding:
+	}
+
+div#DETAIL div.detail_text div.int_name {
+	width:65px;
+	height:auto;
+	margin:0 0 10px;
+	padding:0;
+	float:left;
+	zoom:1;
+	}
+
+div#DETAIL div.detail_text div.int_text {
+	width:605px;
+	height:auto;
+	margin:0 0 10px;
+	padding:0;
+	float:right;
+	zoom:1;
+	}
+
+p.text {
+	padding-top:0;
+	padding-right:5px;
+	padding-bottom:0;
+	padding-left:5px;
+	}
+
+div#DETAIL div#NOM1.detail_text, 
+div#DETAIL div#NOM2.detail_text,
+div#DETAIL div#NOM3.detail_text {
+	margin:10px auto 5px;
+	}
+
+div#DETAIL div#NOM1.detail_text p.text, 
+div#DETAIL div#NOM2.detail_text p.text,
+div#DETAIL div#NOM3.detail_text p.text {
+	color:#2c8bb0;
+	font-weight:bold;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/dotline20nom.gif);
+	}
+
+div#DETAIL div#NOTES.detail_text {
+	margin:10px auto 5px;
+	}
+
+div#DETAIL div#NOTES.detail_text p.text {
+	color:#2c8bb0;
+	font-size:10px;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/dotline20.gif);
+	}
+
+

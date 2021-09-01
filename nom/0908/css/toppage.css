@@ -1,0 +1,93 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------
+
+	Build Date : 2009/07/28;
+	Site Name : NOM2009年8月号;
+	URL : http://www.nintendo.co.jp/nom/0908/index.html;
+	About : NOM2009年8月号トップページ用CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+h1 {
+	margin: 0;
+	line-height: 1;
+}
+
+h1 a {
+	display: block;
+	width:768px;
+	height:60px;
+	text-indent:-9999px;
+	background:#000 url(../img_cmn/header01.jpg) 0 0 no-repeat;
+	font-size:0.1px;
+	line-height:0.1;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+#main1 {
+	position: relative;
+	height: 590px;
+}
+
+#main2 {
+	position: relative;
+	height: 190px;
+}
+
+.btn1 {
+	position: absolute;
+	top: 370;
+	left: 84px;
+}
+
+.softinfo {
+	padding-left: 34px;
+}
+
+.btn3 {
+	
+}
+
+/* for menu */
+#main3 {
+	position: relative;
+	height: 540px;
+}
+
+.jikanwari {
+	width:768px;
+	height:420px;
+	background-image:url(../img/jikanwari.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+	position:relative;
+}
+
+.jikanwaribox {
+	width:580px;
+	height:358px;
+	position:absolute;
+	top:13px;
+	left:106px;
+}
+

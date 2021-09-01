@@ -1,0 +1,100 @@
+@charset "Shift_JIS";
+
+/* 基本設定(↓) */
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.4;
+	text-align: center;
+	}
+
+table {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.4;
+	}
+
+img {
+	border: none;
+	margin: 0;
+	padding:0;
+	}
+
+h1 {
+	display:inline;
+	margin: 0;
+	padding:0;
+	}
+	
+#nom0712_top h2 {
+	display:inline;
+	margin: 0;
+	padding:0;
+	}
+
+h2 {
+	padding: 5px 0 15px 0;
+	margin: 0;
+	}
+
+#lets_setuzoku h2 {
+	padding: 5px 0;
+	margin: 0;
+	}
+
+#hontaikousin h2 {
+	padding: 10px 0 0px 0;
+	margin: 0;
+	}
+
+/*　基本表示エリア（↓）*/
+#main_area {
+	width: 100%;
+	margin:0 auto;
+	text-align: center;
+	}
+	
+/*　表示位置（↓）*/
+td.v_top {
+ vertical-align: top;
+	}
+td.v_middle {
+ vertical-align: middle;
+	}
+td.v_bottom {
+ vertical-align: bottom;
+	}
+
+.centering {
+ text-align: center;
+}
+
+.navi_right {
+	text-align:right;
+	width: 720px;
+	padding: 0;
+	margin: 0;
+}
+
+/*  リンクテキスト  */
+A:link {
+	color: #666666;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+A:visited { 
+	color: #666666;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+A:hover   { 
+	text-decoration:underline; color: #34beed;
+}
+

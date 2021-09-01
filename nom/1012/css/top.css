@@ -1,0 +1,216 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/11/29;
+	Site Name : N.O.M Nintendo Online Magazine No.148;
+	About : N.O.M top-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+.t-bg01{
+	width:728px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.t-bg02{
+	width:688px;
+	margin:0 auto;
+	padding:16px 0 20px 0;
+}
+
+.t-bg02-1{
+	width:514px;
+	padding:0 23px 0 0;
+	float:left;
+}
+
+.t-bg02-1a{
+	width:56px;
+	padding:16px 24px 0 0;
+	float:left;
+}
+
+.t-bg02-1b{
+	width:433px;
+	padding:16px 0 0 0;
+	float:right;
+}
+
+.re-new-btn01{
+	width:151px;
+	height:179px;
+	padding:0 0 32px 0;
+	float:right;
+}
+
+.re-new-btn01a{
+	display:block;
+	width:151px;
+	height:179px;
+	background-image:url(../img/t_btn01.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.re-new-btn01a:hover{
+	background-position:0 -179px;
+}
+
+.pickup{
+	float:right;
+}
+
+.lead-area{
+	width:688px;
+	padding:0 0 6px 0;
+}
+
+.tv{
+	width:314px;
+	padding:0 21px 0 0;
+	float:left;
+}
+
+.shopping{
+	width:353px;
+	padding:0;
+	float:right;
+}
+
+.t-btn01{
+	width:353px;
+	height:43px;
+	padding:0 0 6px 0;
+	float:right;
+}
+
+.t-btn01a{
+	display:block;
+	width:353px;
+	height:43px;
+	background-image:url(../img/t_shop_btn01.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01b{
+	display:block;
+	width:353px;
+	height:43px;
+	background-image:url(../img/t_shop_btn02.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01c{
+	display:block;
+	width:353px;
+	height:43px;
+	background-image:url(../img/t_shop_btn03.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01a:hover{
+	background-position:0 -43px;
+}
+
+.t-btn01b:hover{
+	background-position:0 -43px;
+}
+
+.t-btn01c:hover{
+	background-position:0 -43px;
+}
+
+.hako{
+	width:341px;
+	float:left;
+}
+
+.t-staff{
+	width:216px;
+	float:left;
+}
+
+.copy{
+	width:131px;
+	float:right;
+}
+
+.official{
+	width:131px;
+	height:22px;
+	padding:52px 0 0 0;
+	float:right;
+}
+
+.official_btn{
+	display:block;
+	width:131px;
+	height:22px;
+	background-image:url(../img/t_official.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.official_btn:hover{
+	background-position:0 -22px;
+}
+

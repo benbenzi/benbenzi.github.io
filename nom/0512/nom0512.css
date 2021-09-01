@@ -1,0 +1,43 @@
+.TXT_B {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	line-height: 150%;
+	color: #000000;
+}
+.TXT_W {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.TXT_BS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #000000;
+}
+.TXT_WS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.TXT_BL {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 14px;
+	line-height: 125%;
+	color: #000000;
+}
+.TXT_WL {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 14px;
+	line-height: 125%;
+	color: #FFFFFF;
+}
+
+
+a { text-decoration:none;outline:0px none black; }
+a:link { text-decoration:none; color:#FF0000; font-weight: bold; }
+a:visited { text-decoration:none; color:#CC6600; font-weight: bold; }
+a:hover { text-decoration:underline; background-color:#FF0000; color:#FFFFFF; }
+.TXT_GS { font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka"; font-size: 10px; line-height: 140%; color: #666666; }

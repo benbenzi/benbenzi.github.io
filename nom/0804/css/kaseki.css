@@ -1,0 +1,342 @@
+@charset "Shift_JIS";
+
+
+/*↓一覧ページ====================*/
+
+DIV#HEADERTOP {
+	width:700px;
+	height:40px;
+	margin:0 auto;
+	padding:0;
+	}
+
+DIV#MAINBAG {
+	width:720px;
+	height:655px;
+	margin:0 0 10px;
+	padding:0;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/kaseki/img/bg_kasekitop.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	}
+
+TABLE#READ {
+	width:720px;
+	height:655px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#READ .h2 {
+	width:720px;
+	height:145px;
+	margin:0;
+	padding:20px 204px 0;
+	}
+
+TABLE#READ .photo {
+	width:360px;
+	height:510px;
+	margin:0;
+	padding:0;
+	vertical-align:bottom;
+	}
+
+TABLE#READ .read_text {
+	width:360px;
+	height:510px;
+	margin:0;
+	padding:0;
+	vertical-align:bottom;
+	}
+
+
+
+
+DIV#LINEUP {
+	width:640px;
+	height:35px;
+	text-align:right;
+	margin:20px auto 18px;
+	padding:0;
+	clear:both;
+	}
+
+DIV#LINEUP p.link_p1 {
+	width:120px;
+	height:35px;
+	margin:0 0 0 10px;
+	padding:0;
+	display:inline;
+	}
+
+DIV#LINEUP p.link_p2 {
+	width:50px;
+	height:35px;
+	margin:0 0 0 10px;
+	padding:0;
+	display:inline;
+	}
+
+TABLE#SOFTINFO {
+	width:640px;
+	height:190px;
+	margin:0 auto 20px;
+	padding:0;
+	}
+
+TABLE#SOFTINFO .img_soft {
+	width:370px;
+	height:190px;
+	margin:0;
+	padding:0;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/kaseki/img/softinfo.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	}
+
+TABLE#SOFTINFO .img_chara {
+	width:270px;
+	height:190px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#SOFTINFO p.forlink {
+	width:122px;
+	height:16px;
+	margin:147px 72px 27px 170px;
+	padding:0;
+	}
+
+
+
+/*↑一覧ページ====================*/
+
+
+/*↓紹介ページ====================*/
+
+DIV#HEADER {
+	width:700px;
+	height:128px;
+	margin:0 auto;
+	padding:0;
+	}
+
+h1 {
+	margin:0 auto;
+	padding:0;
+	}
+
+.ohmidashi {
+	width:700px;
+	height:88px;
+	margin:0 auto;
+	padding:0;
+	}
+
+DIV#STAFFFRAME {
+	width:680px;
+	height:152px;
+	margin:0 auto;
+	padding:0;
+	}
+
+DIV#STAFFLIST {
+	width:680px;
+	height:152px;
+	margin:0 auto;
+	padding:0;
+	}
+
+TABLE#STAFF {
+	width:680px;
+	height:122px;
+	margin:0 auto 30px;
+	padding:0;
+	}
+
+TABLE#STAFF TH.camp1 {
+	width:224px;
+	height:20px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TH.camp2 {
+	width:152px;
+	height:20px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TH.camp3 {
+	width:80px;
+	height:20px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TH.camp4 {
+	width:224px;
+	height:20px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TD.staff1{
+	width:76px;
+	height:102px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TD.staff2{
+	width:72px;
+	height:102px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#STAFF TD.staff3{
+	width:80px;
+	height:102px;
+	margin:0;
+	padding:0;
+	}
+
+
+DIV#PAGENAVIBASE {
+	width:680px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/kaseki/cmn_img/h3_dum.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:0 auto 18px;
+	padding:0;
+	clear:both;
+	}
+
+.img_pagenavi {
+	width:644px;
+	}
+
+.midashi {
+	width:680px;
+	height:50px;
+	margin:0 auto 20px;
+	padding:0;
+	}
+
+
+/*インタビュー記事部分===========================*/
+
+TABLE#INTERVIEW {
+	width:640px;
+	height:auto;
+	margin:0 auto 20px;
+	padding:0;
+	}
+
+TABLE#INTERVIEW TH.nom {
+	width:60px;
+	height:auto;
+	margin:0;
+	padding:0 0 20px;
+	vertical-align:middle;
+	line-height:1em;
+	}
+
+TABLE#INTERVIEW TD.nom_text {
+	width:580px;
+	height:auto;
+	margin:0;
+	padding:1px 0 20px;
+	vertical-align:middle;
+	color:#ff6633;
+	font-size:12px;
+	font-weight:bold;
+	line-height:1em;
+	}
+
+TABLE#INTERVIEW TH.member {
+	width:60px;
+	height:auto;
+	margin:0;
+	padding:0 0 20px;
+	vertical-align:top;
+	}
+
+TABLE#INTERVIEW TD.menber_text {
+	width:580px;
+	height:auto;
+	margin:0;
+	padding:0 0 20px;
+	vertical-align:top;
+	color:#222;
+	font-size:12px;
+	line-height:1.6em;
+	}
+
+TABLE#INTERVIEW TD.menber_text2 {
+	width:412px;
+	height:auto;
+	margin:0;
+	padding:0 10px 20px 0;
+	vertical-align:top;
+	color:#222;
+	font-size:12px;
+	line-height:1.6em;
+	}
+
+TABLE#INTERVIEW TD.ss01 {
+	width:168px;
+	height:auto;
+	margin:0 0 20px;
+	padding:0;
+	vertical-align:top;
+	}
+
+TABLE#INTERVIEW TD.ss02 {
+	width:640px;
+	height:auto;
+	margin:0;
+	padding:0 0 20px;
+	vertical-align:top;
+	text-align:center;
+	}
+
+p.ss {
+	margin:0 5px;
+	display:inline;
+	clear:both;
+	}
+
+p.dino {
+	margin:0 3px;
+	display:inline;
+	clear:both;
+	}
+
+p.battle {
+	margin:0 2px;
+	display:inline;
+	clear:both;
+	}
+
+/*↓リンク指定====================*/
+a, a:link {
+	color:#ff6600;
+	text-decoration:none;
+	}
+a:visited {
+	color:#cc3300;
+	}
+a:hover {
+	color:#ff9900;
+	}
+a:active {
+	color:#ff9900;
+	}
+
+/*↑紹介ページ====================*/

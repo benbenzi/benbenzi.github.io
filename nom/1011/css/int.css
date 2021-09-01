@@ -1,0 +1,213 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/10/28;
+	Site Name : N.O.M Nintendo Online Magazine No.148;
+	About : N.O.M int-page CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+.int-h2{
+	padding:0 0 22px 0;
+}
+
+.int-area{
+	width:656px;
+	margin:0 auto;
+	padding:0 0 20px 0;
+}
+
+.int-nom{
+	width:656px;
+	padding:0 0 20px 0;
+	color:#8acbf4;
+}
+
+.int-nom-name{
+	width:75px;
+	padding:0 18px 0 0;
+	font-weight:bold;
+	float:left;
+}
+
+.int-nom-text{
+	width:563px;
+	font-weight:bold;
+	float:right;
+}
+
+.int01{
+	width:656px;
+	padding:0 0 18px 0;
+}
+
+.int01-15px{
+	width:656px;
+	padding:0 0 15px 0;
+}
+
+.int01-name{
+	width:75px;
+	padding:0 18px 0 0;
+	color:#fa913d;
+	font-weight:bold;
+	float:left;
+}
+
+.int01-name-photo{
+	width:75px;
+	padding:10px 18px 0 0;
+	color:#fa913d;
+	font-weight:bold;
+	float:left;
+}
+
+.int01-name-photo-2{
+	width:75px;
+	padding:20px 18px 0 0;
+	color:#fa913d;
+	font-weight:bold;
+	float:left;
+}
+
+.int03-name-photo-2{
+	width:75px;
+	padding:20px 18px 0 0;
+	color:#85c56f;
+	font-weight:bold;
+	float:left;
+}
+
+.int02-name-photo{
+	width:75px;
+	padding:10px 18px 0 0;
+	color:#f9da5c;
+	font-weight:bold;
+	float:left;
+}
+
+.int03-name-photo{
+	width:75px;
+	padding:10px 18px 0 0;
+	color:#85c56f;
+	font-weight:bold;
+	float:left;
+}
+
+.int01-text-photo{
+	width:322px;
+	padding:10px 18px 0 0;
+	color:#d7d7d7;
+	float:left;
+}
+
+.int01-text-photo_l{
+	width:322px;
+	padding:10px 18px 15px 0;
+	color:#d7d7d7;
+	float:left;
+}
+
+.int01-text-photo-2{
+	width:322px;
+	padding:20px 18px 0 0;
+	color:#d7d7d7;
+	float:left;
+}
+
+.int01-text{
+	width:562px;
+	color:#d7d7d7;
+	float:right;
+}
+
+.int01-notes-no{
+	width:20px;
+	padding:0 6px 0 93px;
+	font-size:10px;
+	color:#d7d7d7;
+	float:left;
+}
+
+
+.int01-notes{
+	width:536px;
+	font-size:10px;
+	color:#d7d7d7;
+	float:right;
+}
+
+.int02-name{
+	width:75px;
+	padding:0 18px 0 0;
+	color:#f9da5c;
+	font-weight:bold;
+	float:left;
+}
+
+.int03-name{
+	width:75px;
+	padding:0 18px 0 0;
+	color:#85c56f;
+	font-weight:bold;
+	float:left;
+}
+
+.int-photo{
+	width:221px;
+	float:right;
+}
+
+.int-area-last{
+	width:656px;
+	margin:0 auto;
+	padding:0 0 30px 0;
+}
+
+.int-photo-2{
+	width:433px;
+	float:left;
+}
+
+.img-photo01{
+	width:656px;
+	padding:0 0 20px 0;
+
+}

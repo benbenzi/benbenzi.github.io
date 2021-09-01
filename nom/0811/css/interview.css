@@ -1,0 +1,529 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","HiraKakuPro-W3","MS PGothic","MS UI Gothic","Lucida Grande","MS Gothic";
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+p {
+	font-size:14px;
+	line-height:150%;
+}
+
+span {
+	color:#F90;
+}
+
+body {
+	background:#FFF url(../bg.gif) repeat center top;
+	text-align:center;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+/*--------------------*/
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+/*--------------------*/
+
+#header {
+	width:768px;
+	height:341px;
+	margin:22px 0 0 0;
+}
+
+.headtitle1 {
+	width:768px;
+	height:115px;
+	margin:0;
+}
+
+.headtitle2 {
+	width:768px;
+	height:126px;
+	margin:0;
+}
+
+.headtitle3 {
+	width:768px;
+	height:100px;
+	margin:0;
+}
+
+.headtitle4 {
+	width:578px;
+	height:100px;
+	float:left;
+}
+
+.headtitle5 {
+	width:190px;
+	height:100px;
+	float:left;
+	background:#FFF url(../interview/img/navi_bg.gif) no-repeat center top;
+}
+
+.headnavi0 {
+	width:190px;
+	height:51px;
+	float:left;
+}
+
+.headnavi1 {
+	width:32px;
+	height:51px;
+	float:left;
+	background-image:url(../interview/img/bt_1.gif);
+}
+
+.navi1 {
+	display:block;
+	width:32px;
+	height:51px;
+	background-image:url(../interview/img/bt_1.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.navi1:hover {
+	display:block;
+	width:32px;
+	height:51px;
+	background-image:url(../interview/img/bt_1_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.headnavi2 {
+	width:30px;
+	height:51px;
+	float:left;
+	background-image:url(../interview/img/bt_2.gif);
+}
+
+.navi2 {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_2.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.navi2:hover {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_2_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.headnavi3 {
+	width:30px;
+	height:51px;
+	float:left;
+	background-image:url(../interview/img/bt_3.gif);
+}
+
+.navi3 {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_3.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.navi3:hover {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_3_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.headnavi4 {
+	width:29px;
+	height:51px;
+	float:left;
+	background-image:url(../interview/img/bt_4.gif);
+}
+
+.navi4 {
+	display:block;
+	width:29px;
+	height:51px;
+	background-image:url(../interview/img/bt_4.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.navi4:hover {
+	display:block;
+	width:29px;
+	height:51px;
+	background-image:url(../interview/img/bt_4_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.headnavi5 {
+	width:30px;
+	height:51px;
+	margin:0 39px 0 0;
+	float:left;
+	display:inline;
+	background-image:url(../interview/img/bt_5.gif);
+}
+
+.navi5 {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_5.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.navi5:hover {
+	display:block;
+	width:30px;
+	height:51px;
+	background-image:url(../interview/img/bt_5_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.headnavi6 {
+	width:107px;
+	height:22px;
+	margin:0 39px 27px 44px;
+	float:left;
+	display:inline;
+	background-image:url(../interview/img/bt_top.gif);
+}
+
+.navi6 {
+	display:block;
+	width:107px;
+	height:22px;
+	background-image:url(../interview/img/bt_top.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.navi6:hover {
+	display:block;
+	width:107px;
+	height:22px;
+	background-image:url(../interview/img/bt_top_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+/*--------------------*/
+
+#main {
+	width:768px;
+	/*height:800px;*/
+	margin:0;
+	background:#FFF url(../interview/img/main_bg.gif) repeat-y center top;
+}
+
+.mtitle1 {
+	width:600px;
+	height:29px;
+	padding:45px 0 0 66px;
+}
+
+.mbox1 {
+	width:646px;
+	padding:0;
+	margin:22px 0 0 66px;
+	float:left;
+	display:inline;
+}
+
+.mbox2 {
+	width:56px;
+	/*height:56px;*/
+	float:left;
+}
+
+.mbox3 {
+	width:570px;
+	float:right;
+}
+
+.mbox4 {
+	float:right;
+	padding:0 0 0 5px;
+}
+
+.mbox5 {
+	width:646px;
+	padding:0 0 40px 0;
+	margin:22px 0 0 66px;
+	float:left;
+	display:inline;
+}
+
+.mbox6 {
+	width:646px;
+	padding:0;
+	margin:40px 0 0 66px;
+	float:left;
+	display:inline;
+}
+
+.mainbtn1 {
+	width:112px;
+	height:32px;
+	margin:20px 0;
+	float:right;
+	display:inline;
+	background-image:url(../interview/img/bt_secret.gif);
+}
+
+.btn1 {
+	display:block;
+	width:112px;
+	height:32px;
+	background-image:url(../interview/img/bt_secret.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.btn1:hover {
+	display:block;
+	width:112px;
+	height:32px;
+	background-image:url(../interview/img/bt_secret_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+/*--------------------*/
+
+#footer {
+	width:768px;
+	height:36px;
+	margin:0 0 0px 0;
+	background:#FFF url(../interview/img/footer_bg.gif) no-repeat center top;
+}
+
+.footnavi0 {
+	width:768px;
+	height:14px;
+	margin:0 0 22px 0;
+	float:left;
+}
+
+.footnavi7 {
+	width:150px;
+	height:14px;
+	margin:0;
+	float:left;
+	display:inline;
+	background-image:url(../interview/img/bt_prev.gif);
+}
+
+
+.footnavi7_ {
+	width:150px;
+	height:14px;
+	margin:0;
+	float:left;
+	display:inline;
+	background-image:url(../interview/img/bt_prev_non.gif);
+}
+
+.navi7 {
+	display:block;
+	width:150px;
+	height:14px;
+	background-image:url(../interview/img/bt_prev.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.navi7:hover {
+	display:block;
+	width:150px;
+	height:14px;
+	background-image:url(../interview/img/bt_prev_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+
+
+
+.footnavi8 {
+	width:150px;
+	height:14px;
+	margin:0;
+	float:right;
+	display:inline;
+	background-image:url(../interview/img/bt_next.gif);
+}
+
+
+.footnavi8_ {
+	width:150px;
+	height:14px;
+	margin:0;
+	float:right;
+	display:inline;
+	background-image:url(../interview/img/bt_next_non.gif);
+}
+
+
+.navi8 {
+	display:block;
+	width:150px;
+	height:14px;
+	background-image:url(../interview/img/bt_next.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.navi8:hover {
+	display:block;
+	width:150px;
+	height:14px;
+	background-image:url(../interview/img/bt_next_ov.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+
+.secret_close{
+display:none;
+}
+
+.secret_open{
+display:block;
+}
+
+
+
+.font_red{
+
+font-weight: bold; 
+color: #808080; 
+}
+
+.font_a{
+font-weight: bold; 
+color: #62a626; 
+}
+
+
+.font_k{
+
+font-weight: bold; 
+color: #2683a6; 
+}
+
+
+.font_s{
+
+font-weight: bold; 
+color: #f859cd; 
+}

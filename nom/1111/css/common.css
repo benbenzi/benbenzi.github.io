@@ -1,0 +1,630 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/10/29;
+	Site Name : N.O.M Nintendo Online Magazine No.160;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* html body { text-align:center; }
+
+body {
+	font-size:13px;
+	color:#737373;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:13px;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	font-size:13px;
+	color:#ff7d00;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#ff7d00;
+	text-decoration:underline;
+}
+
+p {
+	font-aize:13px;
+	margin:0;
+	padding:0;
+}
+
+li {
+	color:#888888;
+	list-style:none;
+}
+
+li a {
+	color:#ff7d00;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+#container {
+	width:882px;
+	margin:0 auto;
+	background-image:url(../common-img/bg001.gif);
+	background-repeat:repeat-y;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	_text-align:center;
+	background-color:#fff;
+}
+
+.header {
+	width:728px;
+	margin:0 auto;
+	padding:20px 0 0 0;
+	_padding:20px 0 0 0;
+}
+
+.header_p {
+	width:728px;
+	margin:0 auto;
+	padding:20px 0 20px 0;
+	_padding:20px 0 10px 0;
+}
+
+.nom {
+	width:255px;
+	margin:0 253px 0 0;
+	float:left;
+}
+
+.threeds {
+	width:220px;
+	margin:0;
+	float:right;
+}
+
+
+.main {
+	width:728px;
+	text-align:left;
+	margin:0 20px 0 20px;
+}
+
+.main_p {
+	width:688px;
+	text-align:left;
+	margin:0 40px 0 40px;
+}
+
+.mainimg_u {
+	width:768px;
+	padding:0 0 20px 0;
+}
+
+.mainimg02 {
+	width:424px;
+	float:left;
+}
+
+.btnarea {
+	width:344px;
+	float:right;
+}
+
+.btnarea01 {
+	width:53px;
+	padding:0;
+	float:left;
+}
+
+.btnarea02 {
+	width:53px;
+	padding:0;
+	float:left;
+}
+
+.btnarea03 {
+	width:76px;
+	padding:0;
+	float:left;
+}
+
+.btn01 {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn02 {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn03 {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn04 {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn04.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.totop {
+	display:block;
+	width:76px;
+	height:52px;
+	background-image:url(../common-img/totop.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn01:hover , .btn02:hover , .btn03:hover , .btn04:hover , .totop:hover {
+	background-position:0 -52px;
+}
+
+.btn01_now {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 -52px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+ 
+.btn02_now {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 -52px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.btn03_now {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 -52px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.btn04_now {
+	display:block;
+	width:53px;
+	height:52px;
+	background-image:url(../common-img/btn04.gif);
+	background-repeat:no-repeat;
+	background-position:0 -52px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.space01 {
+	width:4px;
+	height:52px;
+	float:left;
+}
+
+.space02 {
+	width:15px;
+	height:52px;
+	float:left;
+}
+
+.space03 {
+	width:29px;
+	height:52px;
+	float:right;
+}
+
+h2 {
+	padding:0 0 26px 0;
+}
+
+.lead_p {
+	width:648px;
+	margin:0 20px 34px 20px;
+}
+
+.soft01 {
+	width:648px;
+	padding:0 20px 30px 20px;
+}
+
+.dl-soft {
+	width:657px;
+	padding:10px 16px 30px 15px;
+}
+
+.soft01-bg {
+	width:648px;
+	background-image:url(../page1/img/soft1_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.soft02-bg {
+	width:648px;
+	background-image:url(../page1/img/soft2_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.soft03-bg {
+	width:648px;
+	background-image:url(../page2/img/soft1_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.soft04-bg {
+	width:648px;
+	background-image:url(../page2/img/soft2_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.soft05-bg {
+	width:648px;
+	background-image:url(../page3/img/soft1_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.soft06-bg {
+	width:648px;
+	background-image:url(../page3/img/soft2_bg02.gif);
+	background-repeat:repeat-y;
+}
+
+.dl-bg01 {
+	width:657px;
+	background-image:url(../page4/img/dl_bg01.gif);
+	background-repeat:repeat-y;
+}
+
+.soft02 {
+	width:588px;
+	padding:0 30px 0 30px;
+}
+
+.soft02_a {
+	width:476px;
+	float:left;
+}
+
+.soft02_b {
+	width:112px;
+	float:right;
+}
+
+.soft02_c {
+	width:450px;
+	float:left;
+}
+
+.soft02_d {
+	width:138px;
+	float:right;
+}
+
+.soft01-offi {
+	width:112px;
+	height:26px;
+	padding:36px 0 52px 0;
+}
+
+.soft01-shokai {
+	width:138px;
+	height:26px;
+	padding:18px 0 9px 0;
+}
+
+.soft03-offi {
+	width:112px;
+	height:26px;
+	float:right;
+	padding:0 0 35px 0;
+}
+
+
+.soft01-offi_a {
+	display:block;
+	width:112px;
+	height:26px;
+	background-image:url(../page1/img/soft01_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft02-offi_a {
+	display:block;
+	width:112px;
+	height:26px;
+	background-image:url(../page1/img/soft02_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft03-offi_a {
+	display:block;
+	width:112px;
+	height:26px;
+	background-image:url(../page2/img/soft01_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft04-offi_a {
+	display:block;
+	width:112px;
+	height:26px;
+	background-image:url(../page2/img/soft02_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft05-offi_a {
+	display:block;
+	width:112px;
+	height:26px;
+	background-image:url(../page3/img/soft01_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft01-offi_a:hover , .soft02-offi_a:hover , .soft03-offi_a:hover , .soft04-offi_a:hover , .soft05-offi_a:hover {
+	background-position:0 -26px;
+}
+
+.soft01-shokai_a {
+	display:block;
+	width:138px;
+	height:26px;
+	background-image:url(../page2/img/soft01_shokai.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft02-shokai_a {
+	display:block;
+	width:138px;
+	height:26px;
+	background-image:url(../page2/img/soft02_shokai.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px; 
+}
+
+.soft01-shokai_a:hover , .soft02-shokai_a:hover {
+	background-position:0 -26px;
+}
+
+.soft {
+	width:588px;
+}
+
+.text-area {
+	width:588px;
+}
+
+.img_l {
+	width:250px;
+	padding:0 30px 26px 0;
+	float:left;
+}
+
+.text_r {
+	width:308px;
+	padding:0 0 26px 0;
+	float:right;
+}
+
+.text_r_2 {
+	padding:0 0 26px 0;
+}
+
+.img_l_end {
+	width:250px;
+	padding:0 30px 16px 0;
+	float:left;
+}
+
+.text_r_end {
+	width:308px;
+	padding:0 0 16px 0;
+	float:right;
+}
+
+.caption01 {
+	width:588px;
+	padding:0 0 16px 0;
+}
+
+.caption01 p {
+	color:#737373;
+	font-size:10px;
+}
+
+.caption01 a {
+	color:#ff7d00;
+	font-size:10px;
+}
+
+.caption02 {
+	width:18px;
+	float:left;
+}
+
+.caption03 {
+	width:570px;
+	float:right;
+}
+
+.dl-soft01 {
+	width:588px;
+	text-align:left;
+	padding:3px 34px 0 35px;
+}
+
+.dl-copy {
+	width:588px;
+	text-align:left;
+	color:#969696;
+	font-size:10px;
+	line-height:1.5;
+}
+
+.dl-copy span {
+	color:#969696;
+	font-size:10px;
+	line-height:1.5;
+}
+
+
+.footer {
+	width:400px;
+	padding:0 0 40px 30px;
+	text-align:left;
+	float:left;
+}
+
+.footer_yoko a {
+	color:#737373;
+}
+
+.p-footer01 {
+	width:360px;
+	text-align:left;
+	padding:0 0 20px 0;
+	margin:0 auto;
+}
+
+.footer a {
+	color:#939393;
+}

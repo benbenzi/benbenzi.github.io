@@ -1,0 +1,213 @@
+@charset "Shift_JIS";
+
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	color : #666666;
+	text-align: center;
+	}
+
+h1, h2 {
+	display:inline;
+	}
+
+#main_area {
+	width:720px;
+	background-color: #FFFFFF;
+	margin:0 auto;
+	padding:0 0 0;
+	text-align: center;
+	}
+	
+#interview_area {
+	background-image:url(../img_cmn/erea_bg.gif);
+	background-repeat: repeat;
+	background-position: left top;
+	padding:10 20 0 20;
+	text-align: center;
+	}
+
+#p1_contents_area {
+	background-image:url(../img_cmn/erea_bg.gif);
+	background-repeat: repeat;
+	background-position: left top;
+	text-align: center;
+	}
+
+#bg_image {
+	width:100%;
+	background-image:url(../img_cmn/bg.gif);
+	background-repeat: repeat;
+	background-position: left top;
+	}
+
+#top_footer {
+	width:100%;
+	vertical-align:middle;
+	padding:8px 0 8 0;
+	}
+
+#back_top {
+	width:700px;
+	margin:0 auto;
+	padding:0 10 0 0;
+	text-align: right;
+	}
+
+#sitemap {
+	width:720px;
+	height:770px;
+	background-image:url(../img_cmn/sitemap_bg.gif);
+ background-repeat: no-repeat;
+	}
+
+/*Å@imageÅ@*/
+img {
+	border:none;
+	margin:0;
+	padding:0;
+	}
+
+.nowrap_img { 
+	white-space: nowrap; 
+	} 
+
+.p1_contents_img {
+ width:543px;
+	text-align: left;
+	} 
+
+.click_img { 
+	text-align: right;
+	} 
+
+.float_l {
+	float: left;
+	margin:0px 9px 0px 0px;
+	}
+
+.float_r {
+	float: right;
+	margin:0px 5px 0px 6px;
+	}
+	
+.photo2_l {
+	margin-left: 70px;
+	}
+	
+.photo2_r {
+	margin-left: 14px;
+	}
+
+.btn_next {
+	float: right;
+	margin:0px 28px 0px 0px;
+	}
+
+.btn_pre {
+	float: left;
+	margin:0px 0px 0px 28px;
+	}
+
+/*Å@ñ{ï∂ÉeÉLÉXÉgÅ@*/
+
+.text12 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.5;
+	text-align:left;
+	}
+
+.sitemap_text12 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #000000;
+	line-height: 1.3;
+	text-align:left;
+	}
+
+.text10 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	color: #333333;
+	line-height: 1.5;
+	}
+
+.caption {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	color: #999999;
+	line-height: 1.5;
+	}
+	
+.square {
+	color: #FFFFCC;
+	padding-right: 2px;
+	}
+
+.nom_txt {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #000000;
+	text-align:left;
+	font-weight:bold;
+	width:570;
+	}
+.nom_txt2 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #000000;
+	text-align:left;
+	font-weight:bold;
+	}
+	
+.answer {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #000000;
+	line-height: 1.5;
+	text-align:left;
+	}
+	
+.copyright {
+	font-size: 10px; color: #999999;	line-height: 1.6;
+}
+
+
+
+/*  ÉäÉìÉNÉeÉLÉXÉg  */
+
+A:link    {
+	color: #000000; font-weight:bold;	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+
+}
+A:visited { 
+	color: #000000; font-weight:bold;
+	font-size: 12px;
+}
+A:hover   { 
+	text-decoration:underline; color: #ff4100;
+	font-size: 12px;
+}
+
+.loc_self {
+ color: #ff4100; font-weight:bold;
+}
+
+
+table a:link {
+	color: #000000; text-decoration: none;
+	text-decoration:underline; 
+	}
+
+table a:visited{
+	color: #000000; text-decoration: none;
+	text-decoration:underline; 
+	}
+
+table a:hover {
+	text-decoration:underline; color: #ff4100;
+	}

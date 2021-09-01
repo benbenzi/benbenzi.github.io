@@ -1,0 +1,784 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/1/27;
+	Site Name : N.O.M Nintendo Online Magazine No.151;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+body {
+	font-size:13px;
+	color:#555555;
+}
+
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	color:#e60012;
+	text-decoration:underline;
+}
+
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+#container01{
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+	background-image:url(../img/t_bg02.gif);
+	background-repeat:repeat;
+	background-position:top;
+}
+
+#wrapper01{
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#wrapper02_a{
+	width:768px;
+	margin:0 auto;
+	background-color:#e60012;
+}
+
+#wrapper02{
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background-image:url(../common-img/bg03.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+.nom-area{
+	width:255px;
+	height:28px;
+	background-color:#e60012;
+	padding:20px 493px 0 20px;
+}
+
+#wrapper01 p{
+	padding:0;
+	margin:0;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.main01{
+	width:716px;
+	color:#737373;
+	margin:0 auto;
+}
+
+.main02{
+	width:676px;
+	color:#737373;
+	margin:0 auto;
+}
+
+.deco-mario{
+	width:267px;
+	padding:7px 0 0 0;
+	float:left;
+}
+
+.page-btnarea{
+	width:411px;
+	height:23px;
+	padding:7px 0 60px 38px;
+	float:right;
+}
+
+.zadankai{
+	width:31px;
+	height:23px;
+	padding:0 11px 0 0;
+	float:left;
+}
+
+.nyusensya{
+	width:28px;
+	height:23px;
+	padding:0 11px 0 0;
+	float:left;
+}
+
+.page-btn_a{
+	width:21px;
+	height:23px;
+	padding:0 14px 0 0;
+	float:left;
+}
+
+.page-btn_b{
+	width:22px;
+	height:23px;
+	padding:0 13px 0 0;
+	float:left;
+}
+
+.page-btn_c{
+	width:22px;
+	height:23px;
+	padding:0 18px 0 0;
+	float:left;
+}
+
+.page-top-btn{
+	width:54px;
+	height:13px;
+	padding:8px 0 2px 25px;
+	float:right;
+}
+
+.page1{
+	display:block;
+	width:21px;
+	height:23px;
+	background-image:url(../common-img/btn_p1.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page1_now{
+	display:block;
+	width:21px;
+	height:23px;
+	background-image:url(../common-img/btn_p1.gif);
+	background-repeat:no-repeat;
+	background-position:0 -46px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page1:hover{
+	background-position:0 -23px;
+}
+
+.page2{
+	display:block;
+	width:21px;
+	height:23px;
+	background-image:url(../common-img/btn_p2.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page2_now{
+	display:block;
+	width:21px;
+	height:23px;
+	background-image:url(../common-img/btn_p2.gif);
+	background-repeat:no-repeat;
+	background-position:0 -46px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page2:hover{
+	background-position:0 -23px;
+}
+
+.page3{
+	display:block;
+	width:22px;
+	height:23px;
+	background-image:url(../common-img/btn_p3.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page3_now{
+	display:block;
+	width:22px;
+	height:23px;
+	background-image:url(../common-img/btn_p3.gif);
+	background-repeat:no-repeat;
+	background-position:0 -46px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page3:hover{
+	background-position:0 -23px;
+}
+
+.page4{
+	display:block;
+	width:21px;
+	height:23px;
+	background-image:url(../common-img/btn_p4.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page4_now{
+	display:block;
+	width:22px;
+	height:23px;
+	background-image:url(../common-img/btn_p4.gif);
+	background-repeat:no-repeat;
+	background-position:0 -46px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page4:hover{
+	background-position:0 -23px;
+}
+
+.page5{
+	display:block;
+	width:22px;
+	height:23px;
+	background-image:url(../common-img/btn_p5.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page5_now{
+	display:block;
+	width:22px;
+	height:23px;
+	background-image:url(../common-img/btn_p5.gif);
+	background-repeat:no-repeat;
+	background-position:0 -46px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page5:hover{
+	background-position:0 -23px;
+}
+
+.totop{
+	display:block;
+	width:54px;
+	height:13px;
+	background-image:url(../common-img/totop.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.totop:hover{
+	background-position:0 -13px;
+}
+
+h1{
+	padding:0 0 20px 0;
+}
+
+.za-h2{
+	padding:0 0 50px 0;
+}
+
+.nyu-h2{
+	padding:0 0 16px 0;
+}
+
+.name01{
+	width:104px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.name01_a{
+	font-size:12px;
+	font-weight:bold;
+}
+
+.name1 p{
+	padding:0 0 6px 0;
+}
+
+.name-img{
+	padding:3px 0 0 0;
+}
+
+.name-img_a{
+	padding:3px 0 3px 0;
+}
+
+.talk01{
+	width:542px;
+	float:right;
+}
+
+.talk01a{
+	width:542px;
+	padding:0 0 40px 0;
+	float:right;
+}
+
+.talk01_end{
+	width:542px;
+	padding:0 0 68px 0;
+	float:right;
+}
+
+.talk01 p{
+	padding:0 0 24px 0;
+}
+
+.talk01_a{
+	width:310px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.talk01_aa{
+	width:310px;
+	padding:0 30px 40px 0;
+	float:left;
+}
+
+.talk01_a1{
+	width:310px;
+	padding:0 40px 0 0;
+	float:left;
+}
+
+.talk01_b{
+	width:200px;
+	padding:0;
+	float:right;
+}
+
+.talk01_b1{
+	width:200px;
+	padding:0 0 30px 0;
+	float:right;
+}
+
+.talk01_b1a{
+	width:200px;
+	padding:0;
+	float:right;
+}
+
+
+.talk01_c{
+	width:474px;
+	float:left;
+}
+
+.talk02{
+	width:200px;
+	float:right;
+}
+
+.talk-caption01{
+	width:20px;
+	padding:0 16px 0 0;
+	font-size:10px;
+	float:left;
+}
+
+.talk-caption02{
+	width:506px;
+	padding:0 0 20px 0;
+	font-size:10px;
+	float:right;
+}
+
+.talk-caption03{
+	width:506px;
+	padding:0 0 40px 0;
+	font-size:10px;
+	float:right;
+}
+
+.nyu-caption{
+	font-size:10px;
+	padding:0 0 14px 0;
+	text-align:right;
+}
+
+.winner{
+	width:628px;
+	padding:0 36px 8px 12px;
+}
+
+.winner_end{
+	width:628px;
+	padding:0 36px 40px 12px;
+}
+
+
+.winner_a{
+	width:628px;
+}
+
+.winner_a1{
+	width:255px;
+	float:left;
+}
+
+.winner_a2{
+	width:373px;
+	float:right;
+}
+
+.winner_b{
+	width:373px;
+}
+
+.winner_b p{
+	width:217px;
+	padding:30px 0 0 0;
+}
+
+.winner_b1{
+	width:126px;
+	padding:0;
+	float:left;	
+}
+
+.winner_b2{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page1/img/time_img01.jpg);
+	float:right;	
+}
+
+.winner_b2_a{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page1/img/time_img02.jpg);
+	float:right;	
+}
+
+.winner_b2_b{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page1/img/time_img03.jpg);
+	float:right;	
+}
+
+.winner_b2_c{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page1/img/time_img04.jpg);
+	float:right;	
+}
+
+.winner_b2_d{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page1/img/time_img05.jpg);
+	float:right;	
+}
+
+.winner_b2_e{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page2/img/time_img06.jpg);
+	float:right;	
+}
+
+.winner_b2_f{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page2/img/time_img07.jpg);
+	float:right;	
+}
+
+.winner_b2_g{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page2/img/time_img08.jpg);
+	float:right;	
+}
+
+.winner_b2_g span{
+	font-size:10px;
+}
+
+.winner_b2_h{
+	width:247px;
+	height:75px;
+	background-image:url(../prize_page2/img/time_img09.jpg);
+	float:right;	
+}
+
+.winner-bg{
+	width:628px;
+	background-image:url(../common-img/kakomi_img02.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.winner-bg p{
+	width:468px;
+	margin:0 auto;
+	padding:0 64px 15px 96px;
+}
+
+.winner-caption{
+	width:350px;
+	font-size:10px;
+	padding:6px 212px 0 66px;
+}
+
+.work-linkarea{
+	width:85px;
+	height:15px;
+	padding:0 34px 8px 509px;
+}
+
+
+.work-link{
+	display:block;
+	width:85px;
+	height:15px;
+	background-image:url(../common-img/work_link.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.work-link:hover{
+	background-position:0 -15px;
+}
+
+.otherwinner-work{
+	width:85px;
+	height:15px;
+	margin:20px 0 0 0;
+}
+
+.otherwinner-end{
+	padding:0 0 60px 0;
+}
+
+.mi01{
+	width:516px;
+	padding:0 47px 24px 65px;
+}
+
+.past-linkarea{
+	width:115px;
+	height:12px;
+	padding:9px 417px 20px 96px;
+}
+
+.past-link{
+	display:block;
+	width:115px;
+	height:12px;
+	background-image:url(../common-img/past_link.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.past-link:hover{
+	background-position:0 -12px;
+}
+
+.other-winner-bg{
+	width:676px;
+	background-image:url(../prize_page2/img/winner10_bg.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.other-winner-bg p{
+	width:620px;
+	margin:0 auto;
+	padding:20px 0 20px 0;
+}
+
+.other-winner01{
+	width:430px;
+	margin:0 auto;
+	padding:0;
+}
+
+.other-winner01a{
+	width:152px;
+	float:left;
+}
+
+.other-winner01a_1{
+	width:126px;
+	padding:0 26px 0 0;
+}
+
+.other-winner01b{
+	width:126px;
+	height:120px;
+	padding:0;
+	float:right;
+}
+	
+.other-winner01b_1{
+	width:126px;
+	padding:0;
+}
+
+/*--- 05.link
+--------------------------------------------------------------------------*/
+
+.textlink {
+	width:385px;
+	background-image:url(../common-img/footer.gif);
+	background-repeat:no-repeat;
+	background-position:0 80px;
+	color:#9a9a9a;
+	padding:30px 0 7px 0;
+	margin:0 auto;
+}
+
+.prenext {
+	width:385px;
+	padding:0 0 16px 0;
+	text-align:center;
+}
+
+.prenext a{
+	color:#f9a014;
+}
+
+.linklist {
+	width:230px;
+	margin:0 auto;
+}
+
+.linklist a{
+	color:#e60012;
+}
+
+.linklist li {
+	list-style:none;
+	padding:0 0 5px;
+	white-space:nowrap;
+}
+
+.linklist_text{
+	color:#666666;
+}
+
+.linklist_text_a a{
+	color:#ff6300;
+}
+
+
+/*--- 06.footer
+--------------------------------------------------------------------------*/
+
+.footer{
+	width:748px;
+	padding:20px 0 80px 20px;
+	text-align:left;
+}
+
+.footer a{
+	color:#ffffff;
+}

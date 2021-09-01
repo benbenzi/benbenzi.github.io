@@ -1,0 +1,121 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓スーパーマリオスタジアム*/
+
+div.menbers {
+	width:780px;
+	height:auto;
+	margin:0 auto 20px;
+	margin-top:-10px;
+	padding:0;
+	clear:both;
+	}
+/*ここからハック*/
+div.menbers:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div.menbers {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+div#READ_BOX1 {
+	background-image:url(https://www.nintendo.co.jp/nom/0807/smb1/img/read_bg.gif);
+	}
+
+div#READ_BOX2 {
+	background-image:url(https://www.nintendo.co.jp/nom/0807/smb2/img/read_bg.gif);
+	}
+
+div#READ_BOX1 p.read_text {
+	height:auto;
+	margin:0;
+	padding:20px 40px 0 100px;
+	padding-right:40px;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	}
+
+
+/*========================================↓詳細説明部分：固有設定*/
+
+div.interview_text, div.interview_text2 {
+	width:700px;
+	height:auto;
+	margin:0;
+	padding:0;
+	text-align:left;
+	clear:both;
+	}
+div.interview_text2 {
+	width:490px;
+	}
+
+/*ここからハック*/
+div.interview_text:after, div.interview_text2:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div.interview_text,div.interview_text2 {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+div.interview_text div.nom_text,
+div.interview_text2 div.nom_text {
+	width:700px;
+	height:auto;
+	margin:0 0 20px;
+	padding:0;
+	color:#04b5ff;
+	font-size:12px;
+	font-weight:bold;
+	text-align:left;
+	float:left;
+	}
+div.interview_text2 div.nom_text {
+	width:490px;
+	}
+
+div.interview_text div.int_name,
+div.interview_text2 div.int_name {
+	width:50px;
+	height:auto;
+	margin:0 0 20px;
+	padding:0;
+	color:#68b800;
+	font-size:12px;
+	font-weight:bold;
+	text-align:right;
+	float:left;
+	}
+
+div.interview_text div.int_text,
+div.interview_text2 div.int_text {
+	width:650px;
+	height:auto;
+	margin:0 0 20px;
+	padding:0;
+	text-align:left;
+	float:left;
+	}
+
+div.interview_text2 div.int_text {
+	width:440px;
+	}
+
+.em_col {
+	color:#FF0000;
+	}

@@ -1,0 +1,30 @@
+
+.maruc { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 15px }
+.ssmall2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px }
+.ssmall { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px }
+.ssmall_w { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px; color:#FFFFFF }
+.small2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px }
+.small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.small_w { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px; color:#FFFFFF }
+.normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.normal_y { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px; color:#F0E68C }
+
+.caption { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 15px }
+
+/*@ƒCƒ“ƒ^ƒrƒ…[—p@*/
+.int_normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px }
+.int_small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 25px }
+.nom_normal1 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#660000 }
+.name_normal1 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#66FFFF }
+.nom_normal2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#660000 }
+.name_normal2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#990000 }
+
+A:link { text-decoration:none;color:#000000; }
+A:hover { text-decoration:underline;color:#00CCFF; }
+A:active { text-decoration:underline;color:#FFFF00; }
+A:visited { text-decoration:none;color:#000000; }
+
+A.color1:link { text-decoration:underline;color:#FFFFFF; }
+A.color1:hover { text-decoration:underline;color:#00CCFF; }
+A.color1:active { text-decoration:underline;color:#FFFF00; }
+A.color1:visited { text-decoration:none;color:#FFFFFF; }

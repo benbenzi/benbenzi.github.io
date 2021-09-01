@@ -1,0 +1,93 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"MS UI Gothic","Hiragino Kaku Gothic Pro","HiraKakuPro-W3","Lucida Grande","MS Gothic";*/
+	font-family:"Hiragino Kaku Gothic Pro","HiraKakuPro-W3","MS Gothic","MS P Gothic","MS UI Gothic","Lucida Grande";
+	font-size:12px;
+	line-height:160%;
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+	font-size:10px;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+body {
+	background:#F5F5F5 url(../img_cmn/bg_body.gif) repeat-y center top;
+	text-align:center;
+	color:#666559;
+}
+
+/*-------------ForOpera----------*/
+
+.for_opera {
+	display:block;
+	width:1px;
+	height:1px;
+}
+
+/*-------------------------------*/
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+.box1 {
+	width:768px;
+	background:#FFF url(../img_cmn/bg_white.gif) repeat-y center top;
+}
+
+.headlink {
+	width:768px;
+	height:35px;
+	margin:0;
+}
+
+.headlink .linktext {
+	width:680px;
+	margin:0 44px;
+	padding:0;
+	text-align:right;
+}
+
+a:link {
+	color:#777;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#777;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#F90;
+	text-decoration:underline;
+}

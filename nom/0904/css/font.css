@@ -1,0 +1,17 @@
+@charset "Shift_JIS";
+
+body {
+	font-size: 12px;
+}
+
+p {
+	font-size: 100%;
+}
+
+.tx10 {
+	font-size: 87%;
+}
+
+.tx13 {
+	font-size: 110%;
+}

@@ -1,0 +1,352 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/1/27;
+	Site Name : N.O.M Nintendo Online Magazine No.151;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+
+.t-titlearea{
+	width:716px;
+}
+
+.t-titlearea01{
+	width:251px;
+	float:left;
+	padding:0 34px 30px 16px;
+}
+
+.t-titlearea01 p{
+	padding:0;
+}
+
+.t-leadarea{
+	width:399px;
+	padding:0 16px 0 0;
+	float:right;
+}
+
+.t-leadarea p{
+	padding:0 0 20px 0;
+}
+
+.t-lead{
+	line-height:1.4;
+	padding:0 0 14px 0;
+}
+
+.contest{
+	width:241px;
+	height:25px;
+	padding:24px 0 0 0;
+	margin:0 auto;
+}
+
+.contest-btn{
+	display:block;
+	width:241px;
+	height:25px;
+	background-image:url(../img/contest.gif);
+	backgorund-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.contest-btn:hover{
+	background-position:0 -25px;
+}
+
+.caption01{
+	width:399px;
+	padding:0;
+	font-size:10px;
+}
+
+.caption01a{
+	width:10px;
+	float:left;
+}
+
+.caption01b{
+	width:378px;
+	padding:0 0 0 10px;
+	float:right;
+}
+
+.contents{
+	width:124px;
+	padding:0 576px 0 16px;
+}
+
+.t-btnarea{
+	width:573px;
+	height:123px;
+	background-image:url(../img/bg04.gif);
+	margin:0 auto;
+	padding:0 0 9px 0;
+}
+
+.t-btnarea_a{
+	width:573px;
+	padding:0 0 34px 0;
+	margin:0 auto;
+}
+
+.t-btnarea-l{
+	width:282px;
+	padding:0 9px 0 0;
+	float:left;
+}
+
+.t-btnarea-r{
+	width:282px;
+	padding:0;
+	float:right;
+}
+
+.t-btn{
+	width:282px;
+	height:35px;
+	padding:0 0 9px 0;
+}
+
+.t-btn_a{
+	width:282px;
+	height:35px;
+	padding:0;
+}
+
+.t-btn01{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01:hover{
+	background-position:0 -35px;
+}
+
+.t-btn02{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:-282px 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn02:hover{
+	background-position:-282px -35px;
+}
+
+.t-btn03{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:-564px 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03:hover{
+	background-position:-564px -35px;
+}
+
+.t-btn04{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:-846px 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn04:hover{
+	background-position:-846px -35px;
+}
+
+.t-btn05{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:-1128px 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn05:hover{
+	background-position:-1128px -35px;
+}
+
+.t-line{
+	text-align:center;
+	padding:0 0 9px 0;
+}
+
+.t-btn2-01{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn2.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn2-01:hover{
+	background-position:0 -35px;
+}
+
+.t-btn2-02{
+	display:block;
+	width:282px;
+	height:35px;
+	background-image:url(../img/t_btn2.jpg);
+	backgorund-repeat:no-repeat;
+	background-position:-282px 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn2-02:hover{
+	background-position:-282px -35px;
+}
+
+.soft{
+	width:573px;
+	padding:0 0 38px 0;
+	margin:0 auto;
+}
+
+.soft01{
+	width:322px;
+	padding:0 19px 0 0;
+	float:left;
+}
+
+.soft02{
+	width:214px;
+	padding:0 18px 0 0;
+	float:right;
+}
+
+.soft02_a{
+	width:214px;
+}
+
+.soft02_b{
+	width:128px;
+	float:left;
+}
+
+.soft02_c{
+	width:86px;
+	float:right;
+}
+
+.soft_official{
+	display:block;
+	width:86px;
+	height:12px;
+	background-image:url(../img/soft_official.gif);
+	backgorund-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.soft_official:hover{
+	background-position:0 -12px;
+}
+
+.hatena-link{
+	width:385px;
+	height:20px;
+	padding:9px 0 0 0;
+	margin:0 auto;
+}
+
+.hatena-link_a{
+	display:block;
+	width:385px;
+	height:20px;
+	background-image:url(../img/hatena_link.gif);
+	backgorund-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.hatena-link_a:hover{
+	background-position:0 -20px;
+}

@@ -1,0 +1,73 @@
+@charset "Shift_JIS";
+
+
+/*　本文基本テキスト　*/
+P {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.6em;
+	text-align:left;
+	padding: 3px 0;
+	}
+
+.caption {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 10px;
+	color: #6699cc;
+	font-weight:bold;
+	line-height: 1.3;
+	padding-top: 3px;
+	text-align: left;
+	}
+	
+
+/*　サイトマップ　*/
+.sitemap_text12 {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #ccccff;
+	line-height: 1.3;
+	text-align:left;
+	}
+
+.square {
+	color: #cc3300;
+	padding-right: 2px;
+	}
+
+.eyecatch {
+	padding-right: 3px;
+	}
+	
+
+/*　インタビュー　*/
+.nom_txt {
+	font-family: "ＭＳ ゴシック", "Osaka";
+	font-size: 12px;
+	color: #666666;
+	text-align:left;
+	font-weight:bold;
+	padding:0px 0px 15px 0px;
+	line-height: 1.5;
+	width: 590px;
+	}
+
+.staff_name {
+	font-family: "ＭＳ ゴシック", "Osaka";
+	font-size: 12px;
+	color: #003399;
+	font-weight: bold;
+	vertical-align:top;
+	text-align: right;
+	white-space: nowrap;
+	width: 50px;
+	line-height: 1.5;
+	padding-top: 3px;
+	}
+	
+
+/*　コピーライト　*/
+.copyright {
+	font-size: 10px; color: #999999;	line-height: 1.6;
+}

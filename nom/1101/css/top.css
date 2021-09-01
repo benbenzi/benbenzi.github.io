@@ -1,0 +1,262 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/12/27;
+	Site Name : N.O.M Nintendo Online Magazine No.150;
+	About : N.O.M top SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.t-dsg-area01{
+	width:738px;
+	padding:0;
+}
+
+.t-dsg-area02{
+	width:355px;
+	float:left;
+}
+
+.t-dsg-area03{
+	width:335px;
+	padding:40px 0 34px 20px;
+}
+
+.t-dsg-area03 span{
+	font-weight:bold;
+}
+
+.t-dsg-area04{
+	width:366px;
+	padding:0 17px 0 0;
+	float:right;
+}
+
+.t-dsg-area05{
+	width:366px;
+}
+
+.t-dsg-area06{
+	width:285px;
+	float:left;
+}
+
+.t-dsg-area07{
+	width:81px;
+	float:right;
+}
+
+.t-ds{
+	width:355px;
+}
+
+.t-dsg-img001{
+	width:81px;
+}
+
+.t-official-btn01{
+	width:81px;
+	height:20px;
+	padding:2px 0 0 0;
+}
+
+.t-official-btn02{
+	display:block;
+	width:81px;
+	height:20px;
+	background-image:url(../img/t_official.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-official-btn02:hover{
+	background-position:0 -20px;
+}
+
+.t-btn01{
+	width:366px;
+	height:76px;
+}
+
+.t-btn01a{
+	display:block;
+	width:366px;
+	height:76px;
+	background-image:url(../img/t_p1_btn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01a:hover{
+	background-position:0 -76px;
+}
+
+.t-btn02{
+	width:353px;
+	height:45px;
+	padding:0 0 0 13px;
+}
+
+.t-btn02a{
+	display:block;
+	width:353px;
+	height:45px;
+	background-image:url(../img/t_p2_btn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03{
+	width:353px;
+	height:45px;
+	padding:8px 0 34px 13px;
+}
+
+.t-btn03a{
+	display:block;
+	width:353px;
+	height:45px;
+	background-image:url(../img/t_p3_btn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn02a:hover , .t-btn03a:hover {
+	background-position:0 -45px;
+}
+
+.t-dsg-ex{
+	width:353px;
+	padding:0 0 0 13px;
+}
+
+.t-demae-area01{
+	width:738px;
+}
+
+.t-demae-area02{
+	width:21px;
+	float:left;
+}
+
+.t-demae-area03{
+	width:394px;
+	float:left;
+}
+
+.t-demae-area04{
+	width:323px;
+	float:right;
+}
+
+.t-demae-area05{
+	width:394px;
+}
+
+.t-de-btn01{
+	width:394px;
+	height:58px;
+}
+
+.t-de-btn01a{
+	display:block;
+	width:394px;
+	height:58px;
+	background-image:url(../img/t_de_p1_btn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-de-btn01a:hover{
+	background-position:0 -58px;
+}
+
+.t-read{
+	width:738px;
+	height:270px;
+	background-image:url(../img/t_read.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-read-text{
+	width:688px;
+	padding:18px 0 50px 0;
+	margin:0 auto;
+}
+
+.t-dsg-text{
+	color:#037cc5;
+}
+
+.t-de-text{
+	color:#ff7300;
+}
+
+.t-footer{
+	width:718px;
+	color:#2392ee;
+	padding:20px 0 60px 5px;
+}
+
+.t-footer a{
+	color:#2392ee;
+}

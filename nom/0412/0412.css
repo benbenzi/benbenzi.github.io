@@ -1,0 +1,28 @@
+
+/* 12Œ† */
+
+.mini { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 9px; line-height: 20px }
+.mini2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 9px }
+.small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px }
+.small2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px }
+.small3 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 15px }
+.normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.normal2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px }
+.large { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px }
+.large2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px }
+.big { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 16px; line-height: 20px }
+.big2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 16px }
+
+A {
+	TEXT-DECORATION: none; outline: 0px none black
+}
+A:link {
+	COLOR: #006633; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #00CC66; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #006633; BACKGROUND-COLOR: #ffff00; TEXT-DECORATION: underline
+}
+

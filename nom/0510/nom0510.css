@@ -1,0 +1,93 @@
+
+
+
+
+
+.TXT_B {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	line-height: 140%;
+	color: #000000;
+}
+.TXT_BB {
+Å@ font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	line-height: 140%;
+	color: #000000;
+	font-weight: bold;
+}
+.TXT_G {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	line-height: 140%;
+	color: #555555;
+	font-weight: bold;
+}
+.TXT_W {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.TXT_BS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #000000;
+}
+.TXT_GS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #555555;
+	font-weight: bold;
+}
+.TXT_GRS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #999999;
+	font-weight: bold;
+}
+.TXT_S {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #888888;
+}
+.TXT_WS {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.TXT_BL {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 14px;
+	line-height: 125%;
+	color: #000000;
+}
+.TXT_WL {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 14px;
+	line-height: 125%;
+	color: #FFFFFF;
+}
+.TXT_Q {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 14px;
+	line-height: 140%;
+	color: #33CCFF;
+}
+.TXT_P {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 9px;
+	line-height: 120%;
+	color: #FFFF00;
+}
+
+
+a { text-decoration:none;outline:0px none black; }
+a:link { text-decoration:none; color:#003399; font-weight: bold; }
+a:visited { text-decoration:none; color:#CC6600; }
+a:hover { text-decoration:underline; background-color:#003399; color:#FFFF00; }

@@ -1,0 +1,48 @@
+@charset "Shift_JIS";
+
+.btn-area001{
+	width:768px;
+	height:455px;
+	display:block;
+	margin:0;
+	padding:0;
+	background:url(../img/top-btn-bg-001.jpg) 0 0 no-repeat;
+	position:relative;
+}
+
+.btn001{
+	width:287px;
+	height:286px;
+	margin:0;
+	padding:0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+	position:absolute;
+	top:0;
+	right:30px;
+	background:url(../img/top-btn001.jpg) 0 0 no-repeat;
+	z-index:100;
+}	
+
+a.btn001:hover{
+	background-position:0 -286px;
+}
+
+.btn002{
+	width:259px;
+	height:260px;
+	margin:0;
+	padding:0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+	position:absolute;
+	top:190px;
+	left:30px;
+	background:url(../img/top-btn002.jpg) 0 0 no-repeat;
+}	
+
+a.btn002:hover{
+	background-position:0 -260px;
+}		

@@ -1,0 +1,408 @@
+@charset "Shift_JIS";
+
+/*========================================↓コーナー別背景用ID指定*/
+
+body#TOPPAGE, body#SITEMAP, body#PUZZLOOP {
+	background:#a6d9f0;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/bg0.gif);
+	background-position:center top;
+	background-repeat:repeat-y;
+	}
+
+body#FAMICOMWARS {
+	background:#86b0c5;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/bg1.jpg);
+	background-position:center top;
+	background-repeat:repeat-y;
+	}
+
+body#WIFI {
+	background:#fde1af;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/bg3.gif);
+	background-position:center top;
+	background-repeat:repeat-y;
+	}
+
+body#TOPPAGE div#FOOTER, body#SITEMAP div#FOOTER, body#PUZZLOOP div#FOOTER {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/btmcircle0.gif);
+	background-position:right top;
+	background-repeat:no-repeat;
+	}
+
+body#FAMICOMWARS div#FOOTER {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/btmcircle1.gif);
+	background-position:right top;
+	background-repeat:no-repeat;
+	}
+
+body#WIFI div#FOOTER {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/btmcircle3.gif);
+	background-position:right top;
+	background-repeat:no-repeat;
+	}
+
+
+/*========================================↓共通ID指定*/
+
+div#CONTENT {/*ページ全体*/
+	width:100%;
+	height:auto;/*背景画像を下に表示するため*/
+	margin:0 auto;
+	padding:0;
+	}
+
+div#HEADER {/*タイトルと戻りボタン部分*/
+	width:720px;
+	height:50px;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	clear:both;
+	}
+
+div#MAIN {/*メインコンテンツ部分*/
+	background:#ffffff;
+	width:720px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	clear:both;
+	font-size:12px;
+	line-height:20px;
+	}
+
+/*ここからハック*/
+div#MAIN:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div#MAIN {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+div#FOOTER {/*FOOTERの背景用画像は各ページ用cssで記述*/
+	width:720px;
+	height:40px;
+	margin:0 auto 20px;
+	padding:0;
+	text-align:center;
+	clear:both;
+	}
+
+/*========================================↓HEADER内共通指定*/
+#HEADER H1 {/*ＮＯＭ５月号英語表記*/
+	width:490px;
+	height:50px;
+	margin:0;
+	padding:0;
+	float:left;
+	}
+
+#HEADER div#BACKTOP {
+	width:120px;
+	height:26px;
+	margin:0 10px 24px;
+	padding:0;
+	float:right;
+	}
+
+/*========================================↓下部ナビ指定*/
+
+/*↓画像に対してテキストを上下揃え、ここから_____*/
+div.textlink {
+	width:auto;
+	height:24px;
+	text-align:left;
+	margin:7px 0 3px 10px;
+	font-size:10px;
+	line-height:1em;
+	}
+
+div#FOOTER div.textlink {
+	float:left;
+	margin:10px 0 0 20px;
+	}
+
+
+/*リンクさせるので、要素を p から span に変更*/
+
+div.textlink span {
+	display:table-cell;
+	vertical-align:middle;
+	margin:0;
+	padding:0;
+	}
+
+/*for IE6 */  
+* html .textlink span {
+	display:inline;
+	zoom:1;
+	}
+
+/*for IE7 */
+*:first-child+html .textlink span {
+	display:inline;
+	zoom:1;
+	}
+
+div.textlink span.arrowimg {
+	margin:0 3px 0 0;
+	padding:0;
+	}
+
+
+/*↑画像に対してテキストを上下揃え、ここまで_____*/
+
+/*========================================↓共通指定*/
+
+div#TOPMAIN {
+	width:720px;
+	height:auto;
+	margin:0;
+	padding:0;
+	clear:both;
+	}
+
+/*ここからハック*/
+div#TOPMAIN:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div#TOPMAIN {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+div#TOPMAIN .leftside, div#TOPMAIN .leftside2 {
+	margin:0;
+	padding:0;
+	float:left;
+	}
+
+div#TOPMAIN .rightside, div#TOPMAIN .rightside2 {
+	margin:0;
+	padding:0;
+	float:right;
+	}
+
+/*========================================↓リード文用共通設定*/
+
+div#READ_BOX {
+	Width:670px;
+	height:auto;
+	margin:0 25px 20px;
+	padding:0;
+	background-position:center top;
+	background-repeat:repeat-y;
+	}
+
+div#READ {
+	width:670px;
+	height:auto;
+	margin:0;
+	padding:0;
+	text-align:center;
+	}
+
+
+/*コーナー別リード文囲みの枠画像*/
+#FAMICOMWARS div#READ_BOX {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/famicomwars/cmn_img/ka02.gif);
+	}
+
+#PUZZLOOP div#READ_BOX {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/puzzloop/img/ka02.gif);
+	}
+
+#WIFI div#READ_BOX {
+	background-image:url(https://www.nintendo.co.jp/nom/0805/wifi/img/ka02.gif);
+	}
+
+/*↓リード文ドットライン＆最初の１文字大きく、ここから_____*/
+
+div#READ p {
+	/*親ブロックの大きさに添わせて折り返させる場合 width は指定しない*/
+	height:auto;
+	margin:0;
+	padding-top:0;
+	padding-right:10px;
+	padding-bottom:0;
+	padding-left:10px;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12px;
+	line-height:20px;
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/dotline20.gif);
+	background-position:0 8px;
+	background-position-x:0;
+	background-position-y:8px;
+	background-repeat:no-repeat;
+	}
+
+.firstletter {
+	color:#21b1e8;
+	font-size:28px;
+	line-height:28px;
+	font-weight:bold;
+	margin:0;
+	padding-top:0;
+	padding-right:0;
+	padding-bottom:0;
+	padding-left:0;
+	/*background-color:#ff00ff;*/
+	}
+
+/*↑リード文ドットライン＆最初の１文字大きく、ここまで_____*/
+
+/*========================================↓メイン下側詳細説明部分*/
+
+div#DETAIL {
+	width:620px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	clear:both;
+	}
+
+div#DETAIL .float_left {
+	width:350px;
+	height:auto;
+	float:left;
+	}
+
+div#DETAIL .float_right {
+	width:270px;
+	height:auto;
+	float:right;
+	}
+
+div#DETAIL div.detail_text {
+	height:auto;
+	margin:0 auto 20px;
+	clear:both;
+	}
+
+/*ここからハック*/
+div#DETAIL div.detail_text:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div#DETAIL div.detail_text {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+
+div#DETAIL div.detail_text p.img_left {
+	float:left;
+	}
+
+div#DETAIL div.detail_text p.img_center {
+	float:center;
+	}
+
+div#DETAIL div.detail_text p.img_right {
+	float:right;
+	}
+
+/*↓本文のドットライン用*/
+p.text {
+	/*width:inherit;*/
+	background-image:url(https://www.nintendo.co.jp/nom/0805/cmn_img/dotline20.gif);
+	background-position:0 0;
+	background-position-x:0;
+	background-position-y:0;
+	background-repeat:repeat-y;
+	margin:0;
+	padding-top:0;
+	padding-right:10px;
+	padding-bottom:0;
+	padding-left:10px;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12px;
+	line-height:20px;
+	text-align:left;
+	}
+
+/*↓本文のドットライン、見出しから連続用*/
+p#MIDASHI1, p#MIDASHI2, p#MIDASHI3, p#MIDASHI4, p#MIDASHI5 {
+	height:auto;
+	background-position:0 45px;
+	background-position-x:0;
+	background-position-y:0px;
+	margin-bottom:10px;
+	}
+
+/*↑本文下のドットライン用*/
+
+.small {
+	font-size:10px;
+	}
+
+/*========================================↑メイン下側詳細説明部分*/
+
+/*========================================↓ページ番号ボタンリンク指定*/
+
+div#IMG_PAGENAVI {
+	width:640px;
+	height:40px;
+	margin:0 auto;
+	padding:0;
+	text-align:right;
+	}
+
+.btn_page {
+	width:40px;
+	height:40px;
+	margin:0;
+	padding:0;
+	display:inline;
+	}
+
+/*========================================↑ページ番号ボタンリンク指定*/
+
+/*========================================↓ページ番号テキストリンク指定*/
+
+div#TEXT_PAGENAVI {
+	width:620px;
+	height:16px;
+	margin:0 auto 20px;
+	padding:0;
+	font-size:12px;
+	line-height:1.6em;
+	text-align:center;
+	}
+
+.text_page {
+	margin:0 1px;
+	padding:0;
+	display:inline;
+	}
+
+.text_page_no {
+	color:#9e9e9f;
+	margin:0 1px;
+	padding:0;
+	display:inline;
+	}
+
+/*========================================↑ページ番号テキストリンク指定*/
+

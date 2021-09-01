@@ -1,0 +1,252 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";*/
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	outline:none;
+}
+
+img {
+	border: 0;
+}
+
+p {
+	font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";
+}
+
+.far {
+	font-size:0.1%;
+	line-height:1%;
+	text-indent:-9999px;
+}
+
+.float_r {
+	margin-left:15px;
+	float:right;
+}
+
+.w_rep_text1 {
+	padding-top:10px;
+	font-size:12px;
+	color:#222222;
+	line-height:150%;
+}
+
+body {
+	background:#0099CC url(https://www.nintendo.co.jp/nom/0808/wariols/common/wariols_bg_001.jpg) no-repeat center top;
+	text-align:center;
+}
+
+#all {
+	margin:auto;
+	width:780px;
+	text-align:left;
+}
+
+#head {
+	margin-top:10px;
+	width:780px;
+	height:310px;
+}
+
+#box1 {
+	float:left;
+	width:320px;
+}
+
+#box2 {
+	float:left;
+	width:460px;
+}
+
+#yohaku1 {
+	margin-top:7px;
+	margin-left:195px;
+}
+
+#go_staff1 {
+	display:block;
+	/*padding-top:7px;*/
+	width:460px;
+	height:51px;
+	float:left;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/w_rep1_head6.jpg) bottom center;
+}
+
+#go_staff1 a {
+	/*margin-left:195px;*/
+	display:inline;
+	margin:7px 0 0 195px;
+	width:230px;
+	height:35px;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_staff_btn1.jpg) no-repeat 0 0;
+	float:left;
+}
+
+#go_staff1 a:hover {
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_staff_btn1.jpg) no-repeat 0 -35px;
+}
+
+#go_w_hp {
+	display:block;
+	width:780px;
+	height:20px;
+	background:#FFFFFF;
+}
+
+#go_w_hp a {
+	margin-left:600px;
+	display:block;
+	width:158px;
+	height:20px;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_wariols.jpg) no-repeat 0 0 ;
+}
+
+#go_w_hp a:hover {
+
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_wariols.jpg) no-repeat 0 -20px ;
+}
+
+#contents1 {
+	background:#FFFFFF;
+}
+
+.setbox1 {
+	margin:10px 45px;
+}
+
+#go_staff2 {
+	display: block;
+	width:780px;
+	height:30px;
+}
+
+#go_staff2 a {
+	margin-left:550px;
+	display:block;
+	width:205px;
+	height:30px;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_w_int.jpg) no-repeat 0 0 ;
+}
+
+#go_staff2 a:hover {
+	
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/go_w_int.jpg) no-repeat 0 -30px ;
+}
+
+#footer {
+	padding-bottom:20px;
+	display:block;
+
+}
+
+#footer p {
+	float:left;
+}
+
+#go_rep1 {
+	padding-top:7px;
+	display:block;
+	width:460px;
+	height:44px;
+	background: url(https://www.nintendo.co.jp/nom/0808/wariols/report/img/w_rep1_head6.jpg);
+}
+
+#go_rep1 a {
+	margin-left:145px;
+	display:block;
+	width:280px;
+	height:35px;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/interview/img/go_rep1.jpg) no-repeat 0 0;
+}
+
+#go_rep1 a:hover {
+
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/interview/img/go_rep1.jpg) no-repeat 0 -35px;
+}
+
+#staff p {
+	float:left;
+}
+
+.pageset p {
+	float:left;
+}
+
+.pagebtn1,
+.pagebtn2,
+.pagebtn3,
+.pagebtn4,
+.pagebtn5 {
+	display:block;
+	width:42px;
+	height:45px;
+}
+
+.pagebtn1 a {
+	display:block;
+	width:42px;
+	height:45px;
+	background:#FFCC00 url(https://www.nintendo.co.jp/nom/0808/wariols/interview/img/page_num1.jpg) no-repeat 0 0;
+}
+
+.pagebtn2 a {
+	display:block;
+	width:42px;
+	height:45px;
+	background:#FFCC00 url(https://www.nintendo.co.jp/nom/0808/wariols/interview/img/page_num2.jpg) no-repeat 0 0;
+}
+
+#yohaku50 {
+	margin:10px 50px;
+}
+
+a:link {
+	color:#00B7EE;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#00B7EE;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#F39700;
+	text-decoration:underline;
+}
+
+.tspace {
+	padding:20px 0 0 0;
+}
+
+.tmark {
+	width:9px;
+	margin:2px 4px 0 30px;
+	float:left;
+	display:inline;
+}
+
+.ttext2 {
+	width:120px;
+	display:inline;
+	float:left;
+	line-height:150%;
+	font-size:9px;
+}
+
+#wifoot {
+	width:780px;
+	height:94px;
+	margin:0 0 20px 0;
+	background:url(https://www.nintendo.co.jp/nom/0808/wariols/interview/img/foot_001.jpg) no-repeat center top;
+}

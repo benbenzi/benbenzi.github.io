@@ -1,0 +1,238 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/08/28;
+	Site Name : N.O.M Nintendo Online Magazine No.134;
+	About : N.O.M page CSS;
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.main {
+	width:768px;
+	margin:0 auto;
+}
+
+.mainimg {
+	width:768px;
+	margin:0 auto;
+}
+
+.main1 {
+    float:left;
+}
+
+.main2 {
+	width:260px;
+	height:500px;
+    float:left;
+}
+
+.readbox {
+	width:768px;
+	margin:0 auto;
+}
+
+h2{
+	width:144px;
+	height:230px;
+    margin:0 0 0 40px;
+	float:left;
+	display:inline;
+}
+
+h3{
+	width:354px;
+	height:200px;
+	float:left;
+}
+
+
+.boxtop {
+	width:544px;
+	height:30px;
+	float:left;
+}
+
+.readtext {
+	width:390px;
+	margin:0 auto 10px auto;
+	float:left;
+	font-size:107%;
+	line-height:1.7;
+	letter-spacing:0.03em;
+}
+
+.soft{
+	width:288px;
+	height:272px;
+	float:left;
+}
+
+/*--- 05.link
+--------------------------------------------------------------------------*/
+/*person*/
+
+.person{
+	width:768px;
+	height:200px;
+}
+
+.personbtn{
+	width:250px;
+	height:60px;
+	margin:100px 0 40px 164px;
+	float:left;
+	display:inline;
+}
+
+.personbtn1{
+	display:block;
+	width:250px;
+	height:60px;
+	background-image:url(../imgtop/personbtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.personbtn1:hover {
+	background-position:-250px 0px;
+}
+
+
+/*menu*/
+
+.menubtn{
+	width:460px;
+	height:320px;
+	margin-left:20px;
+	float:left;
+	display:inline;
+}
+
+.menubtn1,
+.menubtn2,
+.menubtn3,
+.menubtn4,
+.menubtn5,
+.menubtn6,
+.menubtn7,
+.menubtn8 {
+	display:block;
+	width:460px;
+	height:60px;
+	background-image:url(../imgtop/menubtn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.menubtn1:hover {
+	background-position:-460px 0px;
+}
+
+.menubtn2 {
+	background-position:0 -60px;
+}
+
+.menubtn2:hover {
+	background-position:-460px -60px;
+}
+
+.menubtn3 {
+	background-position:0 -120px;
+}
+
+.menubtn3:hover {
+	background-position:-460px -120px;
+}
+
+.menubtn4 {
+	background-position:0 -180px;
+}
+
+.menubtn4:hover {
+	background-position:-460px -180px;
+}
+
+/*softinfo*/
+
+.infotext{
+	width:167px;
+	height:98px;
+	float:left;
+}
+
+.btnofficialbox{
+	width:80px;
+	height:28px;
+	margin-top:10px;
+	float:left;
+}
+
+.btnofficial{
+	display:block;
+	width:80px;
+	height:28px;
+	background-image:url(../imgtop/official_btn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.btnofficial:hover {
+	background-position:0 -28px;
+}

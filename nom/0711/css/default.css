@@ -1,0 +1,283 @@
+@charset "Shift_JIS";
+
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	color : #666666;
+	text-align: center;
+	}
+
+h1, h2 {
+	display:inline;
+	}
+	
+#main_area {
+	width:720px;
+	margin:0 auto;
+	padding:0 0 0;
+	text-align: center;
+	}
+	
+#bg_image {
+	width:100%;
+	height:100%;
+	background-image:url(../img_cmn/bg.gif);
+	background-repeat: repeat-y;
+	background-position: center top;
+	text-align:center;
+	}
+
+#catch {
+	padding:8px 0 8px 0;
+	}
+
+#lead {
+	padding:17px 0 17px 0;
+	}
+
+#top_footer {
+	width:100%;
+	vertical-align:middle;
+	padding:0px 0 8 0;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	}
+
+#okuri_hd {
+	width:717px;
+	height:10px;
+	background-image:url(../img_cmn/footer_base_t.gif);
+	background-repeat:no-repeat;
+	margin:0 auto;
+	padding:0 0 0;
+	}
+
+#okuri_main {
+	margin: 0; padding: 0;
+	width: 717px;
+	height: auto;
+	background: #ededed;
+	}
+	
+#okuri_ft {
+	width:717px;
+	height:10px;
+	background-image:url(../img_cmn/footer_base_b.gif);
+	background-repeat:no-repeat;
+	}
+
+#back_top_p1index {
+	width:690px;
+	margin:0 auto;
+	padding:0 0 5 0;
+	text-align: right;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	}
+
+#back_top {
+	width:690px;
+	margin:0 auto;
+	padding:20 0 5 0;
+	text-align: right;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	}
+
+#navi_link {
+	width:700px;
+	margin:0 auto;
+	padding:3 0 0 0;
+	text-align: right;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	}
+
+#sitemap {
+text-align:center;
+}
+
+#column_main {
+	width:720px;
+	height:aute;
+	background-image:url(../p1/img/column_bg.gif);
+	background-repeat: repeat-y;
+	background-position: center top;
+	text-align:center;
+	padding: 15px 0px 15px 0px;
+	}
+
+/*Å@imageÅ@*/
+
+img {
+	border: none;
+	margin: 0;
+	padding:0;
+	}
+
+.nowrap_img { 
+	white-space: nowrap; 
+		text-align:center;
+	} 
+
+.ds_img { 
+	padding: 0 10px 0px 10px;
+	} 
+
+.nom1 {
+	float: left;
+	vertical-align: top;
+	width: 50px;
+	padding:0px 3px 15px 0px;
+	}
+
+.nom2 {
+	float: left;
+	margin:0px 3px 0px 0px;
+	}
+
+.float_l {
+	float: left;
+	margin:0px 9px 1px 0px;
+	}
+
+.float_r {
+	float: right;
+	margin:0px 5px 1px 8px;
+	}
+
+.btn_next {
+	float: right;
+	margin:0px 20px 0px 0px;
+	}
+
+.btn_pre {
+	float: left;
+	margin:0px 0px 0px 20px;
+	}
+
+/*Å@ñ{ï∂ÉeÉLÉXÉgÅ@*/
+
+.text12 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	padding:0px 0px 15px 0px;
+	text-align:left;
+	}
+
+.sitemap_text12 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #999999;
+	line-height: 1.3;
+	text-align:left;
+	}
+
+.text10 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	color: #333333;
+	line-height: 1.5;
+	}
+
+.text12_b {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #999999;
+	font-weight:bold;
+	}
+
+.caption {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	color: #333333;
+	font-weight:bold;
+	padding-top: 3px;
+	text-align: center;
+	}
+	
+.square {
+	color: #FFFFCC;
+	padding-right: 2px;
+	}
+
+.star {
+	padding-right: 3px;
+	}
+	
+.nom_txt {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #666666;
+	text-align:left;
+	font-weight:bold;
+	padding:0px 0px 15px 0px;
+	line-height: 1.5;
+	width: 625px;
+	}
+
+.nom_answer {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	padding: 0px 0px 10px 0px;
+	text-align:left;
+	}
+		
+.column_txt {
+	width:660px;
+	}
+
+td.txt_top {
+ vertical-align: top;
+	}
+
+.p1_name {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #cc9999;
+	font-weight: bold;
+	vertical-align:top;
+	text-align: right;
+	white-space: nowrap;
+	width: 50px;
+	}
+	
+.p2_name {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #669999;
+	font-weight: bold;
+	vertical-align:top;
+	text-align: right;
+	white-space: nowrap;
+	width: 50px;
+	}
+	
+.copyright {
+	font-size: 10px; color: #999999;	line-height: 1.6;
+}
+
+
+
+/*  ÉäÉìÉNÉeÉLÉXÉg  */
+
+A:link    {
+	color: #996633; font-weight:bold;	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+
+}
+A:visited { 
+	color: #996633; font-weight:bold;
+}
+A:hover   { 
+	text-decoration:underline; color: #009900;
+}
+
+.loc_self {
+ color: #ff4100; font-weight:bold;
+}
+

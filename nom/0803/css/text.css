@@ -1,0 +1,122 @@
+@charset "Shift_JIS";
+
+
+/*　本文基本テキスト　*/
+P {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.6em;
+	text-align:left;
+	vertical-align:top;
+	}
+
+#p1message P {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.6em;
+	text-align:left;
+	margin:5px 0px 0px 15px;
+	vertical-align:top;
+	}
+
+#lead_mii P {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.6em;
+	text-align:left;
+	vertical-align:top;
+	margin: 0px 30px;
+	}
+
+.miicon_area P {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.6em;
+	text-align:left;
+	width:600px;
+	}
+
+.tx10 {
+	font-size: 10px;
+	}
+.caption {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 10px;
+	color: #999999;
+	line-height: 1.3;
+	padding-top: 3px;
+	text-align: left;
+	}
+	
+
+/*　サイトマップ　*/
+.sitemap_text12 {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #e25d34;
+	line-height: 1.3;
+	text-align:left;
+	}
+
+.square {
+	color: #cc3300;
+	padding-right: 2px;
+	}
+
+.eyecatch {
+	padding-right: 3px;
+	}
+	
+.wiiblue {
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #34deeb;
+	line-height: 1.6em;
+	text-align:left;
+	font-weight:bold;
+	}
+
+/*　インタビュー　*/
+td.nom_txt1 {
+	font-family: "ＭＳ ゴシック", "Osaka";
+	font-size: 12px;
+	color: #216b85;
+	text-align:left;
+	font-weight:bold;
+	padding:0px 0px 10px 0px;
+	line-height: 1.4em;
+	}
+
+td.nom_txt2 {
+	font-family: "ＭＳ ゴシック", "Osaka";
+	font-size: 12px;
+	color: #6b7e00;
+	text-align:left;
+	font-weight:bold;
+	padding:0px 0px 10px 0px;
+	line-height: 1.4em;
+	}
+
+
+.p2_name {
+	font-family: "ＭＳ ゴシック", "Osaka";
+	font-size: 12px;
+	color: #8eb933;
+	line-height: 1.6em;
+	font-weight: bold;
+	vertical-align:top;
+	text-align: right;
+	white-space: nowrap;
+	width: 40px;
+	}
+
+	
+
+/*　コピーライト　*/
+.copyright {
+	font-size: 10px; color: #999999;	line-height: 1.6;
+}

@@ -1,0 +1,188 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS PGothic","MS UI Gothic","MS Gothic","Meiryo";
+	font-size:13px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+}
+
+img {
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+a {
+	outline:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	font-size:inherit;
+	font-size:100%;
+}
+
+table th, table td {
+	font-size:14px;
+	font-weight:normal;
+	line-height:140%;
+}
+
+
+.clear {
+	clear:both;	
+}
+
+a {
+	color:#383223;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#383223;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FF9900;
+	text-decoration:underline;
+}
+
+p.summer a {
+	color:#8b4513;
+	text-decoration:underline;
+}
+
+p.summer a:visited {
+	color:#8b4513;
+	text-decoration:underline;
+}
+
+p.summer a:hover {
+	color:#FF9900;
+	text-decoration:underline;
+}
+
+
+/*--------------------------------------------------------------------------*/
+
+body {
+	background:url(../img/body-main-bg.gif) 0 0;
+	color:#383223;
+	font-size:13px;
+}
+
+#wrapper{
+	width:768px;
+	margin:0 auto;
+}
+
+#pattern{
+	width:768px;
+	background:url(../img/bg-pattern.jpg) 0 0 repeat-y;
+	display:block;
+	margin:0;
+	padding:0;
+}	
+
+/*-- NOM-Title -------------------------------------------------------------*/
+
+.main-title{
+	width:290;
+	height:52px;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	margin:0;
+	padding:0;
+	background:url(../img/nom-title.jpg) 0 0 no-repeat;
+}
+
+.sbu-title-area{
+	width:768px;
+	height:52px;
+	position:relative;
+	display:block;
+	margin:0;
+	padding:0;
+}
+	
+.sbu-title{
+	position:absolute;
+	bottom:0;
+	right:0;
+}	
+
+/*-- navi -------------------------------------------------------------*/
+
+.navi-btn001{
+	width:290px;
+	height:40px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(../img/navi-btn.jpg) 0 0 no-repeat;
+	right:24px;
+	top:8px;
+}
+	
+a.navi-btn001:hover{background-position:-290px 0;}
+
+.btn001-here{background-position:-290px 0;}
+
+
+.navi-btn002{
+	width:290px;
+	height:40px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(../img/navi-btn.jpg) 0 -40px no-repeat;
+	right:24px;
+	top:48px;
+}
+	
+a.navi-btn002:hover{background-position:-290px -40px;}
+
+.btn002-here{background-position:-290px -40px;}
+
+.photo-area{
+	position:relative;
+	width:768px;
+	height:396px;
+	display:block;
+	margin:0;
+	padding:0;
+}
+.photo-mcd{background:url(../zone/img-mcd/mcdonald-img.jpg) 0 0 no-repeat;}
+.photo-tsukuba{background:url(../zone/img-tuk/tsukuba-img.jpg) 0 0 no-repeat;}
+
+.footer-bg{
+	width:768px;
+	display:block;
+	margin:0;
+	padding:0;
+	position:relative;
+}	
+
+.footer-txtlink{padding:0 0 5px 15px; font-size:12px;}	
+
+/*--------------------------------------------------------------------------*/
+
+.mg-depends-auto{margin:0 auto;}
+.mg-btm-20{margin:0 0 20px 0;}

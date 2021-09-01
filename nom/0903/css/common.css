@@ -1,0 +1,293 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"MS Gothic","HiraKakuPro-W3","MS UI Gothic";*/
+}
+
+.clear {
+	clear:both;
+}
+
+.smalltext {
+	font-size:10px;
+}
+
+p.centering {
+	display:block;
+	margin:0 auto;
+    text-align: center;
+}
+
+a {
+	outline:none;
+}
+
+p {
+	font-family:"MS PGothic","MS Gothic","HiraKakuPro-W3","MS UI Gothic";
+	font-size:12px;
+	line-height:20px;
+}
+
+body {
+	font-family:"MS PGothic","MS Gothic","HiraKakuPro-W3","MS UI Gothic";
+	background-attachment:fixed;
+	background-color:#ffffff;
+	background-image:url(../img_cmn/bg.gif);
+	background-position:center top;
+	background-repeat:repeat-x;
+	color:#3b3a31;
+	text-align:center;
+	margin:0;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#header {
+	width:768px;
+	height:50px;
+	margin:0 auto;
+	text-align:left;
+}	
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	clear:both;
+}
+
+#top_common {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background:#f2d95a url(../img_cmn/page_base.gif) repeat-y left top;
+}
+
+#main_common {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background:#f2d95a url(../img_cmn/page_base.gif) repeat-y left top;
+}
+
+#main_box {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background:#f2d95a url(../img_cmn/page_base.gif) repeat-y left top;
+}
+
+.box1 {
+	width:768px;
+	margin:0;
+}
+
+.box2 {
+	width:700px;
+	margin:0 34px;
+}
+
+
+/* NOM title */
+h1 {
+	display:block;
+	width:300px;
+	height:50px;
+	margin:0 auto 0 0;
+	float:left;
+}
+
+p.burocat {
+	display:block;
+	width:260px;
+	height:50px;
+	margin:0;
+	float:right;
+}
+
+
+/* Feature title */
+h2 {
+	width:768px;
+	height:140px;
+}
+
+h3, h4 {
+	width:768px;
+	height:70px;
+}
+
+
+/* LINK: for page_num img */
+
+.link_box {
+	width:768px;
+	height:30px;
+	margin:0 auto;
+	background:#f2d95a url(../img_cmn/btn_base.gif) no-repeat left top;
+}
+
+.bt_box {
+	width:365px;
+	height:30px;
+	margin:0 0 0 393px;
+}
+
+.bt_table td {
+	height:40px;
+}
+
+
+.bt_1, .bt_2, .bt_3, .bt_4, .bt_5, .bt_6, .bt_7,
+.bt_1_no, .bt_2_no, .bt_3_no, .bt_4_no, .bt_5_no, .bt_6_no, .bt_7_no {
+	display:block;
+	width:50px;
+	height:30px;
+	background-image:url(../img_cmn/bt_p1.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.bt_2, .bt_2_no {
+	background-image:url(../img_cmn/bt_p2.gif);
+}
+
+.bt_3, .bt_3_no {
+	background-image:url(../img_cmn/bt_p3.gif);
+}
+
+.bt_4, .bt_4_no {
+	background-image:url(../img_cmn/bt_p4.gif);
+}
+
+.bt_5, .bt_5_no {
+	background-image:url(../img_cmn/bt_p5.gif);
+}
+
+.bt_6, .bt_6_no {
+	background-image:url(../img_cmn/bt_p6.gif);
+}
+
+.bt_7, .bt_7_no {
+	background-image:url(../img_cmn/bt_p7.gif);
+}
+
+.bt_1:hover, .bt_2:hover, .bt_3:hover, .bt_4:hover, .bt_5:hover, .bt_6:hover, .bt_7:hover {
+	background-position:0 -30px;
+}
+
+.bt_1_no, .bt_2_no, .bt_3_no, .bt_4_no, .bt_5_no, .bt_6_no, .bt_7_no {
+	background-position:0 -60px;
+}
+
+
+/* Link: GBA, DS */
+
+.bt_cljj {
+	display:block;
+	width:274px;
+	height:135px;
+	background-image:url(../img/bt_cljj.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.bt_cljj:hover {
+	background-position:0 -135px;
+}
+
+
+.softlink {
+	width:670px;
+	height:120px;
+	margin:0 0 30px 54px;
+}
+
+
+.bt_a88j, .bt_armj {
+	display:block;
+	width:345px;
+	height:120px;
+	background-image:url(../img_cmn/bt_a88j.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.bt_armj {
+	width:315px;
+	background-image:url(../img_cmn/bt_armj.jpg);
+}
+
+.bt_a88j:hover, .bt_armj:hover {
+	background-position:0 -120px;
+}
+
+
+/* Link: Bottom text link - for page */
+
+.textlink_wraper {
+	margin:0 auto;
+	text-align:center;
+}
+
+.textlink_box {
+	/*width:600px;*/
+	margin:10px auto 0;
+	text-align:center;
+}
+
+.textlink_box p {
+	display:inline;/**/
+	font-size:12px;
+	line-height:1.2em;
+	text-align:center;
+	padding:1px;
+	/*float:left;/**/
+}
+
+/* Link: Footer text link */
+.footerlink_box {
+	width:748px;
+	margin:10px 10px 30px;
+	text-align:left;
+}
+
+.footerlink_box p {
+	font-size:10px;
+}
+
+
+/* Link: common */
+a, a:link {
+	color:#f00;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#900;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#fc0;
+	text-decoration:underline;
+}

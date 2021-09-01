@@ -1,0 +1,199 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:12px;
+	line-height:160%;
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+	font-size:10px;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+p {
+	text-align: left;
+	color: 666559;
+}
+
+body {
+	background:#F5F5F5 url(https://www.nintendo.co.jp/nom/0901/npoint/img/bg_001.gif) repeat-y center top;
+	text-align:center;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#main {
+	text-align: center;
+	background: url(https://www.nintendo.co.jp/nom/0901/report/img/uranai_bg.jpg) repeat-y top left;
+}
+
+.nomlogo {
+	margin-top: 0px
+}
+
+.header {
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+	/* background: #82e164 repeat-y top left; */
+}
+
+.header td {
+	background-color: #82e164;
+}
+
+.read {
+	width: 700px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+	padding-top: 20px;
+}
+
+.illust {
+	width:72px;
+	height:91px;
+	margin:0 0 10px 0;
+	float:left;
+	display:inline;
+}
+
+.title {
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.title2 {
+	display: block;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+
+.box1 {
+	width:768px;
+}
+
+.box2 {
+	width: 676px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	
+.box3 {
+	width:768px;
+}
+
+.footer {
+	margin-top: 16px;
+	margin-bottom: 60px;
+}
+
+.btn1 {
+	display:block;
+	width:300px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0901/interview/img/btn1.jpg);
+	background-repeat:no-repeat;
+	background-position: 0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.btn1:hover {
+	background-position: 0 -30px;
+}
+
+
+.img1 {
+	width:228px;
+	height:164px;
+	margin:0 0 10px 0;
+	float:right;
+	display:inline;
+}
+
+.text1 {
+	width:448px;
+	float:left;
+	display:inline;
+}
+
+.text2 {
+	width:676px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 30px;
+}
+
+.text3 {
+	width:676px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 1.6em;
+}
+
+.text5 {
+	width:600px;
+	float: right;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+
+.text6 {
+	width:676px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 2em;
+}
+
+
+p.text4 span {
+	margin-left: 26px;
+}
+
+a:link {
+	color:#888;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#888;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#F90;
+	text-decoration:underline;
+}

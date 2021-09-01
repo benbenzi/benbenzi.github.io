@@ -1,0 +1,316 @@
+@charset "Shift_JIS";
+
+
+/*↓一覧ページ====================*/
+
+TABLE#LINEUP {
+	width:684px;
+	height:450px;
+	margin:0 auto 5px;
+	padding:0;
+	}
+	
+TABLE#LINEUP TD {
+	width:228px;
+	height:150px;
+	margin:0;
+	padding:0;
+	}
+
+IMG.link_soft {
+	width:218px;
+	height:145px;
+	margin:0 5px 5px;
+	padding:0;
+	}
+
+TABLE#READ {
+	width:674px;
+	height:261px;
+	margin:0 auto 40px;
+	padding:0;
+	}
+
+TABLE#READ .img_wii {
+	width:243px;
+	height:261px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#READ .readtext {
+	width:431px;
+	height:221px;
+	margin:0;
+	padding:0;
+	}
+
+TABLE#READ .forlink {
+	width:431px;
+	height:20px;
+	margin:0;
+	padding:6px 0 0 41px;
+	}
+
+
+.hide {
+	display:none;
+	}
+	
+/*↑一覧ページ====================*/
+
+
+/*↓紹介ページ====================*/
+
+
+
+DIV#PAGENAVIBASE {
+	width:700px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/wiiware/cmn_img/h2.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:0 auto 18px;
+	padding:0;
+	clear:both;
+	}
+
+DIV#WIIWARE {/*タイトルとキャッチ*/
+	width:620px;
+	height:60px;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/wiiware/cmn_img/ballet.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:0 auto 20px;
+	padding:0;
+	}
+
+.wiicatch {
+	width:605px;
+	height:25px;
+	margin:0 0 0 24px;
+	padding:0;
+	}
+
+.wiititle {
+	width:605px;
+	height:25px;
+	margin:0 0 0 24px;
+	padding:0;
+	}
+
+
+TABLE#MAININFO {/*メインの情報*/
+	width:700px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	vertical-align:top;
+	}
+
+
+.titless_43 {/*４対３のタイトル画面のいれもの*/
+	width:306px;
+	height:auto;
+	margin:0;
+	padding:0 0 0 40px;/*右余白設定*/
+	vertical-align:top;
+	}
+
+.infotext_43 {/*４対３の情報のいれもの*/
+	width:394px;
+	height:auto;
+	margin:0;
+	padding:0 40px 0 0;/*左余白設定*/
+	vertical-align:top;
+	background-image:
+	url(https://www.nintendo.co.jp/nom/0804/wiiware/cmn_img/bg_maru.gif);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	}
+
+.titless_169 {/*１６対９のタイトル画面のいれもの*/
+	width:354px;
+	height:auto;
+	margin:0;
+	padding:0 0 0 40px;/*右余白設定*/
+	vertical-align:top;
+	}
+
+.infotext_169 {/*１６対９の情報のいれもの*/
+	width:346px;
+	height:auto;
+	margin:0;
+	padding:0 40px 0 0;/*左余白設定*/
+	vertical-align:top;
+	background-image:
+	url(https://www.nintendo.co.jp/nom/0804/wiiware/cmn_img/bg_maru.gif);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	}
+
+
+
+TABLE#SOFTINFO_43 {/*４対３の情報*/
+	width:354px;
+	height:auto;
+	vertical-align:top;
+	margin:0 0 20px;
+	padding:0;
+	}
+
+TABLE#SOFTINFO_43 TH {
+	width:87px;
+	height:auto;
+	vertical-align:top;
+	margin:0;
+	padding:7px 0 0;
+	vertical-align:top;
+	}
+
+TABLE#SOFTINFO_43 TD {
+	width:259px;
+	height:auto;
+	vertical-align:middle;
+	font-size:10px;
+	line-height:1em;
+	margin:0;
+	padding:7px 0 0;
+	vertical-align:middle;
+	}
+
+TABLE#SOFTINFO_169 {/*１６対９の情報*/
+	width:306px;
+	height:auto;
+	vertical-align:top;
+	margin:0 0 20px;
+	padding:0;
+	}
+
+TABLE#SOFTINFO_169 TH {
+	width:87px;
+	height:auto;
+	vertical-align:top;
+	margin:0;
+	padding:7px 0 0;
+	vertical-align:top;
+	}
+
+TABLE#SOFTINFO_169 TD {
+	width:219px;
+	height:auto;
+	vertical-align:middle;
+	font-size:10px;
+	line-height:1em;
+	margin:0;
+	padding:7px 0 0;
+	vertical-align:middle;
+	}
+
+TABLE#SOFTINFO_169 TD.infocol2 {
+	width:306px;
+	height:auto;
+	vertical-align:middle;
+	font-size:10px;
+	line-height:1em;
+	margin:0;
+	padding:7px 0 0;
+	vertical-align:middle;
+	}
+
+
+.img_ss1_43 {/*４対３のタイトル画面用*/
+	width:246px;
+	height:186px;
+	margin:0 0 20px 0;
+	padding:0;
+	}
+
+.img_ss1_169 {/*１６対９のタイトル画面用*/
+	width:294px;
+	height:168px;
+	margin:0 0 20px 0;
+	padding:0;
+	}
+
+DIV#SUBINFO {
+	width:620px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	}
+
+.h4_1 {
+	width:180px;
+	height:18px;
+	margin:0 0 5px;
+	padding:0;
+	}
+
+.h4_other {
+	width:180px;
+	height:18px;
+	margin:1px 440px 10px 0;
+	padding:0 0 0;
+	}
+
+.report_text {
+	width:620px;
+	height:auto;
+	margin:0 auto 20px;
+	padding:0;
+	font-size:12px;
+	line-height:1.6em;
+	text-align:left;
+	}
+
+.report_ss {
+	width:620px;
+	height:auto;
+	margin:0 0 20px;
+	padding:0;
+	text-align:center;
+	}
+
+.ss_43 {/*４対３のゲーム画面用*/
+	width:246px;
+	height:186px;
+	margin:0 8px;
+	padding:0;
+	display:inline;
+	}
+
+.ss_169 {/*１６対９のゲーム画面用*/
+	width:294px;
+	height:168px;
+	margin:0 8px;
+	padding:0;
+	display:inline;
+	}
+
+/*↓コントローラ改行指定====================*/
+.text_ctrl {
+	font-size:10px;
+	line-height:1.5em;
+	margin:1px 0 0;
+	padding:0;	
+	}
+
+
+/*↓リンク指定====================*/
+a, a:link {
+	color:#23b2e8;
+	text-decoration:none;
+	}
+a:visited {
+	color:#0485d7;
+	}
+a:hover {
+	color:#00ccff;
+	}
+a:active {
+	color:#00ccff;
+	}
+
+/*↑紹介ページ====================*/

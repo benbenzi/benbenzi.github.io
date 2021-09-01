@@ -1,0 +1,84 @@
+@charset "Shift_JIS";
+
+body {
+	margin : 0px ;
+	padding : 0px;
+	background-color: #FFFFFF;
+	color : #555555;
+	text-align : center ;
+}
+
+img {
+	border: 0px ;
+}
+
+.small {font-family: "‚l‚r ‚oƒSƒVƒbƒN";font-size: 10px; line-height: 14px; color: #555555; }
+.small_wiicolor {font-family: "‚l‚r ‚oƒSƒVƒbƒN";font-size: 10px; line-height: 14px; color: #34BEED; }
+.normal {font-family: "‚l‚r ‚oƒSƒVƒbƒN";font-family: "‚l‚r ‚oƒSƒVƒbƒN";font-size: 12px; line-height: 180%; color: #555555; }
+.normal_b {font-family: "‚l‚r ‚oƒSƒVƒbƒN";font-size: 12px; line-height: 180%; color: #555555; font-weight: bold; }
+
+A:link    {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; text-decoration:underline; color: #555555;
+}
+A:visited { 
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; text-decoration:underline; color: #555555;
+}
+A:hover   { 
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; text-decoration:underline; color: #AAAAAA; 
+}
+
+#navilink {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #555555
+}
+#navilink A {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #555555; TEXT-DECORATION: none
+}
+#navilink A:hover {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN"; FONT-SIZE: 10px; COLOR: #AAAAAA; TEXT-DECORATION: underline
+}
+
+.index_lead {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 12px;
+	color: #555555;
+	line-height: 1.6;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	}
+
+.lead {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 12px;
+	color: #999999;
+	font-weight: bold;
+	line-height: 1.6;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	}
+
+.for_sitemap {
+	font-family:"‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 12px;
+	line-height: 100%;
+	color: #555555; }
+
+.nom {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 12px;
+	line-height: 180%;
+	font-weight: bold;
+	color: #34BEED;
+}
+.name {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 12px;
+	line-height: 180%;
+	font-weight: bold;
+	color: #555555;
+}
+.caption {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN",Arial,Verdana,Helvetica;
+	font-size: 10px;
+	line-height: 180%;
+	color: #34BEED;
+}

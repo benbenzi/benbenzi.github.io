@@ -1,0 +1,35 @@
+@charset "Shift_JIS";
+
+/*↓ブラウザ初期化は「set_reset.css」で行っています*/
+
+/*↓基本設定====================*/
+body {
+	color:#222222;
+	text-align:center;
+	font:normal normal normal 100%/1.6 "ＭＳ ゴシック",Osaka;
+	}
+
+li {
+	line-height:1em;
+	}
+
+/*Hides from IE5-mac ￥*/
+* html ul li {
+	height:auto;
+}
+/*End hide from IE5-mac */
+
+/*↓基本リンク指定====================*/
+a, a:link {
+	color:#222222;
+	text-decoration:none;
+	}
+a:visited {
+	color:#0b6587;
+	}
+a:hover {
+	color:#21b1e8;
+	}
+a:active {
+	color:#21e6e8;
+	}

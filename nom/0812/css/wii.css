@@ -1,0 +1,268 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"MS UI Gothic","Hiragino Kaku Gothic Pro","HiraKakuPro-W3","Lucida Grande","MS Gothic";*/
+	font-family:"Hiragino Kaku Gothic Pro","HiraKakuPro-W3","MS UI Gothic","Lucida Grande","MS Gothic";
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+body {
+	background:#004 url(https://www.nintendo.co.jp/nom/0812/ds1/img/bg_001.jpg) repeat-x center top;
+	text-align:center;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#header {
+	width:768px;
+	height:72px;
+	background:#004 url(https://www.nintendo.co.jp/nom/0812/ds1/img/head_001.jpg) no-repeat center top;
+}
+
+#nom1 {
+	width:188px;
+	height:72px;
+	margin:0 0 0 21px;
+	float:left;
+	display:inline;
+}
+
+#nom2 {
+	width:266px;
+	height:28px;
+	margin:31px 21px 13px 0;
+	float:right;
+	display:inline;
+}
+
+#main {
+	width:768px;
+}
+
+.wii1 {
+	width:768px;
+}
+
+.text1 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:25px 61px 1.2em 61px;
+}
+
+.text3 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:1.2em 61px 1.2em 61px;
+}
+
+.text4 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:1.2em 61px 30px 61px;
+}
+
+.text5 {
+	font-size:12px;
+	line-height:150%;
+	margin:0 0 0 5px;
+}
+
+.text7 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:25px 61px 30px 61px;
+}
+
+.text8 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:10px 61px 20px 61px;
+	float:right;
+	display:inline;
+}
+
+.text5 a:link {
+	color:#CB0000;
+	text-decoration:none;
+}
+
+.text5 a:visited {
+	color:#CB0000;
+	text-decoration:none;
+}
+
+.text5 a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+.btn1 {
+	display:block;
+	width:191px;
+	height:17px;
+	background-color:#EEE;
+	background-image:url(https://www.nintendo.co.jp/nom/0812/wii1/img/link.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	float:left;
+}
+
+.btn1:hover {
+	background-position:0 -17px;
+}
+
+.btn2 {
+	display:block;
+	width:191px;
+	height:17px;
+	background-color:#EEE;
+	background-image:url(https://www.nintendo.co.jp/nom/0812/wii5/img/link.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	float:left;
+}
+
+.btn2:hover {
+	background-position:0 -17px;
+}
+
+
+.text5 {
+	width: 100%;
+	_height: 1px;
+	min-height: 1px;
+}
+
+
+.text2:after {
+	height: 0;
+	visibility: hidden;
+	content: ".";
+	display: block;
+	clear: both;
+}
+
+/* for MacIE5 \*/
+
+.text2 {
+	height: auto;
+	overflow: hidden;
+}
+/* for MacIE5 */
+
+
+.text2 {
+	font-size:12px;
+	line-height:150%;
+	width:646px;
+	margin:1.2em 61px 1.2em 61px;
+}
+
+.text2 span.text2Inner {
+	width: 480px;
+	float: left;
+}
+
+.text2 span.wiispeak {
+	margin-left: 30px;
+	width: 120px;
+}
+
+.sitemap {
+	background: url(https://www.nintendo.co.jp/nom/0812/sitemap/img/bg2.jpg) repeat top left;
+	font-size: 12px;
+}
+
+.sitemapInner {
+	background: url(https://www.nintendo.co.jp/nom/0812/sitemap/img/bg1.jpg) no-repeat top left;
+}
+
+.sitemap p {
+	padding-top: 20px;
+	margin-left: 200px
+}
+
+.sitemap a {
+	text-decoration: none;
+}
+
+a:link {
+	color:#000044;
+	font-size:10px;
+	text-decoration:none;
+}
+
+a:visited { 
+	color:#000044;
+	font-size:10px;
+	text-decoration:none;
+}
+
+a:hover { 
+	text-decoration:underline;
+	color:#2318f2;
+}
+
+.text8 a:link {
+	color:#4E4E4E;
+	font-size:12px;
+	text-decoration:underline;
+}
+
+.text8 a:visited { 
+	color:#4E4E4E;
+	font-size:12px;
+	text-decoration:underline;
+}
+
+.text8 a:hover { 
+	text-decoration:underline;
+	color:#34BEED;
+}
+
+.pic2 {
+	float:right;
+	margin:10px 0 2px 20px;
+	display:inline;
+}

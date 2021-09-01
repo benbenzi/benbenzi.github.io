@@ -1,0 +1,99 @@
+@charset "Shift_JIS";
+
+
+/*↓トップページ====================*/
+
+DIV#MAINBAG {
+	width:720px;
+	height:460px;
+	margin:0 0 20px;
+	padding:0;
+	background-image:url(../img/h1.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	clear:both;
+	}
+
+TABLE#TOPLINEUP {
+	width:720px;
+	height:460px;
+	margin:0;
+	padding:0;
+	clear:both;
+	}
+
+TABLE#TOPLINEUP .wiiware {
+	width:354px;
+	height:460px;
+	margin:0;
+	padding:0;
+	background-image:url(../img/img_wiiware.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	text-align:right;
+	vertical-align:bottom;
+	}
+
+* html .wiiware { behavior: expression(IEPNGFIX.fix(this)); }
+
+TABLE#TOPLINEUP .kaseki {
+	width:366px;
+	height:460px;
+	margin:0;
+	padding:0;
+	background-image:url(../img/img_kaseki.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	text-align:right;
+	vertical-align:bottom;
+	}
+* html .kaseki { behavior: expression(IEPNGFIX.fix(this)); }
+
+p.link_wiiware {
+	width:220px;
+	height:61px;
+	margin:399px 0 0 134px;
+	padding:0;
+	}
+
+p.link_kaseki {
+	width:320px;
+	height:61px;
+	margin:399px 10px 0 36px;
+	padding:0;
+	}
+
+DIV#READ {
+	width:680px;
+	height:340px;
+	margin:0 auto 20px;
+	padding:0;
+	}
+
+DIV#READ div.chatch {
+	width:640px;
+	height:70px;
+	margin:0;
+	padding:0;
+	}
+
+DIV#READ div.read_text {
+	width:640px;
+	height:270px;
+	margin:0;
+	padding:0;
+	}
+
+
+/*↑トップページ====================*/
+
+DIV#SITEMAPAREA {
+	width:600px;
+	height:auto;
+	margin:0 auto 40px;
+	padding:0;
+	text-align:left;
+	font-size:12px;
+	line-height:1em;
+	}
+

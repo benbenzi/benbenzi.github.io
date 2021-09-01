@@ -1,0 +1,816 @@
+@charset "Shift_jis";
+/* CSS Document */
+
+
+*{
+ margin:0;
+ padding:0;
+}
+
+body{
+ 
+ width:100%;
+ background-image:url(../common-img/bg01.jpg);
+ background-position:center-top;
+ background-repeat:repeat-x;
+ background-color:#e0cca9;
+
+}
+
+a{
+
+ color:#fa9532;
+ text-decoration:none;
+
+}
+
+a:hover{
+
+ color:#b73a1d;
+
+}
+
+
+
+#countainer02{
+
+ width:768px;
+ margin:0 auto;
+ text-align:center;
+
+}
+
+#wrapper02{
+
+ width:768px;
+ margin:0 auto;
+ text-align:left;
+ padding:0;
+
+}
+
+.logo-nom-area01{
+
+ width:257px;
+ height:28px;
+ padding:20px 0 18px 61px;
+
+}
+
+.logo-nom-area02{
+
+ width:257px;
+ height:28px;
+ padding:20px 0 18px 20px;
+
+}
+
+#head{
+
+ width:768px;
+ background-image:url(../common-img/p_bg01.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ 
+}
+
+.co-name01{
+ 
+ padding:60px 90px 7px 291px;
+ float:left;
+
+}
+
+.co-name02{
+ 
+ padding:61px 133px 7px 0px;
+ float:right;
+
+}
+
+.p-main01{
+ 
+ width:768px;
+ background-image:url(../page1/img/p_bg02.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ margin:0;
+
+}
+
+.p-main02{
+ 
+ width:768px;
+ background-image:url(../page2/img/p_bg02.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ margin:0;
+
+}
+
+.p-main03{
+ 
+ width:768px;
+ background-image:url(../page3/img/p_bg02.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ margin:0;
+
+}
+
+.p-main04{
+ 
+ width:768px;
+ background-image:url(../page4/img/p_bg02.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ margin:0;
+
+}
+
+.p-main05{
+ 
+ width:768px;
+ background-image:url(../page5/img/p_bg02.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ margin:0;
+
+}
+
+.main-staff-area{
+ 
+ width:445px;
+ height:187px;
+ padding:0 44px 62px 279px;
+
+}
+
+.staff-photo-01{
+ 
+ float:left;
+
+}
+
+.staff-photo-02{
+ 
+ float:left;
+
+}
+
+.staff-photo-03{
+ 
+ float:left;
+
+}
+
+.btn-area01{
+
+ width:768px;
+ height:56px;
+ background-image:url(../common-img/bg_02.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+
+}
+
+.btn-area02{
+
+ width:347px;
+ height:56px;
+ padding:0 0 0 352px;
+
+}
+
+
+.btn-area03{
+
+ width:70px;
+ height:56px;
+ float:right;
+
+}
+
+.p-btn-area00{
+
+ width:71px;
+ height:56px;
+ padding:0 27px 0 0;
+ float:left; 
+
+}
+
+.p-btn-area01{
+
+ width:47px;
+ height:56px;
+ padding:0 0 0 4px;
+ float:left; 
+
+}
+
+.p-btn-area02{
+
+ width:47px;
+ height:56px;
+ padding:0 0 0 2px; 
+ float:left; 
+
+}
+
+.btn-top{
+
+ display:block;
+ width:71px;
+ height:56px;
+ background-image:url(../common-img/top_link.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ float:left;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+
+}
+
+.btn-top:hover{
+ 
+ background-position:0 -56px;
+
+}
+
+.btn1{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn1.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ float:left;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+
+}
+
+.btn1-r{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn1.jpg); 
+ background-position:0 -56px;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn1:hover{
+
+ background-position:0 -56px;
+
+}
+
+.btn2{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn2.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn2-r{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn2.jpg); 
+ background-position:0 -56px;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn2:hover{
+
+ background-position:0 -56px;
+
+}
+
+
+.btn3{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn3.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+ 
+}
+
+.btn3-r{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn3.jpg); 
+ background-position:0 -56px;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn3:hover{
+
+ background-position:0 -56px;
+
+}
+
+.btn4{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn4.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn4:hover{
+
+ background-position:0 -56px;
+
+}
+
+.btn4-r{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn4.jpg); 
+ background-position:0 -56px;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+
+}
+
+.btn5{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn5.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+ 
+}
+
+.btn5-r{
+
+ display:block;
+ width:47px;
+ height:56px;
+ background-image:url(../common-img/btn5.jpg);
+ background-position:0 -56px;
+ background-repeat:no-repeat;
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+ float:left;
+ 
+}
+
+.btn5:hover{
+
+ background-position:0 -56px;
+
+}
+
+
+#page-area{
+ 
+ width:768px;
+ background-image:url(../common-img/bg-repeat01.jpg);
+ background-position:center;
+ background-repeat:repeat-y;
+ text-align:left;
+
+}
+
+.page-title{
+
+ padding:0 0 18px 0;
+
+}
+
+.int-area{
+
+ width:660px;
+ padding:0 54px 0 54px;
+
+}
+
+.int-a-area{
+ 
+ padding:0 0 20px 0;
+
+}
+
+.int-area01{
+
+ width:660px;
+ padding:0 0 20px 0;
+
+}
+
+.int-area02{
+
+ width:660px;
+ padding:0;
+
+}
+
+.int-area03{
+
+ width:660px;
+ padding:0 0 4px 0;
+
+}
+
+.int-area04{
+ 
+ width:596px;
+ float:right;
+
+}
+
+
+.int-name01{
+
+ width:54px;
+ text-align:right;
+ float:left;
+
+}
+
+.int-name02{
+
+ width:54px;
+ padding:20px 0 0 0;
+ float:left;
+
+}
+
+.int-name03{
+
+ width:54px;
+ padding:32px 0 0 0;
+ float:left;
+
+}
+
+.int-01{
+ 
+ width:600px;
+ padding:0 0 0 6px;
+ text-align:left;
+ float:right;
+
+}
+
+.int-02{
+ 
+ width:596px;
+ background-image:url(../common-img/staff03_fukidashi1.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+ line-height:24px;
+
+}
+
+.int-03{
+ 
+ width:596px;
+ background-image:url(../common-img/staff01_fukidashi1.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+ line-height:24px;
+
+}
+
+.int-03-a{
+ 
+ width:596px;
+ height:20px;
+ background-image:url(../common-img/staff01_fukidashi2.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+ 
+}
+
+.int-04{
+ 
+ width:596px;
+ background-image:url(../common-img/staff03_fukidashi1.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+ line-height:24px;
+
+}
+
+.int-04-a{
+ 
+ width:596px;
+ height:20px;
+ background-image:url(../common-img/staff03_fukidashi2.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+.int-05{
+ 
+ width:596px;
+ background-image:url(../common-img/staff02_fukidashi1.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+ line-height:24px;
+
+}
+
+.int-05-a{
+ 
+ width:596px;
+ height:20px;
+ background-image:url(../common-img/staff02_fukidashi2.jpg);
+ background-position:0 0;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+
+/*1行フキダシ*/
+
+.int-02-1{
+ 
+ width:596px;
+ height:63px;
+ background-image:url(../common-img/staff03_fukidashi1-01.jpg);
+ background-position:right;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+.int-03-1{
+ 
+ width:596px;
+ height:63px;
+ background-image:url(../common-img/staff01_fukidashi1-01.jpg);
+ background-position:right;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+.int-04-1{
+ 
+ width:596px;
+ height:63px;
+ background-image:url(../common-img/staff_all_fukidashi1.jpg);
+ background-position:right;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+.int-05-1{
+ 
+ width:596px;
+ height:63px;
+ background-image:url(../common-img/staff02_fukidashi1-01.jpg);
+ background-position:right;
+ background-repeat:no-repeat;
+ padding:0;
+ float:right;
+
+}
+
+.int-text01{
+
+ font-size:12px;
+ color:#240d10;
+ line-height:18px;
+ font-weight:bold;
+
+}
+
+.int-text02{
+
+ width:526px;
+ padding:24px 17px 0 57px;
+ font-size:14px;
+ color:#737373;
+
+}
+
+.int-text03{
+
+ width:526px;
+ padding:24px 17px 0 57px;
+ font-size:14px;
+ color:#737373;
+
+}
+
+/*1行フキダシ(テキスト)*/
+
+.int-text02-1{
+
+ width:526px;
+ padding:24px 17px 0 57px;
+ font-size:14px;
+ color:#737373;
+
+}
+
+.photo-area01{
+ 
+ width:256px;
+ height:192px;
+ padding:30px 202px 4px 202px;
+
+}
+
+.photo-area02{
+ 
+ width:256px;
+ height:14px;
+ padding:0 202px 26px 202px;
+
+}
+
+.photo-area02-l{
+ 
+ width:312px;
+ height:14px;
+ padding:0 174px 26px 174px;
+
+}
+
+.photo-area02-ll{
+ 
+ width:348px;
+ height:14px;
+ padding:0 156px 26px 156px;
+
+}
+
+.photo-area03{
+ 
+ width:256px;
+ height:192px;
+ padding:30px 202px 30px 202px;
+
+}
+
+.photo-area04{
+ 
+ width:624px;
+ height:150px;
+ padding:30px 18px 30px 18px
+
+}
+
+.photo11{
+
+ width:198px;
+ height:150px;
+ padding:0 15px 0 0;
+ float:left;
+
+}
+
+.photo13{
+
+ width:198px;
+ height:150px;
+ padding:0;
+ float:left;
+
+}
+
+#footer1{
+ 
+ width:768px;
+ height:91px;
+ background-image:url(../common-img/p_bg05.jpg);
+ background-repeat:no-repeat;
+ background-position:0 0;
+ padding:0 0 34px 0;
+ text-align:center;
+
+}
+
+#footer2{
+ 
+ width:748px;
+ color:#737373;
+ font-size:11px;
+ padding:0 0 45px 20px;
+ text-align:left;
+
+}
+
+.footer-text01{
+
+ color:#6d6956;
+ font-size:12px;
+ padding:4px 0 0 0;
+
+}
+
+.clear{
+
+ clear:both;
+ 
+}
+
+.btn-text{
+
+ font-size:0.1%;
+ line-height:0.1%;
+ text-indent:-9999px;
+
+}
+
+.footer-link{
+
+ color:#737373;
+ text-decoration:underline;
+
+}
+
+.staff-photo01{
+ 
+ width:660px;
+ text-align:center;
+ padding:30px 0 26px 0;
+
+}

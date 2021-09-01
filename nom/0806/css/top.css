@@ -1,0 +1,179 @@
+@charset "Shift_JIS";
+
+
+/*-------------特集名-----------------*/
+#top2 {
+	width: 704px;
+	height: 95px;
+}
+
+#toku_yohaku {
+	margin: 19px 129px 22px 25px;
+}
+
+#tokuname1 {
+	float: left;
+	width: 83px;
+}
+
+#tokuname2 {
+	float: right;
+	width: 449px;
+}
+
+
+/*-------------ボタン部分-----------------*/
+
+#btn_yohaku {
+	margin: 0px 25px;
+}
+
+
+#btn1 {
+	float: left;
+}
+
+#btn2 {
+	float: right;
+}
+
+#btn1 a {
+	display: block;
+	width: 322px;
+	height: 391px;
+	background: url(https://www.nintendo.co.jp/nom/0806/img/btn1.jpg) 0 0px no-repeat;
+}
+
+#btn1 a:hover {
+	
+	background: url(https://www.nintendo.co.jp/nom/0806/img/btn1.jpg) 0 -391px no-repeat;
+}
+
+
+#btn2 a {
+	display: block;
+	width: 322px;
+	height: 391px;
+	background: url(https://www.nintendo.co.jp/nom/0806/img/btn2.jpg) 0 0px no-repeat;
+}
+
+#btn2 a:hover {
+	
+	background: url(https://www.nintendo.co.jp/nom/0806/img/btn2.jpg) 0 -391px no-repeat;
+}
+
+
+/*-------------テキスト部分-----------------*/
+
+#top4 {
+	padding: 25px 25px 15px 25px;
+}
+
+#sitemap {
+	padding: 0px 40px 10px 105px;
+	line-height: 1em;
+}
+
+#kasa {
+	background: url(https://www.nintendo.co.jp/nom/0806/img/kasa.jpg) bottom right no-repeat;
+}
+
+/*-------------下部リンク部分-----------------*/
+
+#go_top_map {
+	margin: 10px 0px;
+}
+
+#top5 {
+	display: block;
+	width: 704px;
+	height: 124px;
+}
+
+#under_bar_blue {
+	display: block;
+	width: 704px;
+	height: 35px;
+	background: url(https://www.nintendo.co.jp/nom/0806/common/underlink_bg.jpg) 0 0 no-repeat;
+}
+
+#under_yohaku {
+	padding: 11px 120px;
+}
+
+#under_yohaku2 {
+	padding: 11px 250px;
+	text-align: center;
+}
+
+#go_index {
+	float: left;
+}
+
+#go_sitemap {
+	float: right;
+}
+
+#go_index2 {
+	margin: auto;
+	display: block;
+	width: 155px;
+	height: 15px;
+}
+
+#go_index a {
+	display: block;
+	width: 201px;
+	height: 13px;
+	background: url(https://www.nintendo.co.jp/nom/0806/img/go_index.gif) 0 0 no-repeat;
+}
+
+
+#go_index2 a {
+	display: block;
+	width: 155px;
+	height: 15px;
+	background: url(https://www.nintendo.co.jp/nom/0806/yakumanwii/img/go_top2.gif) 0 0 no-repeat;
+}
+
+#go_sitemap a {
+	display: block;
+	width: 231px;
+	height: 13px;
+	background: url(https://www.nintendo.co.jp/nom/0806/img/go_sitemap.jpg) 0 0 no-repeat;
+}
+
+#go_index a:hover{
+	
+	background: url(https://www.nintendo.co.jp/nom/0806/img/go_index.gif) 0 -13px no-repeat;
+}
+
+#go_index2 a:hover {
+	
+	background: url(https://www.nintendo.co.jp/nom/0806/yakumanwii/img/go_top2.gif) 0 -15px no-repeat;
+}
+
+
+#go_sitemap a:hover {
+	
+	background: url(https://www.nintendo.co.jp/nom/0806/img/go_sitemap.jpg) 0 -13px no-repeat;
+}
+
+#copy {
+	display: block;
+	width: 704px;
+	height: 89px;
+	text-align: center;
+	background: url(https://www.nintendo.co.jp/nom/0806/common/top_shita.jpg) bottom center no-repeat;
+}
+
+#copy_yohaku {
+	padding-top: 20px;
+}
+
+#copy p {
+	font-size: 10px;
+	font-family: "ＭＳ ゴシック", "Osaka－等幅";
+	color: #313131;
+	line-height: 1.6;
+}

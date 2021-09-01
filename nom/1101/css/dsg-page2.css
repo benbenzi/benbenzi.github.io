@@ -1,0 +1,197 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/12/27;
+	Site Name : N.O.M Nintendo Online Magazine No.150;
+	About : N.O.M dsg page2 SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.p2-read-01{
+	width:688px;
+}
+
+.p2-read-02{
+	width:218px;
+	float:left;
+}
+
+.p2-read-03{
+	width:236px;
+	float:left;
+}
+
+.p2-read-03a{
+	width:236px;
+	height:14px;
+}
+
+.p2-read-03a-link{
+	display:block;
+	width:236px;
+	height:14px;
+	background-image:url(https://www.nintendo.co.jp/nom/1101/dsg-page2/img/page-read-link.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.p2-read-03a-link:hover{
+	background-position:0 -14px;	
+}
+
+.p2-read-04{
+	width:234px;
+	float:right;
+}
+
+.img003{
+	width:510px;
+	padding:0 0 30px 0;
+	margin:0 auto;
+}
+
+.img003_a{
+	width:240px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.img003_b{
+	width:240px;
+	padding:0;
+	float:right;
+}
+
+.img004{
+	width:510px;
+	padding:0;
+	margin:0 auto;
+}
+
+.comment-area{
+	width:648px;
+	padding:0 20px 0 20px;
+}
+
+.comment-bg{
+	width:648px;
+	background-image:url(https://www.nintendo.co.jp/nom/1101/dsg-page2/img/comment_bg02.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.comment01{
+	width:573px;
+	margin:0 auto;
+	padding:8px 0 36px 0;
+}
+
+.comment02{
+	width:171px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.comment02_a a{
+	color:#8f2879;
+}
+
+.comment02_b a{
+	color:#1f6930;
+}
+
+.comment02_c a{
+	color:#a86d00;
+}
+
+.comment02_d a{
+	color:#694f1f;
+}
+
+.comment02_e a{
+	color:#28618f;
+}
+
+.comment02_f a{
+	color:#8f2879;
+}
+
+.comment03{
+	width:171px;
+	padding:0;
+	float:right;
+}
+
+.comment04{
+	width:573px;
+	margin:0 auto;
+	padding:0;
+}
+
+.comment-area_unei{
+	width:648px;
+	padding:0 20px 30px 20px;
+}
+
+.comment05{
+	width:588px;
+	margin:0 auto;
+}
+
+.comment05_a{
+	width:389px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.comment05_b{
+	width:169px;
+	padding:0;
+	float:right;
+}

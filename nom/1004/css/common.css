@@ -1,0 +1,410 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	NOM_2010_04
+
+	Build Date : 2010/03/26;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:13px;
+	/*font-weight:normal;*/
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+	color:#555;
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background-color:#FBFBDB;
+	background-position:center top;
+	background-repeat:repeat-y;
+	background-image:url(../top_img/top_bg_001.gif);
+	text-align:center;
+}
+
+#container {
+	background-color:#FBEBA2;
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	/*position:relative;*/
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#top-head {
+	width:768px;
+	height:230px;
+}
+
+.top-head-logo {
+	width:255px;
+	height:50px;
+	margin:0 0 0 21px;
+}
+
+#top-title {
+	width:768px;
+	height:180px;
+	background-color:#FFF;
+}
+
+.top-line {
+	width:768px;
+	height:12px;
+}
+
+.top-ds-title {
+	width:380px;
+	height:107px;
+	margin:27px 0 23px 194px;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+#top-main {
+	width:768px;
+}
+
+.top-main-bg {
+	width:768px;
+	background-position:center top;
+	background-repeat:repeat-y;
+	background-image:url(../top_img/top_bg_002.jpg);
+}
+
+.top-nom-title {
+	width:301px;
+	height:70px;
+	margin:0 147px 18px 0;
+	float:left;
+	display:inline;
+}
+
+.top-img-001 {
+	float:left;
+	display:inline;
+	margin:0 20px 5px 0;
+}
+
+.top-main-box-001 {
+	width:668px;
+	margin:0 50px;
+	display:inline;
+	float:left;
+	padding:10px 0 0 0;
+}
+
+.top-main-box-002 {
+	width:768px;
+	/*height:373px;*/
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-image:url(../top_img/top_bg_003.jpg);
+}
+
+.top-main-box-003 {
+	width:234px;
+	height:116px;
+	margin:257px 0 0 40px;
+	float:left;
+	display:inline;
+}
+
+.top-main-btn-area {
+	width:394px;
+	height:338px;
+	float:left;
+	margin:15px 0 0 50px;
+	display:inline;
+}
+
+.top-main-btn-area-001 {
+	width:394px;
+	padding:0 0 5px 0;
+}
+
+.top-main-btn-area-002 {
+	width:394px;
+	height:50px;
+}
+
+.top-btn1 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn1:hover {
+	background-position:-394px 0;
+}
+
+.top-btn2 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -50px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn2:hover {
+	background-position:-394px -50px;
+}
+
+.top-btn3 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -100px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn3:hover {
+	background-position:-394px -100px;
+}
+
+.top-btn4 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -150px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn4:hover {
+	background-position:-394px -150px;
+}
+
+.top-btn5 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -200px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn5:hover {
+	background-position:-394px -200px;
+}
+
+.top-btn6 {
+	display:block;
+	width:394px;
+	height:50px;
+	background-image:url(../top_img/top_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -250px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn6:hover {
+	background-position:-394px -250px;
+}
+
+.top-btn7 {
+	display:block;
+	width:90px;
+	height:18px;
+	background-image:url(../top_img/top_btn_002.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.top-btn7:hover {
+	background-position:0 -18px;
+}
+
+/*--- 04.footer
+--------------------------------------------------------------------------*/
+
+#footer {
+	width:768px;
+	height:80px;
+}
+
+#footer p {
+	width:724px;
+	margin:27px 22px 0 22px;
+	font-size:10px;
+}
+
+#footer p a {
+	font-size:10px;
+	color:#FF458C;
+}
+
+#footer p a:link {
+	font-size:10px;
+	color:#FF458C;
+	text-decoration:underline;
+}
+
+#footer p a:visited {
+	font-size:10px;
+	color:#FF458C;
+	text-decoration:underline;
+}
+
+#footer p a:hover {
+	font-size:10px;
+	color:#FF458C;
+	text-decoration:none;
+}
+
+/*---
+--------------------------------------------------------------------------*/
+
+.main-page01 a {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+.main-page01 a:visited {
+	color:#FF458C;
+	text-decoration:underline;
+}
+
+.main-page01 a:hover {
+	color:#FF458C;
+	text-decoration:none;
+}
+
+.main-page02 a {
+	color:#ff458c;
+	text-decoration:underline;
+}
+
+.main-page02 a:visited {
+	color:#FF458C;
+	text-decoration:underline;
+}
+
+.main-page02 a:hover {
+	color:#FF458C;
+	text-decoration:none;
+}

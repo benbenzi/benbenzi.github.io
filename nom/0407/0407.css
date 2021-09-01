@@ -1,0 +1,50 @@
+.txt10 {
+	FONT-SIZE: 10px; LINE-HEIGHT: 130%; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.info12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 140%; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 180%; COLOR: #333333;  FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.inter12 {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; LINE-HEIGHT: 140%; COLOR: #000000; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.lead {
+	FONT-SIZE: 12px; LINE-HEIGHT: 180%; FONT-WEIGHT: bold; COLOR: #333333; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.site12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 140%; COLOR: #333333; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+
+
+
+A:link    {
+	text-decoration:none; color: #003366;
+}
+A:visited { 
+	text-decoration:none; color: #003366;
+}
+A:active  { 
+	text-decoration:none; 
+}
+A:hover   { 
+	text-decoration:underline; color: #00CCFF; 
+}
+
+
+
+A.ulk:link    {
+	text-decoration: none; color: #FFFFFF;
+}
+A.ulk:visited { 
+	text-decoration: none; color: #FFFFFF;
+}
+A.ulk:active  { 
+	text-decoration: none; 
+}
+A.ulk:hover   { 
+	text-decoration: underline; color: #003366; 
+}
+
+

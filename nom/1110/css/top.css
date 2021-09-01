@@ -1,0 +1,154 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/9/29;
+	Site Name : N.O.M Nintendo Online Magazine No.159;
+	About : N.O.M top-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+.t-btnarea {
+	width:768px;
+	background-image:url(../img/img003.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btnarea01 {
+	width:448px;
+	margin:0 0 50px 20px;
+	float:left;
+}
+
+.t-btnarea02 {
+	width:239px;
+	padding:58px 22px 45px 0;
+	float:right;
+}
+
+.t-btn {
+	width:148px;
+	float:left;
+}
+
+.t-btn_a {
+	width:148px;
+	float:right;
+}
+
+.t-btn01 {
+	display:block;
+	width:148px;
+	height:75px;
+	background-image:url(../img/t_btn01.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn02 {
+	display:block;
+	width:148px;
+	height:75px;
+	background-image:url(../img/t_btn02.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03 {
+	display:block;
+	width:148px;
+	height:75px;
+	background-image:url(../img/t_btn03.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01:hover , .t-btn02:hover , .t-btn03:hover{
+	background-position:0 -75px;
+}
+
+.offi {
+	width:239px;
+	height:22px;
+}
+
+.btnoffi {
+	display:block;
+	width:239px;
+	height:22px;
+	background-image:url(../img/offi.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btnoffi:hover {
+	background-position:0 -22px;
+}
+
+.t-main {
+	width:708px;
+	margin:0 20px 32px 40px;
+}
+
+.t-main01 {
+	width:452px;
+	margin:0 29px 0 0;
+	float:left;
+}
+
+.soft {
+	width:227px;
+	float:right;
+}

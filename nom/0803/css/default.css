@@ -1,0 +1,113 @@
+@charset "Shift_JIS";
+
+/* 基本設定(↓) */
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	text-align: center;
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.5em;
+	}
+
+img {
+	border: none;
+	margin: 0;
+	padding:0;
+	}
+
+h1, h2 {
+	display:inline;
+	padding:0;
+	}
+	
+/*　基本表示エリア（↓）*/
+#main_area {
+	width:720px;
+	margin:0 auto;
+	padding:0 0 0;
+	text-align: center;
+	}
+	
+#bg_image {
+	width:100%;
+	height:100%;
+	background-image:url(https://www.nintendo.co.jp/nom/0803/img_cmn/bg.jpg);
+	background-repeat: repeat;
+	background-position: center top;
+	text-align:center;
+	}
+
+#sitemap_bg {
+	width:720px;
+	height:463px;
+	background-image:url(https://www.nintendo.co.jp/nom/0803/img_top/sitemap_bg.jpg);
+	background-repeat: no-repeat;
+	padding: 50px;
+	}
+
+
+/*　表示位置（↓）*/
+td.v_top {
+ vertical-align: top;
+	}
+td.v_middle {
+ vertical-align: middle;
+	}
+td.v_bottom {
+ vertical-align: bottom;
+	}
+
+.centering {
+ text-align: center;
+	margin: auto;
+}
+
+
+
+/*  リンクテキスト  */
+A:link    {
+	color: #000000; font-size:10px; text-decoration:none;
+}
+A:visited { 
+	color: #000000; font-size:10px; text-decoration:none;
+}
+A:hover   { 
+	text-decoration:underline; color: #e25d34;
+}
+
+
+/*  ナビリンクテキスト  */
+#navi_link A:link    {
+	color: #000000; font-size:12px; text-decoration:none;
+}
+#navi_link A:visited { 
+	color: #000000; font-size:12px; text-decoration:none;
+}
+#navi_link A:hover   { 
+	text-decoration:underline; color: #e25d34;
+}
+
+/*  インタビューリンクテキスト  */
+.interview_area A:link    {
+	color: #e9501e; font-size:12px; text-decoration:none;
+}
+.interview_area A:visited { 
+	color: #e9501e; font-size:12px; text-decoration:none;
+}
+.interview_area A:hover   { 
+	text-decoration:underline; color: #e9501e;
+}
+
+/*  サイトマップ用リンクテキスト  */
+#sitemap_area A:link    {
+	color: #000000; font-size:12px; text-decoration:none;
+}
+#sitemap_area A:visited { 
+	color: #000000; font-size:12px; text-decoration:none;
+}
+#sitemap_area A:hover   { 
+	text-decoration:underline; color: #e25d34;
+}

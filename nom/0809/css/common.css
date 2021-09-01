@@ -1,0 +1,42 @@
+@charset "Shift_JIS";
+
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+body {
+	text-align: center;
+
+}
+
+ul,li {
+	list-style: none;
+	font-size: 10px;
+}
+
+
+a {
+	outline: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/*-------------ForIE----------*/
+
+.center {
+	text-align: center;
+}
+
+/*----------------------------*/
+
+#all {
+	margin: auto;
+	padding: 20px 0;
+	width: 720px;
+	text-align: left;
+	
+}

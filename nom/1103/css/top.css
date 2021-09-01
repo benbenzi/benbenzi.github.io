@@ -1,0 +1,184 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/2/25;
+	Site Name : N.O.M Nintendo Online Magazine No.152;
+	About : N.O.M top-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.t-main {
+	width:768px;
+}
+
+.t-main01 {
+	width:333px;
+	float:left;
+}
+
+.t-main02 {
+	width:435px;
+	float:right;
+}
+
+.official-area {
+	width:768px;
+	height:28px;
+	background-color:#eaeaea;
+}
+
+.official-area p{
+	width:181px;
+	height:10px;
+	padding:0 519px 18px 68px;
+}
+
+.official{
+	display:block;
+	width:181px;
+	height:10px;
+	background-image:url(../img/official.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.official:hover {
+	background-position:0 -10px;
+}
+
+.t-page-area {
+	width:677px;
+	margin:0 auto;
+	padding:36px 0 21px 0;
+}
+
+.t-page-area p {
+	padding:0 0 28px 0;
+}
+
+.t-page-area1 {
+	width:677px;
+	padding:0 0 9px 0;
+}
+
+.t-page-area1 a {
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-page-area1a {
+	width:334px;
+	float:left;
+	padding:0;
+}
+
+.t-page-area1b {
+	width:334px;
+	float:right;
+	padding:0;
+}
+
+.t-btn1{
+	display:block;
+	width:334px;
+	height:140px;
+	background-image:url(../img/t_btn1.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btn2{
+	display:block;
+	width:334px;
+	height:140px;
+	background-image:url(../img/t_btn2.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btn3{
+	display:block;
+	width:334px;
+	height:140px;
+	background-image:url(../img/t_btn3.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btn4{
+	display:block;
+	width:334px;
+	height:140px;
+	background-image:url(../img/t_btn4.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btn5{
+	display:block;
+	width:334px;
+	height:140px;
+	background-image:url(../img/t_btn5.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.t-btn1:hover , .t-btn2:hover , .t-btn3:hover , .t-btn4:hover , .t-btn5:hover {
+	background-position:0 -140px;
+}
+
+.copy{
+	width:100px;
+	height:12px;
+	margin:0 auto;
+	padding:0 0 30px 0;	
+}
+
+

@@ -1,0 +1,75 @@
+@charset "Shift_JIS";
+
+/*ブラウザ間のマージンなどリセット用______Eric Meyer's reset.css page__*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:100%;
+	font-family:inherit;
+	vertical-align:baseline;
+	background:transparent;
+	}
+
+/* remember to define focus styles! */
+:focus {
+	outline:0;
+	}
+body {
+	line-height:1;
+	color:#222222;/*基本の文字色*/
+	background:#ffffff;/*基本の背景色*/
+	}
+ol, ul {
+	list-style:none;
+	}
+
+/* tables still need 'cellspacing="0"' in the markup */
+	table {
+	border-collapse:separate;
+	border-spacing:0;
+	}
+caption, th, td {
+	text-align:left;
+	font-weight:normal;
+	}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content:"";
+	}
+blockquote, q {
+	quotes:"" "";
+	}
+
+/*↓Wiiリンク設定のリセット====================*/
+a:hover {
+    outline: 0;
+}
+a:hover img, a:hover object, a:hover area, a:hover map, a:hover embed {
+    outline: 0;
+}
+input:hover, select:hover, option:hover, map:hover, area:hover {
+    outline: 0;
+}
+
+
+/* 解説
+一番最初にbackground:transparent;を追記します。
+a :focusに対しての指定をする。アクセシビリティの点において重要な項目です。
+bodyに対して基本となるline-height(改行ピッチ)を指定してやる。そして、背景色とテキスト色を決める。
+a img, :link img, :visited imgについてはすでに各ブラウザとも統一されているので特に何もしない。
+caption, th, tdにleft-aligned と normal-weightを指定する。
+blockquoteに関して指定をする。
+これにＷｉｉのリンク設定リセットを追加。
+*/

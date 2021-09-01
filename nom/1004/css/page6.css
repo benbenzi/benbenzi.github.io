@@ -1,0 +1,23 @@
+@charset "Shift_JIS";
+
+.main-text02{
+    width:668px;
+	padding:20px 0 0 0;
+}
+
+.text003{
+    width:45px;
+	font-size:13px;
+	color:#fb4169;
+	float:left;
+	text-align:right;
+}
+
+.text004a{
+    width:421px;
+	font-size:13px;
+	line-height:20px;
+	color:#555555;
+	float:left;
+	margin:0 0 20px 12px;
+}

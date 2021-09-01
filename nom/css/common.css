@@ -1,0 +1,319 @@
+body {
+
+
+	margin: 30px 0px 55px 0px;
+
+
+	padding: 0px;
+
+
+	text-align: center;
+
+
+	color: #999999;
+
+
+	background: #FFFFFF url(../img/bg_main.jpg) repeat-x;
+
+
+}
+
+
+
+
+
+#wrapper {
+
+
+	width: 720px;
+
+
+	margin: 0px;
+
+
+	padding: 0px;
+
+
+	border-style: none;
+
+
+	margin-left: auto;
+
+
+	margin-right: auto;
+
+
+}
+
+
+
+
+
+#navi {
+
+
+	width: 167px;
+
+
+	text-align: left;
+
+
+	vertical-align: top;
+
+
+}
+
+
+
+
+
+#navi .logo {
+
+
+	height: 119px;
+
+
+	background: url(../img/line_bn.gif) no-repeat 0px 112px;
+
+
+}
+
+
+#navi .menu {
+
+
+	height: 23px;
+
+
+}
+
+
+#navi .menutop {
+
+
+	padding-top: 5px;
+
+
+	padding-bottom: 5px;
+
+
+	background: url(../img/line_bn.gif) no-repeat 0px 0px;
+
+
+}
+
+
+
+
+
+#contents {
+
+
+	width: 553px;
+
+
+	text-align: left;
+
+
+	vertical-align: top;
+
+
+}
+
+
+
+
+
+.line01 a {
+
+
+	width: 443px;
+
+
+	_width: 553px;
+
+
+	height: 15px;
+
+
+	_height: 62px;
+
+
+	display: block;
+
+
+	padding: 22px 30px 25px 80px;
+
+
+	font-size: 12px;
+
+
+	line-height: 16px;
+
+
+	color: #999999;
+
+
+	text-decoration: underline;
+
+
+}
+
+
+
+
+
+.line01 a:hover {
+
+
+	color: #000000;
+
+
+}
+
+
+
+
+
+.line02 a {
+
+
+	width: 443px;
+
+
+	_width: 553px;
+
+
+	height: 34px;
+
+
+	_height: 62px;
+
+
+	display: block;
+
+
+	padding: 14px 30px 14px 80px;
+
+
+	font-size: 12px;
+
+
+	line-height: 16px;
+
+
+	color: #999999;
+
+
+	text-decoration: underline;
+
+
+}
+
+
+
+
+
+.line02 a:hover {
+
+
+	color: #000000;
+
+
+}
+
+
+
+
+
+.line03 a {
+
+
+	width: 443px;
+
+
+	_width: 553px;
+
+
+	height: 48px;
+
+
+	_height: 62px;
+
+
+	display: block;
+
+
+	padding: 7px 30px 7px 80px;
+
+
+	font-size: 12px;
+
+
+	line-height: 16px;
+
+
+	color: #999999;
+
+
+	text-decoration: underline;
+
+
+}
+
+
+
+
+
+.line03 a:hover {
+
+
+	color: #000000;
+
+
+}
+
+
+
+
+
+.note {
+
+
+	background: url(../img/bg_note_main.gif) repeat-y;
+
+
+}
+
+
+
+
+
+ul {
+
+
+	margin: 0px;
+
+
+	padding: 0px 20px 0px 35px;
+
+
+	font-size: 11px;
+
+
+	line-height: 16px;
+
+
+}
+
+.about {
+	margin:8px 0 8px 0;
+}
+
+.whatnommes {
+font-size: 12px;
+line-height: 1.5;
+margin:0 15px;
+color:#333;
+/*padding: 0 8px 15px 8px;*/
+}

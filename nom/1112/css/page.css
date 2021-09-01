@@ -1,0 +1,498 @@
+@charset "Shift_JIS";
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* html body { text-align:center; }
+
+body {
+	font-size:13px;
+	background-image:url(../page4/image/bg.jpg);
+	background-repeat:repeat;
+	background-position:center top;
+	background-color:#fff;
+	color:#333;
+	text-align:center;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";
+	font-weight:normal;
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+p {
+	/*color:#333;*/
+	font-size:13px;
+}
+
+a {
+	outline:none;
+	text-decoration:underline;
+	color:#ff0f17;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+.clear {
+	clear:both;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+	background-color:#bfdffb;
+}
+
+#wrapper {
+	width:766px;
+	margin:0 auto;
+	text-align:left;
+	background-color:#fff;
+}
+
+
+
+.header {
+	width:726px;
+	padding:0;
+	margin:0 20px 0 20px;
+}
+
+.nom {
+	width:255px;
+	height:28px;
+	padding:19px 251px 14px 0;
+	float:left;
+}
+
+.nom_wii {
+	width:255px;
+	height:28px;
+	padding:19px 409px 14px 0;
+	float:left;
+}
+
+.threeds {
+	width:220px;
+	height:28px;
+	padding:19px 0 14px 0;
+	float:left;
+}
+
+.wii {
+	width:62px;
+	height:28px;
+	padding:19px 0 14px 0;
+	float:left;
+}
+
+.mainimgarea01 {
+	width:766px;	
+}
+
+.mainimgarea01_p3 {
+	width:766px;	
+}
+
+.mainimgarea01_p4 {
+	width:766px;	
+}
+
+.mainimgarea02 {
+	width:501px;
+	float:left;
+}
+
+.mainimgarea02_p3 {
+	width:503px;
+	float:left;
+}
+
+.mainimgarea02_p4 {
+	width:503px;
+	float:left;
+}
+
+.offi {
+	width:77px;
+	height:15px;
+	float:left;
+}
+
+.wiioffi {
+	width:124px;
+	height:20px;
+	float:left;
+}
+
+.mainimgarea03 {
+	width:188px;
+	float:right;
+}
+
+.mainimgarea03_p3 {
+	width:186px;
+	float:right;
+}
+
+.mainimgarea03_p4 {
+	width:139px;
+	float:right;
+}
+
+.offi_a {
+	display:block;
+	width:77px;
+	height:15px;
+	background-image:url(../common-img/mario_offi.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.wiioffi_a {
+	display:block;
+	width:124px;
+	height:20px;
+	background-image:url(../page4/image/wiioffi.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.offi_a:hover {
+	background-position:0 -15px;	
+}
+
+.wiioffi_a:hover {
+	background-position:0 -20px;	
+}
+
+
+.btnarea01 {
+	width:766px;
+	margin:0 0 40px 0;
+}
+
+.title {
+	width:523px;
+	float:left;
+}
+
+.btn {
+	width:47px;
+	height:34px;
+	float:left;
+}
+
+.btn01 {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn02 {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn03 {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn04 {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn04.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btntotop {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/totop.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn01_now {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 -34px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn02_now {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 -34px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn03_now {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 -34px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+.btn04_now {
+	display:block;
+	width:47px;
+	height:34px;
+	background-image:url(../common-img/btn04.gif);
+	background-repeat:no-repeat;
+	background-position:0 -34px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;	
+}
+
+
+.lead_001 {
+	margin:15px 0 28px 0;
+}
+
+.lead_002 {
+	margin:0;
+}
+
+.mi01 {
+	width:624px;
+	padding:0 71px 0 71px;
+}
+
+.text01 {
+	width:624px;	
+}
+
+.text02 {
+	width:250px;
+	padding:0 26px 26px 0;
+	float:left;
+}
+
+.text02_end {
+	width:250px;
+	padding:0 26px 44px 0;
+	float:left;
+}
+
+.text03 {
+	width:348px;
+	padding:0 0 26px 0;
+	float:right;
+}
+
+.text_caption {
+	width:348px;
+	padding:20px 0 0 0;
+	font-size:10px;
+}
+
+.text_caption01 {
+	width:20px;
+	float:left;
+}
+
+.text_caption02 {
+	width:328px;
+	float:right;
+}
+
+.text04 {
+	width:624px;
+	padding:0 0 26px 0;
+}
+
+.text04_end {
+	width:624px;
+	padding:0 0 40px 0;
+}
+
+.soft_list_001 {
+	margin:0 20px;
+	font-size:11px;
+	color:#333;
+}
+
+.soft_list_001 a {
+	color:#333;
+}
+
+.soft_list_002 {
+	color:#f51827;
+	font-size:10px;
+}
+
+.soft_list_003 {
+	color:#009bda;
+	font-size:10px;
+}
+
+.soft_text_001 {
+	margin:0 34px 0 31px;
+	padding:0 0 25px 0;
+	color:#747474;
+}
+
+.soft_text_001 a {
+	color:#52b8e1;
+}
+
+.soft_text_002 {
+	margin:0 34px 0 31px;
+	padding:0 0 25px 0;
+	color:#747474;
+}
+
+.soft_text_002 a {
+	color:#ff1f26;
+}
+
+.soft_btn_001 {
+	display:block;
+	width:93px;
+	height:15px;
+	background-image:url(../page4/image/soft_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	float:left;
+	font-size:1%;
+}
+
+.soft_btn_001:hover {
+	background-position:0 -15px;
+}
+
+.soft_btn_002 {
+	display:block;
+	width:93px;
+	height:15px;
+	background-image:url(../page4/image/soft_btn_002.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	float:left;
+	font-size:1%;
+}
+
+.soft_btn_002:hover {
+	background-position:0 -15px;
+}
+
+.page_link_001 {
+	text-align:center;
+	font-size:12px;
+}
+
+.page_link_002 {
+	text-align:left;
+	font-size:12px;
+	margin:0 100px 0 249px;
+}
+
+.page_link_001 a,.page_link_002 a {
+	color:#ff2d34;
+}
+
+.page_link_003 a {
+	color:#4381b8;
+}

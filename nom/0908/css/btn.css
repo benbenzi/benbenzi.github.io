@@ -1,0 +1,361 @@
+@charset "Shift_JIS";
+
+/*--- btn
+--------------------------------------------------------------------------
+
+	Build Date : 2009/07/29;
+	Site Name : NOM2009年8月号;
+	URL : http://www.nintendo.co.jp/nom/0908/index.html;
+	About : NOM2009年8月号用ボタンCSS;
+
+	00.common
+	01.btn
+
+--------------------------------------------------------------------------*/
+
+/*--- 01.btn
+--------------------------------------------------------------------------*/
+
+/*すすむボタン*/
+
+.btn1 {
+	display:block;
+	width:190px;
+	height:190px;
+	background-image:url(../img_cmn/btn_gomenu1.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn1:hover {
+	background-position:0 -190px;
+}
+
+/*チンクルの不思議「おとなし」ボタン*/
+
+.btn2 {
+	display:block;
+	width:280px;
+	height:150px;
+	background-image:url(../img_cmn/sound_btn_pop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn2:hover {
+	background-position:0 -150px;
+}
+
+/*公式サイトへボタン*/
+
+.btn3 {
+	display:block;
+	width:145px;
+	height:30px;
+	background-image:url(../img_cmn/btn_irocin.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	margin-left: 224px;
+}
+
+.btn3:hover {
+	background-position:0 -30px;
+}
+
+/*メニューページへボタン*/
+
+.btn4 {
+	display:block;
+	width:210px;
+	height:30px;
+	background-image:url(../img_cmn/btn_gomenu2.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	margin-left:524px;
+}
+
+.btn4:hover {
+	background-position:0 -30px;
+}
+
+/*このウインドウをとじるボタン*/
+
+.btn5 {
+	display:block;
+	width:220px;
+	height:30px;
+	background-image:url(../img_cmn/btn_close.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	margin-left:514px;
+}
+
+.btn5:hover {
+	background-position:0 -30px;
+}
+
+/*このウインドウをとじるボタン*/
+
+.btn5 {
+	display:block;
+	width:220px;
+	height:30px;
+	background-image:url(../img_cmn/btn_close.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn5:hover {
+	background-position:0 -30px;
+}
+
+/*N.O.Mのバックナンバーページへボタン*/
+
+.btn6 {
+	display:block;
+	width:300px;
+	height:30px;
+	background-image:url(../img_cmn/btn_bn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn6:hover {
+	background-position:0 -30px;
+}
+
+/*N.O.Mのバックナンバーページへボタン*/
+
+.btn7 {
+	display:block;
+	width:280px;
+	height:30px;
+	background-image:url(../img_cmn/btn_toppage.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn7:hover {
+	background-position:0 -30px;
+}
+
+/*N.O.M8月号のトップページへボタン*/
+
+.btn8 {
+	display:block;
+	width:280px;
+	height:30px;
+	background-image:url(../img_cmn/btn_toppage.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	margin-left: 454px;
+}
+
+.btn8:hover {
+	background-position:0 -30px;
+}
+
+/*N.O.M8月号のバックナンバーページへボタン*/
+
+.btn9 {
+	display:block;
+	width:300px;
+	height:30px;
+	background-image:url(../img_cmn/btn_bn.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	margin-left: 434px;
+}
+
+.btn9:hover {
+	background-position:0 -30px;
+}
+
+/*チンクルの不思議「真っ暗ダンジョン」ボタン*/
+
+.btn10 {
+	display:block;
+	width:320px;
+	height:150px;
+	background-image:url(../img_cmn/program_btn_pop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn10:hover {
+	background-position:0 -150px;
+}
+
+/*チンクルの不思議「鏡チンクル」ボタン*/
+
+.btn11 {
+	display:block;
+	width:280x;
+	height:150px;
+	background-image:url(../img_cmn/chara_btn_pop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn11:hover {
+	background-position:0 -150px;
+}
+
+/*チンクルの不思議「ききみみ」ボタン*/
+
+.btn12 {
+	display:block;
+	width:280x;
+	height:150px;
+	background-image:url(../img_cmn/world_btn_pop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+}
+
+.btn12:hover {
+	background-position:0 -150px;
+}
+
+
+/*時間割ボタン*/
+
+.btn1j  {
+	display:block;
+	width:580x;
+	height:60px;
+	background-image:url(../img/btn_jikan1.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn1j:hover {
+	background-position:0 -60px;
+}
+
+.btn2j  {
+	display:block;
+	width:580x;
+	height:60px;
+	background-image:url(../img/btn_jikan2.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn2j:hover {
+	background-position:0 -60px;
+}
+
+.btn3j  {
+	display:block;
+	width:580x;
+	height:59px;
+	background-image:url(../img/btn_jikan3.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn3j:hover {
+	background-position:0 -59px;
+}
+
+.btn4j  {
+	display:block;
+	width:580x;
+	height:59px;
+	background-image:url(../img/btn_jikan4.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn4j:hover {
+	background-position:0 -59px;
+}
+
+.btn5j  {
+	display:block;
+	width:580x;
+	height:60px;
+	background-image:url(../img/btn_jikan5.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn5j:hover {
+	background-position:0 -60px;
+}
+
+.btn0j  {
+	display:block;
+	width:580x;
+	height:60px;
+	background-image:url(../img/btn_jikan0.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn0j:hover {
+	background-position:0 -60px;
+}
+
+/*世界観*/
+.btnpop02 {
+	display:block;
+	width:175px;
+	height:161px;
+	background-image:url(../world/img/btn_pop02.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btnpop02:hover {
+	background-position:0 -161px;
+}
+
+.btnpop03 {
+	display:block;
+	width:204px;
+	height:140px;
+	background-image:url(../world/img/btn_pop03.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btnpop03:hover {
+	background-position:0 -140px;
+}

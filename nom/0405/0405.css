@@ -1,0 +1,24 @@
+.txt10 {
+	FONT-SIZE: 10px; LINE-HEIGHT: 15px; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; COLOR: #330000; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt14 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 20px; COLOR: #330000; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt14_n {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #CC0000; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+A:link {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #FFFF00; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #FFFF00; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #993300; TEXT-DECORATION: none
+}

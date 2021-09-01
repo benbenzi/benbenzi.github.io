@@ -1,0 +1,13 @@
+
+.ssmall2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px }
+.ssmall { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px }
+.small2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px }
+.small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px }
+.normal_y { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px; color:#F0E68C }
+.normal_w { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px; color:#EEEEEE }
+
+A.colorA:link { text-decoration:none;color:#CC0000; }
+A.colorA:hover { text-decoration:underline;color:#FF0000; }
+A.colorA:active { text-decoration:underline;color:#FF0000; }
+A.colorA:visited { text-decoration:none;color:#660000; }

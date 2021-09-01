@@ -1,0 +1,608 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/11/27;
+	Update Date : ;
+	Site Name : NOM0912 RRC;
+	URL : ;
+	About : NOM0912 RRC;
+	Author : ENIAC;
+
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:12px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+body {
+	font-size:12px;
+}
+
+/* for IE6 */
+/* Hides from IE-mac \*/
+
+* html body {
+	font-size:93%;
+}
+
+* html p {
+	font-size:93%;
+}
+
+/* End hide from IE-mac */
+/* for IE7 */
+
+*:first-child+html body {
+	font-size:93%;
+}
+
+body,td,th {
+	/*font-size:93%;*/
+	line-height:1.6;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color:#000;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#000;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#EB6100;
+	text-decoration:underline;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	text-align:center;
+	background-color:#229EB4;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_bg_001.jpg);
+	background-position:center top;
+	background-repeat:repeat-x;
+}
+
+#container {
+	width:808px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:808px;
+	margin:0 auto;
+	text-align:left;
+}
+
+/*--- 02.rrc
+--------------------------------------------------------------------------*/
+
+.rrc_box_001 {
+	width:808px;
+}
+
+.rrc_btn_001 {
+	display:block;
+	width:207px;
+	height:88px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_001:hover {
+	background-position:0 -88px;
+}
+
+.rrc_btn_002 {
+	display:block;
+	width:206px;
+	height:88px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_002.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_002:hover {
+	background-position:0 -88px;
+}
+
+.rrc_btn_003 {
+	display:block;
+	width:208px;
+	height:87px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_003.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_003:hover {
+	background-position:0 -87px;
+}
+
+.rrc_btn_004 {
+	display:block;
+	width:232px;
+	height:87px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_004.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_004:hover {
+	background-position:0 -87px;
+}
+
+.rrc_btn_005 {
+	display:block;
+	width:274px;
+	height:117px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_005.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_005:hover {
+	background-position:0 -117px;
+}
+
+.rrc_btn_006 {
+	display:block;
+	width:267px;
+	height:108px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/img/rrc_btn_006.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_btn_006:hover {
+	background-position:0 -108px;
+}
+
+.rrc_text_001 {
+	margin:0 42px;
+	padding:10px 0 20px 0;
+	color:#FFF;
+}
+
+/*--- 02.rrc_interview
+--------------------------------------------------------------------------*/
+
+.rrc_i_main_001 {
+	width:808px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/cmn_img/rrc_i_bg_001.jpg);
+	background-position:center top;
+	background-repeat:repeat-y;
+}
+
+.rrc_i_main_002 {
+	width:680px;
+	margin:0 64px;
+	background-color:#FFF;
+}
+
+.rrc_i_main_003 {
+	width:680px;
+	margin:0 64px;
+	text-align:center;
+}
+
+.rrc_i_main_004 {
+	width:680px;
+	margin:0 64px;
+	text-align:left;
+}
+
+.rrc_i_page_btn_001 {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_001s {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_001:hover {
+	background-position:0 -40px;
+}
+
+.rrc_i_page_btn_002 {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-39px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_002s {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-39px -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_002:hover {
+	background-position:-39px -40px;
+}
+
+.rrc_i_page_btn_003 {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-78px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_003s {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-78px -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_003:hover {
+	background-position:-78px -40px;
+}
+
+.rrc_i_page_btn_004 {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-117px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_004s {
+	display:block;
+	width:39px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-117px -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_004:hover {
+	background-position:-117px -40px;
+}
+
+.rrc_i_page_btn_005 {
+	display:block;
+	width:122px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_pagebtn_002.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.rrc_i_page_btn_005:hover {
+	background-position:0 -40px;
+}
+
+.rrc_i_text_001a {
+	width:60px;
+	margin:0 10px 0 0;
+	padding:0;
+	float:left;
+	display:inline;
+	color:#094;
+}
+
+.rrc_i_text_001a_span {
+	color:#3383F1;
+}
+
+.rrc_i_text_002a {
+	width:60px;
+	margin:0 10px 0 0;
+	padding:0;
+	float:left;
+	display:inline;
+	color:#3383F1;
+}
+
+.rrc_i_text_003a {
+	width:60px;
+	margin:0 10px 0 0;
+	padding:0;
+	float:left;
+	display:inline;
+	/*color:#EB6100;/**/
+	color:#601986;
+}
+
+.rrc_i_text_004a {
+	width:60px;
+	margin:0 10px 0 0;
+	padding:0;
+	float:left;
+	display:inline;
+	color:#EA3D37;
+}
+
+.rrc_i_text_001b, .rrc_i_text_001b_note {
+	width:610px;
+	margin:0;
+	padding:0 0 30px 0;
+	float:right;
+	display:inline;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_bg_001.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+}
+
+.rrc_i_text_001b_note {
+	margin-top:-30px;
+	padding:0 0 30px 70px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_bg_001_note.jpg);
+}
+
+.rrc_i_text_002b, .rrc_i_text_002b_note {
+	width:365px;
+	margin:0;
+	padding:0 0 30px 0;
+	float:left;
+	display:inline;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_bg_002.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+}
+
+.rrc_i_text_002b_note {
+	margin-top:-30px;
+	padding:0 0 30px 70px;
+	background-image:url(https://www.nintendo.co.jp/nom/0912/rrc/interview/img/rrc_i_bg_002_note.jpg);
+}
+
+
+.rrc_i_text_001c {
+	margin:15px 15px 0 35px;
+	font-size:14px;
+	line-height:1.5;
+}
+
+.rrc_i_text_001c_note {
+	margin:15px 15px 0 35px;
+	font-size:12px;
+	line-height:1.5;
+}
+
+.rrc_i_text_002c {
+	margin:15px 25px 0 35px;
+	font-size:14px;
+	line-height:1.5;
+}
+
+.rrc_i_text_002c_note {
+	margin:15px 25px 0 35px;
+	font-size:12px;
+	line-height:1.5;
+}
+
+.rrc_i_text_001d {
+	margin:15px 0 0 0;
+	font-size:14px;
+	line-height:1.5;
+}
+
+.rrc_i_text_002d {
+	margin:0 0 0 0;
+}
+
+.rrc_i_text_001e {
+	width:244px;
+	float:right;
+	padding:0 0 50px 0;
+}
+
+.rrc_i_text_001f {
+	width:680px;
+	padding:0 0 30px 0;
+}
+
+
+.rrc_i_span_001 {
+	font-size:24px;
+	font-weight:bold;
+}
+
+.rrc_i_span_002 {
+	color:#E60012;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.rrc_i_span_003 {
+	color:#E60012;
+	font-size:14px;
+	text-decoration:underline;
+}
+
+.rrc_i_span_004 {
+	color:#E60012;
+	font-size:24px;
+	font-weight:bold;
+}
+
+.rrc_i_link_001 {
+	padding:10px 0 30px 0;
+}
+
+.rrc_i_link_001 a {
+	color:#000;
+	text-decoration:none;
+}
+
+.rrc_i_link_001 a:visited {
+	color:#000;
+	text-decoration:none;
+}
+
+.rrc_i_link_001 a:hover {
+	color:#EB6100;
+	text-decoration:underline;
+}
+
+.rrc_i_link_002 {
+	padding:0 0 100px 0;
+	color:#00479D;
+}
+
+.rrc_i_link_002 a {
+	color:#00479D;
+	text-decoration:none;
+}
+
+.rrc_i_link_002 a:visited {
+	color:#00479D;
+	text-decoration:none;
+}
+
+.rrc_i_link_002 a:hover {
+	color:#EB6100;
+	text-decoration:underline;
+}
+
+.rrc_i_text_001b_note a, .rrc_i_text_001b_note a:visited,
+.rrc_i_text_002b_note a, .rrc_i_text_002b_note a:visited {
+	color:#00479D;
+	font-size:12px;
+	text-decoration:underline;
+}
+
+.rrc_i_text_001b_note a:hover, .rrc_i_text_002b_note a:hover {
+	color:#EB6100;
+	font-size:12px;
+	text-decoration:underline;
+}

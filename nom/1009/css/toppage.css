@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+.t-page-area{
+  width:662px;
+  padding:20px 0 3px 53px;
+  float:left;
+}
+
+.t-link-area{
+  width:662px;
+  height:55px;
+  padding:10px 0 0 0;
+}
+
+.t-link-area-text{
+  width:662px;
+  height:55px;
+  padding:6px 0 5px 0;
+}
+
+.t-linkbtn-area01{
+  width:327px;
+  height:55px;
+  position:relative;
+  left: 167px;
+}
+
+.t-linkbtn01{
+  display:block;
+  width:327px;
+  height:55px;
+  background-image:url(../img/wiinoma_link.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-linkbtn02{
+  display:block;
+  width:327px;
+  height:55px;
+  background-image:url(../img/syachou_link.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-linkbtn01:hover{
+  background-position:0 -55px;
+}
+
+.t-linkbtn02:hover{
+  background-position:0 -55px;
+}
+
+.top-1-title{
+  padding:0 0 20px 0;
+}
+
+.t-p-btn-area01{
+  width:662px;
+  height:256px;
+  padding:0 0 34px 0;
+}
+
+.t-p-btn-area02{
+  width:331px;
+  height:256px;
+  float:left;
+}
+
+.t-p-btn-area03{
+  width:331px;
+  height:256px;
+  float:right;
+}
+
+.t-p-btn{
+  width:331px;
+  height:128px;
+}
+
+.t-p-btn01{
+  display:block;
+  width:331px;
+  height:128px;
+  background-image:url(../img/main_p1.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-p-btn02{
+  display:block;
+  width:331px;
+  height:128px;
+  background-image:url(../img/main_p2.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-p-btn03{
+  display:block;
+  width:331px;
+  height:128px;
+  background-image:url(../img/main_p3.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-p-btn04{
+  display:block;
+  width:331px;
+  height:128px;
+  background-image:url(../img/main_p4.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.t-p-btn01:hover{
+  background-position:0 -128px;
+}
+
+.t-p-btn02:hover{
+  background-position:0 -128px;
+}
+
+.t-p-btn03:hover{
+  background-position:0 -128px;
+}
+
+.t-p-btn04:hover{
+  background-position:0 -128px;
+}
+
+.w-p-btn-area{
+  width:662px;
+  height:177px;
+}
+
+.w-p-btn01{
+  display:block;
+  width:662px;
+  height:177px;
+  background-image:url(../img/staff_page.jpg);
+  background-repeat:no-repeat;
+  background-position:0 0;
+  font-size:0.1%;
+  line-height:0.1%;
+  text-indent:-9999px;
+}
+
+.w-p-btn01:hover{
+  background-position:0 -177px;
+}
+
+.t-copy{
+  width:662px;
+  text-align:center;
+}

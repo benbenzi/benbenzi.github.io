@@ -1,0 +1,165 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓メイン：ソフト情報共通設定*/
+
+div.softinfo_box {
+	width:780px;
+	height:50px;
+	margin:0 auto;
+	padding:0;
+	}
+/*ここからハック*/
+div.softinfo_box:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div.softinfo_box {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+
+/*========================================↓メイン：リード文用共通設定*/
+
+div#READ_BOX1, div#READ_BOX2 {/*サイズ違いやmarginの再設定は個別cssで指定*/
+	width:780px;
+	height:auto;
+	margin:0 auto 40px;
+	padding:0;
+	text-align:left;
+	background-image:none;
+	background-position:left top;
+	background-repeat:no-repeat;
+	}
+
+/*↓リード_____*/
+
+
+p.read_text {
+	height:auto;
+	margin:0;
+	padding:20px 40px 0 60px;
+	padding-right:40px;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	}
+
+
+/*========================================↑メイン：リード文用共通設定*/
+
+/*========================================↓メイン：詳細説明部分*/
+
+div.detail_box, div.detail_box0, div.detail_box1 {/* 通常の横幅 */
+	width:700px;
+	height:auto;
+	margin:0 auto 40px;
+	padding:0;
+	clear:both;
+	}
+div.detail_box1 {/* 通常の横幅 */
+	width:700px;
+	height:auto;
+	margin:0 auto 20px;
+	padding:0;
+	clear:both;
+	}
+/*ここからハック*/
+div.detail_box:after, div.detail_box0:after, div.detail_box1:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0.1px;
+	font-size:0.1em;
+	line-height:0;
+	clear:both;
+	}
+div.detail_box, div.detail_box0, div.detail_box1 {/* for IE7*/
+    zoom:1;
+	}
+/*ここまでハック*/
+
+
+div .float_left {
+	float:left;
+	}
+
+div .float_right {
+	float:right;
+	}
+
+p.detail_text {
+	text-align:justify;
+	text-justify:inter-ideograph;
+	}
+
+
+div p.img_left {
+	float:left;
+	}
+
+div p.img_right {
+	float:right;
+	}
+
+/*↓本文*/
+
+p.text_1, p.text_2, p.text_3 {/*親ブロックの大きさに添わせて折り返させる場合 width は指定しない*/
+	height:auto;
+	margin:0;
+	padding:0;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12px;
+	line-height:20px;
+	text-align:left;
+	}
+
+
+/*↑本文*/
+
+/*↓その他*/
+.small {
+	font-size:10px;
+	}
+
+.text_small {
+	font-size:10px;
+	line-height:15px;
+	color:#f7e2a4;
+	}
+
+.caption1 {
+	font-size:10px;
+	line-height:15px;
+	text-align:left;
+	padding:0 10px 10px;
+	}
+
+.caption2 {
+	font-size:10px;
+	line-height:15px;
+	text-align:center;
+	padding:10px 10px 0;
+	}
+
+.centering {
+	margin:0 auto;
+	padding:0;
+	}
+
+div.ss_box {/*ゲーム画面用：ドット色は個別cssで指定*/
+	width:220px;
+	height:auto;
+	margin:0 10px;
+	background-image:url(../cmn_img/spacer.gif);
+	background-position:0 0;
+	background-position-x:0;
+	background-position-y:0;
+	}
+

@@ -1,0 +1,61 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/*---------------------------------------------------------------------
+Style Reset
+---------------------------------------------------------------------*/
+/* -- html -- */
+*    {margin:0;padding:0;} 
+
+
+ol, ul {list-style:none;}
+
+
+
+/* popup layout */
+#bg-layer	{position:fixed; top:0; left:0; display:none; width:100%; height:100%; background:#000; opacity:0.6; filter:alpha(opacity=60);}
+* html #bg-layer {height:expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px'); position:absolute;}
+
+.fadebox		{position:absolute; z-index:9999; display:none; width:692px; height:594px;}
+.boxTitle		{position:absolute; top:20px; left:20px; width:653px; height:0; padding-top:48px; overflow:hidden;}
+.memoName		{text-align:center; padding-top:88px;}
+#outer			{position:absolute; top:120px; left:156px;}
+.memoComment		{position:absolute; top:425px; left:20px;}
+.memoComment dt	{margin-bottom:20px; width:653px; height:0; padding-top:23px; overflow:hidden;}
+.memoComment dd	{padding-left:15px;}
+
+	.group_select						{background:url(https://www.nintendo.co.jp/nom/1108/images/bg_box-select.gif) no-repeat left top;}
+  .group_select .boxTitle	{background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-select.gif) no-repeat left top;}
+  .group_select dt				{background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-comment.gif) no-repeat left top;}
+	
+	.group_kasaku						{background:url(https://www.nintendo.co.jp/nom/1108/images/bg_box-select.gif) no-repeat left top;}
+	.group_kasaku .boxTitle	{background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-kasaku.gif) no-repeat left top;}
+  .group_kasaku dt				{background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-comment.gif) no-repeat left top;}
+	
+	.group_special					{background:url(https://www.nintendo.co.jp/nom/1108/images/bg_box-special.gif) no-repeat left top;}
+  .group_special dt				{display:none;}
+	
+	.group_staff	{background:url(https://www.nintendo.co.jp/nom/1108/images/bg_box-staff.gif) no-repeat left top; height:381px;}
+	.group_staff .memoComment	{display:none;}
+
+	.group_america,
+  .group_europe             {background:url(https://www.nintendo.co.jp/nom/1108/images/bg_box-americas.gif) no-repeat left top; height:595px;}
+	.group_america .boxTitle,
+  .group_europe .boxTitle   {background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-overseas.gif) no-repeat left top;}
+  .group_america dt,
+  .group_europe dt	        {background:url(https://www.nintendo.co.jp/nom/1108/images/title_box-comment-overseas.gif) no-repeat left top;}
+
+    #controler	{position:absolute; top:552px; left:20px; width:652px;}
+	#controler li	{position:absolute;}
+	
+	
+	#controler li.close	{background:url(https://www.nintendo.co.jp/nom/1108/images/btn_close.gif) no-repeat left top; width:204px; top:0; left:220px;}
+	#controler li a				{display:block; overflow:hidden; height:0;}
+	
+	#controler li.close a	{background:url(https://www.nintendo.co.jp/nom/1108/images/btn_close.gif) no-repeat left top; width:204px; padding-top:26px;}
+	
+	#controler li.close a:hover {background:url(https://www.nintendo.co.jp/nom/1108/images/btn_close_on.gif) no-repeat left top;}
+	
+/* ŠO•”popup layout */
+#popup	{padding-top:30px; background:#FFFFFF;}
+#popup .fadebox	{margin:0 auto; position:relative; display:block;}

@@ -1,0 +1,153 @@
+@charset "Shift_JIS";
+
+body {
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	color : #000000;
+	text-align:center;
+	}
+
+img {
+	border: 0;
+	}
+
+#maintableArea {
+width: 100%;
+height: 100%;
+background: url(../cmn_img/bg.gif) repeat scroll center top;
+}
+
+#titleArea {
+width: 100%;
+height: 70px;
+background-color:#333333;
+}
+
+#w720 {
+ width: 720px;
+}
+#w670 {
+ width: 670px;
+}
+
+#w670_left {
+ width: 670px;
+	text-align:left;
+}
+
+.float_l {
+ float: left;
+ margin:0px 6px 0px 0px;
+}
+
+.float_r {
+ float: right;
+ margin:0px 0px 0px 6px;
+}
+
+.img2_center {
+	padding: 10px;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.clear { clear: both; }
+
+
+td.nowrap_img { 
+white-space: nowrap; 
+} 
+
+.bgtop_img { 
+ width: 720px;
+background: url(../top_img/waku_bg.gif) repeat scroll center top;
+} 
+.bg1_img { 
+ width: 720px;
+background: url(../cmn_img/1_bg.gif) repeat scroll center top;
+} 
+
+.bg2_img { 
+ width: 720px;
+background: url(../cmn_img/2_bg.gif) repeat scroll center top;
+} 
+
+/*Å@ñ{ï∂ÉeÉLÉXÉgÅ@*/
+
+.text {
+ width: 670px;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	padding: 5px;
+	text-align:left;
+	}
+.lead_top {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	padding-left: 40px;
+	}
+	
+.nom1 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #996666;
+	text-align:left;
+	font-weight:bold;
+	}
+.answer1 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	text-align:left;
+	}
+.nom2 {
+ width: 670px;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666699;
+	text-align:left;
+	font-weight:bold;
+	}
+.answer2 {
+ width: 670px;
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5;
+	text-align:left;
+	}
+
+.w640 {
+ width: 640px;
+	font-size: 12px;
+	color: #666666;
+	text-align:left;
+}
+
+
+/*  ÉäÉìÉNÉeÉLÉXÉg  */
+
+A:link    {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	color: #666666; font-size: 12px; text-decoration: underline; font-weight:bold;
+}
+A:visited { 
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+ color: #666666; font-size: 12px; text-decoration: underline; font-weight:bold;
+}
+A:hover   { 
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	text-decoration:underline; color: #FF0000;  font-size: 12px;
+}
+
+.copyright {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px; color: #666666;	line-height: 1.6;
+	text-align:center;
+}

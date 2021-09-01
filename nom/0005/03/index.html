@@ -1,0 +1,166 @@
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+
+<TITLE>ゲームボーイができるまで（ソフト開発編）</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#696969" LINK="#3333FF" VLINK="#9933FF" ALINK="#FFFF00" BACKGROUND="../bg.gif">
+
+<MAP NAME="b">
+<AREA SHAPE="RECT" COORDS="96,0,131,9" HREF="../index.html" ALT="5月号表紙へ" onMouseOver="window.status='5月号表紙へ';return true">
+<AREA SHAPE="RECT" COORDS="108,16,121,31" HREF="../index.html" ALT="5月号表紙へ" onMouseOver="window.status='5月号表紙へ';return true">
+<AREA SHAPE="RECT" COORDS="68,21,101,35" HREF="../02/index.html" ALT="ゲームボーイができるまで（ハード製造編）のページへ" onMouseOver="window.status='ゲームボーイができるまで（ハード製造編）のページへ';return true">
+<AREA SHAPE="RECT" COORDS="128,20,160,35" HREF="https://www.nintendo.co.jp/nom/0005/04/index.html" ALT="ゲームボーイ特別バージョン大公開・２　ゲームボーイカラー編のページへ" onMouseOver="window.status='ゲームボーイ特別バージョン大公開・２　ゲームボーイカラー編のページへ';return true">
+<AREA SHAPE="RECT" COORDS="5,23,59,34" HREF="../02/index.html" ALT="ゲームボーイができるまで（ハード製造編）のページへ" onMouseOver="window.status='ゲームボーイができるまで（ハード製造編）のページへ';return true">
+<AREA SHAPE="RECT" COORDS="170,24,230,35" HREF="https://www.nintendo.co.jp/nom/0005/04/index.html" ALT="ゲームボーイ特別バージョン大公開・２　ゲームボーイカラー編のページへ" onMouseOver="window.status='ゲームボーイ特別バージョン大公開・２　ゲームボーイカラー編のページへ';return true">
+</MAP>
+
+<BR>
+<CENTER>
+<IMG SRC="https://www.nintendo.co.jp/nom/0005/03/top.jpg" WIDTH="467" HEIGHT="52" BORDER="0" ALT="ゲームボーイができるまで（ソフト開発編）">
+</CENTER>
+
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="10">
+<TR>
+<TD ALIGN="LEFT" WIDTH="460"><FONT SIZE="3"><B>次は、ゲームボーイのソフトを作っている人たちのところへ行って、ソフトの作り方を聞いてきた。答えてくれたのはゲームボーイカラーの新作『ワリオランド３』の制作スタッフ。Ｎ．Ｏ．Ｍだけが入手できたマル秘資料も公開しちゃうぞ！</B></FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE BORDER="0" WIDTH="471">
+<TR>
+<TD><HR SIZE="2" WIDTH="130"></TD>
+<TD ALIGN="CENTER" WIDTH="211"><IMG SRC="https://www.nintendo.co.jp/nom/0005/konokata.gif" WIDTH="211" HEIGHT="39" BORDER="0" ALT="このかたたちにお聞きしました"></TD>
+<TD><HR SIZE="2" WIDTH="130"></TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE BORDER="0">
+<TR>
+<TD ALIGN="LEFT" WIDTH="20"><IMG SRC="../space.gif" WIDTH="20" HEIGHT="2" BORDER="0" ALT="・"></TD>
+<TD ALIGN="LEFT">
+<FONT SIZE="2" COLOR="#336699">任天堂株式会社　製造本部　開発第一部</FONT><BR><FONT SIZE="4" COLOR="#990099"><B>細川 豪彦</B></FONT><FONT SIZE="2"> さん（ディレクター）</FONT><BR><IMG SRC="../space.gif" WIDTH="10" HEIGHT="6" BORDER="0" ALT="・"><BR>
+<FONT SIZE="2" COLOR="#336699">任天堂株式会社　製造本部　開発第一部　</FONT><BR><FONT SIZE="4" COLOR="#990099"><B>清武 博二</B></FONT><FONT SIZE="2"> さん（デザイナー）</FONT><BR><IMG SRC="../space.gif" WIDTH="10" HEIGHT="6" BORDER="0" ALT="・"><BR><FONT SIZE="2" COLOR="#336699">任天堂株式会社　製造本部　開発第一部</FONT><BR><FONT SIZE="4" COLOR="#990099"><B>佐野 伸也</B></FONT><FONT SIZE="2"> さん（デザイナー）</FONT></TD>
+<TD ALIGN="LEFT" WIDTH="180"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/028.jpg" WIDTH="180" HEIGHT="125" BORDER="1" ALT="3人画像。左から佐野、細川、清武。"></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE BORDER="0">
+<TR>
+<TD ALIGN="CENTER" WIDTH="20" HEIGHT="25"><HR SIZE="6" WIDTH="6"></TD>
+<TD ALIGN="CENTER" WIDTH="20" HEIGHT="25"><HR SIZE="6" WIDTH="6"></TD>
+<TD ALIGN="CENTER" WIDTH="20" HEIGHT="25"><HR SIZE="6" WIDTH="6"></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<A NAME="menu">　</A>
+<CENTER>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<TR>
+<TD ALIGN="LEFT" BGCOLOR="#FFFFFF"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/wl3logo.gif" WIDTH="140" HEIGHT="42" BORDER="0" ALT="ワリオランド3ロゴ"></TD>
+<TD ALIGN="LEFT" BGCOLOR="#FFFFFF"><FONT SIZE="3"><B>▼ゲームを作る手順</B></FONT><BR>
+<FONT SIZE="2" COLOR="#FF0099"><BLINK>それぞれの項目をクリックすると、スタッフのコメントが読めるよ。</BLINK></FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="10">
+<TR>
+<TD ALIGN="RIGHT" WIDTH="460">
+<TABLE BORDER="0" WIDTH="400">
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page2.html#top"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/01.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="1"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_1.gif" WIDTH="40" HEIGHT="29" BORDER="0" ALT="企画"></A><BR>
+<IMG SRC="../space.gif" WIDTH="130" HEIGHT="1" BORDER="0" ALT="・"></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">どのようなゲームにするか、ジャンルや世界観を決めたり、システムや大まかなマップ、コースを考える</FONT></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page2.html#02"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/02.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="2"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_2.gif" WIDTH="71" HEIGHT="29" BORDER="0" ALT="デザイン"></A></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">キャラクターや世界観のデザインを決定</FONT></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page2.html#03"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/03.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="3"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_3.gif" WIDTH="102" HEIGHT="29" BORDER="0" ALT="グラフィック"></A></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">キャラクターや背景をドット画に起こし、アニメーションを作成</FONT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD ALIGN="CENTER" WIDTH="115"><IMG SRC="../space.gif" WIDTH="115" HEIGHT="1" BORDER="0" ALT="・"><BR><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD ALIGN="RIGHT" WIDTH="15" ROWSPAN="2"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/yaji_1.gif" WIDTH="15" HEIGHT="42" BORDER="0" ALT="↓"></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="115"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page3.html#top"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/04.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="4"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_4.gif" WIDTH="88" HEIGHT="29" BORDER="0" ALT="プログラム"></A></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">キャラクターの動きを固める</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<TABLE BORDER="0">
+<TR>
+<TD ALIGN="RIGHT" WIDTH="32" ROWSPAN="2"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/yaji_2.gif" WIDTH="32" HEIGHT="42" ALIGN="RIGHT" BORDER="0" ALT="↓"></TD>
+<TD ALIGN="RIGHT" WIDTH="98"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page3.html#05"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/05.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="5"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_5.gif" WIDTH="71" HEIGHT="29" BORDER="0" ALT="サウンド"></A><BR>
+<IMG SRC="../space.gif" WIDTH="98" HEIGHT="1" BORDER="0" ALT="・"></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">ゲーム中の効果音やＢＧＭを作成する<BR></FONT></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="98"><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page3.html#06"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/06.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="6"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_6.gif" WIDTH="87" HEIGHT="29" BORDER="0" ALT="確認と修正"></A></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">グラフィック、プログラム、サウンドを統合し、バランス調整をする</FONT></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><A HREF="https://www.nintendo.co.jp/nom/0005/03/page3.html#07"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/07.gif" WIDTH="27" HEIGHT="29" BORDER="0" ALT="7"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/k_7.gif" WIDTH="71" HEIGHT="29" BORDER="0" ALT="デバッグ"></A></TD>
+<TD ALIGN="LEFT" WIDTH="270"><FONT SIZE="2" COLOR="#669966">テストプレイを繰り返して不都合がないか調べる</FONT></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><FONT SIZE="3" COLOR="#0066FF"><B>↓　</B></FONT></TD>
+<TD WIDTH="270"><IMG SRC="../space.gif" WIDTH="270" HEIGHT="1" BORDER="0" ALT="・"></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT" WIDTH="130"><FONT SIZE="4" COLOR="#FF0099"><B>完成!!</B></FONT></TD>
+<TD ALIGN="LEFT" WIDTH="270"><IMG SRC="https://www.nintendo.co.jp/nom/0005/03/wario.gif" WIDTH="107" HEIGHT="79" BORDER="0" ALT="ワリオ"></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<HR WIDTH="500"><BR>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD ALIGN="CENTER"><IMG SRC="https://www.nintendo.co.jp/nom/0005/b.gif" USEMAP="#b" WIDTH="230" HEIGHT="35" BORDER="0" ALT="下ボタン"></TD>
+</TR>
+</TABLE>
+</CENTER>
+<BR>
+</BODY>
+</HTML>

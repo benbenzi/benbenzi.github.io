@@ -1,0 +1,33 @@
+.small {font-size: 10px; line-height: 14px; color: #000000; }
+.normal {font-size: 12px; line-height: 180%; color: #000000; }
+.txt14 {font-size: 14px; line-height: 180%; color: #000000;}
+
+.nom_q {font-size: 14px; color: #000000; font-weight: bold;}
+
+.normal_b {font-size: 12px; line-height: 180%; color: #000000; font-weight: bold; }
+
+.mid {font-size: 14px; color: #057437; font-weight: bold;}
+
+
+A:link    {
+	text-decoration:underline; color: #000000;
+}
+A:visited { 
+	text-decoration:underline; color: #336699;
+}
+A:active  { 
+	text-decoration:underline; color: #000000;
+}
+A:hover   { 
+	text-decoration:underline; color: #3399FF; 
+}
+
+#navilink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000
+}
+#navilink A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; TEXT-DECORATION: none
+}
+#navilink A:hover {
+	FONT-SIZE: 10px; COLOR: #0066FF; TEXT-DECORATION: underline
+}

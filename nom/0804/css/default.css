@@ -1,0 +1,57 @@
+@charset "Shift_JIS";
+
+/*↓ブラウザ初期化====================*/
+* {
+	margin:0;
+	padding:0;
+	border:none;
+	background-color:transparent;
+	text-decoration:none;
+	font:normal normal normal 100%/1.6 "ＭＳ ゴシック",Osaka;
+	}
+
+/*↓基本設定====================*/
+body {
+	color:#222222;
+	text-align:center;
+	background-image:url(https://www.nintendo.co.jp/nom/0804/cmn_img/bg.gif);
+	background-position:center top;
+	background-repeat:repeat-y;
+	}
+
+img {
+	border:none;
+	margin:0;
+	padding:0;
+	}
+
+p {
+	border:none;
+	margin:0;
+	padding:0;
+	}
+
+li {
+	line-height:1em;
+	}
+
+/*Hides from IE5-mac ￥*/
+* html ul li {
+	height:auto;
+}
+/*End hide from IE5-mac */
+
+/*↓基本リンク指定====================*/
+a, a:link {
+	color:#00bd88;
+	text-decoration:none;
+	}
+a:visited {
+	color:#009b70;
+	}
+a:hover {
+	color:#83ce00;
+	}
+a:active {
+	color:#83ce00;
+	}

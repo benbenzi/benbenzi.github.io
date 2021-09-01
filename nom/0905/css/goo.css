@@ -1,0 +1,433 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/04/29;
+	Site Name : N.O.M Nintendo Online Magazine No.130 May 2009;
+	URL : http://www.nintendo.co.jp/nom/0905/index.html;
+	About : 「グーの惑星」開発スタッフインタビュー用CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:12px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+* html p {
+	font-size:small;
+	/*font-size:93%;*/
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color:#00479D;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#00479D;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#00479D;
+	text-decoration:underline;
+}
+
+/*a:focus {
+	color:#00479D;
+	text-decoration:none;
+}*/
+
+a.comlink {
+	color:#7b96e0;
+	text-decoration:none;
+}
+
+a.comlink:visited {
+	color:#7b96e0;
+	text-decoration:none;
+}
+
+a.comlink:hover {
+	color:#7b96e0;
+	text-decoration:underline;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background-color:#E5E5E5;
+	text-align:center;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+.header1 {
+	width:768px;
+	/*height:70px;*/
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_001.jpg);
+	background-repeat:no-repeat;
+	margin:27px 0 0 0;
+}
+
+.header-logo1 {
+	width:318px;
+	height:40px;
+	margin:20px 0 10px 33px;
+	float:left;
+	display:inline;
+}
+
+.header-title1 {
+	width:768px;
+	height:133px;
+	/*min-height:133px;*/
+	background:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_title_001.jpg);
+	background-repeat:no-repeat;
+}
+
+.header-btn-area1 {
+	width:135px;
+	height:30px;
+	margin:78px 0 25px 594px;
+	float:left;
+	display:inline;
+}
+
+.header-btn1 {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn1s {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -30px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn1:hover {
+	background-position:0 -30px;
+}
+
+.header-btn2 {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-45px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn2s {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-45px -30px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn2:hover {
+	background-position:-45px -30px;
+}
+
+.header-btn3 {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-90px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn3s {
+	display:block;
+	width:45px;
+	height:30px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_number_001.jpg);
+	background-repeat:no-repeat;
+	background-position:-90px -30px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.header-btn3:hover {
+	background-position:-90px -30px;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+#main {
+	width:768px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_bg_001.jpg);
+	background-repeat:repeat-y;
+	background-position:center top;
+	/*min-height:1000px;*/
+	/*height:1000px;*/
+}
+
+.main-white-box1 {
+	width:700px;
+	margin:0 34px;
+}
+
+.main-white-box2 {
+	width:700px;
+	margin:0 34px;
+	background-color:#FFF;
+}
+
+.main-white-box3 {
+	width:700px;
+	margin:0 34px;
+	background-color:#FFF;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_wbox_001.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+	min-height:180px;
+	/*height:180px;*/
+}
+
+.main-white-box-text1 {
+	width:660px;
+	margin:0 20px;
+	background-color:#FFF;
+}
+
+.main-white-box-text2 {
+	font-size:10px;
+}
+
+.main-white-box-text3 {
+	width:448px;
+	margin:66px 20px 0 20px;
+	float:left;
+	display:inline;
+}
+
+.main-black-box1 {
+	width:700px;
+	margin:0 34px;
+	/*background-color:#000;*/
+}
+
+.main-black-box1a {
+	width:700px;
+	/*margin:0 34px;*/
+	/*background-color:#000;*/
+}
+
+.main-black-box2 {
+	width:700px;
+	margin:0 34px;
+	background-color:#000;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_bbox_bg_001.jpg);
+	background-repeat:repeat;
+}
+
+.main-black-box3 {
+	float:right;
+	margin:15px 20px 10px 20px;
+	/*padding:0 0 10px 0;*/
+	background-color:#000;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_bbox_bg_001.jpg);
+	background-repeat:repeat;
+}
+
+.main-black-box-text1 {
+	width:660px;
+	margin:0 20px;
+	background-color:#000;
+	color:#FFF;
+}
+
+.main-black-box-text2 {
+	margin:0 20px;
+	background-color:#000;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_bbox_bg_001.jpg);
+	background-repeat:repeat;
+	color:#FFF;
+	padding:0;
+}
+
+.main-space1 {
+	width:700px;
+	height:20px;
+	margin:0 34px;
+	background-color:7B96E0;
+}
+
+/*--- 04.link
+--------------------------------------------------------------------------*/
+
+#link {
+	width:768px;
+	text-align:center;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_main_bg_001.jpg);
+	background-repeat:repeat-y;
+	background-position:center top;
+}
+
+/*--- 05.footer
+--------------------------------------------------------------------------*/
+
+.footer1 {
+	width:768px;
+	height:38px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_footer_bg_001.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+
+.footer-link-area1 {
+	width:768px;
+}
+
+.footer-link-text1 {
+	margin:0 0 0 25px;
+	padding:0 0 40px 0;
+	float:left;
+	display:inline;
+}
+
+.footer-link-text1 a {
+	color:#000;
+	text-decoration:none;
+}
+
+.footer-link-text1 a:visited {
+	color:#000;
+	text-decoration:none;
+}
+
+.footer-link-text1 a:hover {
+	color:#00479D;
+	text-decoration:underline;
+}

@@ -1,0 +1,55 @@
+@charset "Shift_JIS";
+
+/* LINK: for page_num img */
+.bt_table td p {
+	width:36px;
+	height:40px;
+	float:left;
+}
+
+/* Intv Setting */
+.intv_table {
+	width:700px;
+	margin:0;
+}
+
+.intv_table td {
+	vertical-align:top;
+}
+
+.td_nom_name, .td_name {
+	text-align:right;
+}
+
+.intv_table td p {
+	font-size:12px;
+	line-height:20px;
+	letter-spacing:0.1em;
+}
+
+
+p.text_nom {
+	color:#672f1f;
+	font-weight:bold;
+}
+
+.td_nom_name p.text_nom {
+	text-align:right;
+	letter-spacing:normal;
+}
+
+.td_name p.text_name_a, .td_name p.text_name_n {
+	color:#569436;
+	font-weight:bold;
+	text-align:right;
+	letter-spacing:normal;
+}
+
+.td_name p.text_name_n {
+	color:#b61d22;
+}
+
+p.spacebtm {
+	width:1px;
+	height:20px;
+}

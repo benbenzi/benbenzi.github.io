@@ -1,0 +1,29 @@
+@charset "shift_jis";
+
+body {
+	font-size:12px;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:12px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+* html p {
+	font-size:small;
+	/*font-size:93%;*/
+}
+
+img {
+	border:0;
+	margin:0;
+	padding:0;
+}

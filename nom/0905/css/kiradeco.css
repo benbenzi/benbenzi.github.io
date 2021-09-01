@@ -1,0 +1,554 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/04/28;
+	Site Name : N.O.M Nintendo Online Magazine No.130 May 2009;
+	URL : http://www.nintendo.co.jp/nom/0905/index.html;
+	About : 「いつでもプリクラ☆キラデコプレミアム」開発スタッフインタビュー用CSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.page common
+	04.main
+	05.link
+	06.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:12px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+* html p {
+	font-size:small;
+	/*font-size:93%;*/
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	margin:0 auto;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color:#fa4c8f;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#666;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#f39800;
+	text-decoration:underline;
+}
+
+/*a:focus {
+	color:#00479D;
+	text-decoration:none;
+}*/
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	color:#666;
+	background-color:#f5cbcd;
+	text-align:center;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/bg.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+.header1 {
+	width:768px;
+	height:100px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/bg_header.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+	margin:0;
+	position:relative;
+}
+
+.header-logo1 {
+	width:304px;
+	height:39px;
+	position:absolute;
+	top:48px;
+	left:33px;
+}
+
+.members {
+	width:768px;
+	height:290px;
+}
+
+h1 {
+	width:768px;
+	height:95px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/h1.jpg);
+	background-repeat:no-repeat;
+	margin:0;
+	text-indent:-9999px;
+	font-size:0.1px;
+	line-height:0.1;
+}
+	
+.header-title1 {
+	width:768px;
+	height:133px;
+	background:url(https://www.nintendo.co.jp/nom/0905/goo/img/goo_head_title_001.jpg);
+	background-repeat:no-repeat;
+}
+
+/*--- 03.page common
+--------------------------------------------------------------------------*/
+
+.pagecmn {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.page-btn-area {
+	width:768px;
+	height:35px;
+	position:relative;
+	display:block;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/bg_numlink.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+.pagenumbox {
+	display:block;
+	width:220px;
+	height:35px;
+	position:absolute;
+	top:0;
+	left:528px;
+}
+
+.pagenumbox p {
+	display:inline;
+	float:left;
+}
+	
+.pagenum0 {
+	display:block;
+	width:70px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum0.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn1 {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn1s {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:0 -70px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn1:hover {
+	background-position:0 -35px;
+}
+
+.page-btn2 {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-35px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn2s {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-35px -70px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn2:hover {
+	background-position:-35px -35px;
+}
+
+.page-btn3 {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-70px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn3s {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-70px -70px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn3:hover {
+	background-position:-70px -35px;
+}
+
+.page-btn4 {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-105px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn4s {
+	display:block;
+	width:35px;
+	height:35px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagenum.gif);
+	background-repeat:no-repeat;
+	background-position:-105px -70px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.page-btn4:hover {
+	background-position:-105px -35px;
+}
+
+h2 {
+	width:768px;
+	height:90px;
+	margin:0;
+	text-indent:-9999px;
+	font-size:0.1px;
+	line-height:0.1;
+}
+
+h2.page1 {
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/h2_1.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+h2.page2 {
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/h2_2.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+h2.page3 {
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/h2_3.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+h2.page4 {
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/h2_4.jpg);
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+
+
+/*--- 04.main
+--------------------------------------------------------------------------*/
+
+#main {
+	width:768px;
+	text-align:center;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/page_base.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+	/*min-height:1000px;*/
+	/*height:1000px;*/
+}
+
+table.int-table {
+	width:668px;
+	margin:0 50px;
+}
+
+table.int-table td {
+	vertical-align:top;
+	padding:0 0 10px;
+	text-align:left;
+}
+
+
+.nom-name, .nom-text {
+	color:#a4005b;	
+	font-weight:bold;
+}
+table.int-table td.nom-name {
+	text-align:right;
+}
+
+table.int-table td.member-name {
+	color:#fa4c8f;	
+	font-weight:bold;
+	text-align:right;
+}
+
+.name-color {
+	color:#fa4c8f;	
+	font-weight:bold;
+}
+
+.img-center {
+	margin:0 auto;
+}
+
+.img-btm-10px {
+	margin-bottom:10px;
+}
+
+/*--- 05.link
+--------------------------------------------------------------------------*/
+
+#link {
+	width:768px;
+	height:90px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/bg_btmlink.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.linkbox {
+	margin:0 auto;
+	padding-top:15px;
+}
+
+.pagelink-table td {
+	vertical-align:middle;
+	white-space:nowrap;
+}
+
+.textlinkbox {
+	display:block;
+	width:30px;
+	text-align:center;
+}
+
+.btn-befor {
+	display:block;
+	width:90px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagelink.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn-befors {
+	display:block;
+	width:90px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagelink.gif);
+	background-repeat:no-repeat;
+	background-position:0 -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn-befor:hover {
+	background-position:0 -40px;
+}
+
+.btn-next {
+	display:block;
+	width:90px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagelink.gif);
+	background-repeat:no-repeat;
+	background-position:-90px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn-nexts {
+	display:block;
+	width:90px;
+	height:40px;
+	background-image:url(https://www.nintendo.co.jp/nom/0905/kiradeco/img_cmn/pagelink.gif);
+	background-repeat:no-repeat;
+	background-position:-90px -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn-next:hover {
+	background-position:-90px -40px;
+}
+
+
+/*--- 06.footer
+--------------------------------------------------------------------------*/
+
+.footer1 {
+	width:768px;
+	height:40px;
+	margin:0 0 10px;
+}
+
+.footer-link-area1 {
+	width:768px;
+}
+
+.footer-link-text1 {
+	margin:0 0 0 25px;
+	padding:0 0 40px 0;
+	float:left;
+	display:inline;
+}
+
+.footer-link-text1 a {
+	color:#666;
+	text-decoration:none;
+}
+
+.footer-link-text1 a:visited {
+	color:#666;
+	text-decoration:none;
+}
+
+.footer-link-text1 a:hover {
+	color:#fa4c8f;
+	text-decoration:underline;
+}

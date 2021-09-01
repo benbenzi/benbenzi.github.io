@@ -1,0 +1,156 @@
+/*  style.css  */
+
+
+/*Å@ñ{ï∂ÉeÉLÉXÉgÅ@*/
+
+.text {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.5;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-right: 3px;
+	text-decoration: none;
+
+	}
+.caption1 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 10px;
+	color: #666666;
+	line-height: 1.4;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-top: 20px;
+
+
+	}
+.number {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka;
+	font-size: 10px;
+	color: #FFCC00;
+	font-weight: bold;
+	}
+.text_bold {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 10px;
+	color: #000000;
+	line-height: 1.5;
+	font-weight: bold;
+	padding: 5px 0px;
+	}
+
+.text2 {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.5;
+	padding-left: 20px;
+	padding-top: 3px;
+	padding-right: 20px;
+	text-decoration: none;
+	}
+
+
+.nolink{
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 10px;
+	color: #00A2E5;
+	text-decoration: none;
+	font-weight: bold;
+
+	}
+
+
+/*  ÉäÉìÉNÉeÉLÉXÉg  */
+
+#navilink {
+	font-size: 10px;
+	color: #996633;
+	font-weight: bold;
+	}
+#navilink a {
+	color: #669999;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 10px;
+	}
+#navilink a:hover {
+	text-decoration: underline;
+	font-size: 10px;
+	color: #00A2E5;
+	}
+
+
+#maplink {
+	font-size: 12px;
+	color: #996633;
+	font-weight: bold;
+	}
+#maplink a {
+	color: #669999;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 12px;
+
+	}
+#maplink a:hover {
+	text-decoration: underline;
+	font-size: 12px;
+	color: #00A2E5;
+	}
+
+
+
+#sitelink {
+	font-size: 12px;
+	color: #FF0000;
+	}
+#sitelink a {
+	color: #FF0000;
+	text-decoration: none;
+	font-size: 12px;
+
+	}
+#sitelink a:hover {
+	text-decoration: underline;
+	font-size: 12px;
+	color: #FF0000;
+
+
+	}
+.loc_self {
+	font-size: 10px;
+	color: #00A2E5;
+	font-weight: bold;
+	}
+
+
+.text11q {
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 12px;
+	color: #333333;
+	line-height: 1.5;
+	padding-left: 20px;
+	padding-top: 3px;
+	padding-right: 20px;
+	text-decoration: none;
+	padding-bottom: 3px;
+}
+
+
+.cap {
+	text-decoration: underline;
+}
+.text10 {
+
+	font-family: "ÇlÇr ÉSÉVÉbÉN", "Osaka";
+	font-size: 10px;
+	color: #666666;
+	line-height: 1.4;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-right: 3px;
+	text-decoration: none;
+}

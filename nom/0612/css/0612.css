@@ -1,0 +1,34 @@
+
+.bgcenter {
+background: url(../cmn_img/bg2.jpg) repeat-y scroll center top;
+}
+
+
+.small {font-size: 10px; line-height: 14px; color: #333333; }
+.normal {font-size: 12px; line-height: 180%; color: #333333; }
+.txt14 {font-size: 14px; line-height: 180%; color: #333333;}
+
+.normal_b {font-size: 12px; line-height: 180%; color: #333333; font-weight: bold; }
+
+A:link    {
+	text-decoration:underline; color: #333333;
+}
+A:visited { 
+	text-decoration:underline; color: #666666;
+}
+A:active  { 
+	text-decoration:underline; color: #333333;
+}
+A:hover   { 
+	text-decoration:underline; color: #0066FF; 
+}
+
+#navilink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF
+}
+#navilink A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+#navilink A:hover {
+	FONT-SIZE: 10px; COLOR: #FFFFFF; TEXT-DECORATION: underline
+}

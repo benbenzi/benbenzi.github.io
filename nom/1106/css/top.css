@@ -1,0 +1,255 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/5/27;
+	Site Name : N.O.M Nintendo Online Magazine No.155;
+	About : N.O.M top-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.t-contentsarea {
+	width:629px;
+	padding:18px 67px 0 72px;
+	margin:0;
+}
+
+.t-contents {
+	width:629px;
+	margin:15px 0 0 0;
+}
+
+.t-contents01 {
+	width:101px;
+	padding:0;
+	float:left;
+}
+
+.t-contents02 {
+	width:432px;
+	height:200px;
+	float:left;
+}
+
+.t-contents03 {
+	width:96px;
+	float:right;
+}
+
+.t-contents04 {
+	width:768px;
+	height:93px;
+}
+
+.t-btn01 {
+	width:432px;
+	height:46px;
+	padding:0 0 5px 0;
+}
+
+.t-btn02 {
+	width:432px;
+	height:46px;
+	padding:1px 0 0 0;
+}
+
+.t-btn01a {
+	display:block;
+	width:432px;
+	height:46px;
+	background-image:url(../img/t-btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn02a {
+	display:block;
+	width:432px;
+	height:46px;
+	background-image:url(../img/t-btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03a {
+	display:block;
+	width:432px;
+	height:46px;
+	background-image:url(../img/t-btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn04a {
+	display:block;
+	width:432px;
+	height:46px;
+	background-image:url(../img/t-btn04.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01a:hover , .t-btn02a:hover , .t-btn03a:hover , .t-btn04a:hover {
+	background-position:0 -46px;
+}
+
+.t-softarea {
+	width:666px;
+	margin:0 58px 22px 44px;
+}
+
+.threeds-hard {
+	width:335px;
+	float:left;
+}
+
+.threeds-hardarea {
+	width:335px;
+}
+
+.t-soft {
+	width:331px;
+	float:right;
+}
+
+.threeds01 {
+	width:194px;
+	float:left;
+}
+
+.threeds-official {
+	width:120px;
+	float:left;
+}
+
+threeds-official_1 {
+	width:120px;
+	height:20px;
+}
+
+.threeds-official_a {
+	display:block;
+	width:120px;
+	height:20px;	
+	background-image:url(../img/3ds-official.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+
+}
+
+.threeds-official_a:hover , .pilot-official_a:hover , .steel-official_a:hover {
+	background-position:0 -20px;
+}
+
+.threeds02 {
+	width:21px;
+	float:right;
+}
+
+.pilotsoft {
+	width:331px;
+}
+
+.pilot01 {
+	width:149px;
+	float:left;
+}
+
+.pilot-official {
+	width:120px;
+	float:left;
+}
+
+.pilot-official_a , .steel-official_a {
+	display:block;
+	width:120px;
+	height:20px;
+	background-image:url(../img/soft-official.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.pilot02 {
+	width:62px;
+	float:right;
+}
+
+.steelsoft {
+	width:331px;
+}
+
+.steel01 {
+	width:19px;
+	float:left;
+}
+
+.steel-official {
+	width:120px;
+	float:left;
+}
+
+.steel02 {
+	width:192px;
+	float:right;
+}
+

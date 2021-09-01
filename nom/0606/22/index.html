@@ -1,0 +1,269 @@
+<HTML LANG="ja">
+<HEAD>
+<TITLE>2-2.『テトリスDS』開発スタッフインタビュー</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="imagetoolbar" content="no">
+<LINK REL="stylesheet" HREF="../css/style.css" TYPE="TEXT/CSS">
+<SCRIPT LANGUAGE="JavaScript" SRC="../js/rollover.js"></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000000" VLINK="#333333" ALINK="#FF0000" LEFTMARGIN="0" TOPMARGIN="0" RIGHTMARGIN="0" BOTTOMMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" onLoad="MM_preloadImages('../img/btn_site_ov.gif')">
+<CENTER>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR>
+		<TD ALIGN="CENTER" VALIGN="TOP"><TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="620" ALIGN="RIGHT"><IMG SRC="../img/spacer.gif" WIDTH="1" HEIGHT="5" BORDER="0"><BR>
+ 						<A HREF="../index.html"><IMG SRC="../img/btn_top.gif" ALT="2006年N.O.M6月号 No.95 ニンテンドーWi-Fiコネクション大特集！！" WIDTH="247" HEIGHT="26" BORDER="0"></A></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="620"><IMG SRC="../21/img/subtitle.gif" ALT="2.往年の名作パズルが華麗に復活！" WIDTH="620" HEIGHT="37" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER" VALIGN="TOP" BGCOLOR="#00A2E5"><IMG SRC="img/title.gif" ALT="2.『テトリスDS』開発スタッフインタビュー" WIDTH="620" HEIGHT="50" BORDER="0"></TD>
+	</TR>
+</TABLE>
+<TABLE WIDTH="620" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD WIDTH="8" BGCOLOR="#00A2E5">&nbsp;</TD>
+  <TD WIDTH="604" VALIGN="TOP" ALIGN="CENTER">	<IMG SRC="img/staff.jpg" ALT="任天堂株式会社　プロデューサー:山上仁志、任天堂株式会社　ディレクター:俵 正樹、任天堂株式会社　プログラマー:吉原一期、任天堂株式会社　デザイナー:山根知美、任天堂株式会社　デザイナー:岡本直子　" WIDTH="604" HEIGHT="230" BORDER="0"><BR><BR>
+			<!-- リード --><IMG SRC="img/lead.gif" ALT="数々のハードウェアに登場して、時代ごとに多くの人に楽しまれてきたのがパズルゲームの名作である『テトリス』。『テトリスDS』も、多彩なモードやニンテンドーWi-Fiコネクション対応など魅力的な新要素がプラスされ、パズルゲームファンなら必携のデキといえるでしょう。往年の名作をどのようにしてDSに登場させたのか、お話を聞いてみたいと思います。" WIDTH="571" HEIGHT="97" BORDER="0"><BR>
+			<BR><BR>
+
+			<!-- 手軽に遊べるゲームだからこそ面白さが色あせない -->
+			<IMG SRC="img/mi_01.gif" ALT="手軽に遊べるゲームだからこそ面白さが色あせない" WIDTH="570" HEIGHT="35" VSPACE="5"><BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">久々に任天堂で登場する『テトリス』ですね。開発のキッカケは？</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG><IMG SRC="img/staff01.jpg" ALT="山上" WIDTH="120" HEIGHT="160" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="RIGHT">山上：</STRONG>開発がスタートしたのは2004年の2月頃になります。かねてから社内の上層部では「わかりやすくてシンプルに楽しめるゲームをニンテンドーDSで出せないだろうか？」ということが言われていたようです。その中で「『テトリス』ではどうか？」という意見が挙がり、「それでいこう！」と二つ返事で決まったようです。始めにテトリス制作の話が来たときは冗談かと思いましたが、何度か同じ打診があり、「あっ、本気なんだ。」と･･･（笑）。それなら企画を始めてみようということになりました。<BR><BR>
+<STRONG>俵：</STRONG>『テトリス』に関しては何回かそういう話が出ていましたよね。でも、あえて出すタイミングを探っていたというのもあって。<BR>
+      <BR>
+      <STRONG>山上：</STRONG>つまりポジションとしてはニンテンドーDSというハードウェアの普及目的も兼ねたソフトになるかと思います。かつてゲームボーイ版の『テトリス』が、発売して間もないゲームボーイの販売台数を引っ張ったように、手軽に遊べるゲームというのはハードウェアと一緒に購入していただける率が高い。いわば長年ハードウェアとソフトウェアを作ってきた経験から自然に生まれた話ともいえますね。</TD>
+				</TR>
+			</TABLE>
+			<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">実際に開発はどのように進められていったんですか？</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>僕と俵と吉原の3人は企画開発部の第2プロダクショングループというところに所属しています。ここは基本的には外部のプログラマーやデザイナーの方々とチームを組んで開発を進めていくのですが、今回はそれほど規模の大きなプロジェクトではないので、社内スタッフの時間を有効活用して内部で作ろうと話をまとめまして。そこで当時入社して2年目の吉原がプログラムができるという話を聞いてプロジェクトに引き入れたわけです。<BR>
+					<BR>
+      <STRONG>吉原：</STRONG>自分はまだゲーム制作の経験も浅く、あくまでプロトタイプを作るまでの役割という意味だと思っていました。プロトタイプを作ってそれに付随する企画書をまとめれば、あとは別の方が製品版レベルへブラッシュアップしてくれるだろうと……それが最後まで自分でやることになってしまいました。なにしろプログラマーとしての仕事が初めてだったので不安でいっぱいでした。でも、無事に発売されて人気も高いみたいでホッとしています。</TD>
+				</TR>
+			</TABLE>
+			<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">すごい。完成度を見る限りとても初めてのプログラムとは思えません。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>さきほどもお話したとおり、私たちのグループにはデザイナーもサウンドクリエイターもいません。サウンドのほうは簡単に決まったのですが、社内デザイナーで手の空いている人間が全然いない。<BR>
+					<BR>
+<STRONG><IMG SRC="img/staff02.jpg" ALT="吉原" WIDTH="120" HEIGHT="160" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="LEFT">吉原：</STRONG>四角いブロックぐらいは自分で描けるので、なんとかプログラムは進めていました。ちょうど最後まで自分がプログラムを担当することがわかった時期でもあったので、不安がさらに重なりました。<BR>
+      <BR>
+<STRONG>山上：</STRONG>そして、時間ができた山根と岡本がデザイナーとして加わってくれることになり、ようやく全体をイメージしながらの開発がスタートしました。ディレクターの俵が加わったのもこの少し前の時期だったかな。それまでは吉原と2人でコツコツと進めていましたね。私たちの部署としては珍しい形のプロジェクトだったと思います。</TD>
+				</TR>
+			</TABLE>
+		<BR><BR>
+<!-- このメンバーだからこそ生まれた任天堂の『テトリス』 -->
+			<IMG SRC="img/mi_02.gif" ALT="このメンバーだからこそ生まれた任天堂の『テトリス』" WIDTH="570" HEIGHT="35" VSPACE="5"><BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">社内メンバーだけで進めたことのメリットは何があったんですか？</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>最大のポイントは今回のデザインコンセプトを打ち出せたことでしょうか。任天堂のキャラクターを使うというのは岡本の発案でしたが、シンプルなゲームだからこそデザインのテーマを何にするかは難航しました。<BR>
+					<BR>
+<STRONG>山根：</STRONG>最初はたしかニューヨークで働いているキャリアウーマンをメインターゲット、というような感じで始まりました。海外先行で売るという話も出ていたので。初期に出た案としては世界中を飛び回るスチュワーデスのイメージで、背景に世界の主要都市が次々と登場するなんてコンセプトもありました。とにかく女性に受けるように“オシャレ”や“カワイイ”というキーワードは外さずに進めようということに。<BR>
+     <STRONG><IMG SRC="img/staff03.jpg" ALT="岡本" WIDTH="120" HEIGHT="160" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="RIGHT"></STRONG><BR>
+<STRONG>岡本：</STRONG>任天堂のキャラを使う案は内心「イケる！」と思っていたので、複数あったデザイン案の中で一番最後に提出しました。<BR><BR>
+<STRONG>山上：</STRONG>でも、その日のうちに社長へプレゼンできるほど良いアイデアでした。任天堂にいるデザイナーだからこそ、こういうのを使ってもいい、むしろイケるんじゃないか、と感じました。“任天堂のテトリス”というイメージをこれほど出しているデザインはないと思います。これは外部に頼んでいたら思いつかなかったでしょう。<BR>
+     <BR>
+<STRONG>山根：</STRONG>じつはデザイン案をまとめていた当時、ちょうどゲームボーイアドバンスで『ファミコンミニ』シリーズが出たんです。そのあとにコレを出すと「あれ、また？」と思われるのがイヤだなという気持ちはありました。でもファミコン誕生20周年という流れもあったのか、昔のドット絵風のデザインがTシャツなどのアパレルで積極的に使われ出し、アートの素材としてドット絵を活用しているクリエイターも登場していた。古臭さよりもクールだという風潮がでてきていたのも大きいですね。</TD>
+				</TR>
+			</TABLE>
+<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">かなり昔のキャラクターも出てきますよね。ディスクシステムの起動画面とか懐かしいです。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>岡本：</STRONG>そうやって元ネタを探してもらうのも楽しいと思います。上画面でよく登場する博士風のキャラクターはファミリーコンピュータロボットのジャイロセットのものなんですよ。過去のデータを探し出してきて、どれを使うか考えるのは大変でしたけど面白い仕事でもありました。<BR>
+					<BR>
+<STRONG>俵：</STRONG>自社のキャラクターなのに妙なことも起こります。例えば『バルーンファイト』のキャラクターは社内の坂本という者がデザインしたのですが、使わせてもらえないか確認を取ったところ、「こんなドット（絵）は使ってへんよ」と、首をかしげるわけです。こちらとしては当時のままのデータを使っているのに……要は作った本人が忘れているほど古いキャラクターだったというわけです。</TD>
+				</TR>
+			</TABLE>
+<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">オプションでBGMが聞けるのも嬉しいです。ついつい聞いちゃいます。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><IMG SRC="img/staff04.jpg" ALT="山根" WIDTH="160" HEIGHT="120" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="LEFT"><STRONG>山根：</STRONG>グラフィックだけでなく昔の『ゼルダ』や『マリオ』のBGMを聴きながら『テトリス』を遊ぶのは、ある意味新鮮なテイストが出せるかなと感じていました。<BR>
+					<BR>
+<STRONG>岡本：</STRONG>以前、ニンテンドーDSの体験会を各地で開催しましたが、<SPAN ID="sitelink"><A HREF="https://www.nintendo.co.jp/ds/abbj/index.html">『大合奏！バンドブラザーズ』</A></SPAN>のデザインに関わっていたこともあって同ソフトのブースにいました。そこでは好きな曲を選んで遊べたのですが、一見ゲームファンじゃないカップルもポップスやロックではなく、『マリオ』の曲を選んでくれる。ゲームミュージックの人気って根強いんだな、と感じました。<BR>
+<BR>
+<STRONG>吉原：</STRONG>かなりの数のＢＧＭなので、サウンド担当者にはスケジュール的にも、ものすごく頑張ってもらいました。<BR>
+     <BR>
+<STRONG>山上：</STRONG>正直なところ、パズルゲームでこんなにビジュアルやサウンドは必要ではないし、プログラムの中身も『テトリス』そのものよりも演出部分の方がはるかに大きいわけです。それらがなくても『テトリス』自体は成立する。実際サウンド担当者からすれば「こんなに曲数がいるの？」という話になります。でも、そこは、たくさん遊んでどんどん難しいものへ挑戦するための意欲を生み出すためにも用意して欲しいと、お願いしました。<BR>
+<BR>
+<STRONG>俵：</STRONG>従来の『テトリス』は、上手い人が自慢しても、それを見ている周りの人はつまらないじゃないですか。でも『テトリスDS』のスタンダードはレベルが上がるとニンテンドーDSの上画面が次々と変わっていく。観客も次は何が出るのかなってワクワクできる。その雰囲気を感じ取ってプレイしているほうもますます楽しくなってくると思うんです。レベル数とかじゃなく「今回は『エキサイトバイク』までしか行けなかったよ～！」とか仲間内で盛り上がって欲しいですよね。</TD>
+				</TR>
+			</TABLE>
+<BR>
+<BR>
+						<!-- ゲームにのめり込んでいく原点が凝縮されている -->
+			<IMG SRC="img/mi_03.gif" ALT="ゲームにのめり込んでいく原点が凝縮されている" WIDTH="570" HEIGHT="35" VSPACE="5"><BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">モードが多彩ということも驚きですが、そのほとんどが同じ操作方法で遊べることに驚きます。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>やはり任天堂がもっとも得意なのはアイデアを出すということなので、同じ『テトリス』であっても“プレイヤーを驚かせてやろうぜ”というコンセプトで進めました。そしてプッシュモードができた段階でこれは1つの驚きだろうということでホッとした感はあります。あとは色々と足していって、アクション系と思考系、2種類のアレンジを6つのモードにうまく振り分けられたと思っています。<BR>
+<BR>
+<STRONG>俵：</STRONG>開発中は多数の方にプレイしてもらって、そのたびにアンケートを取っていましたが、好きなモードが人によって異なり、ほどよく分布しているのが嬉しかったですね。</TD>
+				</TR>
+			</TABLE>
+<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">モードは最初からこの6種類だったんですか？</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>じつは他にもありました。開発の後半まで残ったものとして僕が企画したナイアガラというものがありましたが、いつの間にか消えていました……。<BR>
+					<BR>
+      <STRONG>吉原：</STRONG>え～（汗）、簡単にナイアガラを説明しますと、ニンテンドーDSの上画面から複数のブロックが滝のように次々と落ちてくるモードです。ただ操作方法が複雑で他のモードと異なってしまうので泣く泣く削りました。受け止め系のコンセプトはキャッチに吸収された形になったと思っています。<BR><BR>
+<IMG SRC="img/staff05.jpg" ALT="山根・岡本・山上" WIDTH="160" HEIGHT="120" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="LEFT"><STRONG>岡本：</STRONG>ナイアガラのイメージキャラは『アイスクライマー』を予定していました。タテに長い画面というイメージがあったので。レベルが上がると上画面の標高がどんどん上がっていって、最後は成層圏まで届くという派手な演出を考えていましたね。<BR>
+<BR>
+<STRONG>山上：</STRONG>マルチプレイでアイテムが登場する仕様もいつのまにか加わっていました。僕は長年パズルゲームを作っていたから、アイテムなんて邪道だと思っていたのですが、これが遊んでみると面白い。大勢で遊ぶなら、この感じはアリだなと思いました。盛り上がりますよ。</TD>
+				</TR>
+			</TABLE>
+<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">ニンテンドーWi-Fiコネクション対応というのは企画の最初からあったのでしょうか。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山上：</STRONG>ええ。でも詳細な仕様は本体部分を作ってから考えることにしました。というのも、あとから出す立場として他のチームがニンテンドーWi-Fiコネクション対応させる際に苦労した点などをクリアにしておこうと思ったからです。吉原には<SPAN ID="sitelink"><A HREF="https://www.nintendo.co.jp/ds/amcj/index.html">『マリオカートDS』</A></SPAN>や<SPAN ID="sitelink"><A HREF="https://www.nintendo.co.jp/ds/admj/index.html">『おいでよ	どうぶつの森』</A></SPAN>の開発チームに勉強に行ってもらいました。<BR>
+					<BR>
+<STRONG>俵：</STRONG>仕様を決める際は色々と参考になりました。たとえば『マリオカートDS』だと、時間帯によっては4人集まらないこともあります。そこをふまえて『テトリスDS』では基本を2人対戦にしていますし、対戦時間も短くなるように1回勝負で終わるようにしています。それとレーティングによって初心者と上級者が当たらないように工夫したのも良い判断だったと思っています。<BR>
+      <BR>
+<IMG SRC="img/staff06.jpg" ALT="一同" WIDTH="160" HEIGHT="120" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="RIGHT"><STRONG>山上：</STRONG>デバッグのために世界で初めてWi-Fi対戦した時は盛り上がりましたよ。目の前にいない相手と対戦する楽しさっていうのが、こんなにも盛り上がるものかと、実際に体験して改めて感じました。<BR>
+<BR>
+<STRONG>俵：</STRONG>人間だから有利な状況でもたまにミスとかするんですよ。ミスの後に動揺とかが画面を通じて伝わってくる。それが妙におかしくて。<BR>
+<BR>
+<STRONG>山上：</STRONG>携帯電話片手に１時間は遊んだように思います。メールで「いま攻撃したの誰っ！」とか送られてくるのが楽しくて。Wi-Fi対戦は『テトリス』というシンプルなゲームに合っているぞと、ヒットを確信しました。<BR>
+<BR>
+<STRONG>吉原：</STRONG>『テトリスDS』はアメリカとヨーロッパでも発売されているんですが、Wi-Fi対戦においては日本人がけっこう強いみたいですよ。レーティングが9000以上のすごいプレイヤーもいるようです。</TD>
+				</TR>
+			</TABLE>
+			<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">最後に『テトリスDS』ユーザーの方へメッセージをお願いします。</TD>
+				</TR>
+			</TABLE>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD CLASS="text" COLSPAN="2"><STRONG>山根：</STRONG>昔を思い出しながら『テトリス』を遊ぶという不思議な感覚を楽しんでください。個人的には『ドクターマリオ』も登場させたかったですね。<BR>
+					<BR>
+<STRONG>岡本：</STRONG>ファミコンを知らない人にも「カワイイ！」と遊んでもらえたら嬉しいです。スタンダードは高いレベルになるほどレアなゲームが登場しますよ。お楽しみに。<BR>
+      <BR>
+<STRONG><IMG SRC="img/staff07.jpg" ALT="一同" WIDTH="160" HEIGHT="120" HSPACE="10" VSPACE="5" BORDER="1" ALIGN="LEFT">吉原：</STRONG>一番楽しいのは対戦だと思っています。ニンテンドーWi-Fiコネクションに接続できる環境がなくても、ソフトが1本あれば最大10人まで対戦できますので集まってワイワイやって欲しいです。<BR>
+<BR>
+<STRONG>俵：</STRONG>十字ボタンとＡＢボタンだけでシンプルに操作できる『テトリスDS』は年齢を問わずに遊べます。<SPAN ID="sitelink"><A HREF="https://www.nintendo.co.jp/ds/andj/index.html">『脳を鍛える大人のDSトレーニング』</A></SPAN>を楽しんでいるシニアユーザーにもオススメですよ。じつはウチの母親がハマってます（笑）。<BR>
+<BR>
+<STRONG>山上：</STRONG>ゲームの原点を味わって欲しいですね。それは自分に挑戦することによって、それを乗り越えた時に湧き上がってくる快感です。『テトリスDS』というのは、それがよくわかるゲームに仕上がっています。そしてその快感こそが、ゲームというものにのめり込んでいく原点なんだということに気づいて欲しい。最近の豪華なグラフィックや音楽のゲームには少し飽きたという人はチャレンジしてみてください。</TD>
+				</TR>
+			</TABLE>
+<BR>
+			<TABLE WIDTH="570" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+				<TR>
+					<TD WIDTH="53"><IMG SRC="../img/nom_s.gif" WIDTH="53" HEIGHT="18" BORDER="0"></TD>
+					<TD WIDTH="517" CLASS="text_bold">『テトリス』の面白さを再発見できました。今日はありがとうございました！</TD>
+				</TR>
+			</TABLE>
+<BR>
+		</TD>
+  <TD BGCOLOR="#00A2E5" WIDTH="8">&nbsp;</TD>
+ </TR>
+	<TR>
+		<TD COLSPAN="3"><IMG SRC="../img/waku_btm.gif" WIDTH="620" HEIGHT="26" BORDER="0"></TD>
+	</TR>
+</TABLE>
+<BR>
+<TABLE WIDTH="620" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD ALIGN="CENTER">
+		<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2">
+			<TR>
+				<TD ROWSPAN="7" VALIGN="TOP"><A HREF="../index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD ROWSPAN="7" VALIGN="TOP"><SPAN ID="navilink"><A HREF="../index.html">Ｎ.Ｏ.Ｍ６月号トップへ</A></SPAN></TD>
+				<TD ROWSPAN="7" WIDTH="50">&nbsp;</TD>
+				<TD><A HREF="../11/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi2','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi2" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../11/index.html">1-1.ニンテンドーWi-Fiコネクションとは？</A></SPAN></TD>
+			</TR>
+			<TR>
+				<TD><A HREF="../12/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi3','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi3" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../12/index.html">1-2.ニンテンドーWi-Fi USBコネクタ体験レポート</A></SPAN></TD>
+			</TR>
+			<TR>
+				<TD><A HREF="../21/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi4','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi4" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../21/index.html">2-1.『テトリスDS』プレイレポート</A></SPAN></TD>
+			</TR>
+			<TR>
+				<TD><IMG SRC="../img/btn_yazi_ov.gif" ALT="→" NAME="btn_yazi5" WIDTH="17" HEIGHT="17" BORDER="0"></TD>
+				<TD CLASS="nolink">2-2.『テトリスDS』開発スタッフインタビュー</TD>
+			</TR>
+			<TR>
+				<TD><A HREF="../31/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi6','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi6" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../31/index.html">3-1.『まわしてつなげるタッチパニック』プレイレポート</A></SPAN></TD>
+			</TR>
+			<TR>
+				<TD><A HREF="../32/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi7','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi7" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../32/index.html">3-2.『まわしてつなげるタッチパニック』開発スタッフインタビュー</A></SPAN></TD>
+			</TR>
+			<TR>
+				<TD><A HREF="../41/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_yazi8','','../img/btn_yazi_ov.gif',1)"><IMG SRC="../img/btn_yazi.gif" ALT="→" NAME="btn_yazi8" WIDTH="17" HEIGHT="17" BORDER="0"></A></TD>
+				<TD><SPAN ID="navilink"><A HREF="../41/index.html">4-1.『メトロイドプライム ハンターズ』プレイレポート</A></SPAN></TD>
+			</TR>
+		</TABLE>
+		</TD>
+ </TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

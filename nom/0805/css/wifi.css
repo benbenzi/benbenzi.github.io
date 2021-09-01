@@ -1,0 +1,67 @@
+@charset "Shift_JIS";
+
+
+/*========================================↓Ｗｉ－Ｆｉ有料コンテンツ*/
+
+/*========================================↓基本リンク指定*/
+a:visited {
+	color:#7a1a00;
+	}
+a:hover {
+	color:#e07457;
+	}
+a:active {
+	color:#ff6600;
+	}
+
+
+div#TOPMAIN {
+	height:240px;
+	}
+
+div#TOPMAIN .leftside {
+	width:470px;
+	height:240px;
+	}
+
+div#TOPMAIN .rightside {
+	width:250px;
+	height:240px;
+	}
+
+H2 {
+	width:720px;
+	height:45px;
+	margin:0 0 10px;
+	padding:0;
+	clear:both;
+	}
+
+/*========================================↓リード文：固有設定*/
+
+div#READ p {
+	width:610px;
+	margin:5px auto;
+	}
+
+.firstletter {
+	color:#e07457;
+	}
+
+/*========================================↓ロゴマーク解説用表組み*/
+
+table#WIFILOGOMARK {
+	width:620px;
+	height:auto;
+	margin:5px auto 15px;
+	}
+
+table#WIFILOGOMARK th {
+	width:270px;
+	height:auto;
+	}
+
+table#WIFILOGOMARK td {
+	width:350px;
+	height:auto;
+	}

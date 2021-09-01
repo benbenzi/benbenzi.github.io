@@ -1,0 +1,114 @@
+@charset "Shift_JIS";
+
+/* 画像表示(↓) */
+.nowrap_img { 
+	white-space: nowrap; 
+		text-align:center;
+	} 
+
+.float_l {
+	float: left;
+	margin:0px 9px 1px 0px;
+	}
+
+.float_r {
+	float: right;
+	margin:0px 5px 1px 8px;
+	}
+
+.tb_padding {
+	padding :15px 0;
+	margin: 0;
+	}
+
+#img_area {
+	width:540px;
+	text-align:left;
+		}
+
+#thanks_area {
+	width:540px;
+	text-align:left;
+	padding: 20px 0;
+		}
+
+
+/* インタビュー項目(↓) */
+.nom1 {
+	vertical-align: top;
+	width: 50px;
+	padding:0px 3px 15px 0px;
+	}
+
+
+/*　キャッチ＆リード（↓）*/
+#catch {
+	padding:8px 0 8px 0;
+	}
+
+#lead {
+	width:540px;
+	padding-bottom: 15px;
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	color: #666666;
+	line-height: 1.5em;
+	text-align:left;
+	}
+
+/*　フォーム（↓）*/
+#form_area {
+	padding-top:10px;
+	}
+
+/*　インタビュー（↓）*/
+.interview_area {
+	padding-top: 20px;
+	width: 640px;
+	margin: 0 auto;
+	clear:both;
+	}
+	
+.clear_both {
+	clear:both;
+}
+
+/*　フッタ－エリア（↓）*/
+#top_footer {
+	width:100%;
+	vertical-align:middle;
+	padding:10px 0 8 0;
+	font-family: "ＭＳ ゴシック", Osaka;
+	font-size: 12px;
+	text-align:center;
+	}
+
+/*　枠（↓）*/
+#waku_bg {
+	width:720px;
+	height:auto;
+	background-image:url(https://www.nintendo.co.jp/nom/0801/img_cmn/waku_bg.gif);
+	background-repeat:y-repeat;
+	margin:0 auto;
+	padding:15px 0 10px 0;
+	}
+
+/*　送りボタン（↓）*/
+.okuri_main {
+ padding: 0;
+	width: 710px;
+	height: 30px;
+	background: #caedff;
+	margin:10px 0;
+	}
+	
+.btn_next {
+	float: right;
+	margin:6px 20px 0px 0px;
+	}
+
+.btn_pre {
+	float: left;
+	margin:6px 0px 0px 20px;
+	}
+

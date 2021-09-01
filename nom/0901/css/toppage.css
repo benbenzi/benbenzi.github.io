@@ -1,0 +1,64 @@
+@charset "Shift_JIS";
+
+
+.text2 {
+	width:680px;
+	margin:0 0 0 44px;
+}
+
+.maruc {
+	width:768px;
+	margin:0;
+	padding:0;
+	background: url(../img/btm.jpg) no-repeat center bottom;
+	text-align:center;
+}
+
+.maruc_text{
+	width:700px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	font-size:10px;
+	text-align:center;
+}
+
+/*ƒ{ƒ^ƒ“—Þ*/
+
+.bt_11, .bt_12, .bt_2 {
+	display:block;
+	width:305px;
+	height:45px;
+	margin:0;
+	padding:0;
+	float:left;
+	background-image:url(../img/bt_topic1_1.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	display:inline;
+}
+
+.bt_12 {
+	background-image:url(../img/bt_topic1_2.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.bt_2 {
+	width:710px;
+	height:95px;
+	background-image:url(../img/bt_topic2.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+
+.bt_11:hover, .bt_12:hover {
+	background-position:0 -45px;
+}
+.bt_2:hover {
+	background-position:0 -95px;
+}

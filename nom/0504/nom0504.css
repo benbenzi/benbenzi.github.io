@@ -1,0 +1,43 @@
+
+
+/* 4åéçÜ */
+
+
+.txt10 {
+	FONT-SIZE: 10px; LINE-HEIGHT: 15px; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+
+.txt10_b {
+	FONT-SIZE: 10px; FONT-WEIGHT: bold;  LINE-HEIGHT: 18px; COLOR: #666666; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+
+.txt12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; COLOR: #666666; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt12_b{
+	FONT-SIZE: 12px; FONT-WEIGHT: bold;  LINE-HEIGHT: 18px;COLOR: #666666; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt12_c{
+	FONT-SIZE: 12px;  LINE-HEIGHT: 18px;COLOR: #5C5001; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+
+
+.txt14 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 20px; COLOR: #330000; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+.txt14_n {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #FFCC33; FONT-FAMILY: "ÇlÇr ÉSÉVÉbÉN", Osaka
+}
+A:link {
+	COLOR: #003300; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #FFCC00; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #FFCC00; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003300; TEXT-DECORATION: none
+}
+

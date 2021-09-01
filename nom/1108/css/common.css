@@ -1,0 +1,150 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/7/25;
+	Site Name : N.O.M Nintendo Online Magazine No.157;
+	About : N.O.M common-SS;
+
+	00.common
+	01.container wrapper
+	02.header
+	03.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"MS P Gothic","MS Gothic","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","Hiragino Kaku Gothic Pro","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+img, div { behavior: url(https://www.nintendo.co.jp/nom/1108/css/iepngfix.htc); }
+
+a {
+	outline:none;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	color:#ff6600;
+	text-decoration:underline;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+li {
+	color:#006ebc;
+	list-style:none;
+}
+
+li a {
+	color:#f08200;
+}
+
+
+/*--- 01.container wrapper
+--------------------------------------------------------------------------*/
+
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+.head {
+	height:71px;
+	width:768px;	
+}
+
+.nom{
+	margin:20px 0 20px 22px;
+	float:left;
+	display:inline;
+}
+.ds{
+	margin:20px 0 30px 292px;
+	float:left;
+	display:inline;
+}
+
+/*--- 03.footer
+--------------------------------------------------------------------------*/
+
+
+.page-end {
+	width:400px;
+	padding:20px 0 30px 20px;
+	float:left;
+	display:inline;
+}
+
+.page-end a {
+	color:#FFFFFF;
+}
+

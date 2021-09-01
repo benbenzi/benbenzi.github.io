@@ -1,0 +1,153 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/7/25;
+	Site Name : N.O.M Nintendo Online Magazine No.157;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body
+	02.main
+	03.contents
+	
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+
+/*--- 01.body 
+--------------------------------------------------------------------------*/
+
+body {
+	font-size:13px;
+	color:#737373;
+	background-image:url(../index_img/bg_index.jpg);
+	background-position:center 0;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-color: #000000;
+}
+
+
+/*--- 02.main
+--------------------------------------------------------------------------*/
+
+/*--- 03.contents
+--------------------------------------------------------------------------*/
+.contents{
+	width:724px;
+	padding:30px 22px 30px 22px;
+	background-color:#FFFFFF;
+}
+
+.subtitle{
+	margin-bottom:30px;
+}
+
+.contents_box{
+	width:724px;
+	margin-bottom:30px;
+}
+
+.read {
+	width:398px;
+	height:194px;
+	float:left;
+	display:inline;
+}
+
+.soft_info{
+	width:272px;
+	height:194px;
+	float:left;
+	margin-left:54px;
+	display:inline;
+}
+
+.soft{
+	width:272px;
+	height:101px;
+}
+
+.soft_photo{
+	width:110px;
+	height:101px;
+	float:left;
+	display:inline;
+}
+.official_link{
+	width:127px;
+	height:20px;
+	float:left;
+	margin:81px 0 0 10px;
+	display:inline;
+}
+.soft_text{
+	width:272px;
+	height:93px;
+}
+
+.contents02 {
+	width:175px;
+	height:47px;
+	margin:0 275px 30px 274px;
+}
+
+.btn_index2 {
+	width:175px;
+	height:47px;
+}
+
+.index2 {
+	display:block;
+	width:175px;
+	height:47px;
+	background-image:url(../index_img/btn_01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.index2:hover {
+	background-position:0 -47px;
+}
+
+.copyright {
+	width:175px;
+	height:11px;
+	margin:0 275px 0 274px;
+}

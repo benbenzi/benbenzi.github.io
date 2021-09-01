@@ -1,0 +1,243 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/08/27;
+	Site Name : N.O.M Nintendo Online Magazine No.134;
+	About : N.O.M‹¤’ÊCSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+body {
+	font-size:14px;
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS UI Gothic","MS P Gothic","MS Gothic","Meiryo";
+	font-size:12px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.clear {
+	clear:both;
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+a {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:link {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#00A0E9;
+	text-decoration:underline;
+}
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background-color:#F8F7F3;
+	text-align:center;
+	background-image:url(../img/bg_001.jpg);
+	background-position:center top;
+	background-repeat:repeat;
+}
+
+#container {
+	width:788px;
+	margin:0 auto;
+	text-align:center;
+	background-image:url(../img/bg_002.jpg);
+	background-position:center top;
+	background-repeat:repeat-y;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+	background-image:url(../img/bg_003.jpg);
+	background-position:center top;
+	background-repeat:repeat-y;
+	/*height:2500px;*/
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	height:80px;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.main1 {
+	width:768px;
+}
+
+.main1a {
+	width:768px;
+	padding:0 0 50px 0;
+}
+
+.main2 {
+	width:574px;
+	height:238px;
+	float:left;
+}
+
+.main3 {
+	width:194px;
+	height:238px;
+	float:right;
+}
+
+.main4 {
+	width:768px;
+	/*height:41px;*/
+	margin:0 auto;
+	text-align:center;
+	background-image:url(../img/bg_004.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+}
+
+.main-btn1 {
+	display:block;
+	width:194px;
+	height:80px;
+	background-image:url(../img/btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;
+	float:left;*/
+}
+
+.main-btn1:hover {
+	background-position:-194px 0;
+}
+
+.main-btn2 {
+	display:block;
+	width:194px;
+	height:80px;
+	background-image:url(../img/btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 -80px;
+	text-indent:-9999px;
+	font-size:0.1%;
+	/*line-height:0.1%;
+	float:left;*/
+}
+
+.main-btn2:hover {
+	background-position:-194px -80px;
+}
+
+.main-link1 {
+	text-align:left;
+	margin:0 26px 0 26px;
+	padding:0 0 40px 0;
+}
+
+.main-link2 {
+	text-align:center;
+	margin:0 26px 0 26px;
+	padding:0 0 20px 0;
+}

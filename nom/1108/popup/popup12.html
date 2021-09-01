@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>対戦で相手の顔が見える！</title>
+<link rel="stylesheet" type="text/css" href="https://www.nintendo.co.jp/nom/1108/popup/css/shared.css" />
+<link rel="stylesheet" type="text/css" href="https://www.nintendo.co.jp/nom/1108/popup/css/popup.css" />
+<script language="JavaScript" type="text/JavaScript" src="../js/jquery.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="../js/shared.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="../js/jquery_auto.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+if ($.browser.msie && $.browser.version < 7){
+	$(document).ready(function() {
+    	$("#win_close").css("position", "absolute");
+	});
+	$(window).scroll(function() {
+    	$("#win_close").css("top", $(window).scrollTop() + "px");
+	});
+};
+
+function hardwareLink(url){
+	if(!window.opener || window.opener.closed){
+		window.open(url, 'newWin', '');
+	}
+	else{
+		window.opener.location.href = url;
+		if( navigator.userAgent.indexOf('AppleWebKit/') > -1 ) {
+        window.blur();
+		}
+		window.opener.focus();
+	}
+}
+
+
+//]]>
+
+</script>
+
+</head>
+<body class="pop">
+	<!--wrapper start-->
+	<div id="wrapper" class="pop_comment">
+		<!--header start-->
+		<div id="pop_header">
+			<h1><img src="https://www.nintendo.co.jp/nom/1108/popup/img/logo_nintendo.gif" width="73" height="20" alt="Nintendo" /></h1>
+			<div id="win_close" class="fixed"><a href="#" onClick="window.close(); return false;"><img src="https://www.nintendo.co.jp/nom/1108/popup/img/btn_close.gif" class="hover" width="36" height="36" alt="閉じる" /></a></div>
+		</div><!--header end-->
+			
+            
+            
+            
+            
+            
+	<!--primary start-->
+	<div id="primary">
+			  <h2><img src="https://www.nintendo.co.jp/nom/1108/popup/img/12-1.jpg" width="768" height="546" alt="" /></h2>
+			  <p class="txt01"><img src="https://www.nintendo.co.jp/nom/1108/popup/img/text012.jpg" alt="" width="706" height="80" /></p>
+              
+	</div>
+  
+  
+  <div id="pop_footer">
+			<p class="pop_copy"><img width="104" height="28" src="https://www.nintendo.co.jp/nom/1108/popup/img/txt_pop_copyright.gif" alt="" /></p>
+			<p class="pagetop"><a href="#wrapper"><img width="126" height="28" src="https://www.nintendo.co.jp/nom/1108/popup/img/btn_pop_pagetop.gif" class="hover" alt="このページの上へ" /></a></p>
+		</div>
+		</div>
+	</body>
+</html>

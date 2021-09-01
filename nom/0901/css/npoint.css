@@ -1,0 +1,85 @@
+@charset "Shift_JIS";
+
+
+body {
+	background:#F5F5F5 url(https://www.nintendo.co.jp/nom/0901/npoint/img/bg_001.gif) repeat-y center top;
+	text-align:center;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+.box1 {
+	width:768px;
+	background:#FFF url(https://www.nintendo.co.jp/nom/0901/npoint/img/bg_003.gif) repeat-y center top;
+}
+
+.box2 {
+	width:768px;
+	background:#FFF url(https://www.nintendo.co.jp/nom/0901/npoint/img/bg_002.gif) repeat-y center top;
+}
+
+.box3 {
+	width:768px;
+}
+
+.img1 {
+	width:179px;
+	height:104px;
+	margin:0 0 10px 0;
+	float:right;
+	display:inline;
+}
+
+.img2 {
+	width:133px;
+	height:133px;
+	float:right;
+	display:inline;
+}
+
+.img3 {
+	width:224px;
+	height:108px;
+	float:right;
+	display:inline;
+}
+
+.img4 {
+	width:224px;
+	height:334px;
+	float:right;
+	display:inline;
+}
+
+.text1 {
+	width:680px;
+	margin:0 0 0 44px;
+	float:left;
+	display:inline;
+}
+
+.text2 {
+	width:680px;
+	margin:0 0 0 44px;
+}
+
+.text3 {
+	color:#F90;
+	font-size:10px;
+}
+
+.text4 {
+	color:#888;
+	font-size:10px;
+}
+

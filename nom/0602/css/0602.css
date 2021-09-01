@@ -1,0 +1,30 @@
+.small {font-size: 10px; line-height: 14px; color: #000000; }
+.normal {font-size: 12px; line-height: 180%; color: #000000; }
+.txt14 {font-size: 14px; line-height: 180%; color: #000000;}
+
+.mid01 {font-size: 14px; line-height: 140%; color: #006699; font-weight: bold; padding:10px 0px;}
+.mid02 {font-size: 14px; line-height: 140%; color: #55B107; font-weight: bold; padding:10px 0px;}
+
+.n01 {font-size: 12px; line-height: 180%; color: #3399CC; font-weight: bold;}
+.n02 {font-size: 12px; line-height: 180%; color: #336633; font-weight: bold;}
+
+
+.site_m {font-size: 14px; line-height: 140%; font-weight: bold;}
+.site_nm {font-size: 14px; line-height: 140%; color: #000000;}
+.site_s {font-size: 12px; line-height: 160%;}
+
+
+
+A:link    {
+	text-decoration:underline; color: #000000;
+}
+A:visited { 
+	text-decoration:underline; color: #006633;
+}
+A:active  { 
+	text-decoration:underline; color: #000000;
+}
+A:hover   { 
+	text-decoration:underline; color: #55B107; 
+}
+

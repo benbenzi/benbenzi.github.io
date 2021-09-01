@@ -1,0 +1,37 @@
+.ssmall {font-size: 10px; line-height: 14px; }
+.small {font-size: 12px; line-height: 18px; }
+.normal {font-size: 14px; line-height: 20px; }
+
+.txt12 {font-size: 12px; line-height: 20px; }
+
+.nom {font-size: 12px; line-height: 16px; font-weight:bold;}
+
+
+
+
+A:link    {
+	text-decoration:underline; color: #FFFFFF;
+}
+A:visited { 
+	text-decoration:underline; color: #CC9900;
+}
+A:active  { 
+	text-decoration:underline; 
+}
+A:hover   { 
+	text-decoration:underline; color: #FFCC00; 
+}
+
+A.win:link    {
+	text-decoration:underline; color: #FF0000;
+}
+A.win:visited { 
+	text-decoration:underline; color: #CC0000;
+}
+A.win:active  { 
+	text-decoration:underline; 
+}
+A.win:hover   { 
+	text-decoration:underline; color: #FF3300; 
+}
+

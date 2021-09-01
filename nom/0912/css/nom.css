@@ -1,0 +1,126 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2009/11/26;
+	Update Date : ;
+	Site Name : NOM0912;
+	URL : ;
+	About : NOM0912;
+	Author : ;
+
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 00.nom
+--------------------------------------------------------------------------*/
+
+.nom_head_001 {
+	width:384px;
+	height:60px;
+	margin:0 384px 0 0;
+}
+
+.nom_text_001 {
+	margin:0 32px;
+	padding:20px 0;
+	color:#FFF;
+}
+
+.nom_box_001 {
+	width:768px;
+}
+
+.nom_btn_001 {
+	display:block;
+	width:384px;
+	height:391px;
+	background-image:url(../img/btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.nom_btn_001:hover {
+	background-position:0 -391px;
+}
+
+.nom_btn_002 {
+	display:block;
+	width:384px;
+	height:391px;
+	background-image:url(../img/btn_002.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.nom_btn_002:hover {
+	background-position:0 -391px;
+}
+
+.nom_btn_003 {
+	display:block;
+	width:384px;
+	height:16px;
+	background-image:url(../img/btn_003.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.nom_btn_003:hover {
+	background-position:0 -16px;
+}
+
+.nom_btn_004 {
+	display:block;
+	width:384px;
+	height:16px;
+	background-image:url(../img/btn_003.jpg);
+	background-repeat:no-repeat;
+	background-position:-384px 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	float:left;
+}
+
+.nom_btn_004:hover {
+	background-position:-384px -16px;
+}

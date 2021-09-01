@@ -1,0 +1,18 @@
+
+.ssmall2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px }
+.ssmall { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 20px }
+.small2 { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px }
+.small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 20px }
+.normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 13px; line-height: 20px; color:#FFFFFF }
+.normal_y { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 14px; line-height: 20px; color:#F0E68C }
+
+/*@ƒCƒ“ƒ^ƒrƒ…[—p@*/
+.int_normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px }
+.int_small { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 10px; line-height: 25px }
+.nom_normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#99CCFF }
+.name_normal { font-family: "‚l‚r ƒSƒVƒbƒN", Osaka; font-size: 12px; line-height: 25px; color:#66FFFF }
+
+A:link { text-decoration:underline;color:#99FFFF; }
+A:hover { text-decoration:underline;color:#00CCFF; }
+A:active { text-decoration:underline;color:#00CCFF; }
+A:visited { text-decoration:none;color:#FFFFFF; }

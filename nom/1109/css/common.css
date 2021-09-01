@@ -1,0 +1,590 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/8/29;
+	Site Name : N.O.M Nintendo Online Magazine No.158;
+	About : N.O.M common-SS;
+
+	00.common
+	01.container wrapper
+	02.header
+	03.main
+	04.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"MS P Gothic","MS Gothic","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","Hiragino Kaku Gothic Pro","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.6;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+* html body { text-align:center; }
+
+body {
+	font-size:13px;
+	color:#777777;
+	background-image:url(../common-img/bg001.gif);
+	background-repeat:repeat;
+	background-position:0 0;
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	color:#ff7d00;
+	text-decoration:underline;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+li {
+	color:#777777;
+	list-style:none;
+}
+
+li a {
+	color:#ff7d00;
+}
+
+
+/*--- 01.container wrapper
+--------------------------------------------------------------------------*/
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+}
+
+#nomarea {
+	width:768px;
+	margin:0 auto;
+	background-image:url(../common-img/bg002.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+.header {
+	width:728px;
+	height:29px;
+	padding:19px 0 35px 0;
+	margin:0 auto;
+}
+
+.header_p {
+	width:728px;
+	height:29px;
+	padding:19px 0 20px 0;
+	margin:0 auto;
+}
+
+.header01 {
+	width:255px;
+	float:left;
+}
+
+.header02 {
+	width:220px;
+	float:right;
+}
+
+.fuji01 {
+	width:534px;
+	float:left;
+}
+
+.fuji02 {
+	width:214px;
+	float:right;
+}
+
+.fuji02_a {
+	width:214px;
+	height:18px;
+	padding:20px 0 0 0;
+}
+
+.fuji-offi {
+	display:block;
+	width:214px;
+	height:18px;
+	background-image:url(../p2/img/fuji_offi.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.fuji-offi:hover {
+	background-position:0 -18px;
+}
+
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.mainimg {
+	width:748px;
+	margin:0 auto;
+}
+
+.btnarea {
+	width:748px;
+	padding:0 0 44px 0;
+}
+
+.p-title {
+	width:334px;
+	padding:0 202px 0 0;
+	float:left;
+}
+
+.p-btn {
+	width:212px;
+	padding:0;
+	float:right;
+}
+
+.p-btn01 {
+	width:47px;
+	height:40px;
+	float:left;
+}
+
+.p-btn02 {
+	width:71px;
+	height:40px;
+	float:right;
+}
+
+.btn01 {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn02 {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn03 {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btntotop {
+	display:block;
+	width:71px;
+	height:40px;
+	background-image:url(../common-img/totop.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn01:hover , .btn02:hover , .btn03:hover , .btntotop:hover {
+	background-position:0 -40px;
+}
+
+.btn01_now {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn01.gif);
+	background-repeat:no-repeat;
+	background-position:0 -40px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn02_now {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn02.gif);
+	background-repeat:no-repeat;
+	background-position:0 -40px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.btn03_now {
+	display:block;
+	width:47px;
+	height:40px;
+	background-image:url(../common-img/btn03.gif);
+	background-repeat:no-repeat;
+	background-position:0 -40px;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.main {
+	width:728px;
+	margin:0 auto;
+	_text-align:center;
+}
+
+.main p {
+	text-align:left;
+}
+
+.main_a {
+	width:688px;
+	margin:0 auto;
+	_text-align:center;
+}
+
+h1 , h2 , h3 {
+	padding:0 0 24px 0;
+}
+
+h4 {
+	padding:0 0 20px 0;
+}
+
+h5 {
+	padding:0 0 16px 0;
+}
+
+.text01 {
+	width:688px;
+	padding:0 0 38px 0;
+	margin:0 auto;
+}
+
+.text02 {
+	width:458px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.text02_img {
+	width:200px;
+	padding:0;
+	float:right;
+}
+
+.syokai01 {
+	width:637px;
+	margin:0 auto;
+	_text-align:center;
+}
+
+.syokai02 {
+	width:637px;
+	padding:0 0 24px 0;
+}
+
+.syokai02_end {
+	width:637px;
+	padding:0 0 34px 0;
+}
+
+.text03 {
+	width:407px;
+	float:left;
+}
+
+.text03_a {
+	width:383px;
+	padding:0 24px 0 0;
+	text-align:left;
+}
+
+.text03_img {
+	width:230px;
+	padding:0 0 30px 0;
+	float:right;
+}
+
+.text04 {
+	padding:0 0 30px 0;
+	text-align:left;
+}
+
+.caption {
+	width:407px;
+	font-size:10px;
+	padding:12px 0 24px 0;
+}
+
+.caption01 {
+	width:27px;
+	float:left;
+}
+
+.caption02 {
+	width:380px;
+	float:right;
+}
+
+.kakomi01 {
+	width:688px;
+	background-image:url(../p1/img/kakomibg.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+	margin:0 auto;
+}
+
+.kakomi02 {
+	width:628px;
+	margin:0 auto;
+	_text-align:center;
+}
+
+.kakomi03 {
+	width:368px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.kakomi04 {
+	width:230px;
+	padding:0;
+	float:right;
+}
+
+.int01 {
+	padding:0 0 30px 0;
+	text-align:center;
+}
+
+.inttext01 {
+	width:688px;
+	padding:0 0 20px 0;
+	text-align:left;
+	color:#ff7d00;
+}
+
+.inttext02 {
+	width:30px;
+	font-weight:bold;
+	text-align:right;
+	float:left;
+}
+
+.inttext03 {
+	width:658px;
+	font-weight:bold;
+	float:right;
+}
+
+.inttext04 {
+	width:688px;
+	padding:0 0 40px 0;
+	color:#ff7d00;
+}
+
+.inttext04_a {
+	width:688px;
+	padding:0 0 24px 0;
+	color:#ff7d00;
+}
+
+.inttext05 {
+	width:56px;
+	color:#454545;
+	font-weight:bold;
+	text-align:left;
+	float:left;
+}
+
+.inttext06 {
+	width:632px;
+	color:#737373;
+	text-align:left;
+	float:right;
+}
+
+.inttext07 {
+	width:408px;
+	padding:0 24px 0 0;
+	color:#737373;
+	text-align:left;
+	float:left;
+}
+
+.inttext08 {
+	width:200px;
+	float:right;
+}
+
+.inttext09 {
+	width:56px;
+	color:#454545;
+	font-weight:bold;
+	text-align:left;
+	float:left;
+}
+
+.inttext10 {
+	width:408px;
+	padding:0 0 24px 0;
+	color:#737373;
+	text-align:left;
+	float:right;
+}
+
+.inttext10_a {
+	width:408px;
+	padding:0;
+	color:#737373;
+	text-align:left;
+	float:right;
+}
+
+.inttext11 {
+	width:464px;
+	padding:0 24px 0 0;
+	float:left;
+	color:#737373;
+}
+
+
+
+.com01 {
+	width:628px;
+	padding:0 0 24px 0;
+	margin:0 auto;
+	_text-align:center;
+}
+
+.com02 {
+	width:404px;
+	padding:0 24px 24px 0;
+	text-align:left;
+	float:left;
+}
+
+.com03 {
+	width:200px;
+	padding:0 0 24px 0;
+	float:right;
+}
+
+.com04 {
+	width:628px;
+	padding:0 0 38px 0;
+	margin:0 auto;
+	text-align:left;
+}
+
+.comimg {
+	width:628px;
+	text-align:center;
+	padding:0 0 38px 0;
+}
+
+/*--- 04.footer
+--------------------------------------------------------------------------*/
+
+.footer {
+	padding:20px 0 50px 40px;
+	float:left;
+}
+
+.footer a {
+	color:#777777;
+}
+
+.p-footer01 {
+	width:400px;
+	padding:0 0 20px 0;
+	margin:0 auto;
+}

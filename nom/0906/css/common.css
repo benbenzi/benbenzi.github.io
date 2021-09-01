@@ -1,0 +1,216 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------
+
+	Build Date : 2009/05/28;
+	Site Name : NOM2009îN6åéçÜ;
+	URL : http://www.nintendo.co.jp/nom/0906/index.html;
+	About : NOM2009îN6åéçÜópCSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","ÇlÇr ÇoÉSÉVÉbÉN","MS PGothic","MS UI Gothic","MS Gothic","Meiryo";
+	font-size:13px;
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+* html p {
+	font-size:small;
+	/*font-size:93%;*/
+}
+
+img {
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	font-size:inherit;
+	font-size:100%;
+}
+
+table th, table td {
+	font-size:inherit;
+	font-size:93%;
+}
+
+
+.clear {
+	clear:both;	
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+/* Wii Opera 
+.for_opera {
+	display:block;
+	width:1px;
+	height:1px;
+	font-size:0.1px;
+	line-height:0.1px;
+	clear:both;
+}
+*/
+
+a {
+	color:#fabf00;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#dd9a17;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#65d5ef;
+	text-decoration:underline;
+}
+
+.tx10 {
+	font-size:77%;
+}
+
+.tx11 {
+	font-size:83%;
+}
+
+.tx12 {
+	font-size:93%;
+}
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	background:#000;
+	color:#ddd;
+	font-size:13px;
+	*font-size:small;
+	*font:x-small;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	height:50px;
+	margin:0 auto;
+}
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+#mainarea {
+	width:768px;
+	margin:0 auto;
+}
+
+/*--- 04.link
+--------------------------------------------------------------------------*/
+
+
+/*--- 05.footer
+--------------------------------------------------------------------------*/
+
+#footer {
+	width:768px;
+	height:50px;
+	margin:0 auto;
+}
+
+.footerlink {
+	width:748px;
+	margin:0 auto;
+	padding-top:10px;
+	text-align:left;
+}
+
+.footerlink p a {
+	text-align:left;
+	font-size:77%;
+	letter-spacing:1px;
+}

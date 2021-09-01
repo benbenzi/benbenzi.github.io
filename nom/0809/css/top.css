@@ -1,0 +1,106 @@
+@charset "Shift_JIS";
+
+
+#topbg {
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top_bg.gif) repeat-x top center;
+}
+
+
+#top_title p {
+	float: left;
+	
+}
+
+.float-l {
+	float:left;
+}
+
+#go_toku1 {
+	display: block;
+	width: 616px;
+	height: 120px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top9.jpg) no-repeat 0 0;
+}
+
+#go_toku1 a {
+	display: block;
+	width: 616px;
+	height: 120px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top9.jpg) no-repeat  0 0;
+}
+
+
+#go_toku1 a:hover{
+
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top9.jpg) no-repeat  0 -120px;
+}
+
+
+
+#go_toku2 {
+	display: block;
+	width: 616px;
+	height: 55px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top12.jpg) no-repeat 0 0;
+}
+
+#go_toku2 a{
+	display: block;
+	width: 616px;
+	height: 55px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top12.jpg) no-repeat  0 0;
+}
+
+
+#go_toku2 a:hover{
+
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top12.jpg) no-repeat  0 -55px;
+}
+
+#moji {
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top_linebg.jpg) repeat-y;
+
+}
+
+#top_footer {
+	background: url(https://www.nintendo.co.jp/nom/0809/img/top17.jpg) no-repeat;
+}
+
+#go_index{
+	display: block;
+	width: 177px;
+	height: 40px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_index.jpg) no-repeat;
+}
+
+#go_index a{
+	display: block;
+	width: 177px;
+	height: 40px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_index.jpg) no-repeat 0 0;
+}
+
+#go_index a:hover{
+	
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_index.jpg) no-repeat 0 -40px;
+}
+
+#go_sitemap {
+	display: block;
+	width: 215px;
+	height: 40px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_sitemap.jpg) no-repeat;
+}
+
+#go_sitemap a {
+	display: block;
+	width: 215px;
+	height: 40px;
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_sitemap.jpg) no-repeat 0 0;
+}
+
+#go_sitemap a:hover {
+	
+	background: url(https://www.nintendo.co.jp/nom/0809/img/go_sitemap.jpg) no-repeat 0 -40px;
+}
+

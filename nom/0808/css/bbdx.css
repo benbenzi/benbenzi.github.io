@@ -1,0 +1,270 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";*/
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	outline:none;
+}
+
+p {
+	font-family:"HiraKakuPro-W3","MS UI Gothic","MS Gothic";
+}
+
+body {
+	background:#F39700 url(https://www.nintendo.co.jp/nom/0808/bbdx/img/bbdx_bg_001.jpg) no-repeat center top;
+	text-align:center;
+	margin:0;
+}
+
+#bcontainer {
+	width:780px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#bwrapper {
+	width:780px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#bmain {
+	width:780px;
+	background:#FFF repeat center top;
+	margin:10px 0 0 0;
+}
+
+#bfoot {
+	width:780px;
+	height:97px;
+	margin:0 0 20px 0;
+	background:#FFF url(https://www.nintendo.co.jp/nom/0808/bbdx/img/foot_001.jpg) no-repeat center bottom;
+}
+
+.bbox1 {
+	width:146px;
+	height:11px;
+	margin:0 0 0 605px;
+	float:left;
+	display:inline;
+}
+
+.bbox2 {
+	width:780px;
+	height:293px;
+	float:left;
+	display:inline;
+}
+
+.bbox3 {
+	width:780px;
+	height:100px;
+}
+
+.bbox4 {
+	width:780px;
+	height:56px;
+	background:url(https://www.nintendo.co.jp/nom/0808/bbdx/img/page_link_bg_001.jpg) no-repeat center top;
+	float:left;
+}
+
+.bbox5 {
+	width:780px;
+	height:40px;
+}
+
+.bbox6 {
+	width:780px;
+	margin:0 0 25px 0;
+	float:left;
+}
+
+.bbox7 {
+	width:780px;
+	margin:0 0 29px 0;
+	float:left;
+}
+
+.bbox8 {
+	width:337px;
+	height:23px;
+	margin:26px 0 0 28px;
+	float:left;
+	display:inline;
+}
+
+.bfla1 {
+	width:343px;
+	height:60px;
+	margin:0 0 25px 0;
+	float:left;
+}
+
+.bimg1 {
+	float:right;
+	display:inline;
+	margin:0 0 14px 28px;
+}
+
+.bimg2 {
+	float:right;
+	display:inline;
+	margin:0 0 0 28px;
+}
+
+.bimg3 {
+	width:686px;
+	margin:0 0 0 47px;
+}
+
+.bimg4 {
+	width:686px;
+	margin:0 0 0 47px;
+	float:left;
+	display:inline;
+}
+
+.btext1 {
+	width:686px;
+	margin:17px 0 0 47px;
+	line-height:150%;
+	font-size:12px;
+}
+
+.bbtn1 {
+	display:block;
+	width:146px;
+	height:11px;
+	background-image:url(https://www.nintendo.co.jp/nom/0808/bbdx/img/site_btn_001.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.bbtn1:hover {
+	background-position:0 -11px;
+}
+
+.bbtn2 {
+	display:block;
+	width:337px;
+	height:23px;
+	background-image:url(https://www.nintendo.co.jp/nom/0808/bbdx/img/i_link_btn_001.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:1%;
+	float:left;
+}
+
+.bbtn2:hover {
+	background-position:0 -23px;
+}
+
+#bplbtn1 {
+	width:84px;
+	height:42px;
+	margin:9px 0 0 79px;
+	/*background:url(https://www.nintendo.co.jp/nom/0808/bbdx/img/page_link_btn_001.jpg) no-repeat;*/
+}
+
+#bplbtn1 li {
+    float:left;
+	/*font-size:1%;*/
+	/*line-height:1%;*/
+	text-indent:-9999px;
+	list-style-type:none;
+}
+	
+#bplbtn1 li a {
+	display:block;
+	height:42px;
+	background:url(https://www.nintendo.co.jp/nom/0808/bbdx/img/page_link_btn_001.jpg) no-repeat;
+	text-decoration:none;
+	overflow:hidden;
+}
+
+li#bplbtn1a a {
+	width:42px;
+	background-position:0 0;
+}
+
+li#bplbtn1a a:hover {
+	width:42px;
+	background-position:0 -42px;
+}
+
+li#bplbtn2a a {
+	width:42px;
+	background-position:0 -42px;
+}
+
+li#bplbtn2a a:hover {
+	width:42px;
+	background-position:0 -42px;
+}
+
+li#bplbtn1b a {
+	width:42px;
+	background-position:-42px 0;
+}
+
+li#bplbtn1b a:hover {
+	width:42px;
+	background-position:-42px -42px;
+}
+
+li#bplbtn2b a {
+	width:42px;
+	background-position:-42px -42px;
+}
+
+li#bplbtn2b a:hover {
+	width:42px;
+	background-position:-42px -42px;
+}
+
+a:link {
+	color:#00B7EE;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#00B7EE;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#F39700;
+	text-decoration:underline;
+}
+
+.tspace {
+	padding:20px 0 0 0;
+}
+
+.tmark {
+	width:9px;
+	margin:2px 4px 0 30px;
+	float:left;
+	display:inline;
+}
+
+.ttext2 {
+	width:120px;
+	display:inline;
+	float:left;
+	line-height:150%;
+	font-size:9px;
+}

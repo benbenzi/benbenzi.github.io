@@ -1,0 +1,155 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/8/29;
+	Site Name : N.O.M Nintendo Online Magazine No.158;
+	About : N.O.M common-SS;
+
+	00.common
+	01.container wrapper
+	02.header
+	03.main
+	04.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.t-btnarea {
+	width:691px;
+	margin:0 auto;
+}
+
+.t-btn01 {
+	width:691px;
+	height:55px;
+	padding:0 0 10px 0;
+}
+
+.t-btn02 {
+	width:341px;
+	height:161px;
+	padding:0 9px 0 0;
+	float:left;
+}
+
+.t-btn03 {
+	width:341px;
+	height:161px;
+	padding:0;
+	float:right;
+}
+
+.t-btn01_a {
+	display:block;
+	width:691px;
+	height:55px;
+	background-image:url(../img/t_btn01.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn01_a:hover {
+	background-position:0 -55px;
+}
+
+.t-btn02_a {
+	display:block;
+	width:341px;
+	height:161px;
+	background-image:url(../img/t_btn02.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn03_a {
+	display:block;
+	width:341px;
+	height:161px;
+	background-image:url(../img/t_btn03.jpg);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-btn02_a:hover , .t-btn03_a:hover {
+	background-position:0 -161px;
+}
+
+.t-soft {
+	width:338px;
+	margin:0 auto;
+}
+
+.t-softimg {
+	width:149px;
+	float:left;
+}
+
+.t-softinfo {
+	width:189px;
+	float:right;
+}
+
+.t-off01 {
+	width:189px;
+	height:16px;
+	padding:0;
+}
+
+.t-off01_a {
+	display:block;
+	width:189px;
+	height:16px;
+	background-image:url(../img/t_off.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.t-off01_a:hover {
+	background-position:0 -16px;
+}

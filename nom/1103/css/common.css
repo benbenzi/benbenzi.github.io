@@ -1,0 +1,539 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2011/2/25;
+	Site Name : N.O.M Nintendo Online Magazine No.152;
+	About : N.O.M common-SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.interview
+	05.link
+	06.footer
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+body {
+	font-size:13px;
+	color:#737373;
+}
+
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","MS P Gothic","MS Gothic","Meiryo";/**/
+	font-weight:normal;
+	line-height:1.5;
+	outline:none;
+	/*For IE Only*/
+	/*word-break:break-all;
+	line-break:normal;*/
+}
+
+/** html p {
+	font-size:small;
+	font-size:93%;
+}*/
+
+img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+a {
+	outline:none;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+	color:#cd202c;
+	text-decoration:underline;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+h1 {
+	padding:0 0 20px 0;
+}
+
+h2 {
+	padding:0 0 24px 0;
+}
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+#container {
+	width:782px;
+	background-image:url(../common-img/bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	background-color:#ffffff;
+	margin:0 auto;
+	text-align:left;
+}
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+.header {
+	width:728px;
+	height:68px;
+	padding:20px 20px 0 20px;
+}
+
+.header1 {
+	width:728px;
+	height:58px;
+	padding:20px 20px 0 20px;
+}
+
+.header-nom {
+	width:255px;
+	height:28px;
+	float:left;
+}
+
+.header-3ds {
+	width:220px;
+	height:28px;
+	float:right;
+}
+
+
+.page-area {
+	width:768px;
+	height:49px;
+	padding:0 0 44px 0;
+	background-image:url(../page1/img/page_bg01.gif);
+	background-repeat:no-repeat;
+}
+
+.page-area a {
+	font-size:0.1%;
+	line-height:0.1%;
+	text-indent:-9999px;
+}
+
+.page-area1 {
+	width:322px;
+	height:31px;
+	padding:18px 20px 0 426px; 
+}
+
+.page-btn {
+	width:46px;
+	height:31px;
+	padding:0 6px 0 0;
+	float:left;
+}
+
+.page-btn1 {
+	width:46px;
+	height:31px;
+	padding:0 18px 0 0;
+	float:left;
+}
+
+.page-btn2 {
+	width:50px;
+	height:31px;
+	padding:0;
+	float:right;
+}
+
+.btn1 {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn1.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn2 {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn2.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn3 {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn3.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn4 {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn4.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn5 {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn5.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn-totop {
+	display:block;
+	width:50px;
+	height:31px;
+	background-image:url(../common-img/p_btn_top.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+
+.btn1_now {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn1.gif);
+	background-repeat:no-repeat;
+	background-position:0 -31px;
+}
+
+.btn2_now {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn2.gif);
+	background-repeat:no-repeat;
+	background-position:0 -31px;
+}
+
+.btn3_now {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn3.gif);
+	background-repeat:no-repeat;
+	background-position:0 -31px;
+}
+
+.btn4_now {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn4.gif);
+	background-repeat:no-repeat;
+	background-position:0 -31px;
+}
+
+.btn5_now {
+	display:block;
+	width:46px;
+	height:31px;
+	background-image:url(../common-img/p_btn5.gif);
+	background-repeat:no-repeat;
+	background-position:0 -31px;
+}
+
+.btn1:hover {
+	background-position:0 -31px;
+}
+
+.btn2:hover {
+	background-position:0 -31px;
+}
+
+.btn3:hover {
+	background-position:0 -31px;
+}
+
+.btn4:hover {
+	background-position:0 -31px;
+}
+
+.btn5:hover {
+	background-position:0 -31px;
+}
+
+.btn-totop:hover {
+	background-position:0 -31px;
+}
+
+
+.lead-area {
+	width:728px;
+	margin:0 auto;
+	padding:20px 0 40px 0;
+}
+
+.lead-area_a {
+	width:728px;
+	margin:0 auto;
+	padding:20px 0 44px 0;
+}
+
+.lead-area1 {
+	width:494px;
+	float:left;
+}
+
+.lead-area2 {
+	width:234px;
+	float:right;
+}
+
+
+.main01 {
+	width:689px;
+	margin:0 auto;
+	background-image:url(../page1/img/p1_bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.main01_p2 {
+	width:689px;
+	margin:0 auto;
+	background-image:url(../page2/img/p2_bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.main01_p3 {
+	width:689px;
+	margin:0 auto;
+	background-image:url(../page3/img/p3_bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.main01_p4 {
+	width:689px;
+	margin:0 auto;
+	background-image:url(../page4/img/p4_bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.main01_p5 {
+	width:689px;
+	margin:0 auto;
+	background-image:url(../page5/img/p5_bg01.gif);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+
+.main01 p {
+	padding:0 0 20px 0;
+}
+
+.main01a {
+	width:625px;
+	margin:0 auto;
+}
+
+.main01b {
+	width:625px;
+	margin:0 auto;
+	padding:0 0 30px 0;
+}
+
+.main01b_1 {
+	width:250px;
+	margin:0 auto;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.main01b_2 {
+	width:345px;
+	margin:0 auto;
+	float:right;
+}
+
+.main01b_p5 {
+	width:625px;
+	margin:0 auto;
+	padding:0 0 26px 0;
+}
+
+.main01b_p5_h2 {
+	width:625px;
+	margin:0 auto;
+	padding:0 0 8px 0;
+}
+
+
+.main01c {
+	width:322px;
+	margin:0 auto;
+	padding:8px 0 40px 0;
+}
+
+.main02 {
+	width:689px;
+	margin:0 auto;
+	padding:30px 0 40px 0;
+}
+
+.main02_p5 {
+	width:689px;
+	margin:0 auto;
+	padding:0 0 50px 0;
+}
+
+.point01 {
+	width:625px;
+	padding:0 0 15px 0;
+}
+
+.point01a {
+	width:577px;
+	margin:0 auto;
+}
+
+.point01b {
+	padding:0 0 20px 0;
+}
+
+.point01b_1 {
+	padding:0 0 9px 0;
+}
+
+.point01c {
+	padding:0 0 26px 0;
+}
+
+.point01d_1 {
+	width:250px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.point01d_1a {
+	width:220px;
+	padding:0 30px 0 0;
+	float:left;
+}
+
+.point01d_2 {
+	width:297px;
+	float:right;
+}
+
+.point01d_2a {
+	width:327px;
+	float:right;
+}
+
+.point02 {
+	width:625px;
+	padding:0 0 30px 0;
+}
+
+.point02_caption {
+	width:625px;
+	padding:0 0 20px 0;
+}
+
+.caption {
+	width:625px;
+	font-size:10px;
+	padding:0 0 30px 0;
+}
+
+
+/*--- 06.footer
+--------------------------------------------------------------------------*/
+
+li {
+	list-style:none;
+}
+
+.footer {
+	padding:0 0 20px 0;
+}
+
+.footer-index {
+	width:250px;
+	padding:0 0 80px 20px;
+	float:left;
+}
+
+.f-textlink {
+	width:689px;
+	margin:0 auto;
+	padding:20px 0 0 0;
+	text-align:center;
+}
+
+.link01{
+	padding:10px 0 26px 0;
+}
+
+.link02{
+	padding:0 0 16px 0;
+}
+
+.link03{
+	font-size:11px;
+	padding:0 0 30px 0;
+}

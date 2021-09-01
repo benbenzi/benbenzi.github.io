@@ -1,0 +1,55 @@
+@charset "Shift_JIS";
+
+.btn-area001{
+	width:768px;
+	height:261px;
+	display:block;
+	margin:0;
+	padding:0;
+	background:url(https://www.nintendo.co.jp/nom/0907/zone/img-zone/zone-page-title-bg.jpg) 0 0 no-repeat;
+	position:relative;
+}
+
+.report-btn-area{
+	width:768px;
+	height:400px;
+	margin:0;
+	padding:0;
+	position:relative;
+	display:block;
+	background:url(https://www.nintendo.co.jp/nom/0907/zone/img-zone/zone-report-btn-bg.jpg) 0 0 no-repeat;
+}
+
+.report-mcd{
+	width:351px;
+	height:273px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	left:30px;
+	top:11px;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(https://www.nintendo.co.jp/nom/0907/zone/img-zone/zone-report-mcd.jpg) 0 0 no-repeat;
+}
+
+a.report-mcd:hover{background-position:0 -273px;}
+
+.report-tuk{
+	width:351px;
+	height:273px;
+	margin:0;
+	padding:0;
+	position:absolute;
+	right:31px;
+	top:11px;
+	display:block;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+	background:url(https://www.nintendo.co.jp/nom/0907/zone/img-zone/zone-report-tukuba.jpg) 0 0 no-repeat;
+}
+
+a.report-tuk:hover{background-position:0 -273px;}

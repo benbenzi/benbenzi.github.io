@@ -1,0 +1,123 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/11/29;
+	Site Name : N.O.M Nintendo Online Magazine No.149;
+	About : N.O.M shop-page1 SS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+
+.p1-bg-01{
+	width:686px;
+	background-image:url(https://www.nintendo.co.jp/nom/1012/shop-page1/img/p1_bg01.jpg);
+	background-repeat:repeat-y;
+	background-position:0 0;
+}
+
+.p1-bg-02{
+	width:638px;
+	margin:0 auto;
+}
+
+.p1-bg-03{
+	width:686px;
+	margin:0 0 20px 0;
+}
+
+.p1-bg-03a{
+	width:686px;
+	margin:0 0 25px 0;
+}
+
+.p1-goods{
+	padding:0 0 24px 0;
+}
+
+.p1-img01{
+	width:306px;
+	padding:0 24px 0 0;
+	float:left;
+}
+
+.p1-pickup{
+	width:308px;
+	padding:0;
+	float:right;
+}
+
+.p1-goods-text1{
+	width:499px;
+	line-height:1.7;
+	padding:0 20px 0 0;
+	float:left;
+}
+
+.p1-goods-text2{
+	width:638px;
+	line-height:1.7;
+	padding:20px 0 0 0;
+}
+
+.p1-goods-mii{
+	width:119px;
+	padding:0;
+	float:right;
+}
+
+.p1-goods-mii2{
+	width:106px;
+	padding:0 20px 0 0;
+	float:left;
+}
+
+.p1-goods-text3{
+	width:512px;
+	line-height:1.7;
+	padding:0;
+	float:right;
+}
+
+.p1-goods-img{
+	width:638px;
+	padding:24px 0 0 0;
+	text-align:center;	
+}

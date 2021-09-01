@@ -1,0 +1,151 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------
+
+	Build Date : 2009/07/29;
+	Site Name : NOM2009îN8åéçÜ;
+	URL : http://www.nintendo.co.jp/nom/0908/index.html;
+	About : NOM2009îN8åéçÜópCSS;
+
+	00.common
+	01.body container wrapper
+	02.header
+	03.main
+	04.link
+	05.footer
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	/*font-family:"Hiragino Kaku Gothic Pro","Hiragino Kaku Gothic Pro W3","HiraKakuPro-W3","ÇlÇr ÇoÉSÉVÉbÉN","MS PGothic","MS UI Gothic","MS Gothic","Meiryo";
+	font-size:13px;
+	font-weight:normal;*/
+	line-height:1;
+	outline:none;
+	/*For IE Only*/
+	word-break:break-all;
+}
+
+* html p {
+	font-size:small;
+	/*font-size:93%;*/
+}
+
+img {
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+a {
+	outline:none;
+}
+
+li {
+	list-style:none;
+}
+
+ul {
+	list-style:none;
+}
+
+ol {
+	list-style:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	font-size:inherit;
+	font-size:100%;
+}
+
+table th, table td {
+	font-size:inherit;
+	font-size:93%;
+}
+
+
+.clear {
+	clear:both;	
+}
+
+.hide {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+}
+
+/* Wii Opera 
+.for_opera {
+	display:block;
+	width:1px;
+	height:1px;
+	font-size:0.1px;
+	line-height:0.1px;
+	clear:both;
+}
+*/
+
+a {
+	color:#fabf00;
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#dd9a17;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#65d5ef;
+	text-decoration:underline;
+}
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	text-align:center;
+	background: #e4007f url(../img_cmn/bg_body.gif) repeat-y top center;
+}
+
+#container {
+	width:768px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#wrapper {
+	width:768px;
+	margin:0 auto;
+	text-align:left;
+}
+
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+#header {
+	width:768px;
+	height:60px;
+}
+
+/*--- 04.link
+--------------------------------------------------------------------------*/
+
+
+/*--- 05.footer
+--------------------------------------------------------------------------*/
+
+#footer {
+	padding: 30px 0;
+}

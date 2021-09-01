@@ -1,0 +1,179 @@
+@charset "Shift_JIS";
+
+/*--- information
+--------------------------------------------------------------------------	
+
+	Build Date : 2010/06/29;
+	Site Name : N.O.M Nintendo Online Magazine No.144;
+	About : N.O.M page CSS;
+
+--------------------------------------------------------------------------*/
+
+/*--- 00.common
+--------------------------------------------------------------------------*/
+
+/*--- font-size adjustment
+
+ -------------+-------------
+  pixels (px) | percent (%)
+ -------------+-------------
+       10     |     77
+       11     |     85
+       12     |     93
+       13     |    100
+       14     |    107
+       15     |    114
+       16     |    122
+       17     |    129
+       18     |    136
+       19     |    144
+       20     |    152
+       21     |    159
+       22     |    167
+       23     |    174
+       24     |    182
+       25     |    189
+       26     |    197
+ -------------+-------------
+ 
+--------------------------------------------------------------------------*/
+
+
+/*--- 01.body container wrapper
+--------------------------------------------------------------------------*/
+
+body {
+	color:#dcdcdc;
+}
+
+/*--- 02.header
+--------------------------------------------------------------------------*/
+
+/*--- 03.main
+--------------------------------------------------------------------------*/
+
+.mainimg {
+	width:768px;
+	margin:0;
+	padding:0;
+}
+
+h2 {
+	width:768px;
+	margin:0;
+	padding:0;
+}
+
+.readbox {
+	width:446px;
+	margin:40px 0 0;
+	float:left;
+}
+
+.readtext {
+	width:392px;
+	padding:0 0 30px 54px;
+}
+
+.menubtnbox {
+	width:446px;
+	height:270px;
+	margin:0;
+	padding:0 0 40px 0;
+	float:left;
+}
+
+.btn p {
+	display:inline;
+}
+
+.infobox {
+	width:290px;
+	padding:40px 20px 40px 0;
+	float:right;
+}
+
+.btnbox {
+	width:96px;
+	height:19px;
+	margin:0 23px 0 171px;
+}
+
+/*--- 05.link
+--------------------------------------------------------------------------*/
+
+.btn_int1, .btn_int2, .btn_int3,
+.btn_int4, .btn_int5, .btn_int6,
+.btn_int1:hover, .btn_int2:hover, .btn_int3:hover,
+.btn_int4:hover, .btn_int5:hover, .btn_int6:hover {
+	display:block;
+	width:446px;
+	height:40px;
+	background-image:url(../imgtop/btn_int.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn_int2 {
+	background-position:0 -40px;
+}
+
+.btn_int3 {
+	background-position:0 -80px;
+}
+
+.btn_int4 {
+	background-position:0 -120px;
+}
+
+.btn_int5 {
+	background-position:0 -160px;
+}
+
+.btn_int6 {
+	background-position:0 -200px;
+}
+
+.btn_int1:hover {
+	background-position:-446px 0;
+}
+
+.btn_int2:hover {
+	background-position:-446px -40px;
+}
+
+.btn_int3:hover {
+	background-position:-446px -80px;
+}
+
+.btn_int4:hover {
+	background-position:-446px -120px;
+}
+
+.btn_int5:hover {
+	background-position:-446px -160px;
+}
+
+.btn_int6:hover {
+	background-position:-446px -200px;
+}
+
+.btn_official {
+	display:block;
+	width:96px;
+	height:19px;
+	background-image:url(../imgtop/btn_official.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-indent:-9999px;
+	font-size:0.1%;
+	line-height:0.1%;
+}
+
+.btn_official:hover {
+	background-position:0 -19px;
+}
+

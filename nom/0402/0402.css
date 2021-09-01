@@ -1,0 +1,9 @@
+
+.ssmall { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 10px; line-height: 15px }
+.small { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 12px; line-height: 18px }
+.normal { font-family: "ÇlÇr ÉSÉVÉbÉN", Osaka; font-size: 14px; line-height: 20px }
+
+A.colorA:link { text-decoration:none;color:#3366FF; }
+A.colorA:hover { text-decoration:underline;color:#6699FF; }
+A.colorA:active { text-decoration:underline;color:#9999FF; }
+A.colorA:visited { text-decoration:none;color:#000099; }

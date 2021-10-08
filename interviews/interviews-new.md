@@ -12,6 +12,8 @@ buttons:
 ## Switch
 
 * [『ナビつき！ つくってわかる　はじめてゲームプログラミング』]{:.heading.flip-title}（2021年6月10日公開）(日文版)
+* [『Nintendo Switch（有機ELモデル）』]{:.heading.flip-title}（2021年10月8日公開）(日文版)
 
 
 [『ナビつき！ つくってわかる　はじめてゲームプログラミング』]: ../new/jp/switch/awuxa/vol1/1/
+[『Nintendo Switch（有機ELモデル）』]: ../new/jp/switch/switch-oled/vol1/1/

@@ -15,6 +15,7 @@ permalink: /others/
 * [Miiverse]{:.heading.flip-title} --- 任天堂Miiverse个人站点备份。
 * [NOM]{:.heading.flip-title} --- Nintendo Online Magazine，任天堂官方的在线杂志。
 * [Zero]{:.heading.flip-title} --- 来自中国台湾的Zero民间爱好者网站。
+* [Switch主板分层]{:.heading.flip-title} --- 来自balika011.hu的Switch主板分层线路图。
 {:.related-posts.faded}
 
 [测试板块]: ../docs/
@@ -22,3 +23,4 @@ permalink: /others/
 [Miiverse]: ../Miiverse/index.html
 [NOM]: ../mon/backnumber/index.html
 [Zero]: ../zero/zero.html
+[Switch主板分层]: ../Board/index.html

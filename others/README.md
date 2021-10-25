@@ -10,6 +10,7 @@ permalink: /others/
 该板块下包含了一些特殊页面，以及本网站的其他子站点。
 
 ## 主站功能
+* [游戏攻略]{:.heading.flip-title} --- 转载收藏的游戏攻略。
 * [测试板块]{:.heading.flip-title} --- 用于测试自己开发调试的新功能。
 * [网页加密]{:.heading.flip-title} --- 用于对博客进行AES加密，并生成文本。
 * [Miiverse]{:.heading.flip-title} --- 任天堂Miiverse个人站点备份。
@@ -24,3 +25,4 @@ permalink: /others/
 [NOM]: ../mon/backnumber/index.html
 [Zero]: ../zero/zero.html
 [Switch主板分层]: ../Board/index.html
+[游戏攻略]: ../游戏攻略/

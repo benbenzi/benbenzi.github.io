@@ -1142,52 +1142,10 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 
 
 </div>
-<div id="comment_9344" class="cm">
-</div>
-
 
 </div>
 </div>
 
 </td></tr>
 
-
-
-
-</tbody></table>
-
-
-</div>
-    
-    
-    
-    
-            
-
-        
-    
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-</div>
-    
+</tbody>

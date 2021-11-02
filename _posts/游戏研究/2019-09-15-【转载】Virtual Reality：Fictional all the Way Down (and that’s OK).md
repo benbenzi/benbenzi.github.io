@@ -10,6 +10,7 @@ theme_color: '#ccc'
 description: >
   作者：Jesper Juul ｜ 译者：null<br>发表于2019年9月刊《Disputatio》杂志<br>Jesper Juul: "Virtual Reality: Fictional all the Way Down (and that’s OK)". Disputatio journal, 2019.<br><https://www.jesperjuul.net/text/fictionalalltheway/><br><https://doi.org/10.2478/disp-2019-0010/>Written in response to David Chalmer's 2017 paper "The Virtual and the Real".
 invert_sidebar: true
+category: 游戏研究
 ---
 
 # 【转载】Virtual Reality：Fictional all the Way Down (and that’s OK)

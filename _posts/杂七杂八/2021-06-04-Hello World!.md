@@ -10,6 +10,7 @@ theme_color: '#ccc'
 description: >
   第一份测试文档！
 invert_sidebar: true
+category: 杂七杂八
 ---
 
 # Hello World!

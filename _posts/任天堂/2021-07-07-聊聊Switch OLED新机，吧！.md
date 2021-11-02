@@ -10,6 +10,7 @@ theme_color: '#ccc'
 description: >
   它真好看！
 invert_sidebar: true
+category: 任天堂
 ---
 
 # 聊聊Switch OLED新机，吧！

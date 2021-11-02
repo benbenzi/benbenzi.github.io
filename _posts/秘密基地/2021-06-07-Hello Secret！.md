@@ -8,6 +8,7 @@ description: >
   这是我的第一篇加密文档测试，密码：haha
 invert_sidebar: true
 encrypt: true
+category: 秘密基地
 ---
 
 <script>

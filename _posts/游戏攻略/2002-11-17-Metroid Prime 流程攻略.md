@@ -392,7 +392,7 @@ category: 游戏攻略
 
 进入Air Lock，扫描左边墙壁上突出的装置，前方的门就会启动，继续前进。<br>
 
-来到Emergency Evacuation Area，走下阶梯后会看到几只虫子在撕咬海盗的尸体，从这里就要开始了解游戏重要的收集系统：<font color="brown">记录（LOGBOOK）</font>了。切换成扫描视镜，对准虫子进行扫描，成功后它的资料就会被记录到LOGBOOK中去。游戏中的敌人，生物，设施，文化都可以扫描记录，达成不同的扫描率在通关后就可以开启相应的隐藏要素。本区域扫描记录：<font color="red">\[Creatures\] Parasite</font>，这个虫子在这几个区域忘记扫描以后就碰不到了，所以一定要扫描记录以后再消灭它。后面可随时扫描的记录用橙色表示，有限制次数的扫描记录用红色表示，假如你想挑战100%扫描，那么从这里就该开始了。<br>
+来到Emergency Evacuation Area，走下阶梯后会看到几只虫子在撕咬海盗的尸体，从这里就要开始了解游戏重要的收集系统：<font color="brown">记录（LOGBOOK）</font>了。切换成扫描视镜，对准虫子进行扫描，成功后它的资料就会被记录到LOGBOOK中去。游戏中的敌人，生物，设施，文化都可以扫描记录，达成不同的扫描率在通关后就可以开启相应的隐藏要素。本区域扫描记录：<font color="red">【Creatures】 Parasite</font>，这个虫子在这几个区域忘记扫描以后就碰不到了，所以一定要扫描记录以后再消灭它。后面可随时扫描的记录用橙色表示，有限制次数的扫描记录用红色表示，假如你想挑战100%扫描，那么从这里就该开始了。<br>
 <table>
 <tbody>
 <tr>
@@ -433,7 +433,7 @@ category: 游戏攻略
 </tbody>
 </table>
 
-变成球后进入小通道，出来后可以看到一个全息装置，走过去即可获得本飞行船的<font color="brown">地图</font>，按Z键即可查看地图以及了解一些重要位置的所在地，假如你是路痴的话就经常查看地图吧。。本区域扫描记录：<font color="red">\[Research\] Map Station</font>，就是这个地图装置，注意如果全部区域的地图都取得以后，就无法收集这个扫描记录了，所以尽早扫描是正经。
+变成球后进入小通道，出来后可以看到一个全息装置，走过去即可获得本飞行船的<font color="brown">地图</font>，按Z键即可查看地图以及了解一些重要位置的所在地，假如你是路痴的话就经常查看地图吧。。本区域扫描记录：<font color="red">【Research】 Map Station</font>，就是这个地图装置，注意如果全部区域的地图都取得以后，就无法收集这个扫描记录了，所以尽早扫描是正经。
 
 <table>
 <tbody>
@@ -451,15 +451,15 @@ category: 游戏攻略
 
 在Deck Beta Conduit Hall中，需要变成球状态通过漏电装置和狭窄的通道。
 
-接着来到Biotech Research Area 1，这里有一些残存的太空海盗，全部消灭它们吧。消灭它们后可能会出现战利品紫色回复小球，可以回复Samus的10Energy，这个东西是可以扫描记录的：<font color="orange">\[Research\] Small Energy</font>。
+接着来到Biotech Research Area 1，这里有一些残存的太空海盗，全部消灭它们吧。消灭它们后可能会出现战利品紫色回复小球，可以回复Samus的10Energy，这个东西是可以扫描记录的：<font color="orange">【Research】 Small Energy</font>。
 
-通过前方门进入Deck Beta Security Hall，这里出现新的敌人：挂在天花板上的机枪<font color="orange">\[Creatures\] Auto Defence Turret</font>，用Y键发身导弹可以一发消灭。消灭后有可能会得到战利品导弹补给：<font color="orange">\[Research\] Missile Ammunition</font>，用蓄力攻击吸过来可以补充5颗导弹弹药。
+通过前方门进入Deck Beta Security Hall，这里出现新的敌人：挂在天花板上的机枪<font color="orange">【Creatures】 Auto Defence Turret</font>，用Y键发身导弹可以一发消灭。消灭后有可能会得到战利品导弹补给：<font color="orange">【Research】 Missile Ammunition</font>，用蓄力攻击吸过来可以补充5颗导弹弹药。
 
-前进到Biohazard Containment，这里的电脑上可以扫描到海盗记录：<font color="red">\[Pirate Data\] Fall of Zebes</font>，仅此一次不要错过。提示一下，以后的海盗记录都是在电脑上取得的。扫描前方的开关，乘电梯来到上层，灭掉海盗进门。
+前进到Biohazard Containment，这里的电脑上可以扫描到海盗记录：<font color="red">【Pirate Data】 Fall of Zebes</font>，仅此一次不要错过。提示一下，以后的海盗记录都是在电脑上取得的。扫描前方的开关，乘电梯来到上层，灭掉海盗进门。
 
 来到滑行电梯区域Cargo Freight Lift to Deck Gamma，扫描开关进入电梯到下层。扫描下方的开关，大门前会出现球型全息装置，变成球滚上装置，大门就会打开。
 
-来到Recator Core Entrance，消灭掉2挺机枪后，先进左方有3个红灯的门，里面是可<font color="brown">记录游戏进度</font>的地方：<font color="orange">\[Research\] Save Station</font>。走上前去即可记录目前为止的游戏进度，在地图上是用“S”来表示的，如果觉得旅途很凶险，就多多记录吧。
+来到Recator Core Entrance，消灭掉2挺机枪后，先进左方有3个红灯的门，里面是可<font color="brown">记录游戏进度</font>的地方：<font color="orange">【Research】 Save Station</font>。走上前去即可记录目前为止的游戏进度，在地图上是用“S”来表示的，如果觉得旅途很凶险，就多多记录吧。
 
 <table>
 <tbody>
@@ -494,7 +494,7 @@ category: 游戏攻略
 
 BOSS乃是寄生皇后大肉虫……在一个圆柱型区域内活动，它的攻击方式很简单，就是喷射绿色的毒液，在它起喷的时候按B键快速躲闪。BOSS的体力会在荧幕中间有显示。<br>
 
-BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用锁定移动+B键快速跳到缺口前。导弹攻击最有效，可以损失它不少体力。然后再换普通的光弹枪将其一举消灭即可。另外在消灭它之前千万不要忘记扫描记录这个只有1次机会的BOSS：<font color="red">\[Creatures\] Parasite Queen</font>。</font>
+BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用锁定移动+B键快速跳到缺口前。导弹攻击最有效，可以损失它不少体力。然后再换普通的光弹枪将其一举消灭即可。另外在消灭它之前千万不要忘记扫描记录这个只有1次机会的BOSS：<font color="red">【Creatures】 Parasite Queen</font>。</font>
 </td>
 </tr>
 </tbody>
@@ -518,7 +518,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 ### ☆森林世界 Tallon Overworld
 
-好吧，其实这时候游戏才正式开始。Samus降落在Tallon IV星球的Landing Site上，这是一个充满野生气息的世界，但由于污染，很多物种都变异了。这里是一个重要的枢纽，有很多通路。先别着急，回头扫描自己的飞船：<font color="orange">\[Research\] Gunship</font>做个记录。跳到飞船舱门上可以完全回复Samus的体力和弹药，所以要充分利用它。现在摆在眼前的路虽多，但可以走的只有眼前一条。
+好吧，其实这时候游戏才正式开始。Samus降落在Tallon IV星球的Landing Site上，这是一个充满野生气息的世界，但由于污染，很多物种都变异了。这里是一个重要的枢纽，有很多通路。先别着急，回头扫描自己的飞船：<font color="orange">【Research】 Gunship</font>做个记录。跳到飞船舱门上可以完全回复Samus的体力和弹药，所以要充分利用它。现在摆在眼前的路虽多，但可以走的只有眼前一条。
 
 <table>
 <tbody>
@@ -532,27 +532,27 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 </tbody>
 </table>
 
-穿过门进入Canyon Cavern，前面的沙地上会钻出新怪物：<font color="orange">\[Creatures\] Beetle</font>，用普通武器光弹枪可轻易消灭。
+穿过门进入Canyon Cavern，前面的沙地上会钻出新怪物：<font color="orange">【Creatures】 Beetle</font>，用普通武器光弹枪可轻易消灭。
 
-后面是Tallon Canyon，墙上挂着的橙色圆形植物：<font color="orange">\[Creatures\] Sap Sac</font>不会主动攻击，相反打掉它倒会成为炸弹协助Samus炸伤周边的怪物。前方高台上移动着的带刺的灰白色怪物：<font color="orange">\[Creatures\] Zoomer</font>可用光弹枪消灭。一直从底层走向前方进门。
+后面是Tallon Canyon，墙上挂着的橙色圆形植物：<font color="orange">【Creatures】 Sap Sac</font>不会主动攻击，相反打掉它倒会成为炸弹协助Samus炸伤周边的怪物。前方高台上移动着的带刺的灰白色怪物：<font color="orange">【Creatures】 Zoomer</font>可用光弹枪消灭。一直从底层走向前方进门。
 
 通过Transport Tunnel A来到Transport to Chozo Ruins West，扫描这里的开关就会启动电梯，乘电梯即可来到另一个世界，鸟人族的遗迹Chozo Ruins。这种电梯是在各个世界中来回移动的装置，在地图上会用E来表示。
 
 ### ☆遗迹世界 Chozo Ruins
 
-出门，在Ruins Entrance里消灭沙地中的怪物，在前方的门上会看到奇怪的好象水波纹的图案，那是另一种扫描记录收集：<font color="orange">\[Chozo Lore\] Fountain</font>，里面记载着鸟人族的文化和历史，以后遇到就统统的扫描吧，也许可以了解不少背景知识呢。
+出门，在Ruins Entrance里消灭沙地中的怪物，在前方的门上会看到奇怪的好象水波纹的图案，那是另一种扫描记录收集：<font color="orange">【Chozo Lore】 Fountain</font>，里面记载着鸟人族的文化和历史，以后遇到就统统的扫描吧，也许可以了解不少背景知识呢。
 
-来到一个重要的枢纽地带Main Plaza，左前方可以看到一扇红灰色的门：<font color="red">\[Research\] Missile Door Lock</font>，只能用导弹才能打开，但现在导弹武器不见了，先扫描记录吧，全部打开以后这个记录就无法收集了。走到尽头进入左下方的门。
+来到一个重要的枢纽地带Main Plaza，左前方可以看到一扇红灰色的门：<font color="red">【Research】 Missile Door Lock</font>，只能用导弹才能打开，但现在导弹武器不见了，先扫描记录吧，全部打开以后这个记录就无法收集了。走到尽头进入左下方的门。
 
-在通道Nursery Access中会看到一堆小虫子：<font color="orange">\[Creatures\] Scarab</font>，踩上去的话会把Samus的面罩都溅上绿色黏液，好噁心啊。
+在通道Nursery Access中会看到一堆小虫子：<font color="orange">【Creatures】 Scarab</font>，踩上去的话会把Samus的面罩都溅上绿色黏液，好噁心啊。
 
-下一个通道Eyon Tunnel里的墙上有一些发射光线的眼睛怪物：<font color="orange">\[Creatures\] Eyon</font>，它不能被锁定，手动瞄准可以让它眼睛暂时闭上一段时间。
+下一个通道Eyon Tunnel里的墙上有一些发射光线的眼睛怪物：<font color="orange">【Creatures】 Eyon</font>，它不能被锁定，手动瞄准可以让它眼睛暂时闭上一段时间。
 
-接下来进入Ruined Nursery区域，对面的墙上就是新的鸟人文字：<font color="orange">\[Chozo Lore\] Exodus</font>。顺边上的台阶来到上层时，貌似蚊子一样的生物：<font color="orange">\[Creatures\] War Wasp</font>成群袭来，他们会自杀式冲刺攻击，在它们飞过来前干掉它们。另外，这里高墙上挂着的蚊子窝：<font color="orange">\[Creatures\] War Wasp Hive</font>也是可以扫描记录的。提示系统这时还会开始工作，告诉你记忆点就在旁边，先进记录室记录游戏进度吧。
+接下来进入Ruined Nursery区域，对面的墙上就是新的鸟人文字：<font color="orange">【Chozo Lore】 Exodus</font>。顺边上的台阶来到上层时，貌似蚊子一样的生物：<font color="orange">【Creatures】 War Wasp</font>成群袭来，他们会自杀式冲刺攻击，在它们飞过来前干掉它们。另外，这里高墙上挂着的蚊子窝：<font color="orange">【Creatures】 War Wasp Hive</font>也是可以扫描记录的。提示系统这时还会开始工作，告诉你记忆点就在旁边，先进记录室记录游戏进度吧。
 
-回来进左侧门，从North Atrium来到Ruined Gallery，地上那些活动的白色草植物：<font color="orange">\[Creatures\] Tangle Weed</font>走在上面时会暂缓Samus的行动速度，用光弹枪射击可以让它们暂时缩回去。这里的水域你应该注意到了，都是有毒的，掉下去会不断减少体力。水面平台上的爆炸蘑菇：<font color="orange">\[Creatures\] Blastcap</font>干掉它们时会释放出毒气，也要小心。这里先走上层平台，进前方的门。
+回来进左侧门，从North Atrium来到Ruined Gallery，地上那些活动的白色草植物：<font color="orange">【Creatures】 Tangle Weed</font>走在上面时会暂缓Samus的行动速度，用光弹枪射击可以让它们暂时缩回去。这里的水域你应该注意到了，都是有毒的，掉下去会不断减少体力。水面平台上的爆炸蘑菇：<font color="orange">【Creatures】 Blastcap</font>干掉它们时会释放出毒气，也要小心。这里先走上层平台，进前方的门。
 
-在Totem Access出现新的物种萤火虫：<font color="orange">\[Creatures\] Plazmite</font>，它们可以作为照明使用，不爽的话就将它干掉吧。
+在Totem Access出现新的物种萤火虫：<font color="orange">【Creatures】 Plazmite</font>，它们可以作为照明使用，不爽的话就将它干掉吧。
 
 接下来路面开始变得倾斜，颇有遗迹的味道。进入Hive Totem后，终于看到Samus遗失的导弹了，可是刚一上前，桥面就伸缩回去，四周开始喷洒毒水，BOSS战即将开始。
 
@@ -575,7 +575,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 首先要消灭所有的蚊子，在它们旋转的时候是无法锁定，看准它们的路线射击就有可能命中，当它们停止时，就是冲刺的前兆，也是最好的攻击机会，赶快锁定消灭吧。消灭全部蚊子以后，BOSS就会露出红色灯光的破绽，锁定它将其打爆。打爆后BOSS还会重复放出2次蚊子，并且数量越来越多，按此方式将BOSS的三个开关全部打爆后即可取得胜利。<br>
 
-战斗结束之前不要忘记扫描记录，BOSS的身影在导弹装置的水面下：<font color="red">\[Creatures\] Hive Mecha</font>，而四处飞舞的蚊子也是新物种：<font color="red">\[Creatures\] Ram War Wasp</font>。</font>
+战斗结束之前不要忘记扫描记录，BOSS的身影在导弹装置的水面下：<font color="red">【Creatures】 Hive Mecha</font>，而四处飞舞的蚊子也是新物种：<font color="red">【Creatures】 Ram War Wasp</font>。</font>
 </td>
 </tr>
 </tbody>
@@ -671,7 +671,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 首先登场的是一群以前碰到过的土行孙，只是数量很多，一个一个锁定干掉吧，用导弹攻击可以群灭。消灭他们有可能会得到紫色回复球，体力渐低的话一定要得到。全部消灭后，正牌BOSS登场，是一只长着厚甲壳的土行孙。它的攻击方式很简单，就是挑衅加冲刺，锁定B跳可闪开。它的弱点在红PP上，需要用锁定B跳尽快跳到它身后去，用导弹当然是威力十足，用光弹枪的话就会稍稍浪费些时间，不过并不难干掉它。<br>
 
-战斗结束之前不要忘记扫描记录，BOSS土行孙的真正面貌是：<font color="red">\[Creatures\] Plated Beetle</font></font>
+战斗结束之前不要忘记扫描记录，BOSS土行孙的真正面貌是：<font color="red">【Creatures】 Plated Beetle</font></font>
 </td>
 </tr>
 </tbody>
@@ -706,11 +706,11 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 Ruined Fountain Access要靠变成球一路滚过去。
 
-来到Ruined Fountain，在喷泉后面是一个鸟人族文化遗产：<font color="orange">\[Chozo Lore\] Hatchling</font>。小心毒水，走左侧门。
+来到Ruined Fountain，在喷泉后面是一个鸟人族文化遗产：<font color="orange">【Chozo Lore】 Hatchling</font>。小心毒水，走左侧门。
 
-在Arboretum Access中有一群悬挂着的自杀蝙蝠：<font color="orange">\[Creatures\] Shriedbat</font>。离他们比较近的时候他们就会冲过来自杀式攻击，所以最好远远的消灭掉他们，打开导弹门进入。
+在Arboretum Access中有一群悬挂着的自杀蝙蝠：<font color="orange">【Creatures】 Shriedbat</font>。离他们比较近的时候他们就会冲过来自杀式攻击，所以最好远远的消灭掉他们，打开导弹门进入。
 
-来到Arboretum，这里中央是一棵大树，小心毒水以及伸缩的植物怪：<font color="orange">\[Creatures\] Reaper Vine</font>，锁定后射击颈部它就会暂时缩回去，跳过平台，上木桥，然后进入导弹门。
+来到Arboretum，这里中央是一棵大树，小心毒水以及伸缩的植物怪：<font color="orange">【Creatures】 Reaper Vine</font>，锁定后射击颈部它就会暂时缩回去，跳过平台，上木桥，然后进入导弹门。
 
 Gathering Hall Access是一个铺设蒸汽管道的狭窄通道，变球滚过去即可。
 
@@ -745,7 +745,7 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 </tbody>
 </table>
 
-然后跳上高台扫描封印门，门打开了，里面的墙上可以扫描到：<font color="orange">\[Chozo Lore\] Meteor Strike</font>。当然，最重要的装备是里面的<font color="blue">蓄力枪 Charge Beam</font>。从这时起就可以按住A键发射蓄力攻击了，墙上的几只大眼珠可以用蓄力攻击消灭。
+然后跳上高台扫描封印门，门打开了，里面的墙上可以扫描到：<font color="orange">【Chozo Lore】 Meteor Strike</font>。当然，最重要的装备是里面的<font color="blue">蓄力枪 Charge Beam</font>。从这时起就可以按住A键发射蓄力攻击了，墙上的几只大眼珠可以用蓄力攻击消灭。
 
 <table>
 <tbody>
@@ -774,7 +774,7 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 通过East Atrium和Energy Core Access，躲过眼球怪的扫射。
 
-接着会来到一个非常复杂的区域Energy Core，小心不要掉到水里面去，看到对面的上锁门了吗？扫描可收集<font color="red">\[Research\] Locked Door</font>。顺便一说玩到这里你应该已经发现红色补给球：<font color="orange">\[Research\] Large Energy</font>了吧？接下来先走左方通道，到尽头是球通道，进入。
+接着会来到一个非常复杂的区域Energy Core，小心不要掉到水里面去，看到对面的上锁门了吗？扫描可收集<font color="red">【Research】 Locked Door</font>。顺便一说玩到这里你应该已经发现红色补给球：<font color="orange">【Research】 Large Energy</font>了吧？接下来先走左方通道，到尽头是球通道，进入。
 
 一直呈球状态通过Burn Dome Access，你会发现已经没有退路了。前方的Burn Dome就是BOSS战的区域了。
 
@@ -795,7 +795,7 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根据火焰的高低可以跳跃或闪避躲开。它的弱点在间歇冒出来的红灯的头部，一旦出现后最好立刻锁定用导弹干掉。这是BOSS会将火焰向上喷射，上方是虫子巢，着火后大量的绿色飞虫飞来袭击Samus，可干掉也可无视，只要连续3次把火焰喷射器的头部打爆，这场战斗就胜利结束了。<br>
 
-战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">\[Creatures\] Incinerator Drone</font>，而绿色的飞虫是：<font color="red">\[Creatures\] Barbed War Wasp</font>。</font>
+战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">【Creatures】 Incinerator Drone</font>，而绿色的飞虫是：<font color="red">【Creatures】 Barbed War Wasp</font>。</font>
 </td>
 </tr>
 </tbody>
@@ -828,7 +828,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 先别着急走，在这里的墙壁处就有一处挡板可用球炸弹炸开，进入通道尽头可以找到一个<font color="green">导弹包 Missile Expansion</font>。然后可以返回了。通过Burn Dome Access时要使用炸弹跳跳到上一层，方法就是放置炸弹，在爆炸的时候用左摇杆操作球的移动了。
 
-回到Energy Core就会看到一只挡路的大青蛙：<font color="orange">\[Creatures\] Stone Toad</font>，对付它的方法是变成球让它吞掉，然后立刻放置炸弹即可解决它，好残忍哪……进入后会看到墙上的爆破装置：<font color="red">\[Research\] Morph Ball Slot</font>。使用炸弹跳进入装置，再放置一颗炸弹，装置启动，大厅的毒水全部排干了，并且响起警报声，要在警报结束之前进入下方的爆破装置。从这里的洞里跳下去是一条捷径。启动第2个爆破装置后，平台升起，同样要在限制时间内顺平台走过通道，到达第3个爆破装置并启动它，那扇上锁的门就打开了，本区域的全部机关解除。
+回到Energy Core就会看到一只挡路的大青蛙：<font color="orange">【Creatures】 Stone Toad</font>，对付它的方法是变成球让它吞掉，然后立刻放置炸弹即可解决它，好残忍哪……进入后会看到墙上的爆破装置：<font color="red">【Research】 Morph Ball Slot</font>。使用炸弹跳进入装置，再放置一颗炸弹，装置启动，大厅的毒水全部排干了，并且响起警报声，要在警报结束之前进入下方的爆破装置。从这里的洞里跳下去是一条捷径。启动第2个爆破装置后，平台升起，同样要在限制时间内顺平台走过通道，到达第3个爆破装置并启动它，那扇上锁的门就打开了，本区域的全部机关解除。
 
 进入那扇门，通过West Furnace Access，来到Furnace的一侧，这里只能用球通过，走到尽头可以得到一个<font color="green">能量槽 Energy Tank</font>。然后就没啥好留恋的了，继续返回枢纽Gathering Hall去记录一下游戏进度吧。
 
@@ -861,9 +861,9 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 全部扫描后，封印门打开，用球炸弹炸开挡路的碎石，进入导弹门。
 
-在Sunchamber Lobby的红色毒草是新物种：<font color="orange">\[Creatures\] Venom Weed</font>，踩上去会损失体力的。
+在Sunchamber Lobby的红色毒草是新物种：<font color="orange">【Creatures】 Venom Weed</font>，踩上去会损失体力的。
 
-在Sunchamber Access的尽头处有2个箱子，打碎它们可能会出现终极回复球：<font color="orange">\[Research\] Ultra Energy</font>，可以回复100格体力。在这里做好准备吧，进入Sunchamber以后就要迎接一场高级BOSS战了。
+在Sunchamber Access的尽头处有2个箱子，打碎它们可能会出现终极回复球：<font color="orange">【Research】 Ultra Energy</font>，可以回复100格体力。在这里做好准备吧，进入Sunchamber以后就要迎接一场高级BOSS战了。
 
 ### ☆Boss战：Flaahgra
 
@@ -886,7 +886,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 这时BOSS又醒过来了，而且有2面镜子翻了过来给BOSS提供能量，接下来对付它的方法同样是将镜子再打回去。注意，镜子数量会越翻越多，在Samus攻击镜子的中途，而BOSS会把无效的镜子又翻过来，所以这时最好的方法就是锁定BOSS攻击，虽然不能减它的体力，但可以让它暂停行动。然后一边锁定攻击一边快速移动，利用攻击空隙把周边的反光镜都打回去。按如此方式，分别打翻2，3，4面反光镜，并引爆其余的几个爆破装置后，这个怪物就被彻底的消灭掉了。而鸟人遗迹的水源也恢复了正常，从此以后可以进入水域活动了。<br>
 
-战斗结束之前不要忘记扫描记录，BOSS是一只巨大的螳螂：<font color="red">\[Creatures\] Flaahgra</font>，还有就是它的4只看守爆破装置的触手：<font color="red">\[Creatures\] Flaahgra Tentacle</font></font>
+战斗结束之前不要忘记扫描记录，BOSS是一只巨大的螳螂：<font color="red">【Creatures】 Flaahgra</font>，还有就是它的4只看守爆破装置的触手：<font color="red">【Creatures】 Flaahgra Tentacle</font></font>
 </td>
 </tr>
 </tbody>
@@ -917,27 +917,27 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </tbody>
 </table>
 
-然后顺另一扇门离开这里，来到Sun Tower Access，有一段路在已经清洁的水下，你会感到在水下移动比较吃力。上岸后会碰到一只电力系生物：<font color="orange">\[Creatures\] Pulse Bombu</font>漂浮在空中放炸弹，目前还对付不了它。
+然后顺另一扇门离开这里，来到Sun Tower Access，有一段路在已经清洁的水下，你会感到在水下移动比较吃力。上岸后会碰到一只电力系生物：<font color="orange">【Creatures】 Pulse Bombu</font>漂浮在空中放炸弹，目前还对付不了它。
 
-从Sun Tower的顶层一直落下（好高啊……），旁边的墙上可以扫描到：<font color="orange">\[Chozo Lore\] Contain</font>。然后离开这个鬼地方。
+从Sun Tower的顶层一直落下（好高啊……），旁边的墙上可以扫描到：<font color="orange">【Chozo Lore】 Contain</font>。然后离开这个鬼地方。
 
 前面来到Transport to Magmoor Caverns North，这里的电梯就可以前往熔岩世界了，不过先不要着急，进左边的门搜刮一下附近的宝物再走不迟。
 
 Vault Access要靠球形态通过。
 
-来到Vault，墙上可以扫描到<font color="orange">\[Chozo Lore\] Beginnings</font>，而大厅中央是一个封闭区域，需要启动对面的3个爆破装置才可以打开。这里就需要双炸弹跳技巧了，将3个装置全部启动后，从中央可以取得一个<font color="green">导弹槽 Missile Expansion</font>。
+来到Vault，墙上可以扫描到<font color="orange">【Chozo Lore】 Beginnings</font>，而大厅中央是一个封闭区域，需要启动对面的3个爆破装置才可以打开。这里就需要双炸弹跳技巧了，将3个装置全部启动后，从中央可以取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 继续前进，通过Plaza Access来到Plaza的上层取得一个<font color="green">能量槽 Energy Tank</font>，不要掉下去，然后即可返回Transport to Magmoor Caverns North启动电梯前往Magmoor Caverns了。
 
 ### ☆熔岩世界 Magmoor Caverns
 
-来到熔岩世界，进入Burning Trail区域，又是一个自由落体运动到下层，这里喷出的热气会干扰Samus的视线，变成球状态可以避免。进入导弹门，里面是记忆点，稍做休息吧。休息后继续前进，遇到小个头的硬壳怪物：<font color="orange">\[Creatures\] Grizby</font>，只有导弹可以消灭掉，当然也可以无视它。
+来到熔岩世界，进入Burning Trail区域，又是一个自由落体运动到下层，这里喷出的热气会干扰Samus的视线，变成球状态可以避免。进入导弹门，里面是记忆点，稍做休息吧。休息后继续前进，遇到小个头的硬壳怪物：<font color="orange">【Creatures】 Grizby</font>，只有导弹可以消灭掉，当然也可以无视它。
 
-来到Lake Tunnel区域，地面上开始出现大片的熔岩，掉下去是会损失体力的。这里有一种钻地的怪物：<font color="orange">\[Creatures\] Burrower</font>，只有当它飞出地面时攻击才有效。
+来到Lake Tunnel区域，地面上开始出现大片的熔岩，掉下去是会损失体力的。这里有一种钻地的怪物：<font color="orange">【Creatures】 Burrower</font>，只有当它飞出地面时攻击才有效。
 
-接下来会来到广阔的Lava Lake区域，迎接Samus的是一只从熔岩里窜出来的火龙：<font color="orange">\[Creatures\] Magmoor</font>，会没完没了的喷火，只要躲在它的射程之外锁定它的脑袋攻击就可以了。而另一种在空中飞行的怪物：<font color="orange">\[Creatures\] Puffer</font>，在消灭它之后它会放出绿色毒气一段时间，所以要注意躲着点。跳过熔岩湖到达中央地带时貌似无路，实际上在那几个箱子后的墙壁是可以用球炸弹炸碎的，即可到达熔岩湖的另一侧。
+接下来会来到广阔的Lava Lake区域，迎接Samus的是一只从熔岩里窜出来的火龙：<font color="orange">【Creatures】 Magmoor</font>，会没完没了的喷火，只要躲在它的射程之外锁定它的脑袋攻击就可以了。而另一种在空中飞行的怪物：<font color="orange">【Creatures】 Puffer</font>，在消灭它之后它会放出绿色毒气一段时间，所以要注意躲着点。跳过熔岩湖到达中央地带时貌似无路，实际上在那几个箱子后的墙壁是可以用球炸弹炸碎的，即可到达熔岩湖的另一侧。
 
-在Pit Tunnel中，前方的路被铁栅栏堵住了，需要以球状态从地板下通过，在地板下有移动的怪物：<font color="orange">\[Creatures\] Triclops</font>，如果被它捉到，就会被弹回入口，躲着点或者用球炸弹解决它。
+在Pit Tunnel中，前方的路被铁栅栏堵住了，需要以球状态从地板下通过，在地板下有移动的怪物：<font color="orange">【Creatures】 Triclops</font>，如果被它捉到，就会被弹回入口，躲着点或者用球炸弹解决它。
 
 来到Triclops Pit区域，先找到左首一个黑暗处隐藏着的山洞，那里有一个球通道可以通向地板下，同样有一群钳子怪在里面捉球，一路躲开并到达另一个出口，进门，来到Storage Cavern，在尽头可以取得一个<font color="green">导弹槽 Missile Expansion</font>。然后返回Triclops Pit，顺着活动平台跳到最高处，注意那些圆形的平台一旦踩上去，是会不断下落的，所以要连续的跳过去。
 
@@ -953,7 +953,7 @@ Vault Access要靠球形态通过。
 
 在Shoreline Entrance中会有冰层阻挡通路，只要用蓄力攻击就可以打碎。
 
-来到了冰雪世界的重要枢纽区域Phendrana Shorelines，漫天飞雪的景象让人过目难忘。正对面隐藏着的洞穴里就是记忆点的房间。在这里爬行的冰状怪物：<font color="orange">\[Creatures\] Crystallite</font>用导弹可以消灭。而空中飞行的一种隐型的鸟怪：<font color="orange">\[Creatures\] Flickerbat</font>暂时还没有好办法对付它。
+来到了冰雪世界的重要枢纽区域Phendrana Shorelines，漫天飞雪的景象让人过目难忘。正对面隐藏着的洞穴里就是记忆点的房间。在这里爬行的冰状怪物：<font color="orange">【Creatures】 Crystallite</font>用导弹可以消灭。而空中飞行的一种隐型的鸟怪：<font color="orange">【Creatures】 Flickerbat</font>暂时还没有好办法对付它。
 
 初到这里可能会很彷徨，敢问路在何方？其实就在栅栏后，有一处貌似封闭的栅栏是可以用导弹击碎的，然后变成球进入里面扫描开关，就可以打开上层关闭的门。从远处的平台上跳过去即可进入此门。
 
@@ -969,17 +969,17 @@ Vault Access要靠球形态通过。
 </tbody>
 </table>
 
-在Ice Ruins Access通道中，又出现一种新的电磁型敌人：<font color="orange">\[Creatures\] Scatter Bombu</font>，发出3道光束并不断移动，在很接近它时，Samus的视线会被严重干扰。目前暂时消灭不了它，还是变成球躲过它吧。
+在Ice Ruins Access通道中，又出现一种新的电磁型敌人：<font color="orange">【Creatures】 Scatter Bombu</font>，发出3道光束并不断移动，在很接近它时，Samus的视线会被严重干扰。目前暂时消灭不了它，还是变成球躲过它吧。
 
-来到Ice Ruins East，2只可怕的雪怪出现！在离远时它们会吐冰晶，被命中的话Samus会被冻住，这时要连按B键解冻，离近处的话它们会冲撞，威力还真不小啊。它们的弱点在PP上，快速移动到它们身后，3颗导弹可以解决一只，其他的攻击几乎全部无效。仔细一看，这怪物名叫<font color="orange">\[Creatures\] Baby Sheegoth</font>，靠啊，这么大个头还叫Baby，不知道它们的爹妈会是什么鬼样……。消灭它们之后，寻找上房的路，从房顶一层层跳过，进入另一扇门。
+来到Ice Ruins East，2只可怕的雪怪出现！在离远时它们会吐冰晶，被命中的话Samus会被冻住，这时要连按B键解冻，离近处的话它们会冲撞，威力还真不小啊。它们的弱点在PP上，快速移动到它们身后，3颗导弹可以解决一只，其他的攻击几乎全部无效。仔细一看，这怪物名叫<font color="orange">【Creatures】 Baby Sheegoth</font>，靠啊，这么大个头还叫Baby，不知道它们的爹妈会是什么鬼样……。消灭它们之后，寻找上房的路，从房顶一层层跳过，进入另一扇门。
 
-Plaza Walkway里全是那些埋在地下的虫子怪：<font color="red">\[Creatures\] Ice Burrower</font>，一定要扫描，但它们比较难缠，就快速离开好了。出门会发现回到了Phendrana Shorelines的上层，不要掉下去，顺着路走到另一扇门。
+Plaza Walkway里全是那些埋在地下的虫子怪：<font color="red">【Creatures】 Ice Burrower</font>，一定要扫描，但它们比较难缠，就快速离开好了。出门会发现回到了Phendrana Shorelines的上层，不要掉下去，顺着路走到另一扇门。
 
 这里是Ruins Entryway，又是一堆放炸弹的电磁怪，躲过。
 
-来到Ice Ruins West，在右首的小房间里的墙上有<font color="orange">\[Chozo Lore\] Cipher</font>，然后再直奔角落里那扇导弹门。
+来到Ice Ruins West，在右首的小房间里的墙上有<font color="orange">【Chozo Lore】 Cipher</font>，然后再直奔角落里那扇导弹门。
 
-通过通道后来到冰雪世界的大峡谷Phendrana Canyon，在独木桥的里面墙上隐藏着<font color="orange">\[Chozo Lore\] The Turned</font>。而来这里的目的更为重要，在不远处可以发现扫描装置，扫描后，连续的活动平台出现，一级一级跳过去，在尽头取得重要装备：<font color="blue">冲击球 Boost Ball</font>。一路长途跋涉这么远，就是为了它呀。
+通过通道后来到冰雪世界的大峡谷Phendrana Canyon，在独木桥的里面墙上隐藏着<font color="orange">【Chozo Lore】 The Turned</font>。而来这里的目的更为重要，在不远处可以发现扫描装置，扫描后，连续的活动平台出现，一级一级跳过去，在尽头取得重要装备：<font color="blue">冲击球 Boost Ball</font>。一路长途跋涉这么远，就是为了它呀。
 
 <table>
 <tbody>
@@ -1024,9 +1024,9 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 出电梯，进门来到Transport Tunnel B，看到一座浓烟滚滚的石桥，烟是无害的，在桥底下可以取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
-接着来到Root Cave，顺着树干和滴水的石台爬上去，这里可以看到红色的刺猬状怪物：<font color="orange">\[Creatures\] Geemer</font>，目前的武器暂时无法对付。跳到中层平台上进入导弹门。
+接着来到Root Cave，顺着树干和滴水的石台爬上去，这里可以看到红色的刺猬状怪物：<font color="orange">【Creatures】 Geemer</font>，目前的武器暂时无法对付。跳到中层平台上进入导弹门。
 
-前方是Root Tunnel，里面有一种植物怪：<font color="orange">\[Creatures\] Bloodflower</font>，会喷绿色的毒液球，只有在他张嘴的时候攻击才是有效的，最简单方法是将它附近的爆炸植物打掉炸飞它。
+前方是Root Tunnel，里面有一种植物怪：<font color="orange">【Creatures】 Bloodflower</font>，会喷绿色的毒液球，只有在他张嘴的时候攻击才是有效的，最简单方法是将它附近的爆炸植物打掉炸飞它。
 
 穿过去就是目的地Tallon Canyon，看到底层的U型台了吧，使用冲击球冲到上层，走过碎石桥，前方长方形通道的障碍物可用球炸弹解决掉，钻进去穿过Gully区域。
 
@@ -1059,11 +1059,11 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 回到Landing Site，在飞船后面的悬崖内部隐藏着球通道，周边被草包围着，里面可以取得一个<font color="green">导弹槽 Missile Expansion</font>。另外，既然可以高跳了，那么就前往瀑布旁边的高台，看看那扇门后面隐藏着什么吧。
 
-来到Temple Hall，这里的天花板上出现新物种：<font color="orange">\[Creatures\] Seeding</font>，会飞射出很多针状物体，赶快消灭它们是正经。
+来到Temple Hall，这里的天花板上出现新物种：<font color="orange">【Creatures】 Seeding</font>，会飞射出很多针状物体，赶快消灭它们是正经。
 
-穿过去来到Temple Security Station，从这里可知这里是Tallon IV星球被碰撞过的陨石坑入口，很壮观的地方啊。中央那个旋转摄影扫描后得到：<font color="orange">\[Pirate Data\] Artifact Site</font>。
+穿过去来到Temple Security Station，从这里可知这里是Tallon IV星球被碰撞过的陨石坑入口，很壮观的地方啊。中央那个旋转摄影扫描后得到：<font color="orange">【Pirate Data】 Artifact Site</font>。
 
-通过Temple Lobby走廊，来到Artifact Temple，在这里的2面墙上可以扫描到：<font color="orange">\[Chozo Lore\] Statuary</font>和<font color="orange">\[Chozo Lore\] Binding</font>。继续下行，来到神器广场，在广场中央得到重要物品：<font color="blue">第一神器 Artifact of Truth</font>。
+通过Temple Lobby走廊，来到Artifact Temple，在这里的2面墙上可以扫描到：<font color="orange">【Chozo Lore】 Statuary</font>和<font color="orange">【Chozo Lore】 Binding</font>。继续下行，来到神器广场，在广场中央得到重要物品：<font color="blue">第一神器 Artifact of Truth</font>。
 
 <table>
 <tbody>
@@ -1090,7 +1090,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 ### ☆熔岩世界 Magmoor Caverns
 
-下电梯后继续走原路，回到Monitor Station，这里会有点小收获。走到长桥上，会看到左方有一个小平台，跳上去再跳到上层长桥，到中央平台，看到一个象帽子一样的装置：<font color="orange">\[Research\] Spinner</font>，这个是冲击装置，变成球进入后用冲击球的方法即可操作它，3次冲击以后旁边会升起一座新的桥梁，走过去跳到对面悬崖，顺着边上走到尽头进门。
+下电梯后继续走原路，回到Monitor Station，这里会有点小收获。走到长桥上，会看到左方有一个小平台，跳上去再跳到上层长桥，到中央平台，看到一个象帽子一样的装置：<font color="orange">【Research】 Spinner</font>，这个是冲击装置，变成球进入后用冲击球的方法即可操作它，3次冲击以后旁边会升起一座新的桥梁，走过去跳到对面悬崖，顺着边上走到尽头进门。
 
 来到Warrior Shrine中，从巨大的雕像手中取得重要物品：<font color="blue">第二神器 Artifact of Strength</font>。
 
@@ -1121,7 +1121,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 穿过Temple Entryway，躲过那些电磁怪物。
 
-来到Chozo Ice Temple，这里需要一级一级跳到上层去，有一些在平台上爬的生物是新物种：<font color="red">\[Creatures\] Ice Parasite</font>，为了防止跳跃中被扳脚，还是先把这些怪物都灭掉吧。来到上层，尽头处有一个手中结冰的鸟人雕像……先别理它，通路在右边，那里的门被铁栅栏锁住了，扫描之后会得到需要找到shaman才能解开它的情报。其实就在上层大厅的墙壁处有一个图腾是可以用导弹轰掉的，里面隐藏着爆破装置，启动后栅栏门就会打开了。
+来到Chozo Ice Temple，这里需要一级一级跳到上层去，有一些在平台上爬的生物是新物种：<font color="red">【Creatures】 Ice Parasite</font>，为了防止跳跃中被扳脚，还是先把这些怪物都灭掉吧。来到上层，尽头处有一个手中结冰的鸟人雕像……先别理它，通路在右边，那里的门被铁栅栏锁住了，扫描之后会得到需要找到shaman才能解开它的情报。其实就在上层大厅的墙壁处有一个图腾是可以用导弹轰掉的，里面隐藏着爆破装置，启动后栅栏门就会打开了。
 
 在球通道Chapel Tunnel中，需要用炸弹将2棵挡路的石柱拦腰炸掉即可通过。前方来到目的地Chapel Tunnel，BOSS战即将开始。
 
@@ -1146,7 +1146,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 光弹枪和导弹对它的攻击都是无效的，它背上的防御能将一切攻击化解，那怎么办呢？自然是变成球，用球炸弹去炸它的肚子和腿了，注意保持体力不要损失过于严重，然后就找机会滚到它身下放炸弹吧，若干回合后就可以消灭它。<br>
 
-战斗结束之前不要忘记扫描记录，冰雪宝贝们的家长名叫：<font color="red">\[Creatures\] Sheegoth</font></font>
+战斗结束之前不要忘记扫描记录，冰雪宝贝们的家长名叫：<font color="red">【Creatures】 Sheegoth</font></font>
 </td>
 </tr>
 </tbody>
@@ -1181,7 +1181,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 回到Shoreline Entrance记录一下游戏，然后需要走上层平台通往峡谷的路，现在有了双级跳可以轻松到达，进门通过Ruins Entryway。
 
-来到Ice Ruins West，这里有一扇紫色门就是下一步的目标，先干掉2只小雪怪，然后从右方跳上房顶找新的路，然后，不要忘记扫描挂在天花板上的自杀型怪物：<font color="red">\[Creatures\] Ice Shriekbat</font>！（大哭，这次攻略忘记扫描它了……），最后会看到一块挂在顶上的倒圆锥状巨石：<font color="red">\[Research\] Stalactice</font>，它的数量有限，先扫描一下留念吧。然后锁定它用导弹攻击，巨石就会落下成为垫脚石。从石块上可以到达对面上层，再跳几跳就来到紫色门处了。
+来到Ice Ruins West，这里有一扇紫色门就是下一步的目标，先干掉2只小雪怪，然后从右方跳上房顶找新的路，然后，不要忘记扫描挂在天花板上的自杀型怪物：<font color="red">【Creatures】 Ice Shriekbat</font>！（大哭，这次攻略忘记扫描它了……），最后会看到一块挂在顶上的倒圆锥状巨石：<font color="red">【Research】 Stalactice</font>，它的数量有限，先扫描一下留念吧。然后锁定它用导弹攻击，巨石就会落下成为垫脚石。从石块上可以到达对面上层，再跳几跳就来到紫色门处了。
 
 穿过Countyard Enterway。
 
@@ -1189,17 +1189,17 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 目前可以看到3条路，先进入导弹门内，那里是记忆点。注意这里的跳跃间隔比较远，充分掌握双级跳最好不要掉下去，然后回来向紫色门处进发。
 
-在Specimen Storage中遇到隐型海盗：<font color="orange">\[Creatures\] Shadow Pirate</font>，离远处它会射击，离近处它会用大刀砍。这里可以充分利用电磁枪蓄力攻击的特性了，命中它以后它会暂时麻痹，然后一颗导弹即可消灭它。
+在Specimen Storage中遇到隐型海盗：<font color="orange">【Creatures】 Shadow Pirate</font>，离远处它会射击，离近处它会用大刀砍。这里可以充分利用电磁枪蓄力攻击的特性了，命中它以后它会暂时麻痹，然后一颗导弹即可消灭它。
 
-进入Research Entrance后，来到海盗基地，报警装置发现了Samus，一场小型战斗开始，大量的太空海盗：<font color="orange">\[Creatures\] Space Pirate</font>出现。相比来说这些海盗还是比较容易对付的，善用电磁枪蓄力攻击解决它们吧。
+进入Research Entrance后，来到海盗基地，报警装置发现了Samus，一场小型战斗开始，大量的太空海盗：<font color="orange">【Creatures】 Space Pirate</font>出现。相比来说这些海盗还是比较容易对付的，善用电磁枪蓄力攻击解决它们吧。
 
 从底层右侧的门进入Map Station可以取得<font color="green">Phendrana Drifts的地图</font>。然后返回 走到上层进入紫色门继续前进。
 
-穿过Hydra Lab Entryway，来到Research Lab Hydra。扫描门口的装置打开兰色屏障，又一场与海盗的恶战开始。这里的电脑上有很多海盗记录，不要忘记扫描。一层可以扫描到：<font color="orange">\[Pirate Data\] Phazon Analysis</font>，<font color="orange">\[Pirate Data\] Mining Status</font>和<font color="orange">\[Pirate Data\] Security Breaches</font>，乘电梯来到3层，可以扫描到<font color="orange">\[Pirate Data\] Glacial Wastes</font>和<font color="orange">\[Pirate Data\] Parasite Larva</font>。（如果你的进度跟本文相同的话，那么现在已经收集到50%的扫描记录了，游戏会有提示……天，扫了这么半天才一半东西！……）在3层的房间顶部有紫色门，打开后跳跃来到下一区域。
+穿过Hydra Lab Entryway，来到Research Lab Hydra。扫描门口的装置打开兰色屏障，又一场与海盗的恶战开始。这里的电脑上有很多海盗记录，不要忘记扫描。一层可以扫描到：<font color="orange">【Pirate Data】 Phazon Analysis</font>，<font color="orange">【Pirate Data】 Mining Status</font>和<font color="orange">【Pirate Data】 Security Breaches</font>，乘电梯来到3层，可以扫描到<font color="orange">【Pirate Data】 Glacial Wastes</font>和<font color="orange">【Pirate Data】 Parasite Larva</font>。（如果你的进度跟本文相同的话，那么现在已经收集到50%的扫描记录了，游戏会有提示……天，扫了这么半天才一半东西！……）在3层的房间顶部有紫色门，打开后跳跃来到下一区域。
 
 在Observatory Access中消灭2挺机枪后通过。
 
-进入Observatory，海盗群出现，全部干掉后，底层的机关可扫描。首先这里的电脑上可收集到：<font color="orange">\[Pirate Data\] Contact</font>，<font color="orange">\[Pirate Data\] Phazon Program</font>。这里的机关比较多，但并不复杂。扫描中央电脑后右边平台上的爆破装置可用，跳上去启动这个装置，又启动了左方平台上的爆破装置，再次启动后，大厅中央的四个冲击装置可用了。用冲击球分别启动这4个冲击装置，天文台上的全息摄影装置启动了，出现了本星系行星的运行效果。这里都是知识啊，收集吧：<font color="orange">\[Research\] Zebes</font>，<font color="orange">\[Research\] Tallon IV</font>。
+进入Observatory，海盗群出现，全部干掉后，底层的机关可扫描。首先这里的电脑上可收集到：<font color="orange">【Pirate Data】 Contact</font>，<font color="orange">【Pirate Data】 Phazon Program</font>。这里的机关比较多，但并不复杂。扫描中央电脑后右边平台上的爆破装置可用，跳上去启动这个装置，又启动了左方平台上的爆破装置，再次启动后，大厅中央的四个冲击装置可用了。用冲击球分别启动这4个冲击装置，天文台上的全息摄影装置启动了，出现了本星系行星的运行效果。这里都是知识啊，收集吧：<font color="orange">【Research】 Zebes</font>，<font color="orange">【Research】 Tallon IV</font>。
 
 收集活动过后，你会发现平台的数量也增多了，顺着平台可以跳到顶层去，在天文台最上方平台得到重要装备：<font color="blue">超级导弹 Super Missile</font>。
 
@@ -1232,17 +1232,17 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在West Tower中扫描开关，乘电梯到达上层。
 
-在Control Tower中，小型战开始，消灭了一群太空海盗后，新的敌人飞行海盗：<font color="orange">\[Creatures\] Flying Pirate</font>出现，他们会在空中连发追踪导弹和机枪射击，在消灭后还会向Samus做自杀式的坠毁攻击，稍加躲闪吧。全灭后，封闭的门打开了，继续前进。
+在Control Tower中，小型战开始，消灭了一群太空海盗后，新的敌人飞行海盗：<font color="orange">【Creatures】 Flying Pirate</font>出现，他们会在空中连发追踪导弹和机枪射击，在消灭后还会向Samus做自杀式的坠毁攻击，稍加躲闪吧。全灭后，封闭的门打开了，继续前进。
 
 进入East Tower，乘电梯到下层，穿过Aether Lab Entryway。
 
-来到资源丰富的Research Lab Aether，首先Samus看到了试管中那阴魂不散的生物：<font color="orange">\[Creatures\] Metroid</font>，紧接着它会破管而出攻击Samus。这种怪物是会吸血的，一旦被它吸住了面罩就会不断损失体力而且眼前一片雪花，不要惊慌，赶快变成球，用球炸弹炸开它。然后最好离远一点攻击它吧。在上层电脑和电脑墙上可以扫描到：<font color="orange">\[Pirate Data\] Metroid Studies</font>，<font color="orange">\[Pirate Data\] Meta Ridley</font>。在下层可以扫描到：<font color="orange">\[Pirate Data\] Metroid Morphology</font>，<font color="orange">\[Pirate Data\] Metroid Forces</font>，<font color="orange">\[Pirate Data\] Phazon Infusion</font>。
+来到资源丰富的Research Lab Aether，首先Samus看到了试管中那阴魂不散的生物：<font color="orange">【Creatures】 Metroid</font>，紧接着它会破管而出攻击Samus。这种怪物是会吸血的，一旦被它吸住了面罩就会不断损失体力而且眼前一片雪花，不要惊慌，赶快变成球，用球炸弹炸开它。然后最好离远一点攻击它吧。在上层电脑和电脑墙上可以扫描到：<font color="orange">【Pirate Data】 Metroid Studies</font>，<font color="orange">【Pirate Data】 Meta Ridley</font>。在下层可以扫描到：<font color="orange">【Pirate Data】 Metroid Morphology</font>，<font color="orange">【Pirate Data】 Metroid Forces</font>，<font color="orange">【Pirate Data】 Phazon Infusion</font>。
 
 还没有完，这里可是个宝库啊，在中层阶梯的尽头，可以看到上方有球通道，跳上去变成球滚到尽头即可得到一个<font color="green">导弹槽 Missile Expansion</font>，这里的球通道没边缘很容易掉下去的。而在底层墙边的试管中可以看到收集品，用超级导弹炸开试管，可以取得里面的<font color="green">能量槽 Energy Tank</font>。
 
 现在收集完毕，可以离开这里了。炸开底层的一堆箱子，就可以看到紫色门，跳下进入。
 
-在Research Core Access中遇到新物种：<font color="orange">\[Creatures\] Ice Beetle</font>，跟以前那个钻地虫的攻击方式相同。
+在Research Core Access中遇到新物种：<font color="orange">【Creatures】 Ice Beetle</font>，跟以前那个钻地虫的攻击方式相同。
 
 最终来到Research Core，又是一场飞行海盗与机枪乱扫的大混战，在这个光线变化强烈的环境中，你可以看到Samus的眼睛倒影在荧幕上的华丽视觉效果。将敌人全灭掉，然后分别扫描这里面3层平台上的电脑保护装置，最底层的装置的保护罩就会全部解除。取得重要装备：<font color="blue">感热视镜 Thermal Visor</font>。用十字键下切换就可以看到平时看不到的敌人和装置了。
 
@@ -1271,7 +1271,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 想离开这里的时候会发现最上层的门电力消失了，切换为感热视镜，可以看到通道和阶梯了。周边的怪物Metroid会不断跳出来，小心攻击行事。来到顶层，会发现在门旁边有一个圆形开关，这个就是热能开关，用电磁枪即可启动它，门就可以打开了。后面类似的机关会很多，充分配合使用感热视镜与电磁枪吧。
 
-回到Research Core Access会发现新的敌人：<font color="orange">\[Creatures\] Sentry Drone</font>。会机枪攻击和电磁干扰，他们还会封闭当前区域的门，只有全部消灭他们之后才可以解除。
+回到Research Core Access会发现新的敌人：<font color="orange">【Creatures】 Sentry Drone</font>。会机枪攻击和电磁干扰，他们还会封闭当前区域的门，只有全部消灭他们之后才可以解除。
 
 然后就一路返回吧，有些昏暗的区域需要使用感热视镜，明亮的区域就不要用了。回到Research Entrance时，可以看到一个封闭型的试管，用超级导弹可以轰开，里面得到<font color="green">导弹槽 Missile Expansion</font>。这里的敌人也比较多，善用感热视镜搜索攻击吧。
 
@@ -1300,7 +1300,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在破坏掉一个能量源之后，需要再次切换到感热视镜寻找BOSS身上的下一个能量源，然后按此方式干掉它的四肢，肩膀上的能量源，最后胸口上最后的能量源就会出现，最后的时间就利用一切武器无情的解决它即可。<br>
 
-战斗结束之前不要忘记扫描记录，石头巨人的真身是：<font color="red">\[Creatures\] Thardus</font></font>
+战斗结束之前不要忘记扫描记录，石头巨人的真身是：<font color="red">【Creatures】 Thardus</font></font>
 </td>
 </tr>
 </tbody>
@@ -1331,7 +1331,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 </tbody>
 </table>
 
-这个战场周边的黄色轨道就是磁轨：<font color="orange">\[Research\] Magnetic Track</font>。记住使用蜘蛛球的时候要牢牢的按住R键，然后按左摇杆移动，在这个区域里，先使用炸弹跳跳上一处未靠地的磁轨，到最高处时使用炸弹跳吸住上方的环行磁轨，然后向逆时针方向移动到另一扇门那里去。
+这个战场周边的黄色轨道就是磁轨：<font color="orange">【Research】 Magnetic Track</font>。记住使用蜘蛛球的时候要牢牢的按住R键，然后按左摇杆移动，在这个区域里，先使用炸弹跳跳上一处未靠地的磁轨，到最高处时使用炸弹跳吸住上方的环行磁轨，然后向逆时针方向移动到另一扇门那里去。
 
 穿过South Quarantine Tunnel的球通道，来到Transport to Magmoor Caverns South，记住这里的磁轨，将来要回来的。然后从这里乘电梯前往Magmoor Caverns。
 
@@ -1343,7 +1343,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 来到广阔的Magmoor Workstation，先来一场飞行海盗战把他们都消灭掉，然后落到底层会看到一座有蓝灯的圆柱型装置，切换为感热视镜，就会看到附近的3个门旁边各有一个开关，用电磁枪启动，圆柱装置就会启动。首先兰色门底下的熔岩消失，可以从地板下用球通过，中途的怪物最好提前炸掉。进入兰色门后的房间，扫描墙上的装置，计时机关启动，需要从地下通道快速到达另一扇门下方，扫描另一个门后墙上的装置，然后在限制时间内顺地下通道滚到最后一扇门内，即可获得一个<font color="green">能量槽 Energy Tank</font>。然后，可以从跳上左方的平台离开这里了。
 
-通过South Core Tunnel，这里出现漂浮在熔岩上的新物种：<font color="orange">\[Creatures\] Puddle Spore</font>。只要趁它张开贝壳时射击它，它就会翻个面成为落脚石。
+通过South Core Tunnel，这里出现漂浮在熔岩上的新物种：<font color="orange">【Creatures】 Puddle Spore</font>。只要趁它张开贝壳时射击它，它就会翻个面成为落脚石。
 
 来到Geothermal Core，用跟刚才同样的方法通过熔岩地带。
 
@@ -1363,17 +1363,17 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 继续前进到Gathering Hall，这里可以记录游戏了，跳到上层平台，在门前的红色装置上跳到上层，用球炸弹炸开障碍，里面可以得到一个<font color="green">导弹槽 Missile Expansion</font>。然后进门继续前进。
 
-来到Furnace，终于快到目的地了，从这里的磁轨爬上去进入球通道，那些会消失的碎石需要用冲击球冲过去，并且迅速在尽头用炸弹跳到上层通过，即可来到Furnace的另一侧。在高处磁轨上爬行的新物种：<font color="orange">\[Creatures\] Plated Parasite</font>，先不要理睬它们。左方的墙上可以找到：<font color="orange">\[Chozo Lore\] Cradle</font>，在它下面就是隐藏的球通道，进入。
+来到Furnace，终于快到目的地了，从这里的磁轨爬上去进入球通道，那些会消失的碎石需要用冲击球冲过去，并且迅速在尽头用炸弹跳到上层通过，即可来到Furnace的另一侧。在高处磁轨上爬行的新物种：<font color="orange">【Creatures】 Plated Parasite</font>，先不要理睬它们。左方的墙上可以找到：<font color="orange">【Chozo Lore】 Cradle</font>，在它下面就是隐藏的球通道，进入。
 
 穿过长长的通道来到Crossway Access West。
 
-出来之后来到Crossway，这里有个U型台，很明显要用冲击球到达对面。对面的墙上可以扫描到3个文化记录：<font color="orange">\[Chozo Lore\] Worm</font>，<font color="orange">\[Chozo Lore\] Hatchling's Shell</font>和<font color="orange">\[Chozo Lore\] Infestation</font>。
+出来之后来到Crossway，这里有个U型台，很明显要用冲击球到达对面。对面的墙上可以扫描到3个文化记录：<font color="orange">【Chozo Lore】 Worm</font>，<font color="orange">【Chozo Lore】 Hatchling's Shell</font>和<font color="orange">【Chozo Lore】 Infestation</font>。
 
 在门边墙的装置可以用超级炸弹轰掉，扫描内藏的开关后，高处墙壁上就会出现磁轨，从U型台用冲击球冲上磁轨爬到头，用炸弹跳进入爆破装置并启动它，对面高墙上的新磁轨出现了，再次用冲击球冲上去，好高啊……真的能冲上去吗？当然了。启动第2个爆破装置后，墙边出现新的球通道，在限制时间内进入，从通道尽头可以取得一个<font color="green">导弹槽 Missile Expansion</font>。然后顺旁边的导弹门可以离开这里了。
 
-通过Elder Hall Access，来到Hall of the Elders，记住这里是一个非常重要的地方！一进门左首就可以看到球通道，进入后里面是导弹的补给装置：<font color="orange">\[Research\] Missile Station</font>。用这个装置可以补充全部的导弹数量，要充分利用啊。
+通过Elder Hall Access，来到Hall of the Elders，记住这里是一个非常重要的地方！一进门左首就可以看到球通道，进入后里面是导弹的补给装置：<font color="orange">【Research】 Missile Station</font>。用这个装置可以补充全部的导弹数量，要充分利用啊。
 
-回头跳下大厅，可怕的鸟人鬼魂：<font color="orange">\[Creatures\] Chozo Ghost</font>出现，它白光一团，移动飞快，时隐时现，会发射巨大的冲击波令Samus暂时无法攻击，要小心应付了，特殊武器对它无效，假如用光弹枪攻击会陷入苦战，其实只要能在它出现时发射超级导弹命中就可一发消灭。消灭后，那尊巨大的鸟人雕像的双手开始闪光。假如你玩过SFC版银河战士的话，那幕令人激动的浑身发抖的经典场面就要开始了。跳上鸟人雕像的双手变成球，就会启动装置，雕像会将球向前方高处抛去，立刻按住R吸住上面的磁轨，爬行到尽头启动爆破装置，雕像上方出现了紫，白，红三色的装置。
+回头跳下大厅，可怕的鸟人鬼魂：<font color="orange">【Creatures】 Chozo Ghost</font>出现，它白光一团，移动飞快，时隐时现，会发射巨大的冲击波令Samus暂时无法攻击，要小心应付了，特殊武器对它无效，假如用光弹枪攻击会陷入苦战，其实只要能在它出现时发射超级导弹命中就可一发消灭。消灭后，那尊巨大的鸟人雕像的双手开始闪光。假如你玩过SFC版银河战士的话，那幕令人激动的浑身发抖的经典场面就要开始了。跳上鸟人雕像的双手变成球，就会启动装置，雕像会将球向前方高处抛去，立刻按住R吸住上面的磁轨，爬行到尽头启动爆破装置，雕像上方出现了紫，白，红三色的装置。
 
 <table>
 <tbody>
@@ -1387,7 +1387,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 </tbody>
 </table>
 
-先别忘扫描鸟人雕像后方墙上的：<font color="orange">\[Chozo Lore\] Hope</font>，然后顺原来落下的平台跳上去到达那三色装置处，很明显用电磁墙射击紫色装置，这个装置就打开，然后用球炸弹启动它。鸟人雕像前出现新的通道，再次跳入鸟人雕像的手中，从新通道可到达上层球通道，滚到头，先扫描门前的装置，打开这里的兰色屏障，以后就可以从下层直接跳上来了，然后进门继续前进。
+先别忘扫描鸟人雕像后方墙上的：<font color="orange">【Chozo Lore】 Hope</font>，然后顺原来落下的平台跳上去到达那三色装置处，很明显用电磁墙射击紫色装置，这个装置就打开，然后用球炸弹启动它。鸟人雕像前出现新的通道，再次跳入鸟人雕像的手中，从新通道可到达上层球通道，滚到头，先扫描门前的装置，打开这里的兰色屏障，以后就可以从下层直接跳上来了，然后进门继续前进。
 
 穿过Reflecting Pool Access。
 
@@ -1440,9 +1440,9 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 穿过Transport Access可以看到冰层后面有个好东西，但现在还得不到它，暂时路过。
 
-进入冰雪悬崖Frozen Pike，这里的落差很高，跳水吧。水里回发现新物种：<font color="orange">\[Creatures\] Jelzap</font>，离近它会产生电磁干扰，当它张开中央的嘴时用一颗导弹可以干掉它。这里有多个门，需要走出水面，进入第2层高度的门。
+进入冰雪悬崖Frozen Pike，这里的落差很高，跳水吧。水里回发现新物种：<font color="orange">【Creatures】 Jelzap</font>，离近它会产生电磁干扰，当它张开中央的嘴时用一颗导弹可以干掉它。这里有多个门，需要走出水面，进入第2层高度的门。
 
-穿过球通道，来到Frost Cave，出现新的吸血怪物：<font color="orange">\[Creatures\] Hunter Metroid</font>。它会深出长长的爪子来吸血，不过这种生物的弱点就是冰，用冰冻枪冻住它再用导弹解决。在空中移动的那个平台居然也是一种生物：<font color="orange">\[Creatures\] Glider</font>。现在它暂时无用。这里需要用导弹把2个倒挂在顶上的锥型岩击落，让它们形成通路。
+穿过球通道，来到Frost Cave，出现新的吸血怪物：<font color="orange">【Creatures】 Hunter Metroid</font>。它会深出长长的爪子来吸血，不过这种生物的弱点就是冰，用冰冻枪冻住它再用导弹解决。在空中移动的那个平台居然也是一种生物：<font color="orange">【Creatures】 Glider</font>。现在它暂时无用。这里需要用导弹把2个倒挂在顶上的锥型岩击落，让它们形成通路。
 
 进入右边门是记忆点Save Station C，记录游戏后回来进入另一扇门。
 
@@ -1454,7 +1454,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 穿过Lake Tunnel，来到目的地。
 
-这里是Gravity Chamber，首先会看到新的水生植物：<font color="orange">\[Creatures\] Aqua Reaper</font>，它们会用长长的触手攻击Samus，但挨一枪就会变老实。水里的能见度很低，不要迷路，一直走到尽头，中途会看到镶在冰层里的鱼化石和另一些水生植物，到尽头平台的凹陷处即可得到重要装备：<font color="blue">重力铠甲 Gravity Suit</font>。有了它之后在水中就可以和陆地一样拥有同样的跳跃和移动能力了。
+这里是Gravity Chamber，首先会看到新的水生植物：<font color="orange">【Creatures】 Aqua Reaper</font>，它们会用长长的触手攻击Samus，但挨一枪就会变老实。水里的能见度很低，不要迷路，一直走到尽头，中途会看到镶在冰层里的鱼化石和另一些水生植物，到尽头平台的凹陷处即可得到重要装备：<font color="blue">重力铠甲 Gravity Suit</font>。有了它之后在水中就可以和陆地一样拥有同样的跳跃和移动能力了。
 
 <table>
 <tbody>
@@ -1499,9 +1499,9 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 来到Main Ventilation Shaft Section B，干掉2挺机枪，切换成感热视镜会看到门上的开关，启动它，打开门继续前进。在飞船里这样的机关相当多。
 
-继续通过长通道Main Ventilation Shaft Section A，这里出现的甲虫是新物种：<font color="orange">\[Creatures\] Tallon Crab</font>。
+继续通过长通道Main Ventilation Shaft Section A，这里出现的甲虫是新物种：<font color="orange">【Creatures】 Tallon Crab</font>。
 
-来到已经沉没在水中的Reactor Core，出现几只潜水海盗：<font color="orange">\[Creatures\] Aqua Pirate</font>，类似于飞行海盗，消灭它们吧。切换成感热视镜找到3个隐藏的电磁开关并启动，大厅中层的封闭门就会打开，顺漂浮的船体残骸跳上去进门。
+来到已经沉没在水中的Reactor Core，出现几只潜水海盗：<font color="orange">【Creatures】 Aqua Pirate</font>，类似于飞行海盗，消灭它们吧。切换成感热视镜找到3个隐藏的电磁开关并启动，大厅中层的封闭门就会打开，顺漂浮的船体残骸跳上去进门。
 
 Reactor Access里可以记录游戏。这里需要切换成感热视镜启动2个隐藏的电磁开关，另一扇门就会打开。
 
@@ -1509,7 +1509,7 @@ Reactor Access里可以记录游戏。这里需要切换成感热视镜启动2�
 
 通过Deck Beta Transit Hall。
 
-来到Biohazard Containment，会发现出现次数有限的新敌人：<font color="red">\[Creatures\] Aqua Drone</font>，赶快扫描吧。在这个区域中需要切换成感热视镜启动3个隐藏的电磁开关，让新门启动。另外，在上层一个有黄色标志的柜子可以用超级导弹炸开，里面得到一个<font color="green">导弹槽 Missile Expansion</font>。
+来到Biohazard Containment，会发现出现次数有限的新敌人：<font color="red">【Creatures】 Aqua Drone</font>，赶快扫描吧。在这个区域中需要切换成感热视镜启动3个隐藏的电磁开关，让新门启动。另外，在上层一个有黄色标志的柜子可以用超级导弹炸开，里面得到一个<font color="green">导弹槽 Missile Expansion</font>。
 
 穿过都是植物触手的Deck Beta Security Hall。
 
@@ -1517,7 +1517,7 @@ Reactor Access里可以记录游戏。这里需要切换成感热视镜启动2�
 
 通过Deck Beta Conduit Hall。
 
-进入Connection Elevator to Deck Beta，在墙上生长的无害植物是新物种：<font color="orange">\[Creatures\] Aqua Sac</font>。这里需要垂直下落到底层。
+进入Connection Elevator to Deck Beta，在墙上生长的无害植物是新物种：<font color="orange">【Creatures】 Aqua Sac</font>。这里需要垂直下落到底层。
 
 进入球通道Hydro Access Tunnel，这里是在水中有浮力，所以炸弹跳的高度很高。在第一个落下处使用水中三炸弹跳，方法是炸弹跳到离最高还有一个球的高度时放下一个炸弹，就可以跳得更高，如此重复3次，跳到最高处得到一个<font color="green">能量槽 Energy Tank</font>。然后落下继续向前通过这里。
 
@@ -1529,7 +1529,7 @@ Reactor Access里可以记录游戏。这里需要切换成感热视镜启动2�
 
 ### ☆矿坑世界 Phazon Mines
 
-穿过Quarry Access通道，来到了矿坑世界的重要枢纽Main Quarry，远处可以看到黄色屏障门前有2挺机枪，是新式敌人：<font color="orange">\[Creatures\] Mega Turret</font>，外壳硬的很，需要3枚导弹才能干掉。左方的磁轨爬上去就会来到记忆点Save Station Mines A，需要扫描一下门口的开关才能进入，记录游戏吧，后面的挑战越来越困难了。
+穿过Quarry Access通道，来到了矿坑世界的重要枢纽Main Quarry，远处可以看到黄色屏障门前有2挺机枪，是新式敌人：<font color="orange">【Creatures】 Mega Turret</font>，外壳硬的很，需要3枚导弹才能干掉。左方的磁轨爬上去就会来到记忆点Save Station Mines A，需要扫描一下门口的开关才能进入，记录游戏吧，后面的挑战越来越困难了。
 
 回到Main Quarry，先顺阶梯来到上层，会惊动吊车下的海盗群，全部消灭掉它们。走到吊车下方的圆形平台旁边，切换为感热视镜会看到一个电磁装置，启动它以后上方玻璃操作室的电脑就启动了。进入操作室扫描电脑，吊车的吊臂开始移动，并且撞碎了墙壁。这时可以从吊车的吊梁处沿磁轨爬上去到尽头，在撞碎的墙壁内取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
@@ -1537,11 +1537,11 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 在Security Access A中会遭遇几只幻影海盗。
 
-来到Main Security Station，新的敌人出现了：<font color="orange">\[Creatures\] Wave Trooper</font>。这是仿制Samus的武器强化过的电磁海盗部队，攻击力十分强劲。这种敌人只有用电磁枪攻击才有效果，多多利用电磁枪蓄力攻击麻痹它们吧。这个区域的路也很长，要绕几个弯才能爬到顶层，进入顶部的紫色门。
+来到Main Security Station，新的敌人出现了：<font color="orange">【Creatures】 Wave Trooper</font>。这是仿制Samus的武器强化过的电磁海盗部队，攻击力十分强劲。这种敌人只有用电磁枪攻击才有效果，多多利用电磁枪蓄力攻击麻痹它们吧。这个区域的路也很长，要绕几个弯才能爬到顶层，进入顶部的紫色门。
 
 穿过Security Access B。
 
-来到Elite Reesarch区域，又有海盗群来袭。房间中央的容器中有一个巨大的海盗……还好它暂时不会动。这里底层的电脑上可以扫描到：<font color="orange">\[Pirate Data\] Elite Pirates</font>。然后，扫描某电脑后，自动平台会启动，从平台上可以跳到2层去。眼看对面又冲过2只电磁海盗来，干掉它们。走到环行通道的另一侧，扫描电脑，启动通向3层的自动平台。刚到达3层，就遇到新强化海盗：<font color="orange">\[Creatures\] Power Trooper</font>的强烈袭击，用光弹枪攻击有效，最好的方法是用一颗超级导弹解决它。
+来到Elite Reesarch区域，又有海盗群来袭。房间中央的容器中有一个巨大的海盗……还好它暂时不会动。这里底层的电脑上可以扫描到：<font color="orange">【Pirate Data】 Elite Pirates</font>。然后，扫描某电脑后，自动平台会启动，从平台上可以跳到2层去。眼看对面又冲过2只电磁海盗来，干掉它们。走到环行通道的另一侧，扫描电脑，启动通向3层的自动平台。刚到达3层，就遇到新强化海盗：<font color="orange">【Creatures】 Power Trooper</font>的强烈袭击，用光弹枪攻击有效，最好的方法是用一颗超级导弹解决它。
 
 这个区域好复杂，任务还未结束。到达3层，可以看到天花板上挂着一把镭射枪，进入冲击装置用冲击球可以让镭射枪的枪口方向顺时针变化，扫描电脑开关可以让镭射枪射击，击碎墙壁。首先让镭射枪口移动到向左的位置上来，扫描电脑让镭射枪射击墙壁，里面可以得到一个<font color="green">导弹槽 Missile Expansion</font>。然后让镭射枪对准正对面的墙壁射击，即可打开前往下一区域的通路。
 
@@ -1567,15 +1567,15 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 进入Elite Control Access，可以看到上方有一个爆炸箱，远远的击毁它吧，不但炸死了上方打埋伏的海盗，还可以跳上去得到一个<font color="green">导弹槽 Missile Expansion</font>。这时你应该知道爆炸箱的妙用了，就是当敌人在它附近时，可以用来作为大型杀伤武器。
 
-进入Elite Control，一只密封在容器内的巨大海盗破门而出：<font color="red">\[Creatures\] Elite Pirate</font>。遭遇它的机会有限，尽快扫描记录吧。这只海盗威力十分强大，离它近时它会地震波攻击以及挥拳攻击，可跳跃躲开，离它远时，它会放出追踪导弹攻击。当它遭到攻击后还会展开防御护盾反弹攻击。其实对付它也并不难，稍微离远一点用超级导弹攻击是最快速的战术，2枚解决战斗，用其他小型武器的话就要陷入苦战了。别忘了，躲避攻击保持体力也是非常重要的一点。
+进入Elite Control，一只密封在容器内的巨大海盗破门而出：<font color="red">【Creatures】 Elite Pirate</font>。遭遇它的机会有限，尽快扫描记录吧。这只海盗威力十分强大，离它近时它会地震波攻击以及挥拳攻击，可跳跃躲开，离它远时，它会放出追踪导弹攻击。当它遭到攻击后还会展开防御护盾反弹攻击。其实对付它也并不难，稍微离远一点用超级导弹攻击是最快速的战术，2枚解决战斗，用其他小型武器的话就要陷入苦战了。别忘了，躲避攻击保持体力也是非常重要的一点。
 
-消灭巨型海盗之后，危险并没结束，新冰冻型强化海盗：<font color="orange">\[Creatures\] Ice Trooper</font>成群杀来，当然只有冰冻枪攻击才有效，不过这种敌人最好用蓄力冰冻枪冻结+导弹一击杀的方法来对付。
+消灭巨型海盗之后，危险并没结束，新冰冻型强化海盗：<font color="orange">【Creatures】 Ice Trooper</font>成群杀来，当然只有冰冻枪攻击才有效，不过这种敌人最好用蓄力冰冻枪冻结+导弹一击杀的方法来对付。
 
-将敌人清场之后，开始扫描吧，这里是一个资源丰富的资料库。在1层的电脑上可以扫描到：<font color="orange">\[Pirate Data\] Metroid Prime</font>，<font color="orange">\[Pirate Data\] The Hunter</font>，<font color="orange">\[Pirate Data\] Hunter Weapons</font>，在上层的电脑上可以扫描到：<font color="orange">\[Pirate Data\] Chozo Studies</font>，<font color="orange">\[Pirate Data\] Chozo Artifacts</font>，<font color="orange">\[Pirate Data\] Prime Mutations</font>，<font color="orange">\[Pirate Data\] Prime Breach</font>，<font color="orange">\[Pirate Data\] Chozo Ghosts</font>。资料收集完毕后，扫描上层的电脑可让黄色护盾打开，继续前进。
+将敌人清场之后，开始扫描吧，这里是一个资源丰富的资料库。在1层的电脑上可以扫描到：<font color="orange">【Pirate Data】 Metroid Prime</font>，<font color="orange">【Pirate Data】 The Hunter</font>，<font color="orange">【Pirate Data】 Hunter Weapons</font>，在上层的电脑上可以扫描到：<font color="orange">【Pirate Data】 Chozo Studies</font>，<font color="orange">【Pirate Data】 Chozo Artifacts</font>，<font color="orange">【Pirate Data】 Prime Mutations</font>，<font color="orange">【Pirate Data】 Prime Breach</font>，<font color="orange">【Pirate Data】 Chozo Ghosts</font>。资料收集完毕后，扫描上层的电脑可让黄色护盾打开，继续前进。
 
 接着来到Ventilation Shaft，这里是一个桶型区域，刚一下去，这里的毒气装置就开启了，并且放出一堆怪物来，在毒气中体力会迅速减少，赶快通过这里吧，进入另一侧的白色门。
 
-来到Omega Research，有大批的强化海盗出现，对付他们的方法你已经知道了，这里要充分利用高势地形躲闪和攻击，将他们全灭掉，然后跳到底层。扫描开关打开黄色屏障。这里的电脑上可以扫描到：<font color="orange">\[Pirate Data\] Omega Pirate</font>。
+来到Omega Research，有大批的强化海盗出现，对付他们的方法你已经知道了，这里要充分利用高势地形躲闪和攻击，将他们全灭掉，然后跳到底层。扫描开关打开黄色屏障。这里的电脑上可以扫描到：<font color="orange">【Pirate Data】 Omega Pirate</font>。
 
 穿过Dynamo Access，在这里深吸一口气，这场漫长的旅途就要告一段落了，希望Samus的体力还有剩余，进入下一个区域Central Dynamo后，一场奇特的BOSS战就要开始了。
 
@@ -1627,7 +1627,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 然后，赶快进入旁边的白色门，来到记忆点Save Station Mines B，记录游戏，狠狠的休息一下吧。
 
-回到Central Dynamo，可以用超级炸弹炸开对面的挡住门的碎石，但下一个目的地不在前方，而是要回去。首先击碎附近的补给箱，可以发现补充超级炸弹的补给：<font color="orange">\[Research\] Power Bomb Ammo</font>，每个可以回复1颗超级炸弹数量。然后，上方可以看到很多闪着蓝光的平台，从那些平台上跳回去，通过Dynamo Access。
+回到Central Dynamo，可以用超级炸弹炸开对面的挡住门的碎石，但下一个目的地不在前方，而是要回去。首先击碎附近的补给箱，可以发现补充超级炸弹的补给：<font color="orange">【Research】 Power Bomb Ammo</font>，每个可以回复1颗超级炸弹数量。然后，上方可以看到很多闪着蓝光的平台，从那些平台上跳回去，通过Dynamo Access。
 
 回到Omega Research，第2只巨型海盗苏醒了，没说的，干掉它。回到平台上层，从中央平台可以跳到对面去，用超级炸弹炸开挡门的碎石，进入Map Station Mines，取得<font color="green">Phazon Mines的地图</font>。
 
@@ -1666,7 +1666,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 </tbody>
 </table>
 
-回到Ore Processing，出门就看到光电勾：<font color="orange">\[Research\] Grapple Point</font>，扫描记录吧，到现在为止所有的\[Research\]专案都已经扫描记录过了。然后，在光电勾图示变成兰色时，按住L键荡起来，按左摇杆可以调整方向，在到达对面时松开L键即可飞到对面去，进入白色门。
+回到Ore Processing，出门就看到光电勾：<font color="orange">【Research】 Grapple Point</font>，扫描记录吧，到现在为止所有的【Research】专案都已经扫描记录过了。然后，在光电勾图示变成兰色时，按住L键荡起来，按左摇杆可以调整方向，在到达对面时松开L键即可飞到对面去，进入白色门。
 
 通过Waste Disposal，这里是球通道，变成球一直往下方走吧。
 
@@ -1974,7 +1974,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 途径Arboretum前往Ruined Fountain，从那扇未曾进入过的门来到Meditation Fountain继续前进。
 
-来到熔岩池Megma Pool，需要连续荡过2个光电勾来到对面，用超级炸弹炸开全是藤条的墙壁，后面可以得到一个<font color="green">超级炸弹槽 Power Bomb Expansion</font>。另外扫描墙壁上可以得到最后的鸟人族知识记录：<font color="orange">\[Chozo Lore\] Newborn</font>。
+来到熔岩池Megma Pool，需要连续荡过2个光电勾来到对面，用超级炸弹炸开全是藤条的墙壁，后面可以得到一个<font color="green">超级炸弹槽 Power Bomb Expansion</font>。另外扫描墙壁上可以得到最后的鸟人族知识记录：<font color="orange">【Chozo Lore】 Newborn</font>。
 
 通过Training Chamber Access，在红叶的后面隐藏着球通道，滚到尽头可以得到一个<font color="green">导弹槽 Missile Expansion</font>。
 
@@ -2009,7 +2009,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 </tbody>
 </table>
 
-回到Tower of Light，这里高层还有秘密，首先跳上一层平台，就可以看到四周有裂纹的柱子，用超级导弹轰击裂纹处，上层整个平台就会坠落一层，然后可以跳到更高层。这里出现新物种：<font color="orange">\[Creatures\] Oculus</font>，这种生物爬在裂纹柱上会反弹一切攻击，所以使用超级导弹的时候要躲开它发射。另外四周墙壁上会发射出：<font color="orange">\[Creatures\] Plated Puffer</font>，喷毒物的妖怪，无视它好了。 
+回到Tower of Light，这里高层还有秘密，首先跳上一层平台，就可以看到四周有裂纹的柱子，用超级导弹轰击裂纹处，上层整个平台就会坠落一层，然后可以跳到更高层。这里出现新物种：<font color="orange">【Creatures】 Oculus</font>，这种生物爬在裂纹柱上会反弹一切攻击，所以使用超级导弹的时候要躲开它发射。另外四周墙壁上会发射出：<font color="orange">【Creatures】 Plated Puffer</font>，喷毒物的妖怪，无视它好了。 
 
 跳到上层后继续轰炸裂纹柱，总共有12棵柱子，需要消耗60枚导弹，注意导弹的残量。最后跳到最高层平台，取得隐藏武器：<font color="blue">电磁导弹 Wavebuster</font>。有了它即可发射连续追踪敌人的的超级电磁导弹。
 
@@ -2108,7 +2108,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 3把隐藏武器都得到后，还得说一下它们的缺点，就是释放时太浪费导弹弹药了，所以可持续性不是很强，要真正到值得利用的时候再使用它。
 
-下一步穿过Security Access B，来到大厅Elite Research，要与大厅中央的那个试管里的巨型海盗决一死战。不过必须用超级炸弹炸开试管，这是特殊敌人，别忘了先扫描它：<font color="red">\[Creatures\] Phazon Elite</font>，用Phazon物质强化过的巨型海盗，它的攻击方式与普通的巨型海盗完全相同，只是攻击力和体力都要更强一些而已，好在战场很宽广，所以还是趁它无防御的时候用几颗超级导弹消灭它吧。消灭它之后，即可得到重要物品：<font color="blue">第六神器 Artifact of Warrior</font>。
+下一步穿过Security Access B，来到大厅Elite Research，要与大厅中央的那个试管里的巨型海盗决一死战。不过必须用超级炸弹炸开试管，这是特殊敌人，别忘了先扫描它：<font color="red">【Creatures】 Phazon Elite</font>，用Phazon物质强化过的巨型海盗，它的攻击方式与普通的巨型海盗完全相同，只是攻击力和体力都要更强一些而已，好在战场很宽广，所以还是趁它无防御的时候用几颗超级导弹消灭它吧。消灭它之后，即可得到重要物品：<font color="blue">第六神器 Artifact of Warrior</font>。
 
 <table>
 <tbody>
@@ -2153,9 +2153,9 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 穿过Quarantine Access B，这里的电磁敌人都是隐型的，需要切换成透视视镜再消灭它们。由于地上全是Phazon，所以还是跳过蘑菇头到对面去吧。
 
-来到Metroid Quarantine B，新强化海盗出现：<font color="orange">\[Creatures\] Plasma Trooper</font>，只有用火焰枪才可以消灭。对付这几种强化海盗的方法都是看它们身上是什么颜色，就用什么颜色的枪来反击。消灭敌人后爬上倾斜的磁轨，来到高处平台，中央天花板上挂着光电勾，需要先用双级跳再按住L键使用光电索的方法跳过对面。
+来到Metroid Quarantine B，新强化海盗出现：<font color="orange">【Creatures】 Plasma Trooper</font>，只有用火焰枪才可以消灭。对付这几种强化海盗的方法都是看它们身上是什么颜色，就用什么颜色的枪来反击。消灭敌人后爬上倾斜的磁轨，来到高处平台，中央天花板上挂着光电勾，需要先用双级跳再按住L键使用光电索的方法跳过对面。
 
-到对面后，扫描开关打开屏障，再消灭掉几只残余的海盗，用超级导弹轰开边上一个不透明的容器，里面可以得到一个<font color="green">导弹槽 Missile Expansion</font>。另外，这里的电脑上可以扫描到最后的海盗记录：<font color="orange">\[Pirate Data\] Special Forces</font>。
+到对面后，扫描开关打开屏障，再消灭掉几只残余的海盗，用超级导弹轰开边上一个不透明的容器，里面可以得到一个<font color="green">导弹槽 Missile Expansion</font>。另外，这里的电脑上可以扫描到最后的海盗记录：<font color="orange">【Pirate Data】 Special Forces</font>。
 
 底层的红色门后就是另人欣慰的记忆点Save Station Mines C，进去记录游戏吧。
 
@@ -2178,7 +2178,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tr>
 <td><font size="2">
 
-在开战前，就可以扫描巨大容器里的终极海盗：<font color="red">\[Creatures\] Omega Pirate</font>。接近之后，战斗开始。<br>
+在开战前，就可以扫描巨大容器里的终极海盗：<font color="red">【Creatures】 Omega Pirate</font>。接近之后，战斗开始。<br>
 
 先来关注一下战场的地形，很宽广，但有3堆Phazon物质，走到上面是会损失体力的要小心点。这个巨大号BOSS有3种攻击方式，在离它很近时，它会挥拳攻击，很难躲开。在中距离时，它会双手锤地发动地震攻击，可跳跃躲开，这是最佳攻击范围。在远距离时，它会连续发射追踪导弹，被命中后体力损失惨重。所以保持中距离战斗是最佳方案。<br>
 
@@ -2275,7 +2275,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td><font size="2">
 
-战斗会很激烈，还是先扫描它吧：<font color="red">\[Creatures\] Meta Ridley</font>。这个老对头。<br>
+战斗会很激烈，还是先扫描它吧：<font color="red">【Creatures】 Meta Ridley</font>。这个老对头。<br>
 
 战场是中央广场，而装甲龙BOSS由于有翅膀，它的活动空间相当大，这场战斗显得及其壮观。广场上的石柱前期可以利用作为盾牌，阻挡BOSS的攻击，但BOSS会逐渐把这些柱子毁掉，所以还是要灵活躲闪来的安全些。整个战斗分为2个阶段。<br>
 
@@ -2295,9 +2295,9 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 来到陨石坑的Crater Entry Point，旁边就是记忆点，在这里做最后的游戏记录吧。
 
-进红色门来到Crater Tunnel A，那些象小蜥蜴一样爬行的生物是新物种：<font color="orange">\[Creatures\] Lumigek</font>。地上的黄色Phazon物质踩上去是会损失体力的。
+进红色门来到Crater Tunnel A，那些象小蜥蜴一样爬行的生物是新物种：<font color="orange">【Creatures】 Lumigek</font>。地上的黄色Phazon物质踩上去是会损失体力的。
 
-到达广阔区域Phazon Core，这里又出现了一种吸血怪：<font color="orange">\[Creatures\] Fission Metroid</font>。这种怪物在遭到致命攻击后会分裂成2只不同属性的Metroid，最好的方法是先把它们吸引过来，再用超级炸弹来一击群杀。顺飞空平台跳到中央部门的红色门处。
+到达广阔区域Phazon Core，这里又出现了一种吸血怪：<font color="orange">【Creatures】 Fission Metroid</font>。这种怪物在遭到致命攻击后会分裂成2只不同属性的Metroid，最好的方法是先把它们吸引过来，再用超级炸弹来一击群杀。顺飞空平台跳到中央部门的红色门处。
 
 进入Crater Missile Station，这里是最后的导弹补给处。
 
@@ -2322,7 +2322,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td><font size="2">
 
-首先扫描留念超重量级BOSS的记录：<font color="red">\[Creatures\] Metroid Prime</font>，这也是游戏的名称，然后再开始战斗。<br>
+首先扫描留念超重量级BOSS的记录：<font color="red">【Creatures】 Metroid Prime</font>，这也是游戏的名称，然后再开始战斗。<br>
 
 战场是一个长方形区域，BOSS在对面尽头，它浑身的装甲，只有眼睛处才是弱点。BOSS会不断变换4种颜色，正好对应Samus的4种武器，只有用相应颜色的武器攻击才有效。这场战斗的战线拉的很长，几乎所有的射击武器都会派上用场，根据BOSS的颜色依次来说。<br>
 
@@ -2363,7 +2363,7 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 </td>
 </tr>
 <tr>
-<td><font size="2">此BOSS乃是最后一个扫描记录：<font color="red">\[Creatures\] Metroid Prime</font>，没错，它的名字和刚才那家伙一样，但不是同一种BOSS。强烈祝贺你的LOGBOOK 100%收集完美达成。<br>
+<td><font size="2">此BOSS乃是最后一个扫描记录：<font color="red">【Creatures】 Metroid Prime</font>，没错，它的名字和刚才那家伙一样，但不是同一种BOSS。强烈祝贺你的LOGBOOK 100%收集完美达成。<br>
 
 在这里任何普通武器的攻击对BOSS都是无效的，所以就不用浪费时间了。BOSS的攻击方式很简单，它的四条触手一抽地面会激起火焰，只要2段跳就可轻松躲过。在战斗初期，它的火焰会将周边的石柱打碎，里面有恢复100Energy的黄色能量球，如果体力不支的话一定要得到啊。它在一段时间后会突然消失，这里它消失的特点是有规律的，Samus只要在它第一次消失后，按顺序切换透视视镜-&gt;感热视镜-&gt;战斗视镜，就可以一直发现它的踪影。<br>
 

@@ -120,7 +120,7 @@ category: 游戏攻略
 
 含100%物品收集/100%扫描收集/BOSS攻略
 
-<table><tbody><tr><td>攻略字体颜色提示</td></tr><tr><td><font color="brown">棕色：关键操作</font></td></tr><tr><td><font color="blue">蓝色：重要装备</font></td></tr><tr><td><font color="green">绿色：物品收集</font></td></tr><tr><td><font color="orange">橙色：扫描记录</font></td></tr><tr><td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font>
+<table><tbody><tr><td>攻略字体颜色提示</td></tr><tr><td><font color="brown">棕色：关键操作</font></td></tr><tr><td><font color="blue">蓝色：重要装备</font></td></tr><tr><td><font color="green">绿色：物品收集</font></td></tr><tr><td><font color="orange">橙色：扫描记录</font></td></tr><tr><td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font></td></tr></tbody></table>
 
 
 ## ☆太空海盗船 Space Pirate Frigate

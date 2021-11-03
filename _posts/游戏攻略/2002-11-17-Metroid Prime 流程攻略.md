@@ -951,27 +951,20 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在球通道Chapel Tunnel中，需要用炸弹将2棵挡路的石柱拦腰炸掉即可通过。前方来到目的地Chapel Tunnel，BOSS战即将开始。
 
+### ☆Boss战：Sheegoth
+
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Sheegoth
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★☆☆☆</td>
 </tr>
 <tr>
 <td>推荐武器：导弹/球炸弹</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0063.jpg" border="0" alt="" width="320" height="240">
@@ -1097,27 +1090,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 穿过Quarantine Access，再穿过球通道North Quarantine Tunnel，这里最好用冲击球快速躲过敌人的炸弹攻击。接着来到大战场Quarantine Cave，BOSS战开始。
 
+### ☆Boss战：Thardus
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Thardus
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★☆☆</td>
 </tr>
 <tr>
 <td>推荐武器：感热视镜/超级导弹/光弹枪</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0071.jpg" border="0" alt="" width="320" height="240">
@@ -1395,27 +1380,20 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 穿过Dynamo Access，在这里深吸一口气，这场漫长的旅途就要告一段落了，希望Samus的体力还有剩余，进入下一个区域Central Dynamo后，一场奇特的BOSS战就要开始了。
 
+### ☆Boss战：幻影战机
+
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：幻影战机
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★☆☆☆</td>
 </tr>
 <tr>
 <td>推荐武器：光弹枪/R键锁定</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0083.jpg" border="0" alt="" width="320" height="240">
@@ -1539,47 +1517,12 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 返回Great Tree Hall，走中央的白色门，穿过Transport Tunnel D，乘电梯前往遗迹世界，需要在这里中转一下。穿过Transport Access South，又来到Reflecting Pool。进白色门到Save Station 3，记录一下游戏，继续乘电梯回到森林世界的Transport to Chozo Ruins East。
 
-这里的路以前走过了，首先返回飞船着陆点Landing Site记录游戏，然后穿过Root Cave，从那里乘电梯前往熔岩世界。</td>
-</tr></tbody></table>
-
-
-</div>
-<div id="comment_9343" class="cm">
-</div>
-
-<div id="post_rate_div_9343"></div>
-</div>
-</div>
-
-</td>
-</tr>
-
-<tr>
-
-
-</tr>
-
+这里的路以前走过了，首先返回飞船着陆点Landing Site记录游戏，然后穿过Root Cave，从那里乘电梯前往熔岩世界。
 
 
 </tbody></table>
 
 
-</div><div id="post_9344"><table id="pid9344" class="plhin" summary="pid9344" cellspacing="0" cellpadding="0">
-
-<tbody>
-
-<tr>
-
-
-	
-<td class="plc">
-<div class="pct"><div class="pcb">
-<div class="t_fsz">
-<table cellspacing="0" cellpadding="0">
-<tbody>
-
-<tr>
-<td class="t_f" id="postmessage_9344">
 ### ☆熔岩世界 Magmoor Cavern
 
 出电梯走左边的门，穿过Twin Fire等区域，因为已经有了光电索，所以旅途会顺畅一些，继而来到此行的目的地Geothermal Core。

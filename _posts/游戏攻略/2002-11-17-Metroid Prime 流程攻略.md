@@ -390,8 +390,6 @@ category: 游戏攻略
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0017.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0" alt="" width="320" height="240"></td>
 </tr>
-<tr>
-<td>
 <tr><td><font size="2">
 第一场BOSS战是非常简单的，主要是掌握一下战斗的基本技巧。首先要按L键锁定敌人，然后就可以配合左摇杆边移动边攻击了。想躲避敌人的攻击，就在锁定移动时按B键，即可快速的跳跃闪开敌人的攻击。这是最基本要点，从这里就开始掌握吧。
 

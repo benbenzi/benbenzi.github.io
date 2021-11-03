@@ -96,7 +96,7 @@ category: 游戏攻略
 
 ## ★系统说明
 
-### ☆基本操作说明：
+### ☆基本操作说明
 
 <table><tbody><tr><td><font color="brown">按键</font></td><td><font color="brown">第一视点操作(人)</font></td><td><font color="brown">第三视点操作(球)</font></td><td><font color="brown">地图状态</font></td></tr><tr><td><font color="blue">左摇杆</font></td><td>移动</td><td>移动</td><td>旋转地图</td></tr><tr><td><font color="blue">十字键上</font></td><td>切换为战斗视镜</td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键左</font></td><td>切换为扫描视镜</td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键右</font></td><td><font color="red">切换为透视视镜</font></td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键下</font></td><td><font color="red">切换为感热视镜</font></td><td>--</td><td>--</td></tr><tr><td><font color="blue">A键</font></td><td>射击/按住为蓄力射击</td><td><font color="red">放置炸弹(最多3个)</font></td><td>切换为世界地图/局部地图</td></tr><tr><td><font color="blue">B键</font></td><td>跳跃/<font color="red">按2次为两段跳</font></td><td><font color="red">按住并放开为冲击球</font></td><td>退出地图状态</td></tr><tr><td><font color="blue">C键上</font></td><td>切换为光弹枪</td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键左</font></td><td><font color="red">切换为火焰枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键右</font></td><td><font color="red">切换为电磁枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键下</font></td><td><font color="red">切换为冰冻枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">X键</font></td><td>切换为球状态</td><td>切换为人状态</td><td>--</td></tr><tr><td><font color="blue">Y键</font></td><td><font color="red">发射导弹</font>/<font color="red">按住A蓄力后再按为发射超级导弹</font></td><td><font color="red">放置超级炸弹</font></td><td>切换按键提示</td></tr><tr><td><font color="blue">Z键</font></td><td>查看地图</td><td>查看地图</td><td>退出地图状态</td></tr><tr><td><font color="blue">L键</font></td><td>扫描/锁定敌人或目标/<font color="red">发射光电索</font></td><td>切换视角或方向</td><td>地图缩小</td></tr><tr><td><font color="blue">R键</font></td><td>配合左摇杆按住为移动视角</td><td><font color="red">按住为蜘蛛球状态</font></td><td>地图放大</td></tr><tr><td><font color="blue">START键</font></td><td>暂停/查看装备和选项</td><td>暂停/查看装备和选项</td><td>--</td></tr><tr><td colspan="4"><font color="blue">注意</font>：以上标注为<font color="red">红色</font>的内容是需要得到相应的装备后才能操作使用</td></tr></tbody></table>
 
@@ -120,7 +120,7 @@ category: 游戏攻略
 
 含100%物品收集/100%扫描收集/BOSS攻略
 
-<table><tbody><tr><td>攻略字体颜色提示</td></tr><tr><td><font color="brown">棕色：关键操作</font></td></tr><tr><td><font color="blue">蓝色：重要装备</font></td></tr><tr><td><font color="green">绿色：物品收集</font></td></tr><tr><td><font color="orange">橙色：扫描记录</font></td></tr><tr><td><font color="red">红色：有限次扫描记录（全部错过就没有了）
+<table><tbody><tr><td>攻略字体颜色提示</td></tr><tr><td><font color="brown">棕色：关键操作</font></td></tr><tr><td><font color="blue">蓝色：重要装备</font></td></tr><tr><td><font color="green">绿色：物品收集</font></td></tr><tr><td><font color="orange">橙色：扫描记录</font></td></tr><tr><td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font>
 
 
 ## ☆太空海盗船 Space Pirate Frigate

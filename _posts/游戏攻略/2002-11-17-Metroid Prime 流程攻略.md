@@ -764,7 +764,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </font>
 </td></tr>
 </tbody></table>
-</td>
+
 
 胜利后取得重要装备：<font color="blue">抗热铠甲 Varia Suit</font>。这身铠甲会自动替换掉Samus以前的铠甲，它拥有更高的防御力，而且可以进入温度较高的地带。
 
@@ -1006,7 +1006,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 光弹枪和导弹对它的攻击都是无效的，它背上的防御能将一切攻击化解，那怎么办呢？自然是变成球，用球炸弹去炸它的肚子和腿了，注意保持体力不要损失过于严重，然后就找机会滚到它身下放炸弹吧，若干回合后就可以消灭它。
 
-战斗结束之前不要忘记扫描记录，冰雪宝贝们的家长名叫：<font color="red">[Creatures] Sheegoth</font>
+战斗结束之前不要忘记扫描记录，冰雪宝贝们的家长名叫：<font color="red">[Creatures] Sheegoth</font></font>
 </td></tr>
 </tbody></table>
 
@@ -1146,7 +1146,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在破坏掉一个能量源之后，需要再次切换到感热视镜寻找BOSS身上的下一个能量源，然后按此方式干掉它的四肢，肩膀上的能量源，最后胸口上最后的能量源就会出现，最后的时间就利用一切武器无情的解决它即可。
 
-战斗结束之前不要忘记扫描记录，石头巨人的真身是：<font color="red">[Creatures] Thardus</font>
+战斗结束之前不要忘记扫描记录，石头巨人的真身是：<font color="red">[Creatures] Thardus</font></font>
 </td></tr>
 </tbody></table>
 

@@ -165,7 +165,7 @@ category: 游戏攻略
 <td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font></td></tr></tbody></table>
 
 
-## ☆太空海盗船 Space Pirate Frigate
+### ☆太空海盗船 Space Pirate Frigate
 
 女主角Samus接到Tallon IV星球上空有不明飞船的消息，驾驶Gunship来到这个空间站。这是一艘太空海盗船，但是静的出奇，好象没有一点防御准备。
 
@@ -293,7 +293,7 @@ category: 游戏攻略
 <tr>
 <td>
 
-## ☆Boss战：Parasite Queen
+### ☆Boss战：Parasite Queen
 </td></tr>
 <tr>
 <td>难度：★☆☆☆☆</td></tr>
@@ -329,7 +329,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 好吧，其实这时候游戏才正式开始。Samus降落在Tallon IV星球的Landing Site上，这是一个充满野生气息的世界，但由于污染，很多物种都变异了。这里是一个重要的枢纽，有很多通路。先别着急，回头扫描自己的飞船：<font color="orange">[Research] Gunship</font>做个记录。跳到飞船舱门上可以完全回复Samus的体力和弹药，所以要充分利用它。现在摆在眼前的路虽多，但可以走的只有眼前一条。
 
 <table>
@@ -348,7 +348,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 通过Transport Tunnel A来到Transport to Chozo Ruins West，扫描这里的开关就会启动电梯，乘电梯即可来到另一个世界，鸟人族的遗迹Chozo Ruins。这种电梯是在各个世界中来回移动的装置，在地图上会用E来表示。
 
 
-## ☆遗迹世界 Chozo Ruins
+### ☆遗迹世界 Chozo Ruins
 出门，在Ruins Entrance里消灭沙地中的怪物，在前方的门上会看到奇怪的好象水波纹的图案，那是另一种扫描记录收集：<font color="orange">[Chozo Lore] Fountain</font>，里面记载着鸟人族的文化和历史，以后遇到就统统的扫描吧，也许可以了解不少背景知识呢。
 
 来到一个重要的枢纽地带Main Plaza，左前方可以看到一扇红灰色的门：<font color="red">[Research] Missile Door Lock</font>，只能用导弹才能打开，但现在导弹武器不见了，先扫描记录吧，全部打开以后这个记录就无法收集了。走到尽头进入左下方的门。
@@ -375,7 +375,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tr>
 <td>
 
-## ☆Boss战：Hive Mecha
+### ☆Boss战：Hive Mecha
 </td></tr>
 <tr>
 <td>难度：★★☆☆☆</td></tr>
@@ -441,7 +441,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 穿过弯曲的通道Ruined Shrine Access，来到Ruined Shrine。看到远处的宝贝了吧？刚刚跳下平台，BOSS就来袭了。
 
-## ☆Boss战：Plated Beetle
+### ☆Boss战：Plated Beetle
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
 <tbody>
@@ -532,7 +532,7 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 一直呈球状态通过Burn Dome Access，你会发现已经没有退路了。前方的Burn Dome就是BOSS战的区域了。
 
-## ☆Boss战：Incinerator Drone
+### ☆Boss战：Incinerator Drone
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
 <tbody>
@@ -605,7 +605,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tr>
 <td>
 
-## ☆Boss战：Flaahgra
+### ☆Boss战：Flaahgra
 
 </td></tr>
 <tr>
@@ -653,7 +653,7 @@ Vault Access要靠球形态通过。
 继续前进，通过Plaza Access来到Plaza的上层取得一个<font color="green">能量槽 Energy Tank</font>，不要掉下去，然后即可返回Transport to Magmoor Caverns North启动电梯前往Magmoor Caverns了。
 
 
-## ☆熔岩世界 Magmoor Caverns
+### ☆熔岩世界 Magmoor Caverns
 来到熔岩世界，进入Burning Trail区域，又是一个自由落体运动到下层，这里喷出的热气会干扰Samus的视线，变成球状态可以避免。进入导弹门，里面是记忆点，稍做休息吧。休息后继续前进，遇到小个头的硬壳怪物：<font color="orange">[Creatures] Grizby</font>，只有导弹可以消灭掉，当然也可以无视它。
 
 来到Lake Tunnel区域，地面上开始出现大片的熔岩，掉下去是会损失体力的。这里有一种钻地的怪物：<font color="orange">[Creatures] Burrower</font>，只有当它飞出地面时攻击才有效。
@@ -671,7 +671,7 @@ Vault Access要靠球形态通过。
 前方就是Transport to Phendrana Drifts North，通往冰雪世界的电梯了。
 
 
-## ☆冰雪世界 Phendrana Drifts
+### ☆冰雪世界 Phendrana Drifts
 
 来到冰雪世界Phendrana Drifts，这温差变化太强烈了，刚刚还是热炎滚滚，一转眼就冰雪皑皑了……
 
@@ -720,7 +720,7 @@ Plaza Walkway里全是那些埋在地下的虫子怪：<font color="red">[Creatu
 一直返回Shoreline Entrance，突然看到翼龙Ridley巨大的身影一闪而过！……还好，不是BOSS战。记录一下游戏继续返回吧，下一个目的地在飞船降落点附近，离这里还远着呢。
 
 
-## ☆熔岩世界 Magmoor Caverns
+### ☆熔岩世界 Magmoor Caverns
 先乘电梯回到Magmoor Caverns，穿过Transport Tunnel A，回到枢纽区域Monitor Station。为了避免旅途枯燥，这次走一条新路线返回。进入下方一扇未曾去过的门。
 
 Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火装置。
@@ -732,7 +732,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 终于来到Transport to Tallon Overworld West，启动这里的电梯，就可以返回Tallon Overworld了。
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 出电梯，进门来到Transport Tunnel B，看到一座浓烟滚滚的石桥，烟是无害的，在桥底下可以取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 接着来到Root Cave，顺着树干和滴水的石台爬上去，这里可以看到红色的刺猬状怪物：<font color="orange">[Creatures] Geemer</font>，目前的武器暂时无法对付。跳到中层平台上进入导弹门。
@@ -782,7 +782,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 接下来需要前往冰雪世界继续冒险，你还记得回去的路吗？路还真是挺长的……先从这里返回Landing Site，回飞船补给一下，然后前往Tallon Canyon，顺上层平台前往Root Cave，落到最底层进门乘电梯返回Magmoor Caverns。因为有了双级跳，所以路途会减少很多，大胆的跳吧，肯定比你想像的跳的远。
 
 
-## ☆熔岩世界 Magmoor Caverns
+### ☆熔岩世界 Magmoor Caverns
 下电梯后继续走原路，回到Monitor Station，这里会有点小收获。走到长桥上，会看到左方有一个小平台，跳上去再跳到上层长桥，到中央平台，看到一个象帽子一样的装置：<font color="orange">[Research] Spinner</font>，这个是冲击装置，变成球进入后用冲击球的方法即可操作它，3次冲击以后旁边会升起一座新的桥梁，走过去跳到对面悬崖，顺着边上走到尽头进门。
 
 来到Warrior Shrine中，从巨大的雕像手中取得重要物品：<font color="blue">第二神器 Artifact of Strength</font>。
@@ -801,7 +801,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 返回Monitor Station，穿过Transport Tunnel A乘电梯前往冰雪世界。
 
 
-## ☆冰雪世界 Phendrana Drifts
+### ☆冰雪世界 Phendrana Drifts
 来到Shoreline Entrance，先去记录一下游戏。然后，看到空中漂浮的平台了吧？因为有了双级跳的能力，所以可以从悬崖边的高台上跳到空中平台上去了，然后再一个超远端双级跳跳到对面神殿前的空中平台上，到达对岸，进门。
 
 穿过Temple Entryway，躲过那些电磁怪物。
@@ -820,7 +820,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr>
 <td>
 
-## ☆Boss战：Sheegoth
+### ☆Boss战：Sheegoth
 
 </td></tr>
 <tr>
@@ -948,7 +948,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr>
 <td>
 
-## ☆Boss战：Thardus
+### ☆Boss战：Thardus
 
 </td></tr>
 <tr>
@@ -989,7 +989,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 穿过South Quarantine Tunnel的球通道，来到Transport to Magmoor Caverns South，记住这里的磁轨，将来要回来的。然后从这里乘电梯前往Magmoor Caverns。
 
 
-## ☆熔岩世界 Magmoor Caverns
+### ☆熔岩世界 Magmoor Caverns
 终于离开了冰雪世界返回熔岩世界的Transport to Phendrana Drifts South，这里回身的导弹门后是记忆点，进入记录游戏。然后从前门返回，这一带以前还没有来过呢。
 
 穿过有很躲喷活装置的Transport Tunnel C，这里变成球可以快速通过。
@@ -1009,7 +1009,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 最后来到Transport to Tallon Overworld West，从这里乘电梯前往Tallon Overworld吧。然后，穿过Tallon Canyon，再从Transport to Chozo Ruins West的电梯前往Chozo Ruins。
 
 
-## ☆遗迹世界 Chozo Ruins
+### ☆遗迹世界 Chozo Ruins
 首先，到达Main Plaza以后，用超级导弹轰掉这里的大树中央的枝干，然后从旁边的台阶上跳进去可以得到一个<font color="green">导弹槽 Missile Expansion</font>。然后前方有个U型台看到了吧？用冲击球到达在右上方的缺口内可以得到一个<font color="green">导弹槽 Missile Expansion</font>。然后，到上层，进门。
 
 一直来到Ruined Fountain，变成球跳进喷泉里按住R键，喷泉会把球喷到上方磁轨上，顺磁轨爬行到尽头可以取得一个<font color="green">导弹槽 Missile Expansion</font>。
@@ -1063,7 +1063,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 从这里的球通道进入，来到Transport to Tallon Overworld East，乘电梯前往Tallon Overworld。
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 出电梯，穿过Transport Tunnel C，白色门都需要冰冻枪打开，那种红色的怪物暂时无法对付。
 
 来到Overgrown Cavern，这里需要变成球通过树丛，在红色毒草中央可以得到一个<font color="green">导弹槽 Missile Expansion</font>。
@@ -1075,7 +1075,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 路途很远，简述一下：穿过Root Cave来到Transport to Magmoor Caverns East，在这里乘坐电梯前往Magmoor Caverns。进左首门，穿过Geothermal Core和Magmoor Workstation，来到Transport to Phendrana Drifts South，在这里记录一下游戏，然后乘电梯前往Phendrana Drifts。
 
 
-## ☆冰雪世界 Phendrana Drifts
+### ☆冰雪世界 Phendrana Drifts
 来到Transport to Magmoor Caverns South，下了电梯就可以看到磁轨，蜘蛛球上爬，进入白色门。
 
 穿过Transport Access可以看到冰层后面有个好东西，但现在还得不到它，暂时路过。
@@ -1119,7 +1119,7 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 回到Transport to Magmoor Caverns South，从这里乘电梯前往Magmoor Caverns。下一个目的地就是沉没的海盗船，位于Tallon Overworld，好长的旅途啊。回去的路就跟来这里的路相同，先把目标定位飞船降落点Landing Site吧。
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 在飞船处记录补给一下，然后穿过Waterfall Cavern区域。
 
 来到Frigate Crash Site，需要从水中走到对岸，从水中的树干处可以跳到水中高台处，那里得到一个<font color="green">导弹槽 Missile Expansion</font>。然后继续前进，有一处洞穴需要变成球通过到达对岸，进入沉没船的白色门就隐藏在箱子后面。
@@ -1159,7 +1159,7 @@ Reactor Access里可以记录游戏。这里需要切换成感热视镜启动2�
 最后来到Transport to Phazon Mines East，乘电梯前往海盗云集危机重重的矿坑世界Phazon Mines吧。
 
 
-## ☆矿坑世界 Phazon Mines
+### ☆矿坑世界 Phazon Mines
 穿过Quarry Access通道，来到了矿坑世界的重要枢纽Main Quarry，远处可以看到黄色屏障门前有2挺机枪，是新式敌人：<font color="orange">[Creatures] Mega Turret</font>，外壳硬的很，需要3枚导弹才能干掉。左方的磁轨爬上去就会来到记忆点Save Station Mines A，需要扫描一下门口的开关才能进入，记录游戏吧，后面的挑战越来越困难了。
 
 回到Main Quarry，先顺阶梯来到上层，会惊动吊车下的海盗群，全部消灭掉它们。走到吊车下方的圆形平台旁边，切换为感热视镜会看到一个电磁装置，启动它以后上方玻璃操作室的电脑就启动了。进入操作室扫描电脑，吊车的吊臂开始移动，并且撞碎了墙壁。这时可以从吊车的吊梁处沿磁轨爬上去到尽头，在撞碎的墙壁内取得一个<font color="green">导弹槽 Missile Expansion</font>。
@@ -1218,7 +1218,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tr>
 <td>
 
-## ☆Boss战：幻影战机
+### ☆Boss战：幻影战机
 
 </td></tr>
 <tr>
@@ -1287,7 +1287,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 结果回到了枢纽区域Main Quarry的高台上，先扫描左方的开关让吊车移动过来，这样以后就可以从这里的光电勾快速进入矿坑深部了。然后进入附近的记忆点记录一下游戏吧，接下来又要返回森林世界了，去揭开那里最后的秘密。
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 乘电梯返回Transport to Phazon Mines East，穿过Transport Tunnel E。
 
 回到Great Tree Hall，一直向上行，穿过曾经用冲击装置打开的栅栏，来到顶层有螺旋型磁轨的地方，用蜘蛛球爬上去，这里需要一点小技巧，就是在磁轨上先松开R键让球掉落到下方磁轨，再按住R键，然后继续上爬到达白色门处进入。
@@ -1368,7 +1368,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 <tr>
 <td class="t_f" id="postmessage_9344">
-## ☆熔岩世界 Magmoor Cavern
+### ☆熔岩世界 Magmoor Cavern
 出电梯走左边的门，穿过Twin Fire等区域，因为已经有了光电索，所以旅途会顺畅一些，继而来到此行的目的地Geothermal Core。
 
 首先跳到对面去，悬崖边有2个平台，跳上去会看到光电勾，可以荡到圆形平台上，平台上有冲击装置，进入用冲击球启动它，就会象拧螺丝一样把圆形平台的位置提高，跳到更高的圆形平台重复这一过程，直到最后一个圆形平台提升上去后，需要从磁轨爬到此平台的上层，再跳到最高的平台，启动那里的爆破装置，整个天花板都会移动上去，露出大片的磁轨群。这里就需要蜘蛛球爬行了，在磁轨上要灵活运用炸弹跳和飞离到其他磁轨的技巧，还要躲过磁轨上的爬虫，注意有一个坡道需要按住R滚下去，以便在尽头抓住新磁轨。最后来到白色门前。
@@ -1391,7 +1391,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 然后，直接前往附近的记忆点Save Station Magmoor B去记录游戏吧，再得到这把武器之后，游戏的自由度已经几乎提升到最高，接下来可以直接前往矿坑世界迎接更艰难的挑战，也可以跟着本文一起，提前进行一场全世界的寻宝之旅，首先要找到隐藏在世界各地的神器，再把所有的宝物都搜刮过来之后，再去那危机重重的地方。你的抉择是什么呢？不管那么多了，现在寻宝活动正式开始，首先从Transport to Phendrana Drifts South乘电梯前往冰雪世界。
 
 
-## ☆冰雪世界 Phendrana Drifts
+### ☆冰雪世界 Phendrana Drifts
 乘电梯来到Transport to Magmoor Caverns South之后，爬磁轨上去，来到Transport Access，用火焰枪射击冰墙，即可融化它从里面得到一个<font color="green">能量槽 Energy Tank</font>。
 
 继续前进到Frozen Pike，用光电索勾住空中移动的平台跳到对面最高处，抬头可以看到一块圆锥石，用导弹轰下来后，石头会砸碎下面的冰层，即可进入水下取得一个<font color="green">导弹槽 Missile Expansion</font>。
@@ -1464,7 +1464,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 到此，冰雪世界的宝物已被搜刮一空，从Transport to Magmoor Caverns West彻底离开这个鬼地方吧！
 
 
-## ☆熔岩世界 Magmoor Caverns
+### ☆熔岩世界 Magmoor Caverns
 来到熔岩世界的Transport to Phendrana Drifts North，首先前往Monitor Station，跳到最上层，用冲击球启动长桥，继续来到以前取得过神器的地方Warrior Shrine，在雕像前用超级炸弹可以炸开地板，落下来到Fiery Shores上层的隐藏房间，从里面取得一个<font color="green">超级炸弹槽 Power Bomb Expansion</font>。
 
 进入玻璃通道的Shore Tunnel，这里的玻璃通道可以用超级炸弹炸碎，从下层平台上可得到隐藏武器：<font color="blue">冰冻导弹 Ice Spreader</font>。有了它即可发射冰冻枪的超级导弹。
@@ -1501,7 +1501,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins North前往遗迹世界去那里继续搜刮吧。
 
 
-## ☆遗迹世界 Chozo Ruins
+### ☆遗迹世界 Chozo Ruins
 来到Transport to Magmoor Caverns North，首先前往Sun Tower，消灭这里的蚊子群之后，又要寻找4个封印标志，以解除封锁磁轨的封印门，位置如下：
 
 <table>
@@ -1617,7 +1617,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 搞定，遗迹世界的宝物已经尽数收入囊中。下一步可以前往矿坑世界了。穿过Reflecting Pool，从Transport to Tallon Overworld South乘电梯前往森林世界，穿过Great Tree Hall，从底部进入Transport to Phazon Mines East乘坐电梯，就可以继续矿坑世界的冒险了。
 
 
-## ☆矿坑世界 Phazon Mines
+### ☆矿坑世界 Phazon Mines
 首先去Save Station Mines A记录一下游戏，然后继续沿原来冒险的路线走，虽然是同一条路线，但装备充足后，这次的收获可是非常大哦。
 
 首先来到Security Access A，一进门左边的铁墙壁可以用超级炸弹炸开，里面得到一个<font color="green">导弹槽 Missile Expansion</font>。
@@ -1698,7 +1698,7 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tr>
 <td>
 
-## ☆Boss战：Omega Pirate
+### ☆Boss战：Omega Pirate
 
 </td></tr>
 <tr>
@@ -1761,7 +1761,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 最终来到了Transport to Magmoor Caverns South，可以乘电梯永远离开这里了！下一个目的地不用说你也知道，该前往鸟人神庙了。到达熔岩世界后，中途有一段玻璃通道需要用超级炸弹炸开障碍，然后一直前往世界中部的Transport to Tallon Overworld West，回到游戏的起点吧。
 
 
-## ☆森林世界 Tallon Overworld
+### ☆森林世界 Tallon Overworld
 下了电梯，前往Root Cave，用光电索跳到上层，用透视视镜可以看到隐藏平台，并且还可以看到墙壁上的树丛后可以跳入并取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 继续跳到最高层，进入红色门来到Arbor Chamber，在这里取得最后一个<font color="green">导弹槽 Missile Expansion</font>。另外也要强烈祝贺你，目前物品收集率已经达到100%了！
@@ -1782,7 +1782,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td>
 
-## ☆Boss战：Meta Ridley
+### ☆Boss战：Meta Ridley
 
 </td></tr>
 <tr>
@@ -1808,7 +1808,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 消灭Ridley之后，看守12神器的鸟人灵魂出现，它们共同打开了广场中央通往碰撞中心的通道。走到中央喷泉处就会进入。
 
 
-## ☆陨石坑 Impact Crater
+### ☆陨石坑 Impact Crater
 
 
 来到陨石坑的Crater Entry Point，旁边就是记忆点，在这里做最后的游戏记录吧。
@@ -1835,7 +1835,7 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td>
 
-## ☆Boss战：Metroid Prime
+### ☆Boss战：Metroid Prime
 
 </td></tr>
 <tr>
@@ -1879,7 +1879,7 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 <tr>
 <td>
 
-## ☆Boss战：Metroid Prime
+### ☆Boss战：Metroid Prime
 
 </td></tr>
 <tr>
@@ -1902,7 +1902,7 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 </td></tr></tbody></table>
 
 
-## ☆The End
+### ☆The End
 
 
 祝贺通关，放下手柄看Ending吧，结尾曲是非常动听的。假如你的物品收集率大于75%的话就可以看到Samus的真正面貌，物品收集率达到100%的话就可以收看隐藏结局。意尤未尽的话可以继续挑战Hard模式，或者开始Metroid Prime 2的全新旅程吧。

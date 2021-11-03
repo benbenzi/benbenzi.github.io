@@ -546,10 +546,10 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></td></tr>
-
+<tr><td><font size="2">
 首先登场的是一群以前碰到过的土行孙，只是数量很多，一个一个锁定干掉吧，用导弹攻击可以群灭。消灭他们有可能会得到紫色回复球，体力渐低的话一定要得到。全部消灭后，正牌BOSS登场，是一只长着厚甲壳的土行孙。它的攻击方式很简单，就是挑衅加冲刺，锁定B跳可闪开。它的弱点在红PP上，需要用锁定B跳尽快跳到它身后去，用导弹当然是威力十足，用光弹枪的话就会稍稍浪费些时间，不过并不难干掉它。
 
-战斗结束之前不要忘记扫描记录，BOSS土行孙的真正面貌是：<font color="red">[Creatures] Plated Beetle</font>
+战斗结束之前不要忘记扫描记录，BOSS土行孙的真正面貌是：<font color="red">[Creatures] Plated Beetle</font></font>
 </td>
 </tr></tbody></table>
 
@@ -643,8 +643,6 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tbody>
 
 <tr>
-<td>
-<tr>
 <td>难度：★★☆☆☆</td>
 </tr>
 <tr>
@@ -660,6 +658,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">[Creatures] Incinerator Drone</font>，而绿色的飞虫是：<font color="red">[Creatures] Barbed War Wasp</font>
 </td>
 </tr></tbody></table>
+
 胜利后取得重要装备：<font color="blue">球炸弹 Morph Ball Bomb</font>。球炸弹可以炸开部分障碍以及使用炸弹跳技巧。
 
 <table>
@@ -712,27 +711,19 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 在Sunchamber Access的尽头处有2个箱子，打碎它们可能会出现终极回复球：<font color="orange">[Research] Ultra Energy</font>，可以回复100格体力。在这里做好准备吧，进入Sunchamber以后就要迎接一场高级BOSS战了。
 
+### ☆Boss战：Flaahgra
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Flaahgra
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★☆☆</td>
 </tr>
 <tr>
 <td>推荐武器：导弹/光弹枪攻击/球炸弹</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0049.jpg" border="0" alt="" width="320" height="240">
@@ -748,7 +739,7 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </font>
 </td>
 </tr></tbody></table></td>
-</tr></tbody></table>
+
 胜利后取得重要装备：<font color="blue">抗热铠甲 Varia Suit</font>。这身铠甲会自动替换掉Samus以前的铠甲，它拥有更高的防御力，而且可以进入温度较高的地带。
 
 <table>

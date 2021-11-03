@@ -675,10 +675,11 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tr><td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></td></tr>
+
 <tr><td><font size="2">
 BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根据火焰的高低可以跳跃或闪避躲开。它的弱点在间歇冒出来的红灯的头部，一旦出现后最好立刻锁定用导弹干掉。这是BOSS会将火焰向上喷射，上方是虫子巢，着火后大量的绿色飞虫飞来袭击Samus，可干掉也可无视，只要连续3次把火焰喷射器的头部打爆，这场战斗就胜利结束了。
 
-战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">[Creatures] Incinerator Drone</font>，而绿色的飞虫是：<font color="red">[Creatures] Barbed War Wasp</font>
+战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">[Creatures] Incinerator Drone</font>，而绿色的飞虫是：<font color="red">[Creatures] Barbed War Wasp</font>。</font>
 </td></tr>
 </tbody></table>
 

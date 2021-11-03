@@ -441,24 +441,17 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 穿过弯曲的通道Ruined Shrine Access，来到Ruined Shrine。看到远处的宝贝了吧？刚刚跳下平台，BOSS就来袭了。
 
+## ☆Boss战：Plated Beetle
+
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
 <tbody>
 
 <tr>
 <td>
-  <table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
-<td>
-
-## ☆Boss战：Plated Beetle
-
-</td></tr>
 <tr>
 <td>难度：★★☆☆☆</td></tr>
 <tr>
-<td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+<td>推荐武器：导弹/光弹枪攻击</td></tr>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></div>
@@ -539,23 +532,17 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 一直呈球状态通过Burn Dome Access，你会发现已经没有退路了。前方的Burn Dome就是BOSS战的区域了。
 
+## ☆Boss战：Incinerator Drone
+
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-## ☆Boss战：Incinerator Drone
-
-</td></tr>
 <tr>
 <td>难度：★★☆☆☆</td></tr>
 <tr>
-<td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+<td>推荐武器：导弹/光弹枪攻击</td></tr>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></div>

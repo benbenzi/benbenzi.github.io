@@ -20,29 +20,149 @@ category: 游戏攻略
 
 ### ☆基本操作说明
 
-<table><tbody><tr><td><font color="brown">按键</font></td><td><font color="brown">第一视点操作(人)</font></td><td><font color="brown">第三视点操作(球)</font></td><td><font color="brown">地图状态</font></td></tr><tr><td><font color="blue">左摇杆</font></td><td>移动</td><td>移动</td><td>旋转地图</td></tr><tr><td><font color="blue">十字键上</font></td><td>切换为战斗视镜</td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键左</font></td><td>切换为扫描视镜</td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键右</font></td><td><font color="red">切换为透视视镜</font></td><td>--</td><td>--</td></tr><tr><td><font color="blue">十字键下</font></td><td><font color="red">切换为感热视镜</font></td><td>--</td><td>--</td></tr><tr><td><font color="blue">A键</font></td><td>射击/按住为蓄力射击</td><td><font color="red">放置炸弹(最多3个)</font></td><td>切换为世界地图/局部地图</td></tr><tr><td><font color="blue">B键</font></td><td>跳跃/<font color="red">按2次为两段跳</font></td><td><font color="red">按住并放开为冲击球</font></td><td>退出地图状态</td></tr><tr><td><font color="blue">C键上</font></td><td>切换为光弹枪</td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键左</font></td><td><font color="red">切换为火焰枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键右</font></td><td><font color="red">切换为电磁枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">C键下</font></td><td><font color="red">切换为冰冻枪</font></td><td>--</td><td>移动地图</td></tr><tr><td><font color="blue">X键</font></td><td>切换为球状态</td><td>切换为人状态</td><td>--</td></tr><tr><td><font color="blue">Y键</font></td><td><font color="red">发射导弹</font>/<font color="red">按住A蓄力后再按为发射超级导弹</font></td><td><font color="red">放置超级炸弹</font></td><td>切换按键提示</td></tr><tr><td><font color="blue">Z键</font></td><td>查看地图</td><td>查看地图</td><td>退出地图状态</td></tr><tr><td><font color="blue">L键</font></td><td>扫描/锁定敌人或目标/<font color="red">发射光电索</font></td><td>切换视角或方向</td><td>地图缩小</td></tr><tr><td><font color="blue">R键</font></td><td>配合左摇杆按住为移动视角</td><td><font color="red">按住为蜘蛛球状态</font></td><td>地图放大</td></tr><tr><td><font color="blue">START键</font></td><td>暂停/查看装备和选项</td><td>暂停/查看装备和选项</td><td>--</td></tr><tr><td colspan="4"><font color="blue">注意</font>：以上标注为<font color="red">红色</font>的内容是需要得到相应的装备后才能操作使用</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td><font color="brown">按键</font></td><td><font color="brown">第一视点操作(人)</font></td><td><font color="brown">第三视点操作(球)</font></td><td><font color="brown">地图状态</font></td></tr>
+<tr>
+<td><font color="blue">左摇杆</font></td><td>移动</td><td>移动</td><td>旋转地图</td></tr>
+<tr>
+<td><font color="blue">十字键上</font></td><td>切换为战斗视镜</td><td>--</td><td>--</td></tr>
+<tr>
+<td><font color="blue">十字键左</font></td><td>切换为扫描视镜</td><td>--</td><td>--</td></tr>
+<tr>
+<td><font color="blue">十字键右</font></td><td><font color="red">切换为透视视镜</font></td><td>--</td><td>--</td></tr>
+<tr>
+<td><font color="blue">十字键下</font></td><td><font color="red">切换为感热视镜</font></td><td>--</td><td>--</td></tr>
+<tr>
+<td><font color="blue">A键</font></td><td>射击/按住为蓄力射击</td><td><font color="red">放置炸弹(最多3个)</font></td><td>切换为世界地图/局部地图</td></tr>
+<tr>
+<td><font color="blue">B键</font></td><td>跳跃/<font color="red">按2次为两段跳</font></td><td><font color="red">按住并放开为冲击球</font></td><td>退出地图状态</td></tr>
+<tr>
+<td><font color="blue">C键上</font></td><td>切换为光弹枪</td><td>--</td><td>移动地图</td></tr>
+<tr>
+<td><font color="blue">C键左</font></td><td><font color="red">切换为火焰枪</font></td><td>--</td><td>移动地图</td></tr>
+<tr>
+<td><font color="blue">C键右</font></td><td><font color="red">切换为电磁枪</font></td><td>--</td><td>移动地图</td></tr>
+<tr>
+<td><font color="blue">C键下</font></td><td><font color="red">切换为冰冻枪</font></td><td>--</td><td>移动地图</td></tr>
+<tr>
+<td><font color="blue">X键</font></td><td>切换为球状态</td><td>切换为人状态</td><td>--</td></tr>
+<tr>
+<td><font color="blue">Y键</font></td><td><font color="red">发射导弹</font>/<font color="red">按住A蓄力后再按为发射超级导弹</font></td><td><font color="red">放置超级炸弹</font></td><td>切换按键提示</td></tr>
+<tr>
+<td><font color="blue">Z键</font></td><td>查看地图</td><td>查看地图</td><td>退出地图状态</td></tr>
+<tr>
+<td><font color="blue">L键</font></td><td>扫描/锁定敌人或目标/<font color="red">发射光电索</font></td><td>切换视角或方向</td><td>地图缩小</td></tr>
+<tr>
+<td><font color="blue">R键</font></td><td>配合左摇杆按住为移动视角</td><td><font color="red">按住为蜘蛛球状态</font></td><td>地图放大</td></tr>
+<tr>
+<td><font color="blue">START键</font></td><td>暂停/查看装备和选项</td><td>暂停/查看装备和选项</td><td>--</td></tr>
+<tr>
+<td colspan="4"><font color="blue">注意</font>：以上标注为<font color="red">红色</font>的内容是需要得到相应的装备后才能操作使用</td></tr></tbody></table>
 
 ### ☆特殊操作说明:这些操作经常用到，最好掌握它们
 
-<table ><tbody><tr><td><font color="brown">操作名称</font></td><td><font color="brown">状态</font></td><td colspan="2"><font color="brown">操作方法</font></td></tr><tr><td><font color="blue">扫描</font></td><td>人</td><td colspan="2">切换为扫描视镜后对目标按住L键</td></tr><tr><td><font color="blue">锁定移动</font></td><td>人</td><td colspan="2">按住L键锁定目标后按左摇杆可以围绕目标移动</td></tr><tr><td><font color="blue">快速躲闪</font></td><td>人</td><td colspan="2">锁定移动过程中快速按2次B键</td></tr><tr><td><font color="blue">炸弹跳</font></td><td>球</td><td colspan="2">按A键炸弹爆炸后球会跳起，这时按左摇杆可以在空中移动方向</td></tr><tr><td><font color="blue">冲击球</font></td><td>球</td><td colspan="2">在圆台上移动时按住B键并放开就可以冲上圆台/反复冲击即可冲得更高</td></tr><tr><td><font color="blue">双炸弹跳</font></td><td>球</td><td>放第一个炸弹，弹起前一瞬间放第2个炸弹，跳到空中最高点时放第3个炸弹。这个操作可以跳到2个炸弹的高度</td><td>它不是必需的，但是想要100%收集的话就必须要学会</td></tr><tr><td><font color="blue">三炸弹跳</font></td><td>球</td><td colspan="2">似乎没有ING^^</td></tr></tbody></table>
+<table >
+<tbody>
+
+<tr>
+<td><font color="brown">操作名称</font></td><td><font color="brown">状态</font></td><td colspan="2"><font color="brown">操作方法</font></td></tr>
+<tr>
+<td><font color="blue">扫描</font></td><td>人</td><td colspan="2">切换为扫描视镜后对目标按住L键</td></tr>
+<tr>
+<td><font color="blue">锁定移动</font></td><td>人</td><td colspan="2">按住L键锁定目标后按左摇杆可以围绕目标移动</td></tr>
+<tr>
+<td><font color="blue">快速躲闪</font></td><td>人</td><td colspan="2">锁定移动过程中快速按2次B键</td></tr>
+<tr>
+<td><font color="blue">炸弹跳</font></td><td>球</td><td colspan="2">按A键炸弹爆炸后球会跳起，这时按左摇杆可以在空中移动方向</td></tr>
+<tr>
+<td><font color="blue">冲击球</font></td><td>球</td><td colspan="2">在圆台上移动时按住B键并放开就可以冲上圆台/反复冲击即可冲得更高</td></tr>
+<tr>
+<td><font color="blue">双炸弹跳</font></td><td>球</td><td>放第一个炸弹，弹起前一瞬间放第2个炸弹，跳到空中最高点时放第3个炸弹。这个操作可以跳到2个炸弹的高度</td><td>它不是必需的，但是想要100%收集的话就必须要学会</td></tr>
+<tr>
+<td><font color="blue">三炸弹跳</font></td><td>球</td><td colspan="2">似乎没有ING^^</td></tr></tbody></table>
 
 ### ☆常见设施说明：查看地图就可以知道这些设施的重要性
 
-<table><tbody><tr><td><font color="brown">地点</font></td><td><font color="brown">地图标志</font></td><td><font color="brown">说明</font></td></tr><tr><td><font color="blue">电梯</font></td><td>E</td><td>乘坐电梯可到达其他区域</td></tr><tr><td><font color="blue">武器补充点</font></td><td>M</td><td>补充全部武器</td></tr><tr><td><font color="blue">记忆点</font></td><td>S</td><td>游戏记录/恢复全部体力</td></tr><tr><td><font color="blue">游戏提示</font></td><td>？</td><td>无目的的漫游一段时间后就会出现游戏提示，告诉你下一步应该去哪里</td></tr><tr><td><font color="blue">兰色门</font></td><td><font color="skyblue">■</font></td><td>用任意枪打开</td></tr><tr><td><font color="blue">紫色门</font></td><td><font color="purple">■</font></td><td>用电磁枪打开</td></tr><tr><td><font color="blue">白色门</font></td><td><font color="white">■</font></td><td>用冰冻枪打开</td></tr><tr><td><font color="blue">红色门</font></td><td><font color="red">■</font></td><td>用火焰枪打开</td></tr><tr><td><font color="blue">灰色门</font></td><td><font color="gray">■</font></td><td>用导弹打开</td></tr><tr><td colspan="3"><font color="blue">注意</font>：灰色门只要打开一次以后就会变成兰色门</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td><font color="brown">地点</font></td><td><font color="brown">地图标志</font></td><td><font color="brown">说明</font></td></tr>
+<tr>
+<td><font color="blue">电梯</font></td><td>E</td><td>乘坐电梯可到达其他区域</td></tr>
+<tr>
+<td><font color="blue">武器补充点</font></td><td>M</td><td>补充全部武器</td></tr>
+<tr>
+<td><font color="blue">记忆点</font></td><td>S</td><td>游戏记录/恢复全部体力</td></tr>
+<tr>
+<td><font color="blue">游戏提示</font></td><td>？</td><td>无目的的漫游一段时间后就会出现游戏提示，告诉你下一步应该去哪里</td></tr>
+<tr>
+<td><font color="blue">兰色门</font></td><td><font color="skyblue">■</font></td><td>用任意枪打开</td></tr>
+<tr>
+<td><font color="blue">紫色门</font></td><td><font color="purple">■</font></td><td>用电磁枪打开</td></tr>
+<tr>
+<td><font color="blue">白色门</font></td><td><font color="white">■</font></td><td>用冰冻枪打开</td></tr>
+<tr>
+<td><font color="blue">红色门</font></td><td><font color="red">■</font></td><td>用火焰枪打开</td></tr>
+<tr>
+<td><font color="blue">灰色门</font></td><td><font color="gray">■</font></td><td>用导弹打开</td></tr>
+<tr>
+<td colspan="3"><font color="blue">注意</font>：灰色门只要打开一次以后就会变成兰色门</td></tr></tbody></table>
 
 ### ☆常见物品说明：消灭敌人后就可以获得
 
-<table><tbody><tr><td><font color="brown">物品名称</font></td><td><font color="brown">形状描述</font></td><td><font color="brown">用途</font></td></tr><tr><td><font color="blue">紫色能量球</font></td><td>紫色小球</td><td>回复10 ENERGY</td></tr><tr><td><font color="blue">红色能量球</font></td><td>红色小球</td><td>回复20 ENERGY</td></tr><tr><td><font color="blue">黄色能量球</font></td><td>黄色小球</td><td>回复100 ENERGY</td></tr><tr><td><font color="blue">导弹补给</font></td><td>导弹形状</td><td>补充5颗导弹</td></tr><tr><td><font color="blue">超级炸弹补给</font></td><td>超级炸弹形状</td><td>补充1颗超级炸弹</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td><font color="brown">物品名称</font></td><td><font color="brown">形状描述</font></td><td><font color="brown">用途</font></td></tr>
+<tr>
+<td><font color="blue">紫色能量球</font></td><td>紫色小球</td><td>回复10 ENERGY</td></tr>
+<tr>
+<td><font color="blue">红色能量球</font></td><td>红色小球</td><td>回复20 ENERGY</td></tr>
+<tr>
+<td><font color="blue">黄色能量球</font></td><td>黄色小球</td><td>回复100 ENERGY</td></tr>
+<tr>
+<td><font color="blue">导弹补给</font></td><td>导弹形状</td><td>补充5颗导弹</td></tr>
+<tr>
+<td><font color="blue">超级炸弹补给</font></td><td>超级炸弹形状</td><td>补充1颗超级炸弹</td></tr></tbody></table>
 
 ### ☆能力提升系物品说明：隐藏在游戏各个角落中
 
-<table><tbody><tr><td><font color="brown">物品名称</font></td><td><font color="brown">英文名称</font></td><td><font color="brown">用途</font></td></tr><tr><td><font color="blue">导弹槽</font></td><td>Missile Expansion</td><td>提升导弹数量5</td></tr><tr><td><font color="blue">能量槽</font></td><td>Energy Tank</td><td>提升体力100</td></tr><tr><td><font color="blue">超级炸弹槽</font></td><td>Power Bomb Expansion</td><td>提升超级炸弹数量1</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td><font color="brown">物品名称</font></td><td><font color="brown">英文名称</font></td><td><font color="brown">用途</font></td></tr>
+<tr>
+<td><font color="blue">导弹槽</font></td><td>Missile Expansion</td><td>提升导弹数量5</td></tr>
+<tr>
+<td><font color="blue">能量槽</font></td><td>Energy Tank</td><td>提升体力100</td></tr>
+<tr>
+<td><font color="blue">超级炸弹槽</font></td><td>Power Bomb Expansion</td><td>提升超级炸弹数量1</td></tr></tbody></table>
 
 ## ★流程攻略
 
 含100%物品收集/100%扫描收集/BOSS攻略
 
-<table><tbody><tr><td>攻略字体颜色提示</td></tr><tr><td><font color="brown">棕色：关键操作</font></td></tr><tr><td><font color="blue">蓝色：重要装备</font></td></tr><tr><td><font color="green">绿色：物品收集</font></td></tr><tr><td><font color="orange">橙色：扫描记录</font></td></tr><tr><td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font></td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td>攻略字体颜色提示</td></tr>
+<tr>
+<td><font color="brown">棕色：关键操作</font></td></tr>
+<tr>
+<td><font color="blue">蓝色：重要装备</font></td></tr>
+<tr>
+<td><font color="green">绿色：物品收集</font></td></tr>
+<tr>
+<td><font color="orange">橙色：扫描记录</font></td></tr>
+<tr>
+<td><font color="red">红色：有限次扫描记录（全部错过就没有了）</font></td></tr></tbody></table>
 
 
 ## ☆太空海盗船 Space Pirate Frigate
@@ -51,21 +171,39 @@ category: 游戏攻略
 
 首先，了解一下第一特色系统：<font color="brown">锁定（LOCK ON）</font>，按住L键即可锁定目标，前方的门上有4个红灯，一一锁定以后按A键射击即可全部变绿，通道打开。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0001.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0002.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>锁定：用于锁定目标及攻击敌人</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0002.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>锁定：用于锁定目标及攻击敌人</td></tr></tbody></table>
 
 接下来了解游戏的另一个重要系统：<font color="brown">扫描（SCAN）</font>，先按十字键左切换到扫描视镜，然后荧幕中央会出现扫描视窗，可扫描的物体会呈现橙色或红色的图示，红色的表示重要目标。对准目标按住L键即可进行扫描，扫描进度条满之后即成功。这里有一个兰色的圆形装置，扫描它即可启动旁边门上的6个开关。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0003.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0004.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>扫描：用于启动开关和记录收集</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0004.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>扫描：用于启动开关和记录收集</td></tr></tbody></table>
 
 下面就该了解<font color="brown">调整视角</font>寻找目标了，6个开关有2个在上方，需要先按住R键再按左摇杆来进行锁定，把6个开关全部射击成绿色，通道打开。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0005.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0006.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>调整视角：用于查看周边情况以及寻找视野外的目标</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0006.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>调整视角：用于查看周边情况以及寻找视野外的目标</td></tr></tbody></table>
 
 按B键可跳跃，最后进入飞船内部前可以看到兰色门，用普通的光弹枪射击即可打开门。
 
@@ -73,27 +211,51 @@ category: 游戏攻略
 
 来到Emergency Evacuation Area，走下阶梯后会看到几只虫子在撕咬海盗的尸体，从这里就要开始了解游戏重要的收集系统：<font color="brown">记录（LOGBOOK）</font>了。切换成扫描视镜，对准虫子进行扫描，成功后它的资料就会被记录到LOGBOOK中去。游戏中的敌人，生物，设施，文化都可以扫描记录，达成不同的扫描率在通关后就可以开启相应的隐藏要素。本区域扫描记录：<font color="red">[Creatures] Parasite</font>，这个虫子在这几个区域忘记扫描以后就碰不到了，所以一定要扫描记录以后再消灭它。后面可随时扫描的记录用橙色表示，有限制次数的扫描记录用红色表示，假如你想挑战100%扫描，那么从这里就该开始了。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0007.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0008.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>扫描记录：用于收集游戏中的重要物品扫描资讯</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0008.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>扫描记录：用于收集游戏中的重要物品扫描资讯</td></tr></tbody></table>
 
 进门来到Deck Alpha Umbilical Hall，通道中间被杂物挡住了，需要使用<font color="brown">蓄力攻击 Charge Beam</font>干掉，方法是武器为普通光弹枪时按住A键，在枪口能量聚集后松开A键即可使用强力攻击。这个攻击不仅威力大，而且可以将周围消灭敌人后留下的战利品吸过来，所以要多加利用啊。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0009.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0010.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>蓄力攻击：强力攻击以及吸收附近的补给品</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0010.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>蓄力攻击：强力攻击以及吸收附近的补给品</td></tr></tbody></table>
 
 进入Map Facility，会看到几只小昆虫从一个洞中爬了进去。这个入口太小，只能了解怎么使用<font color="brown">变形球 Morphball</font>了。按X键即可让Samus变成球状态，这时会切换成第三视角，用左摇杆即可操作球移动，按A键可以放置炸弹，炸弹不会伤害Samus。再按X键即可切换回Samus的主视角状态。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0011.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0012.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>变形球：通过一些狭窄区域，以及使用球炸弹</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0012.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>变形球：通过一些狭窄区域，以及使用球炸弹</td></tr></tbody></table>
 
 变成球后进入小通道，出来后可以看到一个全息装置，走过去即可获得本飞行船的<font color="brown">地图</font>，按Z键即可查看地图以及了解一些重要位置的所在地，假如你是路痴的话就经常查看地图吧。。本区域扫描记录：<font color="red">[Research] Map Station</font>，就是这个地图装置，注意如果全部区域的地图都取得以后，就无法收集这个扫描记录了，所以尽早扫描是正经。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0013.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0014.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>地图：查看地图可以知道已去过和未去过的冒险区域，还可以获得目的地提示</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0014.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>地图：查看地图可以知道已去过和未去过的冒险区域，还可以获得目的地提示</td></tr></tbody></table>
 
 返回后继续前进到Connection Elevator to Deck Beta，扫描这里的开关后可以乘电梯来到上层。
 
@@ -109,16 +271,34 @@ category: 游戏攻略
 
 来到Recator Core Entrance，消灭掉2挺机枪后，先进左方有3个红灯的门，里面是可<font color="brown">记录游戏进度</font>的地方：<font color="orange">[Research] Save Station</font>。走上前去即可记录目前为止的游戏进度，在地图上是用“S”来表示的，如果觉得旅途很凶险，就多多记录吧。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0015.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0016.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>记录游戏进度：保存游戏的同时也会恢复Samus的全部体力</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0016.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>记录游戏进度：保存游戏的同时也会恢复Samus的全部体力</td></tr></tbody></table>
 
 保存记录后回来，扫描装置打开新的球型全息装置，变成球启动它打开大门，前方的Recator Core，第一场练手型的Boss战即将开始。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Parasite Queen
-</td></tr><tr><td>难度：★☆☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★☆☆☆☆</td></tr>
+<tr>
+<td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0017.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0" alt="" width="320" height="240"></div>
@@ -137,18 +317,30 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 走过管型通道后，Samus遭遇史上最可怕爆炸，鼎鼎大名的银河女战士居然全身装备都被损坏了，只剩下无法蓄力的光弹枪可用。没时间想那么多，赶快走吧，时间所剩无几。终于回到出口后，Samus在爆炸前一瞬间乘坐自己的小飞船直追Ridley而去。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0019.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0020.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>夙敌：Samus Vs Ridley</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0020.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>夙敌：Samus Vs Ridley</td></tr></tbody></table>
 
 
 
 ## ☆森林世界 Tallon Overworld
 好吧，其实这时候游戏才正式开始。Samus降落在Tallon IV星球的Landing Site上，这是一个充满野生气息的世界，但由于污染，很多物种都变异了。这里是一个重要的枢纽，有很多通路。先别着急，回头扫描自己的飞船：<font color="orange">[Research] Gunship</font>做个记录。跳到飞船舱门上可以完全回复Samus的体力和弹药，所以要充分利用它。现在摆在眼前的路虽多，但可以走的只有眼前一条。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0021.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0022.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>广阔的冒险世界，以及Samus的补给飞船</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0022.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>广阔的冒险世界，以及Samus的补给飞船</td></tr></tbody></table>
 穿过门进入Canyon Cavern，前面的沙地上会钻出新怪物：<font color="orange">[Creatures] Beetle</font>，用普通武器光弹枪可轻易消灭。
 
 后面是Tallon Canyon，墙上挂着的橙色圆形植物：<font color="orange">[Creatures] Sap Sac</font>不会主动攻击，相反打掉它倒会成为炸弹协助Samus炸伤周边的怪物。前方高台上移动着的带刺的灰白色怪物：<font color="orange">[Creatures] Zoomer</font>可用光弹枪消灭。一直从底层走向前方进门。
@@ -173,10 +365,22 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 接下来路面开始变得倾斜，颇有遗迹的味道。进入Hive Totem后，终于看到Samus遗失的导弹了，可是刚一上前，桥面就伸缩回去，四周开始喷洒毒水，BOSS战即将开始。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Hive Mecha
-</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪攻击</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★☆☆☆</td></tr>
+<tr>
+<td>推荐武器：光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0023.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0024.jpg" border="0" alt="" width="320" height="240"></div>
@@ -191,19 +395,45 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 胜利后桥梁打开，在尽头取得重要装备<font color="blue">导弹 Missile Launcher</font>。正好前面就有一扇红灰色门，来发一枚导弹将其打开吧。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0025.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0026.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">导弹 Missile Launcher</font></td></tr><tr><td>使用方法：</td><td>按Y键发射</td></tr><tr><td>功能：</td><td>锁定发射导弹可以追踪敌人，威力更强大，可以打开灰色的导弹门</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0026.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">导弹 Missile Launcher</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按Y键发射</td></tr>
+<tr>
+<td>功能：</td><td>锁定发射导弹可以追踪敌人，威力更强大，可以打开灰色的导弹门</td></tr></tbody></table>
 进入Transport Access North，哇，中奖！眼前就是一个珍贵的<font color="green">能量槽 Energy Tank</font>，每得到一个可以提升Samus的100格体力，后期尽量收集吧。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0027.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0028.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="green">能量槽 Energy Tank</font></td></tr><tr><td>功能：</td><td>提升Samus的100格体力</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0028.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="green">能量槽 Energy Tank</font></td></tr>
+<tr>
+<td>功能：</td><td>提升Samus的100格体力</td></tr></tbody></table>
 前方的路暂时无法通行，只好沿原路返回，回到Ruined Gallery，那个毒蘑菇旁边可以看到一堵碎墙，用导弹击碎，里面隐藏着一个<font color="green">导弹槽 Missile Expansion</font>，每获得一个可以提升Samus的5颗导弹数量，当然也是要尽量收集的要素之一。另外在这里告诉你一个收集的小秘密，每当靠近有隐藏装备的区域时，就可以听见类似回声的音效，如果听到这种声音你就要好好看看周边有什么古怪了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0029.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0030.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="green">导弹槽 Missile Expansion</font></td></tr><tr><td>功能：</td><td>提升Samus的5颗导弹数量</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0030.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="green">导弹槽 Missile Expansion</font></td></tr>
+<tr>
+<td>功能：</td><td>提升Samus的5颗导弹数量</td></tr></tbody></table>
 
 这个区域还有一扇导弹门，进入后可以取得<font color="green">Chozo Ruins的地图</font>。
 
@@ -211,16 +441,28 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 穿过弯曲的通道Ruined Shrine Access，来到Ruined Shrine。看到远处的宝贝了吧？刚刚跳下平台，BOSS就来袭了。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td>
+  <table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Plated Beetle
 
-</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★☆☆☆</td></tr>
+<tr>
+<td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></div>
 
-<font size="2">
 首先登场的是一群以前碰到过的土行孙，只是数量很多，一个一个锁定干掉吧，用导弹攻击可以群灭。消灭他们有可能会得到紫色回复球，体力渐低的话一定要得到。全部消灭后，正牌BOSS登场，是一只长着厚甲壳的土行孙。它的攻击方式很简单，就是挑衅加冲刺，锁定B跳可闪开。它的弱点在红PP上，需要用锁定B跳尽快跳到它身后去，用导弹当然是威力十足，用光弹枪的话就会稍稍浪费些时间，不过并不难干掉它。
 
 战斗结束之前不要忘记扫描记录，BOSS土行孙的真正面貌是：<font color="red">[Creatures] Plated Beetle</font>
@@ -228,9 +470,19 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 
 胜利后取得重要装备<font color="blue">变形球 Morph Ball</font>，想从这里返回，就需要按X键变成球，然后从球洞里滚回去了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0033.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0034.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">变形球 Morph Ball</font></td></tr><tr><td>使用方法：</td><td>按X键变换，用左摇杆移动</td></tr><tr><td>功能：</td><td>变成球型移动，可以通过狭窄通道</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0034.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">变形球 Morph Ball</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按X键变换，用左摇杆移动</td></tr>
+<tr>
+<td>功能：</td><td>变成球型移动，可以通过狭窄通道</td></tr></tbody></table>
 然后又要一路返回Main Plaza……，这里跳上高台过桥，进门。
 
 Ruined Fountain Access要靠变成球一路滚过去。
@@ -249,16 +501,36 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 最终来到Watery Hall，石台上层是一扇封印门，需要在这个区域中找到4个封印，一一扫描以后就可以解除封印门的机关。4个封印的位置如下：
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0035.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0036.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>封印门的右边墙上</td><td>封印门的正下方墙上</td></tr><tr><td colspan="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0036.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>封印门的右边墙上</td><td>封印门的正下方墙上</td></tr>
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0037.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0038.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>一群毒气蘑菇所在的地上</td><td>入口门的旁边墙上</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0038.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>一群毒气蘑菇所在的地上</td><td>入口门的旁边墙上</td></tr></tbody></table>
 然后跳上高台扫描封印门，门打开了，里面的墙上可以扫描到：<font color="orange">[Chozo Lore] Meteor Strike</font>。当然，最重要的装备是里面的<font color="blue">蓄力枪 Charge Beam</font>。从这时起就可以按住A键发射蓄力攻击了，墙上的几只大眼珠可以用蓄力攻击消灭。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0039.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0040.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">蓄力枪 Charge Beam</font></td></tr><tr><td>使用方法：</td><td>按住A键蓄力攻击</td></tr><tr><td>功能：</td><td>威力比普通武器更强大，可以消灭特定敌人，还可以把周围的补给品吸过来</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0040.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">蓄力枪 Charge Beam</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按住A键蓄力攻击</td></tr>
+<tr>
+<td>功能：</td><td>威力比普通武器更强大，可以消灭特定敌人，还可以把周围的补给品吸过来</td></tr></tbody></table>
 使命暂时完成，可以返回Gathering Hall了。这时顺台阶一直跳到上层去，小心蝙蝠和毒蘑菇。到尽头需要变成球滚过通道，然后跳过平台进高处的门。
 
 通过East Atrium和Energy Core Access，躲过眼球怪的扫射。
@@ -267,11 +539,23 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 一直呈球状态通过Burn Dome Access，你会发现已经没有退路了。前方的Burn Dome就是BOSS战的区域了。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Incinerator Drone
 
-</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★☆☆☆</td></tr>
+<tr>
+<td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></div>
@@ -282,9 +566,19 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </td></tr></tbody></table>
 胜利后取得重要装备：<font color="blue">球炸弹 Morph Ball Bomb</font>。球炸弹可以炸开部分障碍以及使用炸弹跳技巧。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0043.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0044.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">球炸弹 Morph Ball Bomb</font></td></tr><tr><td>使用方法：</td><td>变成球后按A键放置炸弹，最多可连续放3个炸弹</td></tr><tr><td>功能：</td><td>放置炸弹可以让变形球实现炸弹跳，炸弹可以炸碎一些岩石，也可以启动爆破装置</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0044.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">球炸弹 Morph Ball Bomb</font></td></tr>
+<tr>
+<td>使用方法：</td><td>变成球后按A键放置炸弹，最多可连续放3个炸弹</td></tr>
+<tr>
+<td>功能：</td><td>放置炸弹可以让变形球实现炸弹跳，炸弹可以炸碎一些岩石，也可以启动爆破装置</td></tr></tbody></table>
 先别着急走，在这里的墙壁处就有一处挡板可用球炸弹炸开，进入通道尽头可以找到一个<font color="green">导弹包 Missile Expansion</font>。然后可以返回了。通过Burn Dome Access时要使用炸弹跳跳到上一层，方法就是放置炸弹，在爆炸的时候用左摇杆操作球的移动了。
 
 回到Energy Core就会看到一只挡路的大青蛙：<font color="orange">[Creatures] Stone Toad</font>，对付它的方法是变成球让它吞掉，然后立刻放置炸弹即可解决它，好残忍哪……进入后会看到墙上的爆破装置：<font color="red">[Research] Morph Ball Slot</font>。使用炸弹跳进入装置，再放置一颗炸弹，装置启动，大厅的毒水全部排干了，并且响起警报声，要在警报结束之前进入下方的爆破装置。从这里的洞里跳下去是一条捷径。启动第2个爆破装置后，平台升起，同样要在限制时间内顺平台走过通道，到达第3个爆破装置并启动它，那扇上锁的门就打开了，本区域的全部机关解除。
@@ -293,22 +587,44 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 下一步前往有一棵大树的区域Arboretum，需要爬上去进入顶层的封印门处，这里同样有4个封印，位置如下：
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0045.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0046.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>封印门对面的树枝上</td><td>高层一处墙上</td></tr><tr><td colspan="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0046.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>封印门对面的树枝上</td><td>高层一处墙上</td></tr>
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0047.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0048.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>下方木桥正对着的树干上</td><td>一群红色毒草的下面</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0048.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>下方木桥正对着的树干上</td><td>一群红色毒草的下面</td></tr></tbody></table>
 全部扫描后，封印门打开，用球炸弹炸开挡路的碎石，进入导弹门。
 
 在Sunchamber Lobby的红色毒草是新物种：<font color="orange">[Creatures] Venom Weed</font>，踩上去会损失体力的。
 
 在Sunchamber Access的尽头处有2个箱子，打碎它们可能会出现终极回复球：<font color="orange">[Research] Ultra Energy</font>，可以回复100格体力。在这里做好准备吧，进入Sunchamber以后就要迎接一场高级BOSS战了。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Flaahgra
 
-</td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击/球炸弹</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★☆☆</td></tr>
+<tr>
+<td>推荐武器：导弹/光弹枪攻击/球炸弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0049.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0050.jpg" border="0" alt="" width="320" height="240"></div>
@@ -324,9 +640,19 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </td></tr></tbody></table></td></tr></tbody></table>
 胜利后取得重要装备：<font color="blue">抗热铠甲 Varia Suit</font>。这身铠甲会自动替换掉Samus以前的铠甲，它拥有更高的防御力，而且可以进入温度较高的地带。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0051.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0052.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">抗热铠甲 Varia Suit</font></td></tr><tr><td>使用方法：</td><td>自动装备</td></tr><tr><td>功能：</td><td>它拥有更高的防御力，而且可以进入温度较高的地带</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0052.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">抗热铠甲 Varia Suit</font></td></tr>
+<tr>
+<td>使用方法：</td><td>自动装备</td></tr>
+<tr>
+<td>功能：</td><td>它拥有更高的防御力，而且可以进入温度较高的地带</td></tr></tbody></table>
 然后顺另一扇门离开这里，来到Sun Tower Access，有一段路在已经清洁的水下，你会感到在水下移动比较吃力。上岸后会碰到一只电力系生物：<font color="orange">[Creatures] Pulse Bombu</font>漂浮在空中放炸弹，目前还对付不了它。
 
 从Sun Tower的顶层一直落下（好高啊……），旁边的墙上可以扫描到：<font color="orange">[Chozo Lore] Contain</font>。然后离开这个鬼地方。
@@ -368,9 +694,15 @@ Vault Access要靠球形态通过。
 
 初到这里可能会很彷徨，敢问路在何方？其实就在栅栏后，有一处貌似封闭的栅栏是可以用导弹击碎的，然后变成球进入里面扫描开关，就可以打开上层关闭的门。从远处的平台上跳过去即可进入此门。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0053.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0054.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>注意观察的话，其实难题就不是很多</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0054.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>注意观察的话，其实难题就不是很多</td></tr></tbody></table>
 在Ice Ruins Access通道中，又出现一种新的电磁型敌人：<font color="orange">[Creatures] Scatter Bombu</font>，发出3道光束并不断移动，在很接近它时，Samus的视线会被严重干扰。目前暂时消灭不了它，还是变成球躲过它吧。
 
 来到Ice Ruins East，2只可怕的雪怪出现！在离远时它们会吐冰晶，被命中的话Samus会被冻住，这时要连按B键解冻，离近处的话它们会冲撞，威力还真不小啊。它们的弱点在PP上，快速移动到它们身后，3颗导弹可以解决一只，其他的攻击几乎全部无效。仔细一看，这怪物名叫<font color="orange">[Creatures] Baby Sheegoth</font>，靠啊，这么大个头还叫Baby，不知道它们的爹妈会是什么鬼样……。消灭它们之后，寻找上房的路，从房顶一层层跳过，进入另一扇门。
@@ -383,9 +715,19 @@ Plaza Walkway里全是那些埋在地下的虫子怪：<font color="red">[Creatu
 
 通过通道后来到冰雪世界的大峡谷Phendrana Canyon，在独木桥的里面墙上隐藏着<font color="orange">[Chozo Lore] The Turned</font>。而来这里的目的更为重要，在不远处可以发现扫描装置，扫描后，连续的活动平台出现，一级一级跳过去，在尽头取得重要装备：<font color="blue">冲击球 Boost Ball</font>。一路长途跋涉这么远，就是为了它呀。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0055.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0056.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">冲击球 Boost Ball</font></td></tr><tr><td>使用方法：</td><td>球状态时按住B键蓄力，再松开B键让球快速冲出</td></tr><tr><td>功能：</td><td>可以快速移动，可以冲上U型台，也可以启动冲击装置</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0056.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">冲击球 Boost Ball</font></td></tr>
+<tr>
+<td>使用方法：</td><td>球状态时按住B键蓄力，再松开B键让球快速冲出</td></tr>
+<tr>
+<td>功能：</td><td>可以快速移动，可以冲上U型台，也可以启动冲击装置</td></tr></tbody></table>
 你会发现想离开这个大峡谷，就需要使用冲击球了。峡谷就是一个U型台的形状，先用冲击球冲向一方，在落下时按住B键，球落到最低点时松开B键，冲击球会冲向另一方台的更高处，如此反复就可以越冲越高，直到落在上层平台，然后即可离开这里。
 
 一直返回Shoreline Entrance，突然看到翼龙Ridley巨大的身影一闪而过！……还好，不是BOSS战。记录一下游戏继续返回吧，下一个目的地在飞船降落点附近，离这里还远着呢。
@@ -416,9 +758,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 进入Alcove，在这里得到重要装备：<font color="blue">太空靴 Space Jump Boots</font>，它的重要功能是双级跳，从此就可以跳跃上更高的平台了。想离开这里就需要一个简单的双级跳，先来演练一下吧。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0057.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0058.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">太空靴 Space Jump Boots</font></td></tr><tr><td>使用方法：</td><td>按B键跳起后再按B键即可继续跳跃</td></tr><tr><td>功能：</td><td>双级跳可以跳上更高的平台</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0058.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">太空靴 Space Jump Boots</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按B键跳起后再按B键即可继续跳跃</td></tr>
+<tr>
+<td>功能：</td><td>双级跳可以跳上更高的平台</td></tr></tbody></table>
 回到Landing Site，在飞船后面的悬崖内部隐藏着球通道，周边被草包围着，里面可以取得一个<font color="green">导弹槽 Missile Expansion</font>。另外，既然可以高跳了，那么就前往瀑布旁边的高台，看看那扇门后面隐藏着什么吧。
 
 来到Temple Hall，这里的天花板上出现新物种：<font color="orange">[Creatures] Seeding</font>，会飞射出很多针状物体，赶快消灭它们是正经。
@@ -427,9 +779,17 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 通过Temple Lobby走廊，来到Artifact Temple，在这里的2面墙上可以扫描到：<font color="orange">[Chozo Lore] Statuary</font>和<font color="orange">[Chozo Lore] Binding</font>。继续下行，来到神器广场，在广场中央得到重要物品：<font color="blue">第一神器 Artifact of Truth</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0059.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0060.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第一神器 Artifact of Truth</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0060.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第一神器 Artifact of Truth</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 从这里可以知道，神器 Artifact是一种奇特的收集品，必须要集齐12个神器才可以打开这里的最终通道，而神器被隐藏在Tallon IV星球的各个角落中，在这里扫描立柱，可以得到其他神器的隐藏地点的情报。神器同时也是一种比较特殊的扫描收集，只要全部获得了12神器以后就相当于全部扫描了。居然还有11只神器的下落不明，只有在漫漫旅途中仔细寻找了。
 
 接下来需要前往冰雪世界继续冒险，你还记得回去的路吗？路还真是挺长的……先从这里返回Landing Site，回飞船补给一下，然后前往Tallon Canyon，顺上层平台前往Root Cave，落到最底层进门乘电梯返回Magmoor Caverns。因为有了双级跳，所以路途会减少很多，大胆的跳吧，肯定比你想像的跳的远。
@@ -440,9 +800,17 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 来到Warrior Shrine中，从巨大的雕像手中取得重要物品：<font color="blue">第二神器 Artifact of Strength</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0061.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0062.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第二神器 Artifact of Strength</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0062.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第二神器 Artifact of Strength</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 返回Monitor Station，穿过Transport Tunnel A乘电梯前往冰雪世界。
 
 
@@ -455,11 +823,23 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在球通道Chapel Tunnel中，需要用炸弹将2棵挡路的石柱拦腰炸掉即可通过。前方来到目的地Chapel Tunnel，BOSS战即将开始。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Sheegoth
 
-</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/球炸弹</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★☆☆☆</td></tr>
+<tr>
+<td>推荐武器：导弹/球炸弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0063.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0064.jpg" border="0" alt="" width="320" height="240"></div>
@@ -475,9 +855,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 胜利后取得重要装备：<font color="blue">电磁枪 Wave Beam</font>。按C键右可以切换，这把枪就是用来消灭那些电力系生物的，同时也可以打开紫色门，这样就可以前往更多的区域了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0065.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0066.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">电磁枪 Wave Beam</font></td></tr><tr><td>使用方法：</td><td>按C键右切换，按住A可蓄力攻击</td></tr><tr><td>功能：</td><td>消灭电力系生物，蓄力攻击可让敌人麻痹，打开紫色门，启动隐藏的电力开关</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0066.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">电磁枪 Wave Beam</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按C键右切换，按住A可蓄力攻击</td></tr>
+<tr>
+<td>功能：</td><td>消灭电力系生物，蓄力攻击可让敌人麻痹，打开紫色门，启动隐藏的电力开关</td></tr></tbody></table>
 从这里返回，紫色门需要用电磁枪打开。路上会碰到不少以前束手无策的电力系生物，现在都可以用电磁枪轻松干掉。注意在电磁枪蓄力攻击时会把那种漂浮在空中的怪物吸过来的，不要撞上它。
 
 回到Shoreline Entrance记录一下游戏，然后需要走上层平台通往峡谷的路，现在有了双级跳可以轻松到达，进门通过Ruins Entryway。
@@ -504,9 +894,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 收集活动过后，你会发现平台的数量也增多了，顺着平台可以跳到顶层去，在天文台最上方平台得到重要装备：<font color="blue">超级导弹 Super Missile</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0067.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0068.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">超级导弹 Super Missile</font></td></tr><tr><td>使用方法：</td><td>在使用光弹枪武器时，先按住A键蓄力，然后按Y键发射超级导弹，每颗超级导弹需要损耗5颗导弹弹药</td></tr><tr><td>功能：</td><td>威力强大，可击碎一些特殊障碍</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0068.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">超级导弹 Super Missile</font></td></tr>
+<tr>
+<td>使用方法：</td><td>在使用光弹枪武器时，先按住A键蓄力，然后按Y键发射超级导弹，每颗超级导弹需要损耗5颗导弹弹药</td></tr>
+<tr>
+<td>功能：</td><td>威力强大，可击碎一些特殊障碍</td></tr></tbody></table>
 
 可惜目前还发挥不出它的功效，先进入上层导弹门，记忆点，游戏记录。
 
@@ -528,9 +928,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 最终来到Research Core，又是一场飞行海盗与机枪乱扫的大混战，在这个光线变化强烈的环境中，你可以看到Samus的眼睛倒影在荧幕上的华丽视觉效果。将敌人全灭掉，然后分别扫描这里面3层平台上的电脑保护装置，最底层的装置的保护罩就会全部解除。取得重要装备：<font color="blue">感热视镜 Thermal Visor</font>。用十字键下切换就可以看到平时看不到的敌人和装置了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0069.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0070.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">感热视镜 Thermal Visor</font></td></tr><tr><td>使用方法：</td><td>按十字键下切换</td></tr><tr><td>功能：</td><td>在黑暗环境中可以看清环境，发现隐藏的敌人和可以用电磁枪启动的电磁开关</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0070.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">感热视镜 Thermal Visor</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按十字键下切换</td></tr>
+<tr>
+<td>功能：</td><td>在黑暗环境中可以看清环境，发现隐藏的敌人和可以用电磁枪启动的电磁开关</td></tr></tbody></table>
 想离开这里的时候会发现最上层的门电力消失了，切换为感热视镜，可以看到通道和阶梯了。周边的怪物Metroid会不断跳出来，小心攻击行事。来到顶层，会发现在门旁边有一个圆形开关，这个就是热能开关，用电磁枪即可启动它，门就可以打开了。后面类似的机关会很多，充分配合使用感热视镜与电磁枪吧。
 
 回到Research Core Access会发现新的敌人：<font color="orange">[Creatures] Sentry Drone</font>。会机枪攻击和电磁干扰，他们还会封闭当前区域的门，只有全部消灭他们之后才可以解除。
@@ -541,11 +951,23 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 穿过Quarantine Access，再穿过球通道North Quarantine Tunnel，这里最好用冲击球快速躲过敌人的炸弹攻击。接着来到大战场Quarantine Cave，BOSS战开始。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Thardus
 
-</td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：感热视镜/超级导弹/光弹枪</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★☆☆</td></tr>
+<tr>
+<td>推荐武器：感热视镜/超级导弹/光弹枪</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0071.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0072.jpg" border="0" alt="" width="320" height="240"></div>
@@ -561,9 +983,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 战斗胜利后，取得重要装备：<font color="blue">蜘蛛球 Spider Ball</font>。从此以后可以爬行磁轨了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0073.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0074.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">蜘蛛球 Spider Ball</font></td></tr><tr><td>使用方法：</td><td>变成球状态时，按住R键可以沾在磁轨上爬行</td></tr><tr><td>功能：</td><td>可以沿特殊的磁轨爬行，在磁轨上也可以放置炸弹进行炸弹跳</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0074.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">蜘蛛球 Spider Ball</font></td></tr>
+<tr>
+<td>使用方法：</td><td>变成球状态时，按住R键可以沾在磁轨上爬行</td></tr>
+<tr>
+<td>功能：</td><td>可以沿特殊的磁轨爬行，在磁轨上也可以放置炸弹进行炸弹跳</td></tr></tbody></table>
 
 这个战场周边的黄色轨道就是磁轨：<font color="orange">[Research] Magnetic Track</font>。记住使用蜘蛛球的时候要牢牢的按住R键，然后按左摇杆移动，在这个区域里，先使用炸弹跳跳上一处未靠地的磁轨，到最高处时使用炸弹跳吸住上方的环行磁轨，然后向逆时针方向移动到另一扇门那里去。
 
@@ -609,9 +1041,15 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 回头跳下大厅，可怕的鸟人鬼魂：<font color="orange">[Creatures] Chozo Ghost</font>出现，它白光一团，移动飞快，时隐时现，会发射巨大的冲击波令Samus暂时无法攻击，要小心应付了，特殊武器对它无效，假如用光弹枪攻击会陷入苦战，其实只要能在它出现时发射超级导弹命中就可一发消灭。消灭后，那尊巨大的鸟人雕像的双手开始闪光。假如你玩过SFC版银河战士的话，那幕令人激动的浑身发抖的经典场面就要开始了。跳上鸟人雕像的双手变成球，就会启动装置，雕像会将球向前方高处抛去，立刻按住R吸住上面的磁轨，爬行到尽头启动爆破装置，雕像上方出现了紫，白，红三色的装置。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0075.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0076.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>这么令人激动的时刻是要贴图留念的</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0076.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>这么令人激动的时刻是要贴图留念的</td></tr></tbody></table>
 先别忘扫描鸟人雕像后方墙上的：<font color="orange">[Chozo Lore] Hope</font>，然后顺原来落下的平台跳上去到达那三色装置处，很明显用电磁墙射击紫色装置，这个装置就打开，然后用球炸弹启动它。鸟人雕像前出现新的通道，再次跳入鸟人雕像的手中，从新通道可到达上层球通道，滚到头，先扫描门前的装置，打开这里的兰色屏障，以后就可以从下层直接跳上来了，然后进门继续前进。
 
 穿过Reflecting Pool Access。
@@ -620,9 +1058,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 在Antechamber中，就是这次旅途的目的，得到重要装备：<font color="blue">冰冻枪 Ice Beam</font>。这把枪可以打开白色门。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0077.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0078.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">冰冻枪 Ice Beam</font></td></tr><tr><td>使用方法：</td><td>按C键下切换，按住A键可蓄力攻击</td></tr><tr><td>功能：</td><td>发射冰弹，威力更强，冰弹命中可冻结敌人一段时间，配合导弹有必杀效果</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0078.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">冰冻枪 Ice Beam</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按C键下切换，按住A键可蓄力攻击</td></tr>
+<tr>
+<td>功能：</td><td>发射冰弹，威力更强，冰弹命中可冻结敌人一段时间，配合导弹有必杀效果</td></tr></tbody></table>
 返回，跳到对面平台进入导弹门，里面是记忆点Save Station 3，记录游戏休息一下吧。
 
 从这里的球通道进入，来到Transport to Tallon Overworld East，乘电梯前往Tallon Overworld。
@@ -661,9 +1109,19 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 这里是Gravity Chamber，首先会看到新的水生植物：<font color="orange">[Creatures] Aqua Reaper</font>，它们会用长长的触手攻击Samus，但挨一枪就会变老实。水里的能见度很低，不要迷路，一直走到尽头，中途会看到镶在冰层里的鱼化石和另一些水生植物，到尽头平台的凹陷处即可得到重要装备：<font color="blue">重力铠甲 Gravity Suit</font>。有了它之后在水中就可以和陆地一样拥有同样的跳跃和移动能力了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0079.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0080.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">重力铠甲 Gravity Suit</font></td></tr><tr><td>使用方法：</td><td>自动装备，替换掉当前的铠甲</td></tr><tr><td>功能：</td><td>防御力更强，在水中也可以拥有在陆地上同样的跳跃和移动能力</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0080.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">重力铠甲 Gravity Suit</font></td></tr>
+<tr>
+<td>使用方法：</td><td>自动装备，替换掉当前的铠甲</td></tr>
+<tr>
+<td>功能：</td><td>防御力更强，在水中也可以拥有在陆地上同样的跳跃和移动能力</td></tr></tbody></table>
 
 好了，慢吞吞的水下时代终于结束了，能见度也变高了。接下来可以跳上本区域的水面上，跳过浮冰，走右侧的紫色门。
 
@@ -735,9 +1193,15 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 来到Ore Processing，中央是一个可以旋转移动的巨大装置，上面有3条磁轨，但是顺序都被打乱了，需要进入旁边的一个有磁轨全息图像的爆破装置，每爆破一次，装置就会旋转90度。目前很明显是要先进入2层，把蓝色磁轨的位置调整好，调整的位置可以看旁边的图像做参考，然后顺蓝色磁轨爬向2层。再进入2层的爆破装置，把红色磁轨的位置调整好。跳到1层，顺红色磁轨爬到3层去，进白色门走人。没晕吧？
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0081.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0082.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>调整磁轨是一个很简单的任务，关键是要具备一点点观察力</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0082.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>调整磁轨是一个很简单的任务，关键是要具备一点点观察力</td></tr></tbody></table>
 
 通过Elevator Access A，变成球跳吧。
 
@@ -757,11 +1221,23 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 穿过Dynamo Access，在这里深吸一口气，这场漫长的旅途就要告一段落了，希望Samus的体力还有剩余，进入下一个区域Central Dynamo后，一场奇特的BOSS战就要开始了。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：幻影战机
 
-</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪/R键锁定</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★☆☆☆</td></tr>
+<tr>
+<td>推荐武器：光弹枪/R键锁定</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0083.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0" alt="" width="320" height="240"></div>
@@ -772,9 +1248,19 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 战斗胜利后，危险还未结束。地面上出现了一个入口，变成球进入，要从电磁线的包围中进入内部，那些类似水塘的地方用炸弹可以炸开通路，最后来到中央部分，取得重要装备：<font color="blue">超级炸弹 Power Bomb</font>。它用来炸开那些最顽固的障碍物。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0085.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0086.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">超级炸弹 Power Bomb</font></td></tr><tr><td>使用方法：</td><td>变成球状态后按Y键放置，最开始有4颗炸弹</td></tr><tr><td>功能：</td><td>超级炸弹可以炸开Bendezium物质的障碍物，对敌人有超强的杀伤力</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0086.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">超级炸弹 Power Bomb</font></td></tr>
+<tr>
+<td>使用方法：</td><td>变成球状态后按Y键放置，最开始有4颗炸弹</td></tr>
+<tr>
+<td>功能：</td><td>超级炸弹可以炸开Bendezium物质的障碍物，对敌人有超强的杀伤力</td></tr></tbody></table>
 然后，赶快进入旁边的白色门，来到记忆点Save Station Mines B，记录游戏，狠狠的休息一下吧。
 
 回到Central Dynamo，可以用超级炸弹炸开对面的挡住门的碎石，但下一个目的地不在前方，而是要回去。首先击碎附近的补给箱，可以发现补充超级炸弹的补给：<font color="orange">[Research] Power Bomb Ammo</font>，每个可以回复1颗超级炸弹数量。然后，上方可以看到很多闪着蓝光的平台，从那些平台上跳回去，通过Dynamo Access。
@@ -793,9 +1279,19 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 这里就是目的地Storage Depot B，从里面得到重要装备：<font color="blue">光电索 Grapple Beam</font>。终于又可以开始荡秋千了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0087.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0088.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">光电索 Grapple Beam</font></td></tr><tr><td>使用方法：</td><td>在有兰色图示的光电勾处按住L键即可勾住荡起，松开L键可落下</td></tr><tr><td>功能：</td><td>在有光电勾的地方荡过去到达更高地点</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0088.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">光电索 Grapple Beam</font></td></tr>
+<tr>
+<td>使用方法：</td><td>在有兰色图示的光电勾处按住L键即可勾住荡起，松开L键可落下</td></tr>
+<tr>
+<td>功能：</td><td>在有光电勾的地方荡过去到达更高地点</td></tr></tbody></table>
 
 回到Ore Processing，出门就看到光电勾：<font color="orange">[Research] Grapple Point</font>，扫描记录吧，到现在为止所有的[Research]专案都已经扫描记录过了。然后，在光电勾图示变成兰色时，按住L键荡起来，按左摇杆可以调整方向，在到达对面时松开L键即可飞到对面去，进入白色门。
 
@@ -813,15 +1309,33 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 进入Life Grove，跳下平台，得到重要装备：<font color="blue">透视视镜 X-Ray Visor</font>。这个装备可以看到所有的隐藏物品和敌人了。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0089.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0090.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">透视视镜 X-Ray Visor</font></td></tr><tr><td>使用方法：</td><td>按十字键右切换</td></tr><tr><td>功能：</td><td>可以看穿可破坏的墙壁，以及隐藏的敌人和物品</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0090.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">透视视镜 X-Ray Visor</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按十字键右切换</td></tr>
+<tr>
+<td>功能：</td><td>可以看穿可破坏的墙壁，以及隐藏的敌人和物品</td></tr></tbody></table>
 
 切换成透视视镜以后，就会发现四周的墙壁后面还有空间，使用超级炸弹可以炸开墙壁，出现Life Grove的隐藏区域。那里有个池塘，到水面下用球炸弹炸开开关，一个冲击装置就会升起。使用冲击球将水下平台旋转90度，平台就会升出水面，从里面可以取得重要物品：<font color="blue">第七神器 Artifact of Chozo</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0091.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0092.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第七神器 Artifact of Chozo</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0092.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第七神器 Artifact of Chozo</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 想要离开这里，需要从悬崖边的平台往上跳，有一处需用球通过，过了木桥后，三只鸟人鬼魂出现，用透视视镜之后就可以完全掌握它们的行踪了。全部消灭之后出口打开，继续往上跳跃来到出口处离开这个鬼地方。
 
@@ -841,7 +1355,9 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 </div>
 
 </td></tr>
+
 <tr>
+
 </tr>
 
 
@@ -850,13 +1366,21 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 
 </div><div id="post_9344"><table id="pid9344" class="plhin" summary="pid9344" cellspacing="0" cellpadding="0">
-<tbody><tr>
+
+<tbody>
+
+<tr>
+
 
 	
 <td class="plc">
 <div class="pct"><div class="pcb">
 <div class="t_fsz">
-<table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_9344">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+
+<tr>
+<td class="t_f" id="postmessage_9344">
 ## ☆熔岩世界 Magmoor Cavern
 出电梯走左边的门，穿过Twin Fire等区域，因为已经有了光电索，所以旅途会顺畅一些，继而来到此行的目的地Geothermal Core。
 
@@ -864,9 +1388,19 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 进入Plasma Processing，取得重要装备：<font color="blue">火焰枪 Plasma Beam</font>。这是最后一件标准武器了，威力十分强劲。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0093.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0094.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">火焰枪 Plasma Beam</font></td></tr><tr><td>使用方法：</td><td>按C摇杆左切换</td></tr><tr><td>功能：</td><td>威力最强，可消灭冰系怪物，可以打开红色门</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0094.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">火焰枪 Plasma Beam</font></td></tr>
+<tr>
+<td>使用方法：</td><td>按C摇杆左切换</td></tr>
+<tr>
+<td>功能：</td><td>威力最强，可消灭冰系怪物，可以打开红色门</td></tr></tbody></table>
 然后，直接前往附近的记忆点Save Station Magmoor B去记录游戏吧，再得到这把武器之后，游戏的自由度已经几乎提升到最高，接下来可以直接前往矿坑世界迎接更艰难的挑战，也可以跟着本文一起，提前进行一场全世界的寻宝之旅，首先要找到隐藏在世界各地的神器，再把所有的宝物都搜刮过来之后，再去那危机重重的地方。你的抉择是什么呢？不管那么多了，现在寻宝活动正式开始，首先从Transport to Phendrana Drifts South乘电梯前往冰雪世界。
 
 
@@ -877,24 +1411,48 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 前往Phendrana's Edge，用光电索荡过钩子来到上层，在一个挂着钩子的平台边的墙上，用透视视镜会发现墙后面隐藏着一道门，用超级炸弹炸开墙壁，进入红色门，来到Storage Cave取得重要物品：<font color="blue">第十一神器 Artifact of Spirit</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0095.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0096.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第十一神器 Artifact of Spirit</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0096.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第十一神器 Artifact of Spirit</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 回到Phendrana's Edge，继续用光电索跳到最上层，进入球通道来到Security Cave，取得一个<font color="green">超级炸弹槽 Power Bomb Expansion</font>。这个物品可以提升1颗超级炸弹所持数量。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0097.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0098.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="green">超级炸弹槽 Power Bomb Expansion</font></td></tr><tr><td>功能：</td><td>提升1颗超级炸弹所持数量</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0098.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="green">超级炸弹槽 Power Bomb Expansion</font></td></tr>
+<tr>
+<td>功能：</td><td>提升1颗超级炸弹所持数量</td></tr></tbody></table>
 顺Hunter Cave前往曾经取得重力铠甲的Gravity Chamber，跳到水面上，会看到顶部有巨大的冰锥，用火焰枪可融化掉，里面露出了光电勾，使用光电索荡到上方横梁处可得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 接下来，返回电梯处，前往取得蜘蛛球的战场Quarantine Cave，用光电索荡过平台，通过球通道进入Quarantine Monitor，从那里取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 然后直奔Ruined Countyard，记录一下游戏，接下来的旅途比较烦人，要前往Control Tower，中途需要使用感热视镜消灭N多敌人。到达后，来到一个塔的上方，炸开一堆箱子，用火焰枪融化后面的冰玻璃，透过这个视窗可以看到远处的塔。用超级导弹轰炸塔底，那塔就会倒塌，露出一个地洞，从洞里滚入在尽头即可找到重要物品：<font color="blue">第三神器 Artifact of Elder</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0099.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0100.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第三神器 Artifact of Elder</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0100.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第三神器 Artifact of Elder</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 顺旁边的塔通道离开这里，返回Ruined Countyard，继续回到Ice Ruins West，跳到对面有一个冰玻璃罩的地方，用火焰枪融化它，进入里面得到一个<font color="green">超级炸弹槽 Power Bomb Expansion</font>。
 
@@ -904,9 +1462,17 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 继续前往Chozo Ice Temple，跳到上层，还记得那个被冰冻住的鸟人雕像吗？用火焰枪融化冰，然后变成球跳到雕像手中，就会启动开关，从鸟人雕像的下方进入通道取得重要物品：<font color="blue">第九神器 Artifact of Sun</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0101.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0102.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第九神器 Artifact of Sun</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0102.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第九神器 Artifact of Sun</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 到此，冰雪世界的宝物已被搜刮一空，从Transport to Magmoor Caverns West彻底离开这个鬼地方吧！
 
@@ -916,16 +1482,34 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 进入玻璃通道的Shore Tunnel，这里的玻璃通道可以用超级炸弹炸碎，从下层平台上可得到隐藏武器：<font color="blue">冰冻导弹 Ice Spreader</font>。有了它即可发射冰冻枪的超级导弹。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0103.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0104.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">冰冻导弹 Ice Spreader</font></td></tr><tr><td>使用方法：</td><td>在冰冻枪状态时，按住A键蓄力后再按Y键发射，一枚冰冻导弹需要消耗10颗导弹弹药</td></tr><tr><td>功能：</td><td>威力巨大的冰冻攻击，可以冻结一切敌人</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0104.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">冰冻导弹 Ice Spreader</font></td></tr>
+<tr>
+<td>使用方法：</td><td>在冰冻枪状态时，按住A键蓄力后再按Y键发射，一枚冰冻导弹需要消耗10颗导弹弹药</td></tr>
+<tr>
+<td>功能：</td><td>威力巨大的冰冻攻击，可以冻结一切敌人</td></tr></tbody></table>
 接着前往Triclops Pit区域，用透视视镜可以看到在中央石柱内隐藏着宝物，用超级导弹轰开石柱，然后顺着隐藏平台跳过去，注意平台是会逐渐下沉的，所以要快点跳，到达石柱内部取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
 下一站是Lava Lake熔岩湖，用球炸弹炸开障碍到达湖的另一侧，同样用透视视镜会看到中央石柱是空心的，用超级导弹炸开，跳过去取得重要物品：<font color="blue">第八神器 Artifact of Nature</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0105.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0106.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第八神器 Artifact of Nature</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0106.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第八神器 Artifact of Nature</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins North前往遗迹世界去那里继续搜刮吧。
 
@@ -933,19 +1517,37 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 ## ☆遗迹世界 Chozo Ruins
 来到Transport to Magmoor Caverns North，首先前往Sun Tower，消灭这里的蚊子群之后，又要寻找4个封印标志，以解除封锁磁轨的封印门，位置如下：
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0107.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0108.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>用超级导弹轰开两边墙上的图腾后面</td></tr><tr><td>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0108.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>用超级导弹轰开两边墙上的图腾后面</td></tr>
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0109.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0110.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>两棵石柱的顶部</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0110.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>两棵石柱的顶部</td></tr></tbody></table>
 
 然后沿磁轨上爬，要小心中途移动的怪物，而那些突出的磁轨块需要使用炸弹跳跳上去，磁轨块炸一次就会粉碎，所以不要失误啊一次成功。
 
 穿过Sun Tower Access，来到与巨大螳螂决斗的战场Sunchamber，3只鸟人鬼魂出现，全部消灭它们之后，即可在中央花朵上取得重要物品：<font color="blue">第四神器 Artifact of Wild</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0111.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0112.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第四神器 Artifact of Wild</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0112.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第四神器 Artifact of Wild</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 途径Arboretum前往Ruined Fountain，从那扇未曾进入过的门来到Meditation Fountain继续前进。
 
@@ -965,17 +1567,35 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 来到Tower of Light，跳到水面下有通道，到达Tower Chamber里取得重要物品：<font color="blue">第五神器 Artifact of Lifegiver</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0113.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0114.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第五神器 Artifact of Lifegiver</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0114.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第五神器 Artifact of Lifegiver</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 回到Tower of Light，这里高层还有秘密，首先跳上一层平台，就可以看到四周有裂纹的柱子，用超级导弹轰击裂纹处，上层整个平台就会坠落一层，然后可以跳到更高层。这里出现新物种：<font color="orange">[Creatures] Oculus</font>，这种生物爬在裂纹柱上会反弹一切攻击，所以使用超级导弹的时候要躲开它发射。另外四周墙壁上会发射出：<font color="orange">[Creatures] Plated Puffer</font>，喷毒物的妖怪，无视它好了。 
 
 跳到上层后继续轰炸裂纹柱，总共有12棵柱子，需要消耗60枚导弹，注意导弹的残量。最后跳到最高层平台，取得隐藏武器：<font color="blue">电磁导弹 Wavebuster</font>。有了它即可发射连续追踪敌人的的超级电磁导弹。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0115.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0116.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">电磁导弹 Wavebuster</font></td></tr><tr><td>使用方法：</td><td>在电磁枪状态时，按住A键蓄力后再按Y键发射，电磁导弹发射时会不断的消耗导弹弹药</td></tr><tr><td>功能：</td><td>威力巨大的电磁攻击，可以连续发射及追踪敌人</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0116.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">电磁导弹 Wavebuster</font></td></tr>
+<tr>
+<td>使用方法：</td><td>在电磁枪状态时，按住A键蓄力后再按Y键发射，电磁导弹发射时会不断的消耗导弹弹药</td></tr>
+<tr>
+<td>功能：</td><td>威力巨大的电磁攻击，可以连续发射及追踪敌人</td></tr></tbody></table>
 
 然后可以返回Main Plaza了，继续前往Ruined Nursery，墙上有球通道，先从下方通道进入炸开障碍，再从上方通道进入到尽头取得一个<font color="green">导弹槽 Missile Expansion</font>。
 
@@ -995,9 +1615,17 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 然后继续跳上平台用火焰枪射击红色开关，启动爆破装置。鸟人雕像开始移动，它身后露出了新的通道，从白色门进入下方，取得重要物品：<font color="blue">第十神器 Artifact of World</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0117.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0118.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第十神器 Artifact of World</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0118.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第十神器 Artifact of World</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 搞定，遗迹世界的宝物已经尽数收入囊中。下一步可以前往矿坑世界了。穿过Reflecting Pool，从Transport to Tallon Overworld South乘电梯前往森林世界，穿过Great Tree Hall，从底部进入Transport to Phazon Mines East乘坐电梯，就可以继续矿坑世界的冒险了。
 
@@ -1009,17 +1637,35 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 进入Mine Security Station，一路消灭敌兵走到顶层之后，又会看到铁栅栏门，用超级炸弹炸掉，扫描里面的电脑，即可打开下层红色门前的屏障，然后返回进入红色门到Storage Depot A，得到最后一把隐藏武器：<font color="blue">火焰导弹 Flamethrower</font>。这是一把用熊熊火焰把敌人烧至渣的究级武器。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0119.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0120.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">火焰导弹 Flamethrower</font></td></tr><tr><td>使用方法：</td><td>在火焰枪状态时，按住A键蓄力后再按Y键发射，火焰导弹发射时会不断的消耗导弹弹药</td></tr><tr><td>功能：</td><td>威力巨大的火焰攻击，可以连续发射及追踪敌人</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0120.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">火焰导弹 Flamethrower</font></td></tr>
+<tr>
+<td>使用方法：</td><td>在火焰枪状态时，按住A键蓄力后再按Y键发射，火焰导弹发射时会不断的消耗导弹弹药</td></tr>
+<tr>
+<td>功能：</td><td>威力巨大的火焰攻击，可以连续发射及追踪敌人</td></tr></tbody></table>
 
 3把隐藏武器都得到后，还得说一下它们的缺点，就是释放时太浪费导弹弹药了，所以可持续性不是很强，要真正到值得利用的时候再使用它。
 
 下一步穿过Security Access B，来到大厅Elite Research，要与大厅中央的那个试管里的巨型海盗决一死战。不过必须用超级炸弹炸开试管，这是特殊敌人，别忘了先扫描它：<font color="red">[Creatures] Phazon Elite</font>，用Phazon物质强化过的巨型海盗，它的攻击方式与普通的巨型海盗完全相同，只是攻击力和体力都要更强一些而已，好在战场很宽广，所以还是趁它无防御的时候用几颗超级导弹消灭它吧。消灭它之后，即可得到重要物品：<font color="blue">第六神器 Artifact of Warrior</font>。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0121.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0122.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">第六神器 Artifact of Warrior</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0122.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">第六神器 Artifact of Warrior</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 接下来的一段旅途比较枯燥，继续前进，通过Ore Processing，走中层的白色门，乘电梯前往矿坑世界的第2层，穿过Elite Control，在Dynamo Access处又会遭遇巨型海盗的袭击。消灭它后继续来到以前得到超级炸弹的地方，在这里的记忆点记录游戏稍做休息吧。
 
@@ -1055,11 +1701,23 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 前方乃是Elite Quarters，假如你一直觉得BOSS战不够过瘾的话，那么一场货真价实的决战就要在此展开了。准备好了吗？
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Omega Pirate
 
-</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/透视视镜</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★★☆</td></tr>
+<tr>
+<td>推荐武器：火焰枪/超级导弹/透视视镜</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0123.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0124.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1077,17 +1735,35 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 战斗胜利后，终极海盗轰然倒下并且推倒了Samus……，它身上的Phazon物质全部融化，最后竟然强化了Samus的铠甲，这时就取得了最后的重要装备：<font color="blue">终极铠甲 Phazon Suit</font>，这身黑油油的外装真是帅呆了。同时Samus还获得了一件隐藏武器，要在最终决战时才能显示它的威力。
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0125.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0126.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得装备：</td><td><font color="blue">终极铠甲 Phazon Suit</font></td></tr><tr><td>使用方法：</td><td>自动装备，替换掉重力铠甲</td></tr><tr><td>功能：</td><td>防御力最高，不怕Phazon物质的伤害，还可以在高浓度Phazon物质上发射Phazon弹</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0126.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得装备：</td><td><font color="blue">终极铠甲 Phazon Suit</font></td></tr>
+<tr>
+<td>使用方法：</td><td>自动装备，替换掉重力铠甲</td></tr>
+<tr>
+<td>功能：</td><td>防御力最高，不怕Phazon物质的伤害，还可以在高浓度Phazon物质上发射Phazon弹</td></tr></tbody></table>
 
 接下来先回Save Station Mines C记录下游戏，放松一下紧张情绪。然后继续返回，一路上因为新的铠甲不再受Phazon的侵害，所以会很轻松的。
 
 一直回到曾经路过的球通道Phazon Mining Tunnel，可以深入底层了，中途的一些挡路石块用球炸弹炸开，在最下方终于得到最后的重要物品：<font color="blue">最终神器 Artifact of Newborn</font>。至此，12神器已经全部收集到手了，终于可以去迎接最后的挑战了！
 
-<table><tbody><tr><td colspan="2">
+<table>
+<tbody>
+
+<tr>
+<td colspan="2">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0127.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0128.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>获得物品：</td><td><font color="blue">最终神器 Artifact of Newborn</font></td></tr><tr><td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0128.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr>
+<td>获得物品：</td><td><font color="blue">最终神器 Artifact of Newborn</font></td></tr>
+<tr>
+<td>功能：</td><td>打开通向陨石坑的十二神器之一</td></tr></tbody></table>
 
 然后，再回到与终极海盗决战的战场Elite Quarters，扫描右方的装置启动电梯，来到上层，走红色门。
 
@@ -1109,11 +1785,23 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 来到Artifact Temple广场中央时，十二神器会自动归位元，中央装置即将启动时，恶龙Ridley突然飞来撞毁了中央装置，一场决战即将展开！
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Meta Ridley
 
-</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/电磁导弹</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★★☆</td></tr>
+<tr>
+<td>推荐武器：火焰枪/超级导弹/电磁导弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0129.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0130.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1150,11 +1838,23 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 来到最终战场Phazon Infusion Chamber，一进门就会看到对面挂着一个类似人脸的巨大怪物，走进后它会变成蜘蛛型，并迅速向后方逃跑，Samus一路追去，这就要与最终BOSS决一死战了。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Metroid Prime
 
-</td></tr><tr><td>难度：★★★★★</td></tr><tr><td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★★★</td></tr>
+<tr>
+<td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0131.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0132.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1182,11 +1882,23 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 
 战斗胜利后，BOSS落入最后的坑中，它的外壳已宣告报废，那骷髅头般的真身从壳中飞出，这才是最后的决战，希望Samus的体力还剩余不少，够应付这黎明前的黑暗。
 
-<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
+<table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb">
+<tbody>
+
+<tr>
+<td><table cellspacing="0" class="t_table" style="width:98%">
+<tbody>
+
+<tr>
+<td>
 
 ## ☆Boss战：Metroid Prime
 
-</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>难度：★★★★☆</td></tr>
+<tr>
+<td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0133.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0134.jpg" border="0" alt="" width="320" height="240">
@@ -1208,7 +1920,11 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 
 祝贺通关，放下手柄看Ending吧，结尾曲是非常动听的。假如你的物品收集率大于75%的话就可以看到Samus的真正面貌，物品收集率达到100%的话就可以收看隐藏结局。意尤未尽的话可以继续挑战Hard模式，或者开始Metroid Prime 2的全新旅程吧。
 
-<table><tbody><tr><td>
+<table>
+<tbody>
+
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0137.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0138.jpg" border="0" alt="" width="320" height="240"></td></tr></tbody></table>
 银河战士 Metroid Prime的游戏攻略到此结束，谢谢流览，有错误请指正。

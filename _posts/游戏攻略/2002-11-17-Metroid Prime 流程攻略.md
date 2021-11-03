@@ -371,17 +371,21 @@ category: 游戏攻略
 <tr>
 <td>推荐武器：导弹/光弹枪攻击</td>
 </tr>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0017.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0" alt="" width="320" height="240"></div>
-
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0" alt="" width="320" height="240"></td>
+</tr>
+<tr>
+<td>
 <font size="2">
 第一场BOSS战是非常简单的，主要是掌握一下战斗的基本技巧。首先要按L键锁定敌人，然后就可以配合左摇杆边移动边攻击了。想躲避敌人的攻击，就在锁定移动时按B键，即可快速的跳跃闪开敌人的攻击。这是最基本要点，从这里就开始掌握吧。
 
 BOSS乃是寄生皇后大肉虫……在一个圆柱型区域内活动，它的攻击方式很简单，就是喷射绿色的毒液，在它起喷的时候按B键快速躲闪。BOSS的体力会在荧幕中间有显示。
 
 BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用锁定移动+B键快速跳到缺口前。导弹攻击最有效，可以损失它不少体力。然后再换普通的光弹枪将其一举消灭即可。另外在消灭它之前千万不要忘记扫描记录这个只有1次机会的BOSS：<font color="red">[Creatures] Parasite Queen</font>。
-</font>
+</font></td>
+</tr>
 </tbody></table>
 
 消灭BOSS之后，警报响起，飞船即将坠毁，Samus有7分钟时间逃离。时间还是比较充足的，赶快跑吧，逃跑路线很明显，中途有一些开关需要扫描才能打开通路，残余敌人的攻击可以无视。中期会进入管道，变成球状态速度更快些。在管道尽头有一个冲击柱装置，等柱子退回去就会看到出口。机械恶龙Ridley会突然出现破坏通路，这是需要使用光电索跳过去，使用方法是上方钩子的图示变成兰色时按住L键荡起，看到下一个钩子图示变兰色时先松开L键，再按住L键跳过，最后松开L键即可着陆。

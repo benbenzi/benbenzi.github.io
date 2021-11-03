@@ -12,86 +12,8 @@ category: 游戏攻略
 
 # Metroid Prime 流程攻略
 
-
-★系统说明<br>
-┣ ☆游戏介绍<br>
-┣ ☆基本操作说明<br>
-┣ ☆特殊操作说明<br>
-┣ ☆常见设施说明<br>
-┣ ☆常见物品说明<br>
-┗ ☆能力提升系物品说明<br>
-
-
-★流程攻略<br>
-┣ ☆太空海盗船 Space Pirate Frigate<br>
-┃ ┗ ☆Boss战：Parasite Queen<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┣ ☆遗迹世界 Chozo Ruins<br>
-┃ ┣ ☆Boss战：Hive Mecha<br>
-┃ ┣ 获得装备： 导弹 Missile Launcher<br> 
-┃ ┣ ☆Boss战：Plated Beetle<br>
-┃ ┣ 获得装备： 变形球 Morph Ball<br>
-┃ ┣ 获得装备： 蓄力枪 Charge Beam<br>
-┃ ┣ ☆Boss战：Incinerator Drone<br>
-┃ ┣ 获得装备： 球炸弹 Morph Ball Bomb<br> 
-┃ ┣ ☆Boss战：Flaahgra<br>
-┃ ┗ 获得装备： 抗热铠甲 Varia Suit<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┣ ☆冰雪世界 Phendrana Drifts<br>
-┃ ┗ 获得装备： 冲击球 Boost Ball<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┃ ┣ 获得装备： 太空靴 Space Jump Boots<br>
-┃ ┗ 获得物品： 第一神器 Artifact of Truth<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┃ ┗ 获得物品： 第二神器 Artifact of Strength<br>
-┣ ☆冰雪世界 Phendrana Drifts<br>
-┃ ┣ ☆Boss战：Sheegoth<br>
-┃ ┣ 获得装备： 电磁枪 Wave Beam<br>
-┃ ┣ 获得装备： 超级导弹 Super Missile<br>
-┃ ┣ 获得装备： 感热视镜 Thermal Visor<br>
-┃ ┣ ☆Boss战：Thardus<br>
-┃ ┗ 获得装备： 蜘蛛球 Spider Ball<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┣ ☆遗迹世界 Chozo Ruins<br>
-┃ ┗ 获得装备： 冰冻枪 Ice Beam<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┣ ☆冰雪世界 Phendrana Drifts<br>
-┃ ┗ 获得装备： 重力铠甲 Gravity Suit<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┣ ☆矿坑世界 Phazon Mines<br>
-┃ ┣ ☆Boss战：幻影战机<br>
-┃ ┣ 获得装备： 超级炸弹 Power Bomb<br>
-┃ ┗ 获得装备： 光电索 Grapple Beam<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┃ ┣ 获得装备： 透视视镜 X-Ray Visor<br>
-┃ ┗ 获得物品： 第七神器 Artifact of Chozo<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┃ ┗ 获得装备： 火焰枪 Plasma Beam<br>
-┣ ☆冰雪世界 Phendrana Drifts<br>
-┃ ┣ 获得物品： 第十一神器 Artifact of Spirit<br>
-┃ ┗ 获得物品： 第三神器 Artifact of Elder<br>
-┣ ☆熔岩世界 Magmoor Caverns<br>
-┃ ┣ 获得装备： 冰冻导弹 Ice Spreader<br>
-┃ ┗ 获得物品： 第八神器 Artifact of Nature<br>
-┣ ☆遗迹世界 Chozo Ruins<br>
-┃ ┣ 获得物品： 第四神器 Artifact of Wild<br>
-┃ ┣ 获得物品： 第五神器 Artifact of Lifegiver<br>
-┃ ┣ 获得装备： 电磁导弹 Wavebuster<br>
-┃ ┗ 获得物品： 第十神器 Artifact of World<br>
-┣ ☆矿坑世界 Phazon Mines<br>
-┃ ┣ 获得装备： 火焰导弹 Flamethrower<br>
-┃ ┣ 获得物品： 第六神器 Artifact of Warrior<br>
-┃ ┣ ☆Boss战：Omega Pirate<br>
-┃ ┣ 获得装备： 终极铠甲 Phazon Suit<br>
-┃ ┗ 获得物品： 最终神器 Artifact of Newborn<br>
-┣ ☆森林世界 Tallon Overworld<br>
-┃ ┗ ☆Boss战：Meta Ridley<br>
-┣ ☆陨石坑 Impact Crater<br>
-┃ ┣ ☆Boss战：Metroid Prime<br>
-┃ ┗ ☆Boss战：Metroid Prime<br>
-┗ ☆THE END<br>
-
+* toc
+{:toc}
 
 
 ## ★系统说明
@@ -195,7 +117,8 @@ category: 游戏攻略
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Parasite Queen</font></td></tr><tr><td>难度：★☆☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+## ☆Boss战：Parasite Queen
+</td></tr><tr><td>难度：★☆☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0017.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0" alt="" width="320" height="240"></div>
@@ -208,7 +131,7 @@ BOSS乃是寄生皇后大肉虫……在一个圆柱型区域内活动，它的�
 BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用锁定移动+B键快速跳到缺口前。导弹攻击最有效，可以损失它不少体力。然后再换普通的光弹枪将其一举消灭即可。另外在消灭它之前千万不要忘记扫描记录这个只有1次机会的BOSS：<font color="red">[Creatures] Parasite Queen</font>。
 </font>
 
-</td></tr></tbody></table></td></tr></tbody></table>
+</td></tr></tbody></table>
 
 消灭BOSS之后，警报响起，飞船即将坠毁，Samus有7分钟时间逃离。时间还是比较充足的，赶快跑吧，逃跑路线很明显，中途有一些开关需要扫描才能打开通路，残余敌人的攻击可以无视。中期会进入管道，变成球状态速度更快些。在管道尽头有一个冲击柱装置，等柱子退回去就会看到出口。机械恶龙Ridley会突然出现破坏通路，这是需要使用光电索跳过去，使用方法是上方钩子的图示变成兰色时按住L键荡起，看到下一个钩子图示变兰色时先松开L键，再按住L键跳过，最后松开L键即可着陆。
 
@@ -217,11 +140,7 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <table><tbody><tr><td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0019.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0020.jpg" border="0" alt="" width="320" height="240"></td></tr><tr><td>夙敌：Samus Vs Ridley</td></tr></tbody></table>
-<div align="center">
-Tracking on enemy target has been lost.
-Ground-based recon required.
-Begin landing sequence.
-</div>
+
 
 
 ## ☆森林世界 Tallon Overworld
@@ -256,7 +175,8 @@ Begin landing sequence.
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Hive Mecha</font></td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪攻击</td></tr></tbody></table>
+## ☆Boss战：Hive Mecha
+</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0023.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0024.jpg" border="0" alt="" width="320" height="240"></div>
@@ -267,7 +187,7 @@ Begin landing sequence.
 
 战斗结束之前不要忘记扫描记录，BOSS的身影在导弹装置的水面下：<font color="red">[Creatures] Hive Mecha</font>，而四处飞舞的蚊子也是新物种：<font color="red">[Creatures] Ram War Wasp</font>。
 </font>
-</td></tr></tbody></table></td></tr></tbody></table>
+</td></tr></tbody></table>
 
 胜利后桥梁打开，在尽头取得重要装备<font color="blue">导弹 Missile Launcher</font>。正好前面就有一扇红灰色门，来发一枚导弹将其打开吧。
 
@@ -293,7 +213,9 @@ Begin landing sequence.
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Plated Beetle</font></td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+## ☆Boss战：Plated Beetle
+
+</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></div>
@@ -347,7 +269,9 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Incinerator Drone</font></td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
+## ☆Boss战：Incinerator Drone
+
+</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></div>
@@ -382,7 +306,9 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Flaahgra</font></td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击/球炸弹</td></tr></tbody></table>
+## ☆Boss战：Flaahgra
+
+</td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：导弹/光弹枪攻击/球炸弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0049.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0050.jpg" border="0" alt="" width="320" height="240"></div>
@@ -531,7 +457,9 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Sheegoth</font></td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/球炸弹</td></tr></tbody></table>
+## ☆Boss战：Sheegoth
+
+</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：导弹/球炸弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0063.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0064.jpg" border="0" alt="" width="320" height="240"></div>
@@ -615,7 +543,9 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Thardus</font></td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：感热视镜/超级导弹/光弹枪</td></tr></tbody></table>
+## ☆Boss战：Thardus
+
+</td></tr><tr><td>难度：★★★☆☆</td></tr><tr><td>推荐武器：感热视镜/超级导弹/光弹枪</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0071.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0072.jpg" border="0" alt="" width="320" height="240"></div>
@@ -829,7 +759,9 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：幻影战机</font></td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪/R键锁定</td></tr></tbody></table>
+## ☆Boss战：幻影战机
+
+</td></tr><tr><td>难度：★★☆☆☆</td></tr><tr><td>推荐武器：光弹枪/R键锁定</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0083.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1125,7 +1057,9 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Omega Pirate</font></td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/透视视镜</td></tr></tbody></table>
+## ☆Boss战：Omega Pirate
+
+</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/透视视镜</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0123.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0124.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1177,7 +1111,9 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Meta Ridley</font></td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/电磁导弹</td></tr></tbody></table>
+## ☆Boss战：Meta Ridley
+
+</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：火焰枪/超级导弹/电磁导弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0129.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0130.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1216,7 +1152,9 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Metroid Prime</font></td></tr><tr><td>难度：★★★★★</td></tr><tr><td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td></tr></tbody></table>
+## ☆Boss战：Metroid Prime
+
+</td></tr><tr><td>难度：★★★★★</td></tr><tr><td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0131.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0132.jpg" border="0" alt="" width="320" height="240"></div>
@@ -1246,7 +1184,9 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 
 <table cellspacing="0" class="t_table" style="width:95%" bgcolor="#ebebeb"><tbody><tr><td><table cellspacing="0" class="t_table" style="width:98%"><tbody><tr><td>
 
-## ☆Boss战：Metroid Prime</font></td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td></tr></tbody></table>
+## ☆Boss战：Metroid Prime
+
+</td></tr><tr><td>难度：★★★★☆</td></tr><tr><td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td></tr></tbody></table>
 <div align="center">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0133.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0134.jpg" border="0" alt="" width="320" height="240">

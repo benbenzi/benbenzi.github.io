@@ -1385,9 +1385,6 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 
 <table>
 <tbody>
-
-<tr>
-<td>
 <tr>
 <td>难度：★★☆☆☆</td>
 </tr>
@@ -1400,7 +1397,7 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0" alt="" width="320" height="240"></td></tr>
 <tr><td><font size="2">这只BOSS并不难对付，但是它的来头实在是比较奇特，所以很容易因为体力不支而挂的不明不白。BOSS的攻击方式很简单，机关枪射击和双镭射射线的扫射攻击，威力都不大，如果体力很多的话都不需要躲闪。关键是本BOSS无法锁定它攻击，而且它的身影忽闪忽现，幻影状态时它就像是一只彩色蝴蝶，只有在它实体的时候攻击才是有效的。也不需要用什么复杂的武器，就用最初的光弹枪攻击即可。首先找一个靠墙的位置，按住R键再用左摇杆调整一个比较合适的射击角度，BOSS的位置变化不大，只要对准它不断的射击即可，不一会就可以消灭它。
 
-这也是唯一一只无法扫描记录的BOSS。
+这也是唯一一只无法扫描记录的BOSS。</font>
 </td>
 </tr></tbody></table>
 
@@ -1895,27 +1892,19 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 
 前方乃是Elite Quarters，假如你一直觉得BOSS战不够过瘾的话，那么一场货真价实的决战就要在此展开了。准备好了吗？
 
+### ☆Boss战：Omega Pirate
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Omega Pirate
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★★☆</td>
 </tr>
 <tr>
 <td>推荐武器：火焰枪/超级导弹/透视视镜</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0123.jpg" border="0" alt="" width="320" height="240">
@@ -1993,27 +1982,19 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 来到Artifact Temple广场中央时，十二神器会自动归位元，中央装置即将启动时，恶龙Ridley突然飞来撞毁了中央装置，一场决战即将展开！
 
+### ☆Boss战：Meta Ridley
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Meta Ridley
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★★☆</td>
 </tr>
 <tr>
 <td>推荐武器：火焰枪/超级导弹/电磁导弹</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0129.jpg" border="0" alt="" width="320" height="240">
@@ -2053,27 +2034,19 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 
 来到最终战场Phazon Infusion Chamber，一进门就会看到对面挂着一个类似人脸的巨大怪物，走进后它会变成蜘蛛型，并迅速向后方逃跑，Samus一路追去，这就要与最终BOSS决一死战了。
 
+### ☆Boss战：Metroid Prime
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Metroid Prime
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★★★</td>
 </tr>
 <tr>
 <td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0131.jpg" border="0" alt="" width="320" height="240">
@@ -2103,27 +2076,19 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 
 战斗胜利后，BOSS落入最后的坑中，它的外壳已宣告报废，那骷髅头般的真身从壳中飞出，这才是最后的决战，希望Samus的体力还剩余不少，够应付这黎明前的黑暗。
 
+### ☆Boss战：Metroid Prime
+
 <table>
 <tbody>
 
 <tr>
-<td><table cellspacing="0" class="t_table" style="width:98%">
-<tbody>
-
-<tr>
 <td>
-
-### ☆Boss战：Metroid Prime
-
-
-</td>
-</tr>
 <tr>
 <td>难度：★★★★☆</td>
 </tr>
 <tr>
 <td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td>
-</tr></tbody></table>
+</tr>
 <tr>
 <td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0133.jpg" border="0" alt="" width="320" height="240">
@@ -2156,18 +2121,7 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0137.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0138.jpg" border="0" alt="" width="320" height="240"></td>
 </tr></tbody></table>
+
 银河战士 Metroid Prime的游戏攻略到此结束，谢谢流览，有错误请指正。
 
-~全文完~</td>
-</tr></tbody></table>
-
-
-</div>
-
-</div>
-</div>
-
-</td>
-</tr>
-
-</tbody>
+~全文完~

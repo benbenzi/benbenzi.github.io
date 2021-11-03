@@ -378,7 +378,7 @@ category: 游戏攻略
 </tr>
 <tr>
 <td>
-<font size="2">
+<tr><td><font size="2">
 第一场BOSS战是非常简单的，主要是掌握一下战斗的基本技巧。首先要按L键锁定敌人，然后就可以配合左摇杆边移动边攻击了。想躲避敌人的攻击，就在锁定移动时按B键，即可快速的跳跃闪开敌人的攻击。这是最基本要点，从这里就开始掌握吧。
 
 BOSS乃是寄生皇后大肉虫……在一个圆柱型区域内活动，它的攻击方式很简单，就是喷射绿色的毒液，在它起喷的时候按B键快速躲闪。BOSS的体力会在荧幕中间有显示。
@@ -456,16 +456,17 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tr>
 <td>推荐武器：光弹枪攻击</td>
 </tr>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0023.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0024.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0024.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 战场比较恐怖，四周都是毒液，掉下去就会不断减少体力，只有中央平台是安全的，尽量站在中央以免被敌人撞下去。BOSS是一台机械装置，共有3个开关，它会放出一群红尾巴的蚊子不断围绕Samus旋转，并借机会冲刺攻击。这次需要听声辩位元元了，只要蚊子一声尖哼，就是要冲刺了，跳一下即可躲过。
 
 首先要消灭所有的蚊子，在它们旋转的时候是无法锁定，看准它们的路线射击就有可能命中，当它们停止时，就是冲刺的前兆，也是最好的攻击机会，赶快锁定消灭吧。消灭全部蚊子以后，BOSS就会露出红色灯光的破绽，锁定它将其打爆。打爆后BOSS还会重复放出2次蚊子，并且数量越来越多，按此方式将BOSS的三个开关全部打爆后即可取得胜利。
 
 战斗结束之前不要忘记扫描记录，BOSS的身影在导弹装置的水面下：<font color="red">[Creatures] Hive Mecha</font>，而四处飞舞的蚊子也是新物种：<font color="red">[Creatures] Ram War Wasp</font>。
-</font>
+</font></td></tr>
 </tbody></table>
 
 胜利后桥梁打开，在尽头取得重要装备<font color="blue">导弹 Missile Launcher</font>。正好前面就有一扇红灰色门，来发一枚导弹将其打开吧。
@@ -541,9 +542,10 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tr>
 <td>推荐武器：导弹/光弹枪攻击</td>
 </tr>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></div>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0" alt="" width="320" height="240"></td></tr>
 
 首先登场的是一群以前碰到过的土行孙，只是数量很多，一个一个锁定干掉吧，用导弹攻击可以群灭。消灭他们有可能会得到紫色回复球，体力渐低的话一定要得到。全部消灭后，正牌BOSS登场，是一只长着厚甲壳的土行孙。它的攻击方式很简单，就是挑衅加冲刺，锁定B跳可闪开。它的弱点在红PP上，需要用锁定B跳尽快跳到它身后去，用导弹当然是威力十足，用光弹枪的话就会稍稍浪费些时间，不过并不难干掉它。
 
@@ -648,10 +650,11 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tr>
 <td>推荐武器：导弹/光弹枪攻击</td>
 </tr>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根据火焰的高低可以跳跃或闪避躲开。它的弱点在间歇冒出来的红灯的头部，一旦出现后最好立刻锁定用导弹干掉。这是BOSS会将火焰向上喷射，上方是虫子巢，着火后大量的绿色飞虫飞来袭击Samus，可干掉也可无视，只要连续3次把火焰喷射器的头部打爆，这场战斗就胜利结束了。
 
 战斗结束之前不要忘记扫描记录，火焰喷射器是：<font color="red">[Creatures] Incinerator Drone</font>，而绿色的飞虫是：<font color="red">[Creatures] Barbed War Wasp</font>
@@ -730,10 +733,11 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tr>
 <td>推荐武器：导弹/光弹枪攻击/球炸弹</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0049.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0050.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0050.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 经历了那么多小BOSS的无聊战斗之后，终于迎来一只殿堂级BOSS，它就是造成遗迹水源污染的罪魁祸首。这个BOSS是有体力显示的，而且对付它的方法可不是一味的猛打，需要找到弱点的。BOSS的攻击方式比较多，用它的2把大刀乱砍，喷射毒液，以及放射出一堆有毒植物阻挡Samus的移动路线，注意躲闪吧。
 
 战场上有4面巨大的反光镜，最开始时会有一面镜子将阳光反射在BOSS身上，这就是BOSS的生命源。所以攻击BOSS本体是不会损失它体力的，要攻击的就是镜子后面的红灯，用导弹或蓄力攻击可以一次将镜子翻过来，用普通攻击就要多打几枪。这时候BOSS会暂时昏厥，注意到它身边的通道里触手也缩回去了，而通道的尽头是一个爆破装置，赶快变成球进入通道尽头放一颗炸弹，熊熊火焰会烧掉BOSS的1/4体力。
@@ -977,10 +981,11 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr>
 <td>推荐武器：导弹/球炸弹</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0063.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0064.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0064.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 看到前面有个宝物，走过去发现原来是个圈套，4只Baby Sheegoth出现。好久都没有BOSS战了，来体验一下紧张感吧。这4只怪物已经知道如何对付了，绕到它们身后去放导弹，3颗解决一只即可。
 
 当然没这么简单，baby们全部挂掉之后，它们的长辈终于破墙而出了。巨大的雪怪，后背上长满了钻石般的尖刺，它的冲撞和吐息都是非常厉害的，要小心点，另外被冻住的时候不要忘记连按B键解冻。
@@ -1122,10 +1127,11 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr>
 <td>推荐武器：感热视镜/超级导弹/光弹枪</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0071.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0072.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0072.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 又迎来一场殿堂级的豪华BOSS战，BOSS是一只受到Phazon物质辐射的石头巨人，形象威武之极啊。这场战斗要充分利用新入手的装备方能取得胜利。BOSS的攻击方式相当多，它的左手砸地会放出冰冻光线，如果没有及时躲闪的话就会被冻住，这时需要快速按B键解冻。它的双手举起时，会放出很多飞石向Samus飞来，击碎石头有可能获得能量补给。最可恶的一招是变成巨大圆石滚动攻击，很难躲开，而且这时无法锁定攻击它。在战斗中期，它会一边在身边放电一边产生巨大的暴风雪，只要躲远一点即可。
 
 攻击方式也是很讲究的，首先，无法锁定BOSS，因为看不到它身上的弱点，切换成感热视镜，就会看到BOSS身上发出红光的能量源所在。立刻锁定攻击吧，等到击毁这个能量源的时候，荧幕会一片黄色光芒，这时需要切换回战斗视镜。BOSS身上的弱点就会呈兰色彻底暴露出来，用超级导弹攻击最有效，一发就可以干掉这个能量源，但因为BOSS的四肢不断的在移动，能够挡住导弹，所以导弹攻击一定在他露出破绽时快速使用，以免浪费弹药。
@@ -1419,10 +1425,11 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tr>
 <td>推荐武器：光弹枪/R键锁定</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0083.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">这只BOSS并不难对付，但是它的来头实在是比较奇特，所以很容易因为体力不支而挂的不明不白。BOSS的攻击方式很简单，机关枪射击和双镭射射线的扫射攻击，威力都不大，如果体力很多的话都不需要躲闪。关键是本BOSS无法锁定它攻击，而且它的身影忽闪忽现，幻影状态时它就像是一只彩色蝴蝶，只有在它实体的时候攻击才是有效的。也不需要用什么复杂的武器，就用最初的光弹枪攻击即可。首先找一个靠墙的位置，按住R键再用左摇杆调整一个比较合适的射击角度，BOSS的位置变化不大，只要对准它不断的射击即可，不一会就可以消灭它。
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">这只BOSS并不难对付，但是它的来头实在是比较奇特，所以很容易因为体力不支而挂的不明不白。BOSS的攻击方式很简单，机关枪射击和双镭射射线的扫射攻击，威力都不大，如果体力很多的话都不需要躲闪。关键是本BOSS无法锁定它攻击，而且它的身影忽闪忽现，幻影状态时它就像是一只彩色蝴蝶，只有在它实体的时候攻击才是有效的。也不需要用什么复杂的武器，就用最初的光弹枪攻击即可。首先找一个靠墙的位置，按住R键再用左摇杆调整一个比较合适的射击角度，BOSS的位置变化不大，只要对准它不断的射击即可，不一会就可以消灭它。
 
 这也是唯一一只无法扫描记录的BOSS。
 </td>
@@ -1975,10 +1982,11 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tr>
 <td>推荐武器：火焰枪/超级导弹/透视视镜</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0123.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0124.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0124.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 在开战前，就可以扫描巨大容器里的终极海盗：<font color="red">[Creatures] Omega Pirate</font>。接近之后，战斗开始。
 
 先来关注一下战场的地形，很宽广，但有3堆Phazon物质，走到上面是会损失体力的要小心点。这个巨大号BOSS有3种攻击方式，在离它很近时，它会挥拳攻击，很难躲开。在中距离时，它会双手锤地发动地震攻击，可跳跃躲开，这是最佳攻击范围。在远距离时，它会连续发射追踪导弹，被命中后体力损失惨重。所以保持中距离战斗是最佳方案。
@@ -2072,11 +2080,12 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td>推荐武器：火焰枪/超级导弹/电磁导弹</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0129.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0130.jpg" border="0" alt="" width="320" height="240"></div>
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0130.jpg" border="0" alt="" width="320" height="240"></td></tr>
 
-<font size="2">
+<tr><td><font size="2">
 战斗会很激烈，还是先扫描它吧：<font color="red">[Creatures] Meta Ridley</font>。这个老对头。
 
 战场是中央广场，而装甲龙BOSS由于有翅膀，它的活动空间相当大，这场战斗显得及其壮观。广场上的石柱前期可以利用作为盾牌，阻挡BOSS的攻击，但BOSS会逐渐把这些柱子毁掉，所以还是要灵活躲闪来的安全些。整个战斗分为2个阶段。
@@ -2131,10 +2140,11 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr>
 <td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0131.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0132.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0132.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">
 首先扫描留念超重量级BOSS的记录：<font color="red">[Creatures] Metroid Prime</font>，这也是游戏的名称，然后再开始战斗。
 
 战场是一个长方形区域，BOSS在对面尽头，它浑身的装甲，只有眼睛处才是弱点。BOSS会不断变换4种颜色，正好对应Samus的4种武器，只有用相应颜色的武器攻击才有效。这场战斗的战线拉的很长，几乎所有的射击武器都会派上用场，根据BOSS的颜色依次来说。
@@ -2180,13 +2190,14 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 <tr>
 <td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td>
 </tr></tbody></table>
-<div align="center">
+<tr>
+<td>
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0133.jpg" border="0" alt="" width="320" height="240">
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0134.jpg" border="0" alt="" width="320" height="240">
 
 <img src="/assets/img/游戏攻略/MetroidPrime/MP0135.jpg" border="0" alt="" width="320" height="240">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0136.jpg" border="0" alt="" width="320" height="240"></div>
-<font size="2">此BOSS乃是最后一个扫描记录：<font color="red">[Creatures] Metroid Prime</font>，没错，它的名字和刚才那家伙一样，但不是同一种BOSS。强烈祝贺你的LOGBOOK 100%收集完美达成。
+<img src="/assets/img/游戏攻略/MetroidPrime/MP0136.jpg" border="0" alt="" width="320" height="240"></td></tr>
+<tr><td><font size="2">此BOSS乃是最后一个扫描记录：<font color="red">[Creatures] Metroid Prime</font>，没错，它的名字和刚才那家伙一样，但不是同一种BOSS。强烈祝贺你的LOGBOOK 100%收集完美达成。
 
 在这里任何普通武器的攻击对BOSS都是无效的，所以就不用浪费时间了。BOSS的攻击方式很简单，它的四条触手一抽地面会激起火焰，只要2段跳就可轻松躲过。在战斗初期，它的火焰会将周边的石柱打碎，里面有恢复100Energy的黄色能量球，如果体力不支的话一定要得到啊。它在一段时间后会突然消失，这里它消失的特点是有规律的，Samus只要在它第一次消失后，按顺序切换透视视镜-&gt;感热视镜-&gt;战斗视镜，就可以一直发现它的踪影。
 

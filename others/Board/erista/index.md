@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nintendo Switch主板分层
+---
+
 
 <script>
 	window.onload = function() {

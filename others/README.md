@@ -19,7 +19,7 @@ permalink: /others/
 {:.related-posts.faded}
 
 [测试板块]: ./docs/
-[网页加密]: ./md2html/doEncrypt.md
+[网页加密]: ./md2html/doEncrypt.html
 [Miiverse]: ./Miiverse/index.html
 [NOM]: ./mon/backnumber/index.html
 [Zero]: ./zero/zero.html

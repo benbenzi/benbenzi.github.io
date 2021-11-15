@@ -277,8 +277,7 @@ y: (point.y - pos.y) / scale
 draw();
 	};
 </script>
-	</head>
-	<body onmousedown="return false;">
+
 <div id="wrapper">
 	<canvas id="canvas" width="3000" height="2200"></canvas>
 	<div id="text">

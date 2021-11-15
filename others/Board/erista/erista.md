@@ -32,18 +32,18 @@ title: Nintendo Switch主板分层
 </div>
 </div>
 <div style="display:none;">
-	<img id="layer_1" src="layer_1.jpeg">
-	<img id="layer_2" src="layer_2.jpeg">
-	<img id="layer_3" src="layer_3.jpeg">
-	<img id="layer_4" src="layer_4.jpeg">
-	<img id="layer_5" src="layer_5.jpeg">
-	<img id="layer_6" src="layer_6.jpeg">
-	<img id="layer_7" src="layer_7.jpeg">
-	<img id="layer_8" src="layer_8.jpeg">
-	<img id="layer_9" src="layer_9.jpeg">
-	<img id="layer_10" src="layer_10.jpeg">
-	<img id="layer_11" src="layer_11.jpeg">
-	<img id="layer_12" src="layer_12.jpeg">
+	<img id="layer_1" src="../layer_1.jpeg">
+	<img id="layer_2" src="../layer_2.jpeg">
+	<img id="layer_3" src="../layer_3.jpeg">
+	<img id="layer_4" src="../layer_4.jpeg">
+	<img id="layer_5" src="../layer_5.jpeg">
+	<img id="layer_6" src="../layer_6.jpeg">
+	<img id="layer_7" src="../layer_7.jpeg">
+	<img id="layer_8" src="../layer_8.jpeg">
+	<img id="layer_9" src="../layer_9.jpeg">
+	<img id="layer_10" src="../layer_10.jpeg">
+	<img id="layer_11" src="../layer_11.jpeg">
+	<img id="layer_12" src="../layer_12.jpeg">
 </div>
 
 <script>

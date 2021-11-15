@@ -4,8 +4,50 @@ title: Nintendo Switch主板分层
 ---
 
 
+<div id="wrapper">
+<canvas id="canvas" width="3000" height="2200"></canvas>
+<div id="text">
+使用[W]和[S]在主板分层间进行切换；<br />
+使用[F]和[G]将主板进行旋转；<br />
+双击鼠标可以设置标记点；<br />
+感谢KreativDax的扫描；<br />
+感谢shinyquagsire23对图片进行校准。
+<p id="cusor_state"></p>
+<p id="marker_state_1"></p>
+<p id="marker_state_2"></p>
+<p id="marker_state_3"></p>
+<p id="marker_state_4"></p>
+<p id="marker_state_5"></p>
+<p id="marker_state_6"></p>
+<p id="marker_state_7"></p>
+<p id="marker_state_8"></p>
+<p id="marker_state_9"></p>
+<p id="marker_state_10"></p>
+<p id="marker_state_11"></p>
+<p id="marker_state_12"></p>
+<p id="marker_state_13"></p>
+<p id="marker_state_14"></p>
+<p id="marker_state_15"></p>
+<p id="marker_state_16"></p>
+</div>
+</div>
+<div style="display:none;">
+	<img id="layer_1" src="layer_1.jpeg">
+	<img id="layer_2" src="layer_2.jpeg">
+	<img id="layer_3" src="layer_3.jpeg">
+	<img id="layer_4" src="layer_4.jpeg">
+	<img id="layer_5" src="layer_5.jpeg">
+	<img id="layer_6" src="layer_6.jpeg">
+	<img id="layer_7" src="layer_7.jpeg">
+	<img id="layer_8" src="layer_8.jpeg">
+	<img id="layer_9" src="layer_9.jpeg">
+	<img id="layer_10" src="layer_10.jpeg">
+	<img id="layer_11" src="layer_11.jpeg">
+	<img id="layer_12" src="layer_12.jpeg">
+</div>
+
 <script>
-	window.onload = function() {
+window.onload = function() {
 const canvas = document.getElementById("canvas");
 const context = canvas.getContext("2d");
 const images = [
@@ -277,45 +319,3 @@ y: (point.y - pos.y) / scale
 draw();
 	};
 </script>
-
-<div id="wrapper">
-	<canvas id="canvas" width="3000" height="2200"></canvas>
-	<div id="text">
-使用[W]和[S]在主板分层间进行切换；<br />
-使用[F]和[G]将主板进行旋转；<br />
-双击鼠标可以设置标记点；<br />
-感谢KreativDax的扫描；<br />
-感谢shinyquagsire23对图片进行校准。
-<p id="cusor_state"></p>
-<p id="marker_state_1"></p>
-<p id="marker_state_2"></p>
-<p id="marker_state_3"></p>
-<p id="marker_state_4"></p>
-<p id="marker_state_5"></p>
-<p id="marker_state_6"></p>
-<p id="marker_state_7"></p>
-<p id="marker_state_8"></p>
-<p id="marker_state_9"></p>
-<p id="marker_state_10"></p>
-<p id="marker_state_11"></p>
-<p id="marker_state_12"></p>
-<p id="marker_state_13"></p>
-<p id="marker_state_14"></p>
-<p id="marker_state_15"></p>
-<p id="marker_state_16"></p>
-	</div>
-</div>
-<div style="display:none;">
-	<img id="layer_1" src="layer_1.jpeg">
-	<img id="layer_2" src="layer_2.jpeg">
-	<img id="layer_3" src="layer_3.jpeg">
-	<img id="layer_4" src="layer_4.jpeg">
-	<img id="layer_5" src="layer_5.jpeg">
-	<img id="layer_6" src="layer_6.jpeg">
-	<img id="layer_7" src="layer_7.jpeg">
-	<img id="layer_8" src="layer_8.jpeg">
-	<img id="layer_9" src="layer_9.jpeg">
-	<img id="layer_10" src="layer_10.jpeg">
-	<img id="layer_11" src="layer_11.jpeg">
-	<img id="layer_12" src="layer_12.jpeg">
-</div>

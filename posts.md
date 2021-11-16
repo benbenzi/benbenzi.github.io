@@ -1,8 +1,7 @@
 ---
 layout: grid
-title: Posts
+title: 时间线
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  该页面将按年份分组，根据日期从近到远的顺序，展示我所有的博客内容。
 grouped: true
 ---

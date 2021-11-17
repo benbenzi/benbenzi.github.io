@@ -62,5 +62,5 @@ var content = '8bf8962c642d1d3fd6373ff6b3c264498805dee6e0bef85f988efa8b5aafc9025
         <label for="inputkey">请输入密码</label>
         <input type="password" class="form-control" id="inputkey" placeholder="请输入密码">
     </div>
-    <button class="btn btn-sm btn-primary mt1" onclick="onbtnDecrypto()">解密</button>
+    <button class="btn btn-primary" onclick="onbtnDecrypto()">解密</button>
 </div>

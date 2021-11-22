@@ -54,11 +54,11 @@
     {% assign words = post.content | strip_html | strip_newlines | size %}
     <span class="page_meta-readtime">
       {% if words < words_per_minute %}
-        {{ '阅读大约需要' }} 1 {{ '分钟' }}
+        {{ '阅读约' }} 1 {{ '分钟' }}
       {% elsif words == words_per_minute %}
-        {{ '阅读大约需要' }} 1 {{ '分钟' }}
+        {{ '阅读约' }} 1 {{ '分钟' }}
       {% else %}
-        {{ '阅读大约需要' }} {{ words | divided_by: words_per_minute }} {{ '分钟' }}
+        {{ '阅读约' }} {{ words | divided_by: words_per_minute }} {{ '分钟' }}
       {% endif %}
     </span>
 

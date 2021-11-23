@@ -8,6 +8,7 @@ description: >
   转载自：<https://soptq.me/2019/01/18/add-pswd/><br>如何对一篇静态博文做密码保护, 查看密码为 testpassword
 invert_sidebar: true
 category: 写点代码
+slug: 55d30c7fa6af3a13fe43a1bd672eb4efb0b453fdb9d008829d67c14cf1f7e893
 ---
 
 # 【转载】Github Pages 添加密码保护

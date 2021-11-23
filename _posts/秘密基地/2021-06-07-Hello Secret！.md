@@ -9,6 +9,7 @@ description: >
 invert_sidebar: true
 encrypt: true
 category: 秘密基地
+slug: c4296513b6410622980e6f92b381abc25489a86cbb9ccdbdefa07036d2bc059b
 ---
 
 <script>

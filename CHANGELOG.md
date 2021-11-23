@@ -9,6 +9,16 @@ sitemap: false
 * 该列表将自动更新
 {:toc .large-only}
 
+## v1.3.0
+2021年11月22日
+{:.heading.post-date}
+
+### 更新
+
+* 永久链接
+    
+    将原本中文的博客URL，统一替换为由SHA256生成的字符串，以方便URL的传播，防止中文URL识别出错。
+
 ## v1.2.5
 2021年7月2日
 {:.heading.post-date}

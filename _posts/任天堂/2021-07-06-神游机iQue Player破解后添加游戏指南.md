@@ -11,6 +11,7 @@ description: >
   转载自<https://iquebrew.github.io/en/Adding%20games.html><br>翻译：本本子
 invert_sidebar: true
 category: 任天堂
+slug: 83c9cde8aad6d8010510b7e094264705020b5499240fd1da91942b2bd5d8f3b9
 ---
 
 # 神游机iQue Player破解后添加游戏指南

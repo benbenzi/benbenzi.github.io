@@ -11,6 +11,7 @@ description: >
   它真好看！
 invert_sidebar: true
 category: 任天堂
+slug: cea503d6dbdbb7e2a592bfffe1c4b92b8e826908b9d9866d6c6937a107098dcb
 ---
 
 # 聊聊Switch OLED新机，吧！

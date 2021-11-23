@@ -11,6 +11,7 @@ description: >
   《Fire Emblem 风花雪月》是一款由Intelligent Systems、光荣特库摩和任天堂共同开发，并由任天堂发行的任天堂Switch平台战略角色扮演游戏，于2019年7月26日在全球发售。本作是火焰之纹章系列第16部主要作品，也是自《晓之女神》以来久别12年的家用机平台新作。
 invert_sidebar: true
 category: 通关记录
+slug: b8e6ed40d5e6f314bd543dd347eb4a36273daa10c266f565a1cf48155c53d587
 ---
 
 # 《Fire Emblem 风花雪月》

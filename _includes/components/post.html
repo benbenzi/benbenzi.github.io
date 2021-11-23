@@ -85,7 +85,7 @@
   {% else %}
 <!--     {{ post.excerpt }}
     {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %} -->
-    {% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %}
+    <!-- {% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %} -->
     <footer>
       <p class="read-more">
         {{ text | replace:"<!--post_title-->", post_title }}

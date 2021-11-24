@@ -22,9 +22,9 @@ permalink: /tags/
 {:.related-posts.faded}
 
 [任天堂]: ../blog/nintendo/
-[杂七杂八]: ../blog/days/
+[杂七杂八]: ../blog/daily/
 [通关记录]: ../blog/gameing-life/
 [游戏研究]: ../blog/game-research/
 [写点代码]: ../blog/coding/
-[秘密基地]: ../blog/secret-base/
+[秘密基地]: ../blog/secret/
 [游戏攻略]: ../blog/game-guide/

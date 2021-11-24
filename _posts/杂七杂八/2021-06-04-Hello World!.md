@@ -10,7 +10,7 @@ theme_color: '#ccc'
 description: >
   第一份测试文档！
 invert_sidebar: true
-category: 杂七杂八
+category: daily
 slug: 2d9fb2574dbd7baba4d5061e0f23de10c4d7ad8ec5b711c741189734a6024899
 ---
 

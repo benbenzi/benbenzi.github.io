@@ -10,7 +10,7 @@ theme_color: '#ccc'
 description: >
   转载自<https://iquebrew.github.io/en/START.html><br>翻译：本本子
 invert_sidebar: true
-category: 任天堂
+category: nintendo
 slug: 813d3df934ed3557b1e2686270ea7ca2efee76fcafb2e697e0bba91476c0381c
 ---
 

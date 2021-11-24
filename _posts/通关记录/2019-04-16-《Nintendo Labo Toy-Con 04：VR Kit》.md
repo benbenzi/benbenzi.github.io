@@ -10,7 +10,7 @@ theme_color: '#ccc'
 description: >
   《Nintendo Labo Toy-Con 04：VR Kit》为《Labo》系列第三波上市的产品，有内含VR眼镜、火箭筒、照相机、大象、小鸟、风等纸模的标准版和仅内含VR眼镜与火箭筒的轻量版，于2019年4月12日发售。
 invert_sidebar: true
-category: 通关记录
+category: gameing-life
 slug: c5eeaff92e9ae447b55da535373cad8aaa5effde74a88ec36953824c3dbcb506
 ---
 

@@ -7,7 +7,7 @@ theme_color: '#ccc'
 description: >
   转载自A9VG
 invert_sidebar: true
-category: 游戏攻略
+category: game-guide
 slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 ---
 

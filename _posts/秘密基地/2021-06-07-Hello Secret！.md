@@ -8,7 +8,7 @@ description: >
   这是我的第一篇加密文档测试，密码：haha
 invert_sidebar: true
 encrypt: true
-category: 秘密基地
+category: secret
 slug: c4296513b6410622980e6f92b381abc25489a86cbb9ccdbdefa07036d2bc059b
 ---
 

@@ -34,7 +34,7 @@ permalink: /tags/
  <div class="column column-1-2">
   <article class="project-card"> 
    <a href="/blog/nintendo/" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine flip-title"> 
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img"> 
      <img src="/assets/img/tags/nintendo.jpg" alt="任天堂" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/nintendo/" class="flip-title">任天堂</a></h3>

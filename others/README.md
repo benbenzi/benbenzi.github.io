@@ -13,15 +13,15 @@ permalink: /others/
 
 ## 主站功能
 * [测试板块]{:.heading.flip-title} --- 用于测试自己开发调试的新功能。
-* [网页加密]{:.heading.flip-title} --- 用于对博客进行AES加密，并生成文本。
-* [在线小工具]{:.heading.flip-title} --- 计算散列、编解码等小工具。
-* [Miiverse]{:.heading.flip-title} --- 任天堂Miiverse个人站点备份。
-* [NOM]{:.heading.flip-title} --- Nintendo Online Magazine，任天堂官方的在线杂志。
-* [Zero]{:.heading.flip-title} --- 来自中国台湾的Zero民间爱好者网站。
-* [Switch主板分层]{:.heading.flip-title} --- 来自balika011.hu的Switch主板分层线路图。
+* [网页加密]{:.heading} --- 用于对博客进行AES加密，并生成文本。
+* [在线小工具]{:.heading} --- 计算散列、编解码等小工具。
+* [Miiverse]{:.heading} --- 任天堂Miiverse个人站点备份。
+* [NOM]{:.heading} --- Nintendo Online Magazine，任天堂官方的在线杂志。
+* [Zero]{:.heading} --- 来自中国台湾的Zero民间爱好者网站。
+* [Switch主板分层]{:.heading} --- 来自balika011.hu的Switch主板分层线路图。
 {:.related-posts.faded}
 
-[测试板块]: ./docs/
+[测试板块]: ./docs/README/
 [网页加密]: ./md2html/doEncrypt.html
 [在线小工具]: ./online-tools/index.html
 [Miiverse]: https://cn-cd-dx-2.natfrp.cloud:52404/Miiverse/index.html

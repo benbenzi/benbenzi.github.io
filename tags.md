@@ -14,7 +14,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/nintendo/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/nintendo.jpg" alt="任天堂" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/nintendo.jpg" alt="任天堂" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/nintendo/" class="flip-title">任天堂</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 任天堂就他妈是世界的主宰！！！</p>
@@ -25,7 +25,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/daily/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/daily.jpg" alt="杂七杂八" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/daily.jpg" alt="杂七杂八" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/daily/" class="flip-title">杂七杂八</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 我生活中各种杂七杂八的日常～</p>
@@ -36,7 +36,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/gameing-life/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/gameing-life.jpg" alt="通关记录" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/gameing-life.jpg" alt="通关记录" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/gameing-life/" class="flip-title">通关记录</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 用于记录各种通关游戏的心得、体验、短评。</p>
@@ -47,7 +47,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/game-research/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/game-research.jpg" alt="游戏研究" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/game-research.jpg" alt="游戏研究" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/game-research/" class="flip-title">游戏研究</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 游戏研究相关的东西，一些转载的论文，或是一些笔记。</p>
@@ -58,7 +58,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/coding/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/coding.jpg" alt="写点代码" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/coding.jpg" alt="写点代码" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/coding/" class="flip-title">写点代码</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 一些程序设计开发的内容，主要是转载学习用。</p>
@@ -69,7 +69,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/secret/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/secret.jpg" alt="秘密基地" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/secret.jpg" alt="秘密基地" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/secret/" class="flip-title">秘密基地</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 用于记录个人私事，或是一些不能公开的研究。</p>
@@ -80,7 +80,7 @@ grouped: true
   <article class="project-card"> 
    <a href="/blog/game-guide/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
-     <img src="./assets/img/tags/game-guide.jpg" alt="游戏攻略" width="864" height="486" loading="lazy" style="opacity: 0;" />
+     <img src="https://benbenzi.games/assets/img/tags/game-guide.jpg" alt="游戏攻略" width="864" height="486" loading="lazy" style="opacity: 0;" />
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/game-guide/" class="flip-title">游戏攻略</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 各种转载/自制的游戏攻略。</p>

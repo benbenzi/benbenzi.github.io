@@ -5,7 +5,6 @@ date: 1 Jun 2021
 image: /assets/img/blog/2021-06-07/cover.jpg
 description: >
   测试
-permalink: /docs/
 ---
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">

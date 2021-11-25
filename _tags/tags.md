@@ -1,5 +1,7 @@
 ---
+layout: grid
 title: 标签
+show_collection: tags
 description: >
   这里是我博客各种标签的合集。
 hide_description: true

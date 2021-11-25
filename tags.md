@@ -5,6 +5,8 @@ description: >
   点击下面的标签，即可查看该标签下的所有文章。
 ---
 
+![](/assets/img/tags/nintendo.jpg){:.border.lead loading="lazy"}
+
 <div class="columns columns-break">
 
  <div class="column column-1-2">

@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: projects
 title: 标签
 show_collection: tags
 description: >

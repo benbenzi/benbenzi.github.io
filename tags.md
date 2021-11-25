@@ -1,5 +1,4 @@
 ---
-layout: grid
 title: 标签
 description: >
   这里是我博客各种标签的合集。

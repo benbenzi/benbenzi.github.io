@@ -2,9 +2,7 @@
 title: 标签
 description: >
   这里是我博客各种标签的合集。
-hide_description: true
-sitemap: false
-permalink: /tags/
+grouped: true
 ---
 
 点击下面的标签，即可查看该标签下的所有文章。

@@ -9,7 +9,7 @@ buttons:
   wii: true
 ---
 
-![](/interviews/title_iwataasks.png){:.border.border-radius}
+![](/others/interviews/title_iwataasks.png){:.border.border-radius}
 
 ## 3DS
 

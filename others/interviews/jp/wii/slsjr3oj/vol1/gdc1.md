@@ -6,7 +6,7 @@ description: >
 hide_description: ture
 ---
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
 
 ### 1
 
@@ -14,7 +14,7 @@ hide_description: ture
 
 Hello. It's nice to meet you. I'm Yoshio Sakamoto with Nintendo.
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide01.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide01.jpg){:.border.border-radius loading="lazy"}
 
 <br>・・・と、英語はここまでです。<br>本日はたくさんの方々にお集まりいただきまして、非常に緊張しております。<br>同時にこの場が、皆様にとって実りのあるお時間になりますようにと、<br>気持ちを新たにいたしました。どうぞしばらくの間お付き合いくださいませ。
 
@@ -22,7 +22,7 @@ Hello. It's nice to meet you. I'm Yoshio Sakamoto with Nintendo.
 
 なぜならば私は・・・<br> 「海外でよく知られているタイトルは『METROID』シリーズのみ」<br>と、いっても言いすぎではないからです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide02.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide02.jpg){:.border.border-radius loading="lazy"}
 
 『メトロイドプライム』シリーズ<sup>（※1）</sup>の開発にはほとんどノータッチですから、<br>余計になじみが薄くなっています。
 
@@ -43,19 +43,19 @@ Hello. It's nice to meet you. I'm Yoshio Sakamoto with Nintendo.
 
 これは、『METROID　Other M』というWiiのタイトルです。<br>『METROID』シリーズでは、主にディレクターを務めてまいりましたが、<br>シリーズ最新作『Other M』では、プロデューサーを務めております。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide03.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide03.jpg){:.border.border-radius loading="lazy"}
 
 この新しい『METROID』は、来る６月２７日に、 ここ北米において発売予定となっております。<br>（※この講演後に北米での発売日は８月３１日に変更になっています）
 
 このタイトルは、日本のゲーム業界、ＣＧや映像業界、音楽業界の<br>第一線で活躍中のプロフェッショナルが結集し、<br>究極の『METROID』を目指して鋭意制作中の超大作ソフトです。 <br>長期にわたるこのプロジェクトは、昨年２００９年のＥ３でデビューしました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie001.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie001.jpg){:.border.border-radius loading="lazy"}
 
 では、私が携わった『METROID』シリーズの、<br>それぞれのタイトルをご紹介させていただきます。
 
 ＮＥＳ<sup>（※2）</sup>の『METROID』 。<br>サムスの活躍はここから始まりました。 
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide04.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide04.jpg){:.border.border-radius loading="lazy"}
 
 このタイトルでは、私は「デザイナー」としてクレジットされています。<br>当時はビデオゲームの黎明期であり、<br>プロジェクトにはまだ経験やノウハウが蓄積されていませんでしたので、<br>みんなで色々と試行錯誤して開発しました。<br>自分だけで『METROID』フランチャイズを立ち上げたわけではありません。
 
@@ -79,15 +79,15 @@ Hello. It's nice to meet you. I'm Yoshio Sakamoto with Nintendo.
 
 私は、ＳＮＥＳ『スーパーメトロイド』では、ディレクターを務めました。<br>このゲームでは、アクションゲームにドラマ性を持たせ、ゲーム終盤では<br>プレイヤーのコントロールを一時的に奪い、演出表現を入れるという、<br>おそらく当時では珍しい手法にチャレンジしました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide05.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide05.jpg){:.border.border-radius loading="lazy"}
 
 そのあたりのシーンは、<br>今作『METROID　Other M』のオープニングシーンの元となっておりますので、<br>皆様に見ていただこうとご用意してまいりました。ご覧ください。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie002.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie002.jpg){:.border.border-radius loading="lazy"}
 
 そしてＧＢＡ『メトロイドフュージョン』<sup>（※6）</sup>では、<br>さらにストーリー性とドラマ性を色濃くさせ、<br>「無言のストーリーテリング」と評価を得ていた『スーパーメトロイド』の手法から<br>	「言葉によるストーリー展開」に踏み出しました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide06.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide06.jpg){:.border.border-radius loading="lazy"}
 
 現在制作中の『METROID　Other M』が、<br>時系列的には『スーパーメトロイド』と<br>『メトロイドフュージョン』の間に位置するタイトルであることを、<br>ここにおられる方の中には、ご存知の方もいらっしゃるのではないでしょうか？
 
@@ -96,7 +96,7 @@ Hello. It's nice to meet you. I'm Yoshio Sakamoto with Nintendo.
 
 続くＧＢＡ『メトロイドゼロミッション』<sup>（※7）</sup>は、ＮＥＳ『METROID』のリメイク作ですが、<br>オリジナルにはなかったシナリオを加え、ストーリー性を強めました。<br>ゼロスーツサムスのデビュー作となったタイトルです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide07.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide07.jpg){:.border.border-radius loading="lazy"}
 
 ゲームボーイアドバンスの２作では、ディレクターを務めました。
 

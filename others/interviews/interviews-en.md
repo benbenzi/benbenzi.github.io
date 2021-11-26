@@ -8,6 +8,6 @@ buttons:
   wii: false
 ---
 
-![](/interviews/title_iwataasks.png){:.border.border-radius}
+![](/others/interviews/title_iwataasks.png){:.border.border-radius}
 
 ## 尚未填充

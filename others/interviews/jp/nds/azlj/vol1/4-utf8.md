@@ -6,7 +6,7 @@ description: >
 hide_description: ture
 ---
 
-![](/interviews/jp/nds/azlj/vol1/img/mainvisual4.jpg){:.border.lead loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/mainvisual4.jpg){:.border.lead loading="lazy"}
 
 ### 4. 子どもも大人も、女性も男性も
 
@@ -58,7 +58,7 @@ hide_description: ture
 岩田
 : ということは、“ファッションよりゲームだ”というタイプの男性の方でも、<br>遊ぶと意外と深くておもしろいと感じられて、<br>しかも気がついたら「オレ、結構洋服に詳しくなっちゃってさあ」<br>ていうことも起こる可能性があるんですね。
 
-![](/interviews/jp/nds/azlj/vol1/img/image13.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/image13.jpg){:.border.border-radius loading="lazy"}
 
 山上
 : 間違いなく男の人も楽しめると思います。<br>攻略要素もかなりあるので、純粋なゲームとしても遊べるんですね。<br>すごく乱暴な言い方をすると、短時間でお金を稼いで、<br>すべての服を網羅して、コンテストで一番になってやる！<br>という遊び方もできるんです。
@@ -90,7 +90,7 @@ hide_description: ture
 山上
 : この記事を読まれた方には、<br>子ども向けのゲームだと思わないでいただきたいと、<br>ぜひお伝えしたいです。
 
-![](/interviews/jp/nds/azlj/vol1/img/image14.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/image14.jpg){:.border.border-radius loading="lazy"}
 
 岩田
 : 「子どもでも遊べる」のと「子ども向け」は違うんですよね。
@@ -134,7 +134,7 @@ hide_description: ture
 田島
 : わたしのちっちゃい頃って、<br>理想のモデル体型のお人形でお洋服を着せ替えるような<br>ファッションの楽しみ方をしてたと思うんです。<br>そういう体験も思い出せるし、<br>いまのリアルな自分のファッションの好みをも反映できるし、<br>ファッションに対する欲求を満たしてくれるんですよね。<br>本物に近いお洋服なので、お店に行ったら似たようなものが<br>売ってると思うんですよ。<br>現実との境目があいまいなところが楽しいなって思います。
 
-![](/interviews/jp/nds/azlj/vol1/img/image15.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/image15.jpg){:.border.border-radius loading="lazy"}
 
 岩田
 : つまり、現実と仮想空間のなかのファッションを<br>混ぜ合わせて楽しんでほしいということですね。
@@ -172,7 +172,7 @@ hide_description: ture
 服部
 : やっぱり幅広い方に楽しんでいただきたいですね。<br>それこそ、小さい女の子でしたら、<br>自分がかわいいと思うお洋服を組み合わせて楽しむという、<br>本当に着せ替え人形的に純粋な楽しみ方もできますし、<br>男性だったら、お店に置くお洋服はどうするかとか、<br>いかに効率的にお洋服を売っていくためにはどうするかとか、<br>ちょっと戦略的な部分もありますので、そこで楽しむことができたりとか。
 
-![](/interviews/jp/nds/azlj/vol1/img/image16.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/image16.jpg){:.border.border-radius loading="lazy"}
 
 岩田
 : 実際に、いろんな人たちに<br>参考になりそうなソフトなんですね。
@@ -186,7 +186,7 @@ hide_description: ture
 伊藤
 : 男性に限らず、ひとりでファッションを楽しむのもいいんですけど、<br>できれば大人数でやっていただきたいですね。<br>たとえばプレイしているお子さんの後ろで、<br>お母さんが「こんな格好もいいんじゃない」ってアドバイスしたり、<br>お父さんにファッションの専門用語を教えてあげたりだとか、<br>複数人でやるととても楽しいんです。<br>山上さんの後ろから覗きながら、「この服はないでしょう」って、<br>みんなでツッコミを入れるのがすごく楽しかったですし（笑）。
 
-![](/interviews/jp/nds/azlj/vol1/img/image17.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/nds/azlj/vol1/img/image17.jpg){:.border.border-radius loading="lazy"}
 
 山上
 : 他の人に見てほしくなるんですよね。

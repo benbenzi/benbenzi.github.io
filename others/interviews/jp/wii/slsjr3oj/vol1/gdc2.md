@@ -6,33 +6,33 @@ description: >
 hide_description: ture
 ---
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
 
 ### 2
 
 もちろん、私は『METROID』だけを作ってきたわけではありません。<br>ほかにも色々なゲームに携わってまいりました。<br>
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide08.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide08.jpg){:.border.border-radius loading="lazy"}
 
 実は北米でリリースされているタイトルで、私が関わり続けているものとしましては、<br>もう一つ『メイドインワリオ』<sup>（※8）</sup>シリーズがあります。<br>ただ、このシリーズは私のクリエイティブから生まれたものではなく、<br>少し距離を置いた形でプロデュースを行ってきました。<br>では、私がプロデューサーを務めた『メイドインワリオ』４タイトルをご紹介します。<br>
 
 『メイドインワリオ』＝シリーズ１作目。ゲームボーイアドバンス用ソフトとして２００３年３月に発売された、瞬間アクションゲーム。
 {:.note-sm .faded title="※8"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide09.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide09.jpg){:.border.border-radius loading="lazy"}
 
 ＧＢＡ『まわるメイドインワリオ』<sup>（※9）</sup>は、ジャイロセンサーの評価を<br>依頼されていた私のチームのエンジニアが、その仕組みを実験的に、<br>プチゲームのインターフェイスに応用したことがプロジェクト開始のきっかけです。<br>あまりにも良くできていましたので、プロトタイプをすぐに岩田に自慢しに行きました。
 
 『まわるメイドインワリオ』＝ゲームボーイアドバンス用ソフトとして２００４年１０月に発売された瞬間アクションゲーム。カートリッジに回転（ジャイロ）センサーを搭載。シリーズ３作目。
 {:.note-sm .faded title="※9"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide10.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide10.jpg){:.border.border-radius loading="lazy"}
 
 本体を回すとアナログレコードが再生されるコンテンツを試すために、<br>椅子にゲームボーイアドバンスを置いてぐるぐる回していた岩田が一言、<br>「くだらねぇ・・・」とつぶやいたところからこのプロジェクトはスタートしました。
 
 このタイトルで、私は初めて『メイドインワリオ』のプロデューサーを務めました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide11.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide11.jpg){:.border.border-radius loading="lazy"}
 
 『さわるメイドインワリオ』<sup>（※10）</sup>は、DSの同時発売ソフトとなりました。<br>そのせいで、『まわるメイドインワリオ』と開発期間が重なってしまい、<br>急遽、別のディレクターを立て、グループメンバー総動員で作り上げたタイトルです。<br>この影響でシリーズ経験者不在のプロジェクトになってしまったため、<br>『メイドインワリオ』独特の「トーン」や「おもしろみのツボ」というものの解釈が、<br>スタッフ間で不揃いな認識のままスタートしましたので、<br>新任のディレクターとともに、アイデアなどの取捨選択や方向性のコントロールを行いました。
  
@@ -40,7 +40,7 @@ hide_description: ture
 『さわるメイドインワリオ』＝ニンテンドーDS用ソフトとして、２００４年１２月に発売された瞬間アクションゲーム。シリーズ４作目。
 {:.note-sm .faded title="※10"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide12.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide12.jpg){:.border.border-radius loading="lazy"}
 
 Wii『おどるメイドインワリオ』<sup>（※11）</sup>は、<br>Wiiリモコンのフラッグシップ的なタイトルを目指した<br>Wiiのロンチソフト（新しいゲーム機と同時に発売するソフト）です。<br>DSと同様に、ゲーム性とWiiリモコンとの親和性は高いのですが、<br>できることが多いのが逆に仇となり、<br>ゲームからの指示に瞬間的にプレイヤーが反応しづらいところに問題がありました。
  
@@ -52,7 +52,7 @@ Wii『おどるメイドインワリオ』<sup>（※11）</sup>は、<br>Wiiリ
 『おどるメイドインワリオ』＝Wii用ソフトとして２００６年１２月に発売された瞬間アクションゲーム。シリーズ５作目。
 {:.note-sm .faded title="※11"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide13.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide13.jpg){:.border.border-radius loading="lazy"}
 
 ４タイトル目は、DS『メイドイン俺』<sup>（※12）</sup>とそれと連動する、<br>Wiiウェア『あそぶメイドイン俺』<sup>（※13）</sup>です。
 
@@ -62,21 +62,21 @@ Wii『おどるメイドインワリオ』<sup>（※11）</sup>は、<br>Wiiリ
 『あそぶメイドイン俺』＝２００９年４月に配信が開始されたWiiウェアの瞬間アクションゲーム。Wiiショッピングチャンネルからダウンロード購入して遊ぶことができる。
 {:.note-sm .faded title="※13"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie003.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie003.jpg){:.border.border-radius loading="lazy"}
 
 このソフトは『メイドインワリオ』のプチゲームを自分で作って楽しもうというゲームで、<br>シリーズのディレクターを務めてきたスタッフの、個性とアイデアから生まれたタイトルです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide14.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide14.jpg){:.border.border-radius loading="lazy"}
 
 このゲームの一番の魅力はなんといっても<br>「バカバカしさのセンスが問われる」というところです。<br>それを多くの人々と共有する仕組みがあることにより、さらにセンスが磨かれていきます。<br>ハイセンスなバカバカしさを身につけるには、まさにうってつけのツールと言えるでしょう。
 
 私もこれで、『METROID』をテーマとしたプチゲームを作りました。<br>ちょっと見ていただこうと思います。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie004.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie004.jpg){:.border.border-radius loading="lazy"}
 
 次にご紹介するのは、『トモダチコレクション』<sup>（※14）</sup>です。<br>日本では『トモコレ』と略されることが多いこのタイトルは、<br>「究極の内輪ウケ」がコンセプトです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide15.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide15.jpg){:.border.border-radius loading="lazy"}
 
 簡単にご説明しますと、Wiiでご存知のMiiをDSに住まわせて遊ぶ“おままごと”のような、<br>または“お人形遊び”のような“ごっこ遊び”を楽しむソフトです。
 
@@ -87,7 +87,7 @@ Wii『おどるメイドインワリオ』<sup>（※11）</sup>は、<br>Wiiリ
 
 さてここで、かなり異色なゲームを紹介させてください。<br>私がゲームシナリオを書くきっかけとなり、<br>自分のその後のゲーム制作の方向性とスタイルを決定付けることになったタイトルが、<br>この『ファミコン探偵倶楽部』シリーズ<sup>（※15）</sup>です。<br>北米では発売されなかった「ファミコンディスクシステム」というハード用のソフトです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide16.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide16.jpg){:.border.border-radius loading="lazy"}
 
 いわゆる「コマンド選択型テキストアドベンチャーゲーム」で、<br>ストーリーはホラー・サスペンスです。<br>この場で取り上げることには迷いがあったのですが、<br>私にとって重要なタイトルですので、あえてご紹介させていただきました。
 
@@ -96,11 +96,11 @@ Wii『おどるメイドインワリオ』<sup>（※11）</sup>は、<br>Wiiリ
 
 私が携わってきたタイトルは、まだまだほかにあるのですが、<br>私がビデオゲームに関わり始めて間もない頃のタイトルを、<br>最後に一つ紹介しておきます。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide17.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide17.jpg){:.border.border-radius loading="lazy"}
 
 ＮＥＳ『バルーンファイト』<sup>（※16）</sup>。<br>対戦プレイが熱い、ステージクリア型ゲームです。<br>私のビデオゲーム制作におけるデビュー第２弾なんですが、<br>このゲームのプログラマーは、なんと岩田聡です。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide18.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide18.jpg){:.border.border-radius loading="lazy"}
 
 当時をイメージできるようなビジュアルを・・・と考え、<br>ご覧のような写真を作ってみました。２人のキャラクターの違いが<br>皆様に伝われば上出来なのですが。
 

@@ -6,17 +6,17 @@ description: >
 hide_description: ture
 ---
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
 
 ### 4
 
 さておさらいの意味も込めまして、私のプロデュースによる、<br>最近の「コミカルタッチ」の代表作『トモダチコレクション』と<br>「シリアスタッチ」の最新作『METROID　Other M』のお話をさせていただこうと思います。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide28.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide28.jpg){:.border.border-radius loading="lazy"}
 
 まずは『トモダチコレクション』についてですが、<br>短い時間で言葉で説明するのは無理がありますので、<br>とりあえず動画を見ていただこうと思います。では、ご覧ください。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie005.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/movie_gdc/movie005.jpg){:.border.border-radius loading="lazy"}
 
 『トモコレ』がなんなのか、ご理解いただけましたでしょうか？ <br>理解は無理でも、面白がっていただけたなら、私はハッピーです。<br>『トモコレ』とは、自分の知り合いや家族、<br>有名人などのMiiを登録して楽しむことのできるソフトです。<br>『トモコレ』は、昨年６月にリリースされたソフトなのですが、<br>大もとを辿れば私が、実にその９年前から構想を抱いていたソフトなのです。<br>
 
@@ -25,7 +25,7 @@ hide_description: ture
 小さな女の子向けのゲーム＝２０００年９月にゲームボーイカラー用ソフトとして発売された、『とっとこハム太郎　ともだち大作戦でちゅ』のこと。
 {:.note-sm .faded title="※27"}
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide29.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide29.jpg){:.border.border-radius loading="lazy"}
 
 実は、Wii『似顔絵チャンネル』<sup>（※28）</sup>でおなじみのMiiは、<br>この『トモコレ』から生まれたのです。<br>ある日スタッフがMiiの原型となるモンタージュのような仕組みを見せてくれました。<br>それは現在のMiiとよく似た仕組みでしたが、<br>ただ顔のパーツを入れ替えるだけのものでした。<br>試しに自分の顔に似せてみようとしましたが、当然似ません。
 
@@ -41,7 +41,7 @@ hide_description: ture
 
 まず宮本チームで修行したスタッフがパワーアップしていました。<br>そして似顔絵エディターの仕組みが、当然ですが完成していました。<br>さらに、我々の似顔絵キャラがMiiという名前で世の中に広がっていきました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide30.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide30.jpg){:.border.border-radius loading="lazy"}
 
 Miiの発明によって、『大人のオンナの占い手帳』から<br>『トモダチコレクション』へと、方向転換したプロジェクトは、<br>そこから完成までには、正直色々な苦労がありました。<br>なにぶん前例のない遊びですので着地ポイントが見えなかったのです。
 

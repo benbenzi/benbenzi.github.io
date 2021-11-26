@@ -6,13 +6,13 @@ description: >
 hide_description: ture
 ---
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/mainvisual.jpg){:.border.lead loading="lazy"}
 
 ### 3
 
 さて、ゲームのご紹介はここまでにさせていただき、<br>いよいよ今回の主題についてお話ししようと思います。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide19.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide19.jpg){:.border.border-radius loading="lazy"}
 
 そもそもなぜ、私のような者がここに立ってしゃべっているのか？<br>岩田が抱いた謎とはなんなのか？ <br>実は、弊社社長・岩田聡が、私の作風に「ある興味」を抱いたことが、<br>このスピーチのきっかけであり、本日お話しさせていただくテーマです。
 
@@ -20,7 +20,7 @@ hide_description: ture
 
 ゲームというくくりの中で真逆に位置するタイプのものに、<br>「どういうスタンスで、どういうアプローチを私が行っているのか？」<br>ということに説明を求めたわけです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide20.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide20.jpg){:.border.border-radius loading="lazy"}
 
 「そのダイナミックレンジの広さの秘密を紐解くことで、<br>きっとおもしろいものが見えてくるはずなので、ＧＤＣで話してみてはどうだ？」と・・・。 
 
@@ -28,11 +28,11 @@ hide_description: ture
 
 確かに「作風がバラバラ」と、今までに他人から言われたことは何度かありました。<br>それぞれのタイトルに対し、「自分はどういうアプローチをしているのだろう？」<br>「そもそもプロデュースとはどういうことなのだろう？」　<br>これらは案外即答が難しいことだと気づきました。<br>物事を、特に感覚的な行為をロジックに当てはめるのが苦手な私ですが、<br>この機会に「自分のゲームづくり」について少々掘り下げてみることにしました。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide21.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide21.jpg){:.border.border-radius loading="lazy"}
 
 さて「ゲームというくくりの中で真逆に位置するタイプのもの」を説明しやすいように、<br>『METROID』のようなシリアスなタイプのものを「シリアスタッチ」、<br>『メイドインワリオ』のようなタイプを「コミカルタッチ」と呼ぶことにしました。<br>ちなみに岩田はおそらく、<br>私が「シリアスタッチ」と「コミカルタッチ」の両極端に、<br>どう折り合いをつけているのかを不思議がったというより、<br>私に「シリアスタッチ」なものが作れる、<br>ということを不思議がっているんだと思います。<br>私が岩田から「コミカルタッチな奴」だと思われていることは<br>正しく自覚しておりますので。<br>
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide22.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide22.jpg){:.border.border-radius loading="lazy"}
 
 ここで若き日の私が出会った、１人の映画監督についてお話したいと思います。<br>その人の名はダリオ・アルジェント<sup>（※17）</sup>。イタリアの映画監督です。<br>彼の代表作『Suspiria (サスペリア)』<sup>（※18）</sup>と、『Deep red』<sup>（※19）</sup>は、<br>現在の自分のモノ創りに決定的なインスピレーションを与えたことは間違いありません。<br>元々恐怖映画に興味のあった私ですが、<br>当時のほかの作品を心から支持することができませんでした。<br>「何か違う」というフラストレーションを常に感じていました。<br>やがてアルジェント氏の作品に出会い、<br>この監督の手法の斬新さに度肝を抜かれたのです。<br>自分の感性が求め続けていたスタイルがそこには全てありました。<br>そして漠然と彼のような作品を作りたい！と思うようになりました。<br>彼の手法の要素を、私はこう理解していました。
 
@@ -60,7 +60,7 @@ hide_description: ture
 
 未熟な頃から今に至るまで、私のゲーム制作における定番手法となった<br>“ムード” “間” “伏線” “コントラスト”のコントロールですが、<br>実際は特別なことではなく、ごく一般的な手法であることは早い段階で気づきました。<br>にもかかわらず、わざわざ皆様方にお話ししたのは、<br>恐怖表現の理想形を求めていた私の心が、<br>私をこの手法に導いた・・・ということを伝えたかったからです。<br>そして自分の感性が探り当てたものを、<br>自分もまた誰かに伝えようとしているのかもしれない・・・<br>ということをお話ししておきたかったのです。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide23.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide23.jpg){:.border.border-radius loading="lazy"}
 
 アルジェント氏の作品との出会いをきっかけに、<br>私はたくさんの映画を観るようになりました。<br>恐怖映画に限らない、<br>色々なタイプの“ムード” “間” “伏線” “コントラスト”の手法を学ぼうと考えたのです。
 
@@ -69,7 +69,7 @@ hide_description: ture
 
 良い映画を求めていた当時の私ですが、<br>ハリウッド超大作系の映画にはあまり食指が動きませんでした。<br>最近では特にその傾向が強いです。<br>どこまでもニッチ志向なのでしょうか。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide24.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide24.jpg){:.border.border-radius loading="lazy"}
 
 ちなみに私がインスピレーションを受けた、<br>映画監督とその代表作には以下のようなものがあります。<br>フランスの映画監督、リュック・ベッソン氏<sup>（※21）</sup>も<br>私に強いインスピレーションを与えてくれた１人です。<br>「哀愁の描き方」が非常に深く美しいと思います。<br>最も好きな作品は『レオン』<sup>（※22）</sup>ですね。
 
@@ -99,7 +99,7 @@ hide_description: ture
 
 真におこがましい話ですが、これらの偉大な監督から受けた影響は、<br>私の制作するタイトルの随所に滲み出ていると思います。<br>近い将来『Other M』をプレイしてくださった方が、<br>それらに気づいてもらえることを密かに楽しみにしています。
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide25.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide25.jpg){:.border.border-radius loading="lazy"}
 
 映画からの刺激を求めてきた私ですが、<br>もちろん映画にしか興味がないわけではありません。<br>いくつかある趣味の中でも、特に音楽は映像とのシンクロということも含め、<br>付き合いの長い趣味です。<br>その私が幼い頃から今もなお、強い興味を示し、こだわり続けているものがあります。
 
@@ -113,7 +113,7 @@ hide_description: ture
 
 しかもそこで使っている手法は結局、<br>“ムード” “間” “伏線” “コントラスト”だったのです。<br>この場合、“ムード”は“作る”というより、“読む”ことが大切です。<br>“間”すなわちタイミングも重要です。<br>複数の人がいる場合は、皆が一瞬黙る、会話の谷間を逃すと全てを失います。<br>使いたいネタへと話題を誘導するのは“伏線”そのものです。<br>そして“コントラスト”、緩急をつけることの大切さは言うまでもありません。<br>
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide26.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide26.jpg){:.border.border-radius loading="lazy"}
 
 さて「岩田社長が疑問に思う、私のゲーム制作」の核心に、かなり迫ってまいりました。<br>私の中の“笑いへの執着”と、“映画からの刺激”については、<br>それぞれ「コミカルタッチ」、「シリアスタッチ」のゲームに<br>影響を与えていると考えられます。
 
@@ -131,7 +131,7 @@ hide_description: ture
 
 では今回のテーマ「岩田社長が疑問に思う、私のゲーム制作」の結論をまとめましょう。　<br>
 
-![](/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide27.jpg){:.border.border-radius loading="lazy"}
+![](/others/interviews/jp/wii/slsjr3oj/vol1/img_gdc/slide27.jpg){:.border.border-radius loading="lazy"}
 
 ゲームというくくりの中で真逆に位置するタイプのものに、<br>「どういうスタンスでどういうアプローチを私が行っているのか？」　<br>という岩田の疑問に対する答えは・・・
 

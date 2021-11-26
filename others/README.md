@@ -18,7 +18,7 @@ permalink: /others/
 {:.related-posts.faded}
 
 ## 资料
-* [任天堂社长问]{:.heading} --- 来自balika011.hu的Switch主板分层线路图。
+* [任天堂社长问]{:.heading.flip-title} --- 前任天堂社长 岩田聪，向开发人员询问任天堂各种项目的经过、背景等的采访企划“社长提问”的链接集。
 {:.related-posts.faded}
 
 ## 外部链接

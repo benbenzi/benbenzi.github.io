@@ -85,9 +85,9 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y年%-m月%-d日%H:%i:%S'
-  last_modified_at:    '%Y年%-m月%-d日%H:%i:%S'
-  related_post:        '%Y年%-m月%-d日%H:%i:%S'
+  post:                '%Y年%-m月%-d日%R'
+  last_modified_at:    '%Y年%-m月%-d日%R'
+  related_post:        '%Y年%-m月%-d日%R'
   list_group_by:       '%Y'
   list_entry:          '%d %b'
   project:             '%Y'

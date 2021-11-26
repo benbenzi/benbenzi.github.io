@@ -2,7 +2,7 @@
 layout: page
 title:  坂本賀勇 ＧＤＣ講演内容
 description: >
-坂本賀勇 ＧＤＣ講演内容
+  坂本賀勇 ＧＤＣ講演内容
 hide_description: ture
 ---
 

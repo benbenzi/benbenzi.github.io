@@ -85,16 +85,16 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y年%-m月%-d日%R'
-  last_modified_at:    '%Y年%-m月%-d日%R'
-  related_post:        '%Y年%-m月%-d日%R'
+  post:                '%Y年%-m月%-d日'
+  last_modified_at:    '%Y年%-m月%-d日'
+  related_post:        '%Y年%-m月%-d日'
   list_group_by:       '%Y'
   list_entry:          '%d %b'
   project:             '%Y'
   projects_group_by:   '%Y'
   resume:              '%b %Y'
 
-
+# 如果要将时间精确到小时:分钟，可在年月日后加上一个“%R”
 # PRO Version
 # ---------------------------------------------------------------------------------------
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.

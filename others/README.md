@@ -18,7 +18,7 @@ permalink: /others/
 {:.related-posts.faded}
 
 ## 资料
-* [任天堂社长问]{:.heading.flip-title} --- 前任天堂社长 岩田聪，向开发人员询问任天堂各种项目的经过、背景等的采访企划“社长提问”的链接集。
+* [任天堂社长提问]{:.heading.flip-title} --- 前任天堂社长 岩田聪，向开发人员询问任天堂各种项目的经过、背景等的采访企划“社长提问”的链接集。
 {:.related-posts.faded}
 
 ## 外部链接
@@ -29,7 +29,7 @@ permalink: /others/
 {:.related-posts.faded}
 
 [测试板块]: ./docs/README/
-[任天堂社长问]: ./interviews/
+[任天堂社长提问]: ./interviews/
 [网页加密]: ./md2html/doEncrypt.html
 [在线小工具]: ./online-tools/index.html
 [Miiverse]: https://cn-cd-dx-2.natfrp.cloud:52404/Miiverse/index.html

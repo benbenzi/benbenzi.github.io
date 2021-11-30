@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metroid Prime 流程攻略
-image: /assets/img/游戏攻略/MetroidPrime/cover.jpg
+image: /assets/img/GameGuide/MetroidPrime/cover.jpg
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
@@ -353,8 +353,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0001.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0002.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0001.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0002.jpg" border="0">
 </td>
 </tr>
 <tr><td>锁定：用于锁定目标及攻击敌人</td></tr>
@@ -367,8 +367,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0003.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0004.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0003.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0004.jpg" border="0">
 </td>
 </tr>
 <tr><td>扫描：用于启动开关和记录收集</td></tr>
@@ -381,8 +381,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0005.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0006.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0005.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0006.jpg" border="0">
 </td>
 </tr>
 <tr><td>调整视角：用于查看周边情况以及寻找视野外的目标</td></tr>
@@ -398,8 +398,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0007.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0008.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0007.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0008.jpg" border="0">
 </td>
 </tr>
 <tr><td>扫描记录：用于收集游戏中的重要物品扫描资讯</td></tr>
@@ -412,8 +412,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0009.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0010.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0009.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0010.jpg" border="0">
 </td>
 </tr>
 <tr><td>蓄力攻击：强力攻击以及吸收附近的补给品</td></tr>
@@ -426,8 +426,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0011.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0012.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0011.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0012.jpg" border="0">
 </td>
 </tr>
 <tr><td>变形球：通过一些狭窄区域，以及使用球炸弹</td></tr>
@@ -440,8 +440,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0013.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0014.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0013.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0014.jpg" border="0">
 </td>
 </tr>
 <tr><td>地图：查看地图可以知道已去过和未去过的冒险区域，还可以获得目的地提示</td></tr>
@@ -466,8 +466,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0015.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0016.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0015.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0016.jpg" border="0">
 </td>
 </tr>
 <tr><td>记录游戏进度：保存游戏的同时也会恢复Samus的全部体力</td></tr>
@@ -484,8 +484,8 @@ slug: 3d9029a39e12efe29b7049d9d35d46d39a6347ea335683d31f4a2826fbfbda0f
 <tr><td>推荐武器：导弹/光弹枪攻击</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0017.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0018.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0017.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0018.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -509,8 +509,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0019.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0020.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0019.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0020.jpg" border="0">
 </td>
 </tr>
 <tr><td>夙敌：Samus Vs Ridley</td></tr>
@@ -525,8 +525,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0021.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0022.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0021.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0022.jpg" border="0">
 </td>
 </tr>
 <tr><td>广阔的冒险世界，以及Samus的补给飞船</td></tr>
@@ -565,8 +565,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tr><td>推荐武器：光弹枪攻击</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0023.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0024.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0023.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0024.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -588,8 +588,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0025.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0026.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0025.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0026.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -613,8 +613,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0027.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0028.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0027.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0028.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -634,8 +634,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0029.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0030.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0029.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0030.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -663,8 +663,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tr><td>推荐武器：导弹/光弹枪攻击</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0031.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0032.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0031.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0032.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -684,8 +684,8 @@ BOSS被兰色护罩包围，要找到缺口进行攻击，这里也可以利用�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0033.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0034.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0033.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0034.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -725,8 +725,8 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0035.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0036.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0035.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0036.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -735,8 +735,8 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 </tr>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0037.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0038.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0037.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0038.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -752,8 +752,8 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0039.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0040.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0039.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0040.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -787,8 +787,8 @@ Watery Hall Access的中央左面石墙可以用导弹打碎，里面可以得�
 <tr><td>推荐武器：导弹/光弹枪攻击</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0041.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0042.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0041.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0042.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -808,8 +808,8 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0043.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0044.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0043.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0044.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -839,8 +839,8 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0045.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0046.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0045.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0046.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -849,8 +849,8 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 </tr>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0047.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0048.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0047.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0048.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -874,8 +874,8 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tr><td>推荐武器：导弹/光弹枪攻击/球炸弹</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0049.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0050.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0049.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0050.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -899,8 +899,8 @@ BOSS是一只火焰喷射器，一边旋转一边用2个喷口喷出火焰，根
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0051.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0052.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0051.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0052.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -962,8 +962,8 @@ Vault Access要靠球形态通过。
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0053.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0054.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0053.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0054.jpg" border="0">
 </td>
 </tr>
 <tr><td>注意观察的话，其实难题就不是很多</td></tr>
@@ -986,8 +986,8 @@ Plaza Walkway里全是那些埋在地下的虫子怪：<font color="red">【Crea
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0055.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0056.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0055.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0056.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1039,8 +1039,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0057.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0058.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0057.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0058.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1070,8 +1070,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0059.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0060.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0059.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0060.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1099,8 +1099,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0061.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0062.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0061.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0062.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1134,8 +1134,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr><td>推荐武器：导弹/球炸弹</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0063.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0064.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0063.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0064.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1159,8 +1159,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0065.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0066.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0065.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0066.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1208,8 +1208,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0067.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0068.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0067.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0068.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1251,8 +1251,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0069.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0070.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0069.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0070.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1288,8 +1288,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tr><td>推荐武器：感热视镜/超级导弹/光弹枪</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0071.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0072.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0071.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0072.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1313,8 +1313,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0073.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0074.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0073.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0074.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1380,8 +1380,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0075.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0076.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0075.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0076.jpg" border="0">
 </td>
 </tr>
 <tr><td>这么令人激动的时刻是要贴图留念的</td></tr>
@@ -1400,8 +1400,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0077.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0078.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0077.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0078.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1461,8 +1461,8 @@ Shore Tunnel这里有一个玻璃通道，穿过去，对面有间歇的喷火�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0079.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0080.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0079.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0080.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1554,8 +1554,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0081.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0082.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0081.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0082.jpg" border="0">
 </td>
 </tr>
 <tr><td>调整磁轨是一个很简单的任务，关键是要具备一点点观察力</td></tr>
@@ -1588,8 +1588,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tr><td>推荐武器：光弹枪/R键锁定</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0083.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0084.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0083.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0084.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1607,8 +1607,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0085.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0086.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0085.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0086.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1648,8 +1648,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0087.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0088.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0087.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0088.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1687,8 +1687,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0089.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0090.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0089.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0090.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1712,8 +1712,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0091.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0092.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0091.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0092.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1750,8 +1750,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0093.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0094.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0093.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0094.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1783,8 +1783,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0095.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0096.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0095.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0096.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1804,8 +1804,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0097.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0098.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0097.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0098.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1829,8 +1829,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0099.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0100.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0099.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0100.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1856,8 +1856,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0101.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0102.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0101.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0102.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1883,8 +1883,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0103.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0104.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0103.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0104.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1910,8 +1910,8 @@ OK，本区域寻宝完毕，下来到黄色屏障门前扫描装置，解除屏
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0105.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0106.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0105.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0106.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1935,15 +1935,15 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0107.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0108.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0107.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0108.jpg" border="0">
 </td>
 </tr>
 <tr><td>用超级导弹轰开两边墙上的图腾后面</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0109.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0110.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0109.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0110.jpg" border="0">
 </td>
 </tr>
 <tr><td>两棵石柱的顶部</td></tr>
@@ -1958,8 +1958,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0111.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0112.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0111.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0112.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -1995,8 +1995,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0113.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0114.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0113.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0114.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2018,8 +2018,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0115.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0116.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0115.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0116.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2059,8 +2059,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0117.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0118.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0117.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0118.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2088,8 +2088,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0119.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0120.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0119.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0120.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2115,8 +2115,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0121.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0122.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0121.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0122.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2172,8 +2172,8 @@ OHYEAH，熔岩世界的宝物也全部搞定了，从Transport to Chozo Ruins N
 <tr><td>推荐武器：火焰枪/超级导弹/透视视镜</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0123.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0124.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0123.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0124.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2199,8 +2199,8 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0125.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0126.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0125.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0126.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2226,8 +2226,8 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tbody>
 <tr>
 <td colspan="2">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0127.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0128.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0127.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0128.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2269,8 +2269,8 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr><td>推荐武器：火焰枪/超级导弹/电磁导弹</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0129.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0130.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0129.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0130.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2316,8 +2316,8 @@ BOSS的护甲被全部击碎后战斗进入第2阶段，它会召唤3只随机�
 <tr><td>推荐武器：光弹枪/电磁枪/冰冻枪/火焰枪/超级导弹/电磁导弹/冰冻导弹</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0131.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0132.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0131.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0132.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2357,10 +2357,10 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 <tr><td>推荐武器：战斗视镜/透视视镜/感热视镜/光弹枪+终极武器</td></tr>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0133.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0134.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0135.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0136.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0133.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0134.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0135.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0136.jpg" border="0">
 </td>
 </tr>
 <tr>
@@ -2384,8 +2384,8 @@ BOSS的体力减至1/2时会逃往第3区域。它又增加了放爆炸球的攻
 <tbody>
 <tr>
 <td>
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0137.jpg" border="0">
-<img src="/assets/img/游戏攻略/MetroidPrime/MP0138.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0137.jpg" border="0">
+<img src="/assets/img/GameGuide/MetroidPrime/MP0138.jpg" border="0">
 </td>
 </tr>
 </tbody>

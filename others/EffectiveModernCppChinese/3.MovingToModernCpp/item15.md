@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 条款十五：尽可能的使用`constexpr`
+title: 第3章 移步现代C++
 description: >
-  ## 条款十五：尽可能的使用`constexpr`
+  第3章 移步现代C++
 hide_description: ture
 ---
 

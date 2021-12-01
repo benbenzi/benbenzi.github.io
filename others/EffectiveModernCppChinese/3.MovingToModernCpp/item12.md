@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 条款十二：使用`override`声明重写函数
+title: 第3章 移步现代C++
 description: >
-  ## 条款十二：使用`override`声明重写函数
+  第3章 移步现代C++
 hide_description: ture
 ---
 

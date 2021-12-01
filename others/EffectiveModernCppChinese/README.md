@@ -6,7 +6,7 @@ description: >
 hide_description: ture
 ---
 
-![](others/EffectiveModernCppChinese/0.Public/1.png){:.border.border-radius}
+![](./0.Public/1.png){:.border.border-radius}
 
 > ! 2017.10开始更新<br>
 > ! 标注“已修订”的章节表示已经没有大致的错误<br>

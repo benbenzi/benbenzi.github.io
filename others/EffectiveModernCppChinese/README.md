@@ -6,8 +6,6 @@ description: >
 hide_description: ture
 ---
 
-# 《Effective Modern C++ 》中文版
-
 ![](others/EffectiveModernCppChinese/0.Public/1.png){:.border.border-radius}
 
 > ! 2017.10开始更新<br>

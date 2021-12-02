@@ -25,7 +25,7 @@ description: >
      <img src="/assets/img/tags/playstation.jpg"/>
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/playstation/" class="flip-title">PLayStation</a></h3>
-   <p class="project-card-text fine" property="disambiguatingDescription"> 索尼大法...去你妈的吉姆，好不了了！！</p>
+   <p class="project-card-text fine" property="disambiguatingDescription"> 今天吉姆下台了吗？</p>
   </article>
  </div>
 
@@ -36,7 +36,7 @@ description: >
      <img src="/assets/img/tags/xbox.jpg"/>
     </div></a>
    <h3 class="project-card-title flip-project-title"> <a href="/blog/xbox/" class="flip-title">XBOX</a></h3>
-   <p class="project-card-text fine" property="disambiguatingDescription"> 我也想拥有初抛瓦！</p>
+   <p class="project-card-text fine" property="disambiguatingDescription"> 人生苦短，及时行乐！</p>
   </article>
  </div>
 

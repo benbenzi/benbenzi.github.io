@@ -3,14 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: 索尼
+title: 微软
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: sony
+slug: xbox
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  索尼大法好！
+  人生苦短，及时行乐！
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

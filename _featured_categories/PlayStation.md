@@ -3,14 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: 微软
+title: 索尼
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: microsoft
+slug: playstation
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  人生苦短，及时行乐！
+  今天吉姆下台了吗？
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

@@ -20,6 +20,28 @@ description: >
 
  <div class="column column-1-2">
   <article class="project-card"> 
+   <a href="/blog/playstation/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine"> 
+     <img src="/assets/img/tags/playstation.jpg"/>
+    </div></a>
+   <h3 class="project-card-title flip-project-title"> <a href="/blog/playstation/" class="flip-title">PLayStation</a></h3>
+   <p class="project-card-text fine" property="disambiguatingDescription"> 索尼大法...去你妈的吉姆，好不了了！！</p>
+  </article>
+ </div>
+
+ <div class="column column-1-2">
+  <article class="project-card"> 
+   <a href="/blog/xbox/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine"> 
+     <img src="/assets/img/tags/xbox.jpg"/>
+    </div></a>
+   <h3 class="project-card-title flip-project-title"> <a href="/blog/xbox/" class="flip-title">XBOX</a></h3>
+   <p class="project-card-text fine" property="disambiguatingDescription"> 我也想拥有初抛瓦！</p>
+  </article>
+ </div>
+
+ <div class="column column-1-2">
+  <article class="project-card"> 
    <a href="/blog/daily/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine"> 
      <img src="/assets/img/tags/daily.jpg"/>

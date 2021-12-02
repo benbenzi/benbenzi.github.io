@@ -24,7 +24,7 @@ description: >
     <div class="project-card-img aspect-ratio sixteen-nine"> 
      <img src="/assets/img/tags/playstation.jpg"/>
     </div></a>
-   <h3 class="project-card-title flip-project-title"> <a href="/blog/playstation/" class="flip-title">PLayStation</a></h3>
+   <h3 class="project-card-title flip-project-title"> <a href="/blog/playstation/" class="flip-title">PlayStation</a></h3>
    <p class="project-card-text fine" property="disambiguatingDescription"> 今天吉姆下台了吗？</p>
   </article>
  </div>

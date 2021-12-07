@@ -41,7 +41,7 @@ loading:               读取中...
 redirecting:           重定向...
 
 continue_reading:      >
-  继续阅读 <!--post_title-->
+  阅读 <!--post_title-->
 
 cookies_banner:
   text:                >

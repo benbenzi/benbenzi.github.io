@@ -49,6 +49,6 @@
       {{ project.tagline | default:project.caption | default:project.description | markdownify | replace:'<p>','' | replace:'</p>','' }}
     </p>
   {% endif %}
-  {% assign text = site.data.strings.continue_reading | default:"继续阅读 <!--post_title-->" %}
+  {% assign text = site.data.strings.continue_reading | default:"阅读 <!--post_title-->" %}
   <a class="fill-card no-hover" href="{{ project.url | relative_url }}" tabindex="-1"><span class="sr-only">{{ text | replace:"<!--post_title-->", project.title }}</span></a>
 </article>

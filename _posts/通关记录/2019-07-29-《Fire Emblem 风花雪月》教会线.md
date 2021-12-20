@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  《Fire Emblem 风花雪月》是一款由Intelligent Systems、光荣特库摩和任天堂共同开发，并由任天堂发行的任天堂Switch平台战略角色扮演游戏，于2019年7月26日在全球发售。本作是火焰之纹章系列第16部主要作品，也是自《晓之女神》以来久别12年的家用机平台新作。
+  通关平台：Switch<br>发售日：2019年7月26日<br>开发商：Intelligent Systems, 光荣特库摩<br>发行商：Nintendo<br>个人评分：90
 invert_sidebar: true
 category: gameing-life
 slug: b8e6ed40d5e6f314bd543dd347eb4a36273daa10c266f565a1cf48155c53d587
@@ -16,29 +16,36 @@ slug: b8e6ed40d5e6f314bd543dd347eb4a36273daa10c266f565a1cf48155c53d587
 
 # 《Fire Emblem 风花雪月》
 
-Switch - 《Fire Emblem 风花雪月》通关。
-
 这是我通关的第二部火纹游戏，第一部是火纹if白夜。令我感到惊讶的是，从小不爱玩战棋类游戏的我，竟然能如此沉迷于风花雪月。
 
 本来吹剧情吹2D动画吹配音吹系统吹了一大堆，算了，删了，反正，就是牛逼。
 
 —————————————
 
-FGN：9.8/10
-
 Pros：
+
 丰富且极强的情感表现
+
 超级过瘾的2D动画
+
 百听不厌的配乐和全程的人物配音
+
 较低的学习门槛
+
 脱胎换骨的系统
+
 出人意料的剧情
+
 想当出色的中文化水平
 
 Cons：
+
 战斗中镜头有问题
+
 大地图上的读盘略微影响体验
+
 部分图示含义不明确
+
 失物招领系统缺乏提示
 
 ![](/assets/img/blog/2019-07-29/1.jpg){:.border.lead loading="lazy"}

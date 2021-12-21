@@ -9,7 +9,7 @@ sitemap: false
 * 该列表将自动更新
 {:toc .large-only}
 
-## v1.3.0
+## v1.3.1
 2021年11月22日
 {:.heading.post-date}
 

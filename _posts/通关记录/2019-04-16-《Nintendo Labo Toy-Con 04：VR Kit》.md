@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  通关平台：Switch<br>发售日：2019年04月12日<br>开发商：Nintendo<br>发行商：Nintendo<br>个人评分：88
+  通关平台：Switch<br>发售日：2019年04月12日<br>通关日：2019年04月16日<br>开发商：Nintendo<br>发行商：Nintendo<br>个人评分：88
 invert_sidebar: true
 category: gameing-life
 slug: c5eeaff92e9ae447b55da535373cad8aaa5effde74a88ec36953824c3dbcb506

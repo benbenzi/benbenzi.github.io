@@ -321,7 +321,6 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-  - node_modules
 include:
   - .well-known
   - LICENSE.md

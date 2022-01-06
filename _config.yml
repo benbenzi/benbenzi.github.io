@@ -72,8 +72,8 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
-
+copyright:             © 2022. All rights reserved.
+timezone:              Asia/Shanghai
 # Format of the permalinks
 permalink:             /blog/:slug/
 

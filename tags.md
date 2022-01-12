@@ -106,5 +106,16 @@ description: >
   </article>
  </div>
 
+ <div class="column column-1-2">
+  <article class="project-card"> 
+   <a href="/blog/hardware/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine"> 
+     <img src="/assets/img/tags/hardware.jpg"/>
+    </div></a>
+   <h3 class="project-card-title flip-project-title"> <a href="/blog/hardware/" class="flip-title">硬件技术</a></h3>
+   <p class="project-card-text fine" property="disambiguatingDescription"> 给我一把烙铁，我能把自己烫伤。</p>
+  </article>
+ </div>
+
 
 </div>

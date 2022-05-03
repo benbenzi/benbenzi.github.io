@@ -30,7 +30,7 @@ permalink: /others/
 {:.related-posts.faded}
 
 [测试板块]: ./docs/README/
-[任天堂社长提问]: ./interviews/
+[任天堂社长提问]: https://flamebeam.github.io/others/interviews/
 [《Effective Modern C++ 》中文版]: ./EffectiveModernCppChinese/
 [网页加密]: ./md2html/doEncrypt.html
 [在线小工具]: ./online-tools/index.html

@@ -13,6 +13,7 @@ permalink: /others/
 
 ## 分享下载
 * [《动物森友会》小动物生日日历] --- 标准ics格式，可导入iOS系统日历等大多数日历软件。
+* [游戏发售日] --- 标准ics格式，可导入iOS系统日历等大多数日历软件。不定期更新。
 * [TGS 2022 日程安排] --- 标准ics格式，可导入iOS系统日历等大多数日历软件。
 {:.related-posts.faded}
 
@@ -37,6 +38,7 @@ permalink: /others/
 
 [《动物森友会》小动物生日日历]:../share/ac_birthday.ics
 [TGS 2022 日程安排]:../share/TGS_2022.ics
+[游戏发售日]:../share/GameRelease.ics
 [测试板块]: ./docs/test/
 [任天堂社长提问]: https://flamebeam.github.io/others/interviews/
 [《Effective Modern C++ 》中文版]: ./EffectiveModernCppChinese/

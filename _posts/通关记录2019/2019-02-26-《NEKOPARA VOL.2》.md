@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  通关平台：Switch<br>发售日：2016年02月19日<br>通关日：2019年02月26日<br>开发商：NEKO WORKs<br>发行商：CFK Co., Ltd.<br>
+  通关版本：Switch<br>发售日：2016年02月19日<br>通关日：2019年02月26日<br>开发商：NEKO WORKs<br>发行商：CFK Co., Ltd.<br>
 invert_sidebar: true
 category: [gameing-life, gameing-life-2019]
 slug: 6fe49f386579f359b1774d577530bd80ae47630f6239c0cc1e85748af9119d9c

@@ -10,7 +10,7 @@ theme_color: '#ccc'
 date: 2024-02-18 23:00:00 +0800
 description: >
   通关版本：PS5<br>发售日：2021年06月10日<br>通关日：2024年02月18日<br>开发商：SQUARE ENIX<br>发行商：SQUARE ENIX
-invert_sidebar: true
+invert_sidebar: false
 category: [gameing-life, gameing-life-2024]
 slug: 2f1c38626f0a02b7baa88e4aa780d7ab18dd9984f27b92e964574044428963d6
 ---
@@ -19,7 +19,7 @@ slug: 2f1c38626f0a02b7baa88e4aa780d7ab18dd9984f27b92e964574044428963d6
 
 距离之前通关PS1原版的FFVII，竟然已经过去了4年。
 
-与其说记忆开始变得模糊，倒不如说是REMAKE这段米德加剧情本来就没什么记忆。
+与其说记忆开始变得模糊，倒不如说是REMAKE这段米德加剧情本来就没什么细节上的记忆。
 
 引爆魔晄炉，穿梭在贫民窟，克劳德女装，第七区崩塌，登上神罗大厦，公路摩托飙车...这些记忆似乎还没来得及被美化，仍能回想起那粗糙的马赛克，和如今看起来并不太精致的CG过场。
 

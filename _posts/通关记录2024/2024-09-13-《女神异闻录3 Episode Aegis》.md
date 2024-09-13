@@ -25,6 +25,8 @@ slug: fde10cdbccea1c5423f577925b5c10ead6c2f1403c4574415e2a288cbd8c2e74
 
 告辞！快跑！
 
+（但是Metis真的很可爱，嘿嘿嘿，妹妹，嘿嘿嘿🤤
+
 ![](/assets/img/blog/2024-09-13/1.jpg){:.border.lead loading="lazy"}
 ![](/assets/img/blog/2024-09-13/2.jpg){:.border.lead loading="lazy"}
 ![](/assets/img/blog/2024-09-13/3.jpg){:.border.lead loading="lazy"}
